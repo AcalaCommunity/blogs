@@ -1,0 +1,5 @@
+files:
+  - source: '*.md'
+    ignore:
+      - README.md
+    translation: /translations/%language%/%original_file_name%
