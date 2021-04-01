@@ -2,4 +2,5 @@ files:
   - source: '*.md'
     ignore:
       - README.md
+      - /translations
     translation: /translations/%language%/%original_file_name%
