@@ -24,7 +24,7 @@ Founded by the Acala Foundation, [Karura](https://acala.network/karura) is a sca
 
 Not only that, but Karura provides an ethical and sustainable token distribution model as well as an on-chain Treasury and [decentralized Sovereign Wealth Fund](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), both of which support its community and longevity. And because Karura leverages its novel [Acala EVM,](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4) which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
 
-_\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.*
+__\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.**
 
 # **Why is Karura built on Kusama?**
 
@@ -56,7 +56,7 @@ Earn more with the Karura Dollar, kUSD stablecoin.
 
 As more users turn to crypto assets for their financial needs, it has become imperative to provide price-stable currencies to better enable the mainstream adoption of DeFi use cases such as payments, loans, tokenized securities, and more. Users often need to rely on an asset’s stability to: execute low-cost borderless value transfer, assess the risk of lending strategies, and to ensure that their transition to and from a digital financial environment is as approachable as it is predictable.
 
-**Enter the Karura Dollar (kUSD), a decentralized, multi-collateralized stablecoin backed by cross-chain assets.** Stable by design, and pegged to the U.S dollar, kUSD is the de facto stablecoin of Karura, Kusama, and beyond.
+**Enter the Karura Dollar (kUSD), a decentralized, multi-collateralized stablecoin backed by cross-chain assets.** Stable by design, and pegged to the U. S dollar, kUSD is the de facto stablecoin of Karura, Kusama, and beyond.
 
 With the Karura Dollar Stablecoin protocol, anyone can issue a self-serviced loan in kUSD by locking valuable cross-chain crypto assets, including KSM, BTC, LKSM (Liquid KSM) or ETH, as collateral. While the user maintains the loan by paying interest, the protocol works to maintain kUSD’s stability while automatically managing the risk from any price fluctuations of the underlying collateral asset. In fact, the stablecoin’s liquidation process is jointly supported by Karura’s decentralized exchange and auction to achieve the best price optimization and efficiency..
 
