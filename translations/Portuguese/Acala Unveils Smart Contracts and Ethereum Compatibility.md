@@ -69,7 +69,7 @@ As a disclaimer, smart contract modules are close to but not yet (to Acala’s s
 
 ## EVM
 
-While Solidity and EVM-compatible contracts can be deployed and run on Substrate-based chains like Acala, much of the tooling is still being developed so that it’s compatible with existing development tools such as Truffle and Remix etc. SDKs are also being developed to be compatible with existing web3.js and other libraries. Acala will also focus on improving the composability of smart contracts and runtime modules to accelerate cross-chain DeFi innovation.
+While Solidity and EVM-compatible contracts can be deployed and run on Substrate-based chains like Acala, much of the tooling is still being developed so that it’s compatible with existing development tools such as Truffle and Remix etc. SDKs are also being developed to be compatible with existing web3.js and other libraries. SDKs are also being developed to be compatible with existing web3.js and other libraries. Acala will also focus on improving the composability of smart contracts and runtime modules to accelerate cross-chain DeFi innovation.
 
 ## Ink! Smart Contracts
 
