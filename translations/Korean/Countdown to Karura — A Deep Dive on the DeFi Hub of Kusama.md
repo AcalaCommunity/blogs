@@ -24,7 +24,7 @@ Founded by the Acala Foundation, [Karura](https://acala.network/karura) is a sca
 
 Not only that, but Karura provides an ethical and sustainable token distribution model as well as an on-chain Treasury and [decentralized Sovereign Wealth Fund](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), both of which support its community and longevity. And because Karura leverages its novel [Acala EVM,](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4) which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
 
-_\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.*
+__\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.**
 
 # **Why is Karura built on Kusama?**
 
