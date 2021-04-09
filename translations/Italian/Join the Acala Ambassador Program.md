@@ -2,7 +2,7 @@
 
 ![Image for post](https://miro.medium.com/max/3200/0*X-e7lkvJHnabKk4k)
 
-Acala is the DeFi hub of Polkadot, powering open finance applications and removing the need for financial intermediaries. The mission of the Acala project is to support and nurture the financial applications of the true decentralized web. The drivers of this mission are delivering financial stability, liquidity and accessibility for all. A more open and fairer future is what we hope to enable through our protocol and stablecoin.
+Acala is the DeFi hub of Polkadot, powering open finance applications and removing the need for financial intermediaries. The mission of the Acala project is to support and nurture the financial applications of the true decentralized web. The drivers of this mission are delivering financial stability, liquidity and accessibility for all. The drivers of this mission are delivering financial stability, liquidity and accessibility for all. A more open and fairer future is what we hope to enable through our protocol and stablecoin.
 
 We would like to invite you to become part of this mission through the Acala Ambassador Program. Below we explain Acala, our values, and what you can expect from being an Ambassador. If you’d like, you can skip ahead and [**Apply Here**](http://acala.hubspotpagebuilder.com/acala-ambassador-program).
 
