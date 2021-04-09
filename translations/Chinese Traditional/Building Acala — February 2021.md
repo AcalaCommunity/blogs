@@ -2,7 +2,7 @@
 
 ![Image for post](https://miro.medium.com/max/1600/1*oersbZPWGajTLHLnEkGbeQ.png)
 
-February flew by bringing the Polkadot and Kusama communities one step closer to parachains. Though an exact date is unclear, we _can_ confirm that Acala has been busy testing and refining the code on Polkadot’s parachain testnet while preparing for the fast-approaching Karura parachain auction events. Be sure to join the Karura Parachain Auction Waitlist for up-to-date information on the event and to reserve a 5% referral bonus for you and 5% for anyone in your network.
+February flew by bringing the Polkadot and Kusama communities one step closer to parachains. February flew by bringing the Polkadot and Kusama communities one step closer to parachains. Though an exact date is unclear, we _can_ confirm that Acala has been busy testing and refining the code on Polkadot’s parachain testnet while preparing for the fast-approaching Karura parachain auction events. Be sure to join the Karura Parachain Auction Waitlist for up-to-date information on the event and to reserve a 5% referral bonus for you and 5% for anyone in your network. Be sure to join the Karura Parachain Auction Waitlist for up-to-date information on the event and to reserve a 5% referral bonus for you and 5% for anyone in your network.
 
 On the Acala side, we saw some significant technical progress with our first cross-chain token transfer completed with Plasm, as well as the launch of the Acala EVM.
 
@@ -12,13 +12,13 @@ Looking ahead, this week we’re excited to join the Polkadot Technical Working 
 
 ![Image for post](https://miro.medium.com/max/1400/0*j_NV5cE9SEQrMj-X)
 
-Acala and Plasm, two teams planning to become Polkadot and Kusama parachains in the near future, have successfully connected through Polkadot’s parachain testnet and transferred Plasm’s token (PLM) cross-chain using XCMP (cross-chain message passing) functionality. Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, the Acala team’s Karura network (the DeFi hub of Kusama) will begin its process to host a KSM crowdsourcing event to bootstrap the network for the parachain slot auction. After the crowdsourcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet.
+Acala and Plasm, two teams planning to become Polkadot and Kusama parachains in the near future, have successfully connected through Polkadot’s parachain testnet and transferred Plasm’s token (PLM) cross-chain using XCMP (cross-chain message passing) functionality. Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, the Acala team’s Karura network (the DeFi hub of Kusama) will begin its process to host a KSM crowdsourcing event to bootstrap the network for the parachain slot auction. After the crowdsourcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet. Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, the Acala team’s Karura network (the DeFi hub of Kusama) will begin its process to host a KSM crowdsourcing event to bootstrap the network for the parachain slot auction. After the crowdsourcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet.
 
 [The First Successful Cross-Chain Messaging Passing (XCMP) Transaction on Polkadot Testnet](https://medium.com/acalanetwork/the-first-successful-cross-chain-messaging-passing-xcmp-transaction-on-polkadot-testnet-eb36af2ad8c3)
 
 ## **Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited Substrate Functionality**
 
-Acala’s engineering team has custom-built and launched the Acala EVM! Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
+Acala’s engineering team has custom-built and launched the Acala EVM! Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot. Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
 
 A couple game-changing features that this enables for DeFi users and developers are “**Bring Your Own Gas**,” allowing users to pay gas fees in virtually any token, and **on-chain automatic scheduler**, which enables use cases like subscriptions and recurring payments that are not possible with legacy blockchain platforms.
 
@@ -28,11 +28,11 @@ More detail and links here:
 
 ## **Explainer: How the Parachain Auction process works**
 
-Acala VP of Growth, Dan Reecer, put together a twitter thread explaining how the parachain auction process works. This will apply to both the upcoming Karura and Acala parachain auctions.
+Acala VP of Growth, Dan Reecer, put together a twitter thread explaining how the parachain auction process works. This will apply to both the upcoming Karura and Acala parachain auctions. This will apply to both the upcoming Karura and Acala parachain auctions.
 
 ## **Acala Ambassador Program onboarding has started!**
 
-The Acala Ambassador Program is live and kicking, as the first 15+ ambassadors have been onboarded from around the world. Ambassadors are working on the following working groups:
+The Acala Ambassador Program is live and kicking, as the first 15+ ambassadors have been onboarded from around the world. Ambassadors are working on the following working groups: Ambassadors are working on the following working groups:
 
 - Translations and Localization
 - Content
@@ -44,7 +44,7 @@ To join the Ambassador program and begin your onboarding, [**apply here**](https
 
 ## **Acala China Community**
 
-Kelly, Yuzhu, and the rest of our team in China has been working to grow the Acala and Karura brands and build the community’s presence on channels like WeChat. To begin preparing the Chinese community for the upcoming Karura parachain auction, the team will host a Karura-focused AMA this week and, in parallel, will create the first Karura WeChat group. We currently have over 17,000 people across Acala’s official accounts in China and 13 Acala WeChat groups that reach over 7,000 people.
+Kelly, Yuzhu, and the rest of our team in China has been working to grow the Acala and Karura brands and build the community’s presence on channels like WeChat. To begin preparing the Chinese community for the upcoming Karura parachain auction, the team will host a Karura-focused AMA this week and, in parallel, will create the first Karura WeChat group. We currently have over 17,000 people across Acala’s official accounts in China and 13 Acala WeChat groups that reach over 7,000 people. To begin preparing the Chinese community for the upcoming Karura parachain auction, the team will host a Karura-focused AMA this week and, in parallel, will create the first Karura WeChat group. We currently have over 17,000 people across Acala’s official accounts in China and 13 Acala WeChat groups that reach over 7,000 people.
 
 ## New Team Members
 
@@ -59,11 +59,11 @@ Alex Nechaiev ([LinkedIn](https://www.linkedin.com/in/alnech19/)) joins us as Te
 
 ## **👩‍💻👨‍💻Try the Acala and Karura DeFi apps on testnet before we go live**
 
-You can try the DeFi apps coming to the Polkadot and Kusama ecosystem by going to our [Getting Started guide](https://wiki.acala.network/learn/get-started) for instructions on getting testnet tokens, then using them at [apps.acala.network](http://apps.acala.network). Acala will provide DeFi to the Polkadot ecosystem, while Karura is serving the DeFi demand on the Kusama community.
+You can try the DeFi apps coming to the Polkadot and Kusama ecosystem by going to our [Getting Started guide](https://wiki.acala.network/learn/get-started) for instructions on getting testnet tokens, then using them at [apps.acala.network](http://apps.acala.network). Acala will provide DeFi to the Polkadot ecosystem, while Karura is serving the DeFi demand on the Kusama community. Acala will provide DeFi to the Polkadot ecosystem, while Karura is serving the DeFi demand on the Kusama community.
 
 _“What will I be able to do on Karura?”_
 
-1.  Get Liquid KSM (LKSM) for your staked KSM. Your KSM continues to earn staking rewards, while you can use your LKSM in other yield-bearing uses such as liquidity providing.
+1.  Get Liquid KSM (LKSM) for your staked KSM. Get Liquid KSM (LKSM) for your staked KSM. Your KSM continues to earn staking rewards, while you can use your LKSM in other yield-bearing uses such as liquidity providing.
 2.  Make swaps on our AMM decentralized exchange
 3.  Take out some kUSD stablecoins with your assets as collateral by initiating a collateralized debt position (CDP).
 4.  Check out the [apps](http://apps.acala.network) for more…
