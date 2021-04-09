@@ -47,7 +47,7 @@ Check out [the telemetry](https://telemetry.polkadot.io/#map/Acala%20Mandala%20T
 
 While the Acala Network will leverage Polkadot’s shared security and do not need dedicated validators itself, it will still require what we call **Proof-of-Liveness (PoL) nodes** to maintain the operation of the Acala network, and propose new blocks to validators for verification.
 
-PoL Nodes will in return receive rewards in kACA in Karura network, and ACA in Acala mainnet. With no particular order, these partners will provide the initial liveness of the Acala network: [OnFinality](https://www.onfinality.io/), [P2P Capital](https://www.p2pcap.com/), and [Stake.Zone](http://stake.zone/).
+PoL Nodes will in return receive rewards in kACA in Karura network, and ACA in Acala mainnet. With no particular order, these partners will provide the initial liveness of the Acala network: [OnFinality](https://www.onfinality.io/), [P2P Capital](https://www.p2pcap.com/), and [Stake. Zone](http://stake.zone/).
 
 # The Acala Ecosystem Program
 
