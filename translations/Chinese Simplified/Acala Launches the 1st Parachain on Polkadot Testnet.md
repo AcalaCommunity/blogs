@@ -4,12 +4,12 @@
 
 We’ve reached a significant milestone towards launching Acala as parachain on Polkadot — we launched Acala Mandala PC1 (Parachain Candidate 1) testnet as the first parachain on [Rococo — Polkadot’s parachain testnet](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56).
 
-Rococo enables parachain consensus and shared security via [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus), as well as cross-chain communication via HRMP (Horizontal Relay-chain Message Passing). HRMP requires cross-chain messages being routed via Relay-chains, as a stepping stone towards direct parachain to parachain communication via [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) later on.
+Rococo enables parachain consensus and shared security via [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus), as well as cross-chain communication via HRMP (Horizontal Relay-chain Message Passing). HRMP requires cross-chain messages being routed via Relay-chains, as a stepping stone towards direct parachain to parachain communication via [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) later on. HRMP requires cross-chain messages being routed via Relay-chains, as a stepping stone towards direct parachain to parachain communication via [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) later on.
 
 With Acala Mandala PC1, we can
 
 - **Test Acala’s full DeFi suite** (stablecoin, staking derivative, and DeX) using cross-chain consensus and message passing.
-- Develop further the [Cross-Consensus Message (XCM) format](https://github.com/paritytech/xcm-format) implementation, and specifically flesh out the **cross-chain fungible token standard** that we had spearheaded. The draft standard [here](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) & PoC pallet implementation [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
+- Develop further the [Cross-Consensus Message (XCM) format](https://github.com/paritytech/xcm-format) implementation, and specifically flesh out the **cross-chain fungible token standard** that we had spearheaded. The draft standard [here](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) & PoC pallet implementation [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). The draft standard [here](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) & PoC pallet implementation [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
 - **Test Acala Collator nodes** and implement reward schemes.
 - **Test cross-chain integrations** **with other parachains** such as Laminar, Plasm, Interlay, and others.
 - Implement Homa protocol’s **trustless staking bridge to Relay-chain**.
@@ -19,11 +19,11 @@ With Acala Mandala PC1, we can
 We have shared the following with the parachain developer community
 
 - **Turn a Substrate-based chain into a parachain** including turning nodes into [Collators](https://wiki.polkadot.network/docs/en/maintain-collator) by integrating Cumulus [here](https://github.com/AcalaNetwork/Acala/pull/362)
-- **Cross-chain fungible multi-token transfer implementation** — the ‘xtoken’ pallet [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). This already enables transferring ROC (Rococo’s network token) between Rococo and Mandala PC1; other parachains who adopt this or use the same standards can transfer tokens to each other.
+- **Cross-chain fungible multi-token transfer implementation** — the ‘xtoken’ pallet [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). This already enables transferring ROC (Rococo’s network token) between Rococo and Mandala PC1; other parachains who adopt this or use the same standards can transfer tokens to each other. This already enables transferring ROC (Rococo’s network token) between Rococo and Mandala PC1; other parachains who adopt this or use the same standards can transfer tokens to each other.
 
 # What’s Next
 
-For the Mandala PC1, it will reset inadvertently unannounced multiple times to keep up with the latest version of Rococo, roll out new functionalities and support integrations with other parachains. The key upcoming developments for the Mandala Parachain Candidate are:
+For the Mandala PC1, it will reset inadvertently unannounced multiple times to keep up with the latest version of Rococo, roll out new functionalities and support integrations with other parachains. The key upcoming developments for the Mandala Parachain Candidate are: The key upcoming developments for the Mandala Parachain Candidate are:
 
 - **Continue to develop the XCM pallet** along with Parity, the Web3 Foundation, and others in the community towards production-ready.
 - **Enable Acala staking** with rewards/slash on Acala Collator nodes.
@@ -32,7 +32,7 @@ For the Mandala PC1, it will reset inadvertently unannounced multiple times to k
 
 # Launch
 
-Beyond Rococo and Mandala, Acala will launch its canary network Karura as parachain firstly on Kusama when parachain function is enabled there, then launch mainnet on Polkadot. Acala will operate the two networks — Karura & Acala mainnet to provide DeFi infrastructure and liquidity for both Kusama and Polkadot ecosystem. From here on, we will be preparing for parachain auction to secure a slot and launch on the two networks. **Subscribe** [**here**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **to receive updates on the Acala parachain auction and launch.**
+Beyond Rococo and Mandala, Acala will launch its canary network Karura as parachain firstly on Kusama when parachain function is enabled there, then launch mainnet on Polkadot. Acala will operate the two networks — Karura & Acala mainnet to provide DeFi infrastructure and liquidity for both Kusama and Polkadot ecosystem. From here on, we will be preparing for parachain auction to secure a slot and launch on the two networks. **Subscribe** [**here**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **to receive updates on the Acala parachain auction and launch.** Acala will operate the two networks — Karura & Acala mainnet to provide DeFi infrastructure and liquidity for both Kusama and Polkadot ecosystem. From here on, we will be preparing for parachain auction to secure a slot and launch on the two networks. **Subscribe** [**here**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **to receive updates on the Acala parachain auction and launch.**
 
 # About Acala
 
