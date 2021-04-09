@@ -42,7 +42,7 @@ For this bounty, teams are asked to deploy Solidity contracts on the Rust-based 
 
 **Reward: $2000**
 
-Imagine what you can do with the on-chain automatic scheduler. You can now build a Charity DAO to accept automatic recurring donations; deploy a web3 version of Stripe for subscription and payment services, or simply incorporate subscription in your current DApp; certainly, you can up level your DeFi DApp and automatically take and distribute profit, re-invest, and/or liquidate risky positions etc. There’re so many possibilities.
+Imagine what you can do with the on-chain automatic scheduler. You can now build a Charity DAO to accept automatic recurring donations; deploy a web3 version of Stripe for subscription and payment services, or simply incorporate subscription in your current DApp; certainly, you can up level your DeFi DApp and automatically take and distribute profit, re-invest, and/or liquidate risky positions etc. There’re so many possibilities. There’re so many possibilities.
 
 We’ll happily accept DApps built for other bounties or any of the three track prizes that incorporate this Automatic Scheduler Function. We’re here to help you succeed and build a winning DApp at ETHDenver.
 
