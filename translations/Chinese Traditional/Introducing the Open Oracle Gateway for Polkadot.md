@@ -8,7 +8,7 @@ By [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----3554f7a42
 
 # Acala’s Previous Approach to Oracles
 
-Up until now, Acala previously ran its own oracle network with multiple operator nodes sourcing off-chain data for on-chain operations such as evaluating borrowing capacity and liquidation risks. The Acala team has designed this infrastructure to meet the specific demands of DeFi applications through the following features:
+Up until now, Acala previously ran its own oracle network with multiple operator nodes sourcing off-chain data for on-chain operations such as evaluating borrowing capacity and liquidation risks. The Acala team has designed this infrastructure to meet the specific demands of DeFi applications through the following features: The Acala team has designed this infrastructure to meet the specific demands of DeFi applications through the following features:
 
 - **Multiple Operators**: the Acala oracle provider network accepts data feeds from multiple nodes, and the aggregator combines the data to a single price to reduce attack factors.
 
@@ -22,33 +22,33 @@ With the current setup, other oracle providers can provide independent price fee
 
 # Moving Forward — The Open Oracle Gateway
 
-Today the Open Oracle Gateway, a technical collaboration between the Acala, Laminar and Band Protocol teams, is a significant step towards the vision of creating an open, inclusive, and decentralized oracle network for the Polkadot ecosystem. The Gateway offers the following:
+Today the Open Oracle Gateway, a technical collaboration between the Acala, Laminar and Band Protocol teams, is a significant step towards the vision of creating an open, inclusive, and decentralized oracle network for the Polkadot ecosystem. The Gateway offers the following: The Gateway offers the following:
 
 # Multiple Oracle Networks
 
-The Gateway allows multiple parties in addition to Acala to operate their own oracle networks and provide price feed services. Essentially any oracle service provider can set up a new Network Provider, and through governance approval, it would be enacted through runtime upgrade. Node Operators can then be set up for this new network and start posting off-chain data to Acala. These data feeds are aggregated into a single price feed available to consumption via the Gateway.
+The Gateway allows multiple parties in addition to Acala to operate their own oracle networks and provide price feed services. Essentially any oracle service provider can set up a new Network Provider, and through governance approval, it would be enacted through runtime upgrade. Node Operators can then be set up for this new network and start posting off-chain data to Acala. These data feeds are aggregated into a single price feed available to consumption via the Gateway. Essentially any oracle service provider can set up a new Network Provider, and through governance approval, it would be enacted through runtime upgrade. Node Operators can then be set up for this new network and start posting off-chain data to Acala. These data feeds are aggregated into a single price feed available to consumption via the Gateway.
 
 View the default oracle pallet (the Provider) [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
 
-An oracle Network Provider can implement their own oracle pallets (based on the default oracle pallet) to meet their specific requirements such as validating cross-chain data feeds. We can also easily integrate with existing signed oracle APIs such as [Coinbase price oracle](https://blog.coinbase.com/introducing-the-coinbase-price-oracle-6d1ee22c7068) by simply adding a Coinbase Provider pallet and validate their signature.
+An oracle Network Provider can implement their own oracle pallets (based on the default oracle pallet) to meet their specific requirements such as validating cross-chain data feeds. An oracle Network Provider can implement their own oracle pallets (based on the default oracle pallet) to meet their specific requirements such as validating cross-chain data feeds. We can also easily integrate with existing signed oracle APIs such as [Coinbase price oracle](https://blog.coinbase.com/introducing-the-coinbase-price-oracle-6d1ee22c7068) by simply adding a Coinbase Provider pallet and validate their signature.
 
 The Gateway is essentially a meta-network/meta-aggregator of oracle networks/aggregators that will encourage an ecosystem of service providers to provide differentiated services to meet various needs of applications.
 
-Acala network will progressively decentralize, and its governance will start with PoA (appointed Council governance), then evolve into elected Council governance, and eventually democracy. The implication for the Gateway is that initially the Network Providers and their respective node Operators will be known parties and be approved to join the Gateway by the sitting Council.
+Acala network will progressively decentralize, and its governance will start with PoA (appointed Council governance), then evolve into elected Council governance, and eventually democracy. The implication for the Gateway is that initially the Network Providers and their respective node Operators will be known parties and be approved to join the Gateway by the sitting Council. The implication for the Gateway is that initially the Network Providers and their respective node Operators will be known parties and be approved to join the Gateway by the sitting Council.
 
 # Price Feeds by Choice
 
-DApps can choose to use price feeds from one particular Provider based on their preferences. Alternatively, they can also choose to use an aggregated feed combining the data from all of these providers. DApps can also obtain raw data from individual node operators and aggregate them themselves. The aggregator can be further customized, so data consumers can choose to use a median price, an average or whatever methods they favor.
+DApps can choose to use price feeds from one particular Provider based on their preferences. Alternatively, they can also choose to use an aggregated feed combining the data from all of these providers. DApps can also obtain raw data from individual node operators and aggregate them themselves. The aggregator can be further customized, so data consumers can choose to use a median price, an average or whatever methods they favor. Alternatively, they can also choose to use an aggregated feed combining the data from all of these providers. DApps can also obtain raw data from individual node operators and aggregate them themselves. The aggregator can be further customized, so data consumers can choose to use a median price, an average or whatever methods they favor.
 
 # Quality of Service & Free Feeds
 
-All price feeds posting to Acala regardless of which provider network they belong to, will be provided with Quality of Service. Transactions submitted by the Operator are _operational transactions_ — system critical transactions that are prioritized and guaranteed to be included in a block. This will prevent invalid and out-of-date price feeds due to spikes in gas fees and congested networks, such as in the case of [Black Thursday](https://medium.com/aave/crypto-black-thursday-the-good-the-bad-and-the-ugly-7f2acebf2b83).
+All price feeds posting to Acala regardless of which provider network they belong to, will be provided with Quality of Service. Transactions submitted by the Operator are _operational transactions_ — system critical transactions that are prioritized and guaranteed to be included in a block. This will prevent invalid and out-of-date price feeds due to spikes in gas fees and congested networks, such as in the case of [Black Thursday](https://medium.com/aave/crypto-black-thursday-the-good-the-bad-and-the-ugly-7f2acebf2b83). Transactions submitted by the Operator are _operational transactions_ — system critical transactions that are prioritized and guaranteed to be included in a block. This will prevent invalid and out-of-date price feeds due to spikes in gas fees and congested networks, such as in the case of [Black Thursday](https://medium.com/aave/crypto-black-thursday-the-good-the-bad-and-the-ugly-7f2acebf2b83).
 
-In addition, all _valid_ feeds will be refunded with the transaction fees incurred, essentially making oracle feeds FREE while preventing spam and ensuring integrity. A valid feed transaction would need to be signed and posted by an approved Operator, and only one transaction is permitted by the same Operator within a single block.
+In addition, all _valid_ feeds will be refunded with the transaction fees incurred, essentially making oracle feeds FREE while preventing spam and ensuring integrity. A valid feed transaction would need to be signed and posted by an approved Operator, and only one transaction is permitted by the same Operator within a single block. A valid feed transaction would need to be signed and posted by an approved Operator, and only one transaction is permitted by the same Operator within a single block.
 
 # Project Status & Next Steps
 
-We hope the Open Oracle Gateway becomes a common good infrastructure for the Acala, Polkadot, Kusama and the cross-chain DeFi ecosystem in general. **With that said, we welcome any oracle service providers to check out the Gateway source code, talk to us about integration, contribute to the codebase and provide your services to an ever-growing ecosystem.**
+We hope the Open Oracle Gateway becomes a common good infrastructure for the Acala, Polkadot, Kusama and the cross-chain DeFi ecosystem in general. **With that said, we welcome any oracle service providers to check out the Gateway source code, talk to us about integration, contribute to the codebase and provide your services to an ever-growing ecosystem.** **With that said, we welcome any oracle service providers to check out the Gateway source code, talk to us about integration, contribute to the codebase and provide your services to an ever-growing ecosystem.**
 
 An [example](https://acala-testnet.subscan.io/runtime/OperatorMembershipAcala?version=606) of a running Oracle network on Acala’s testnet.
 
@@ -60,9 +60,9 @@ Going forward, we may set up a separate Oracle Council to make on-chain decision
 
 # Get Involved in the Open Oracle Gateway
 
-The Open Oracle Gateway itself is designed to be an infrastructure that anyone can extend and improve. **If you are a developer or oracle service provider, please check out** [**the Open Oracle Gateway Wiki**](https://wiki.acala.network/learn/basics/oracle)**, and join the discussion on** [**Discord**](https://discord.gg/jYC5QeG)**.**
+The Open Oracle Gateway itself is designed to be an infrastructure that anyone can extend and improve. The Open Oracle Gateway itself is designed to be an infrastructure that anyone can extend and improve. **If you are a developer or oracle service provider, please check out** [**the Open Oracle Gateway Wiki**](https://wiki.acala.network/learn/basics/oracle)**, and join the discussion on** [**Discord**](https://discord.gg/jYC5QeG)**.**
 
-_Interested in a career in decentralized finance? If you enjoy working on high-impact, web3 and DeFi challenges, check out_ [_our open positions_](https://jobs.lever.co/acala/) _here. We’d love to hear from you._
+_Interested in a career in decentralized finance? If you enjoy working on high-impact, web3 and DeFi challenges, check out_ [_our open positions_](https://jobs.lever.co/acala/) _here. We’d love to hear from you._ If you enjoy working on high-impact, web3 and DeFi challenges, check out</em> [_our open positions_](https://jobs.lever.co/acala/) _here. We’d love to hear from you._
 
 **This post was also published on the Polkadot blog here:**
 
