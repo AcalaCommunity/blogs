@@ -18,7 +18,7 @@ Acala is founded by two active members in the Polkadot ecosystem: [Laminar](http
 
 This announcement coincides with great news from the Web3 Foundation that **_a significant development grant_** has been awarded to the Acala stablecoin project, which is a recognition of the team’s effort and our solution as part of the DeFi ecosystem. We are excited to be part of the W3F and Polkadot family and look forward to closer collaboration and further contribution towards the ecosystem.
 
-> “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
+> “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation — Jack Platts, Head of Collaborations at Web3 Foundation
 
 ## Substrate Builder Program Inaugural Member
 
@@ -46,7 +46,7 @@ The first is a decentralized cross-chain capable multi-collateralized stablecoin
 
 ![Image for post](https://miro.medium.com/max/2804/1*uacwW89mPE2BtzjZ6PJZIA.png)
 
-The ACALA stablecoin, a.k.a. aUSD, is pegged to USD at 1:1 ratio. Essentially users would take out a loan of aUSD by locking selected valuable crypto assets e.g. DOT, BTC or ETH as collateral. Users would need to pay interests to maintain this loan. The Honzon protocols have a set of mechanisms to maintain stability and manage risks from price fluctuation of the underlying collateral asset.
+The ACALA stablecoin, a.k.a. The ACALA stablecoin, a.k.a. aUSD, is pegged to USD at 1:1 ratio. Essentially users would take out a loan of aUSD by locking selected valuable crypto assets e.g. DOT, BTC or ETH as collateral. Users would need to pay interests to maintain this loan. The Honzon protocols have a set of mechanisms to maintain stability and manage risks from price fluctuation of the underlying collateral asset.
 
 ## Homa — The Tokenized Staking Liquidity Protocol
 
