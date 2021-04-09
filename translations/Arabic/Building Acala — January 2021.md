@@ -28,7 +28,7 @@ Ruitao, Bette, and Dan gave a presentation this month on the Karura Parachain Au
 
 ![Image for post](https://miro.medium.com/max/198/1*CKAzfp_7ymaDkEABfbJxgw.png)
 
-**Robin Whitney** has joined as Community & Growth Manager: As an advocate for decentralized technologies and open finance, Robin has worked in Growth and Community for projects within DeFi ecosystems on Ethereum and EOS, including: MyEtherWallet, Provable Things, p.Network, and Eidoo. She’s developed audience acquisition and retention strategies for Fender Music, American Public Media, FiveThirtyEight and the Electronic Frontier Foundation — with whom she has led workshops on responsible data, Creative Commons, and Net Neutrality. Robin is based in Los Angeles, USA. ([LinkedIn](https://www.linkedin.com/in/robinmwhitney/))
+**Robin Whitney** has joined as Community & Growth Manager: As an advocate for decentralized technologies and open finance, Robin has worked in Growth and Community for projects within DeFi ecosystems on Ethereum and EOS, including: MyEtherWallet, Provable Things, p. Network, and Eidoo. She’s developed audience acquisition and retention strategies for Fender Music, American Public Media, FiveThirtyEight and the Electronic Frontier Foundation — with whom she has led workshops on responsible data, Creative Commons, and Net Neutrality. Robin is based in Los Angeles, USA. ([LinkedIn](https://www.linkedin.com/in/robinmwhitney/))
 
 ![Image for post](https://miro.medium.com/max/198/1*a4vDhjcZXc2CVqrlVo4Eaw.png)
 
