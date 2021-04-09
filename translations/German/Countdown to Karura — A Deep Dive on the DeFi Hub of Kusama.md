@@ -24,7 +24,7 @@ Founded by the Acala Foundation, [Karura](https://acala.network/karura) is a sca
 
 Not only that, but Karura provides an ethical and sustainable token distribution model as well as an on-chain Treasury and [decentralized Sovereign Wealth Fund](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), both of which support its community and longevity. And because Karura leverages its novel [Acala EVM,](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4) which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
 
-_\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.*
+__\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.**
 
 # **Why is Karura built on Kusama?**
 
@@ -121,17 +121,17 @@ Karura’s path to launch now includes three major milestones: Crowdsource KSM w
 
 Here’s what to expect:
 
-## **1.) Crowdsource KSM with the Crowdloan Module**
+## **1.) 1.) Crowdsource KSM with the Crowdloan Module**
 
 Soon Karura will hold a KSM crowdsourcing event to bootstrap the network’s bid for the Kusama parachain slot auction. The KSM will be used to participate in the auction in order to gain a slot on Kusama’s network for security and interoperability.
 
 For their contribution, participants will receive Karura’s native token KAR. For each 1 KSM locked, users will be distributed a yet-to-be-determined amount of KAR upon Karura’s launch. The final KAR amount will depend on the amount of support Karura receives.
 
-## **2.) Participate in Parachain Auction on Kusama**
+## **2.) 2.) Participate in Parachain Auction on Kusama**
 
 Next, Karura will participate in an unpermissioned candle auction to earn a slot on Kusama’s network. The opening bid will use the “crowdloan module” holding the KSM contributed during the crowdsourcing event. Community members can continue to contribute until the end of the parachain auction.
 
-## **3.) Win Auction and Launch Mainnet**
+## **3.) 3.) Win Auction and Launch Mainnet**
 
 After Karura wins a parachain auction, Karura mainnet will launch and KAR will be generated and distributed to supporters. Any supporter who had locked their KSM in the crowdloan module will receive a reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the parachain’s slot lease. As Karura DeFi applications go live, liquidity provider programs will begin, and DeFi will officially be available on Kusama!
 
