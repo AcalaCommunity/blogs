@@ -47,7 +47,7 @@ Check out [the telemetry](https://telemetry.polkadot.io/#map/Acala%20Mandala%20T
 
 While the Acala Network will leverage Polkadot’s shared security and do not need dedicated validators itself, it will still require what we call **Proof-of-Liveness (PoL) nodes** to maintain the operation of the Acala network, and propose new blocks to validators for verification.
 
-PoL Nodes will in return receive rewards in kACA in Karura network, and ACA in Acala mainnet. With no particular order, these partners will provide the initial liveness of the Acala network: [OnFinality](https://www.onfinality.io/), [P2P Capital](https://www.p2pcap.com/), and [Stake.Zone](http://stake.zone/).
+PoL Nodes will in return receive rewards in kACA in Karura network, and ACA in Acala mainnet. With no particular order, these partners will provide the initial liveness of the Acala network: [OnFinality](https://www.onfinality.io/), [P2P Capital](https://www.p2pcap.com/), and [Stake. Zone](http://stake.zone/).
 
 # The Acala Ecosystem Program
 
@@ -59,10 +59,7 @@ If you would like to join the Acala Ecosystem Program, submit your interest [her
 
 # Stay Updated with Acala
 
-Website: [https://acala.network](https://acala.network/)  
-Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
-Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
-GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)
+We believe [**the Acala Ecosystem Program**](https://forms.gle/iYPUrNzSWGmyvPUp6) would be a good starting point to form closer collaboration, for us to provide better support to teams integrating with Acala, and co-create incentivize programs, etc. These teams have become the inaugural Acala Ecosystem Program projects: [Chainlink](https://chain.link/), [ChainX](https://chainx.org/), [Dipole](http://www.dipole.tech/), [Plasm Network](https://github.com/staketechnologies/Plasm), [PolkaWorld](https://www.polkaworld.org/), [Subsocial](http://subsocial.network/), and [XanPool](https://www.xanpool.com/).
 
 The Acala Stablecoin Project is proudly supported by the Web3 Foundation
 
