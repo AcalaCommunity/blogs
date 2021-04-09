@@ -4,21 +4,21 @@
 
 ![Image for post](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
 
-Move over PegaBufficorn! It’s the year of the Spork Marmot. The ETHDenver #BUIDLathon is officially underway — and Acala is thrilled to attend as a presenting sponsor with exciting bounties, hands-on training, and a first look at the Acala EVM.
+Move over PegaBufficorn! It’s the year of the Spork Marmot. Move over PegaBufficorn! It’s the year of the Spork Marmot. The ETHDenver #BUIDLathon is officially underway — and Acala is thrilled to attend as a presenting sponsor with exciting bounties, hands-on training, and a first look at the Acala EVM.
 
 _Read on to make your Ethereum DApp compatible with Polkadot and beyond._
 
 # All-in-One DeFi
 
-Acala is the EVM-compatible DeFi Hub and stablecoin platform of Polkadot. It’s a special economic zone and landing pad for DeFi DApps to get access to the multi-chain Polkadot ecosystem. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
+Acala is the EVM-compatible DeFi Hub and stablecoin platform of Polkadot. It’s a special economic zone and landing pad for DeFi DApps to get access to the multi-chain Polkadot ecosystem. Acala is the EVM-compatible DeFi Hub and stablecoin platform of Polkadot. It’s a special economic zone and landing pad for DeFi DApps to get access to the multi-chain Polkadot ecosystem. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
 
 # Introducing the Acala EVM
 
-With the [Acala EVM](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack), developers can enable Solidity contracts to be deployed on Acala and Polkadot with minimal changes. What’s more, the EVM offers distinct features in addition to being faster and cheaper, such as aggregated cross-chain liquidity, paying fees in any token, and an on-chain automatic scheduler that enables use cases like subscriptions and recurring payments.
+With the [Acala EVM](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack), developers can enable Solidity contracts to be deployed on Acala and Polkadot with minimal changes. What’s more, the EVM offers distinct features in addition to being faster and cheaper, such as aggregated cross-chain liquidity, paying fees in any token, and an on-chain automatic scheduler that enables use cases like subscriptions and recurring payments. What’s more, the EVM offers distinct features in addition to being faster and cheaper, such as aggregated cross-chain liquidity, paying fees in any token, and an on-chain automatic scheduler that enables use cases like subscriptions and recurring payments.
 
 # Leverage EVM on Your Build
 
-We’re excited to share our knowledge and experience while supporting Ethereum DApps to open shop on Polkadot and beyond. Whether you’re familiar with Solidity, Rust or Substrate — or you’re just getting started — our team is here to help you extend your project’s reach with an Acala’s EVM deployment. Ready to #BUIDL?
+We’re excited to share our knowledge and experience while supporting Ethereum DApps to open shop on Polkadot and beyond. Whether you’re familiar with Solidity, Rust or Substrate — or you’re just getting started — our team is here to help you extend your project’s reach with an Acala’s EVM deployment. Ready to #BUIDL? Whether you’re familiar with Solidity, Rust or Substrate — or you’re just getting started — our team is here to help you extend your project’s reach with an Acala’s EVM deployment. Ready to #BUIDL?
 
 - Visit Acala’s [**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**.**
 - Check out [**ETHDenver’s Bounty Hub**](https://www.ethdenver.com/post/acala) and [**Team Guidelines**](https://www.ethdenver.com/judging)**.**
@@ -30,21 +30,21 @@ We’re excited to share our knowledge and experience while supporting Ethereum 
 
 # Bounties
 
-We’re offering two rewards for teams that demonstrate their creativity and technical expertise while contributing to the Web3 ecosystem. BUIDLers can compete for one or both bounties for a reward pool totaling $3000. We’re especially excited to see utilization of any special features and/or tech from other ETHDenver sponsors.
+We’re offering two rewards for teams that demonstrate their creativity and technical expertise while contributing to the Web3 ecosystem. BUIDLers can compete for one or both bounties for a reward pool totaling $3000. We’re especially excited to see utilization of any special features and/or tech from other ETHDenver sponsors. BUIDLers can compete for one or both bounties for a reward pool totaling $3000. We’re especially excited to see utilization of any special features and/or tech from other ETHDenver sponsors.
 
 ## **Deploy a DApp on Polkadot Using the Acala EVM**
 
 **Reward: $1000**
 
-For this bounty, teams are asked to deploy Solidity contracts on the Rust-based Polkadot chain, tapping into cross-chain liquidity in the Polkadot ecosystem. We’re keen to see what’s possible. The main judging criteria is the completeness of code and a working DApp. We’ll happily accept contracts you’ve built for other bounties and prizes.
+For this bounty, teams are asked to deploy Solidity contracts on the Rust-based Polkadot chain, tapping into cross-chain liquidity in the Polkadot ecosystem. We’re keen to see what’s possible. The main judging criteria is the completeness of code and a working DApp. We’ll happily accept contracts you’ve built for other bounties and prizes. We’re keen to see what’s possible. The main judging criteria is the completeness of code and a working DApp. We’ll happily accept contracts you’ve built for other bounties and prizes.
 
 ## **Build a DApp Using the Acala EVM with the On-Chain Automatic Scheduler Function**
 
 **Reward: $2000**
 
-Imagine what you can do with the on-chain automatic scheduler. You can now build a Charity DAO to accept automatic recurring donations; deploy a web3 version of Stripe for subscription and payment services, or simply incorporate subscription in your current DApp; certainly, you can up level your DeFi DApp and automatically take and distribute profit, re-invest, and/or liquidate risky positions etc. There’re so many possibilities.
+Imagine what you can do with the on-chain automatic scheduler. Imagine what you can do with the on-chain automatic scheduler. You can now build a Charity DAO to accept automatic recurring donations; deploy a web3 version of Stripe for subscription and payment services, or simply incorporate subscription in your current DApp; certainly, you can up level your DeFi DApp and automatically take and distribute profit, re-invest, and/or liquidate risky positions etc. There’re so many possibilities. There’re so many possibilities.
 
-We’ll happily accept DApps built for other bounties or any of the three track prizes that incorporate this Automatic Scheduler Function. We’re here to help you succeed and build a winning DApp at ETHDenver.
+We’ll happily accept DApps built for other bounties or any of the three track prizes that incorporate this Automatic Scheduler Function. We’re here to help you succeed and build a winning DApp at ETHDenver. We’re here to help you succeed and build a winning DApp at ETHDenver.
 
 # Level Up Your Project
 
