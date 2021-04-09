@@ -18,7 +18,7 @@ Acala is founded by two active members in the Polkadot ecosystem: [Laminar](http
 
 This announcement coincides with great news from the Web3 Foundation that **_a significant development grant_** has been awarded to the Acala stablecoin project, which is a recognition of the team’s effort and our solution as part of the DeFi ecosystem. We are excited to be part of the W3F and Polkadot family and look forward to closer collaboration and further contribution towards the ecosystem.
 
-> “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
+> “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation — Jack Platts, Head of Collaborations at Web3 Foundation
 
 ## Substrate Builder Program Inaugural Member
 
