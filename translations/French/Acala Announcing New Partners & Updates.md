@@ -1,4 +1,4 @@
-# Acala Announcing New Partners & Updates
+# Acala Annonce de nouveaux partenaire et mise à jour
 
 By [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c--------------------------------)
 
