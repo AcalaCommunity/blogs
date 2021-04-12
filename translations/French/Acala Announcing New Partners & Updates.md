@@ -12,7 +12,7 @@ Acala Foundation is pleased to announce new partners joining the effort in build
 
 ## Roadmap & Website Revamped
 
-We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
+Nous travaillons en étroite collaboration avec les ingénieurs de Parité et de Poladot, et la mise à jour constante de notre feuille de route pour mieux s'aligner avec la disponibilité du parachain et le lancement du principal réseau Polkadot, quelques faits saillants comme suit:
 
 - Launch Acala Karura canary network as soon as Kusama parachain bonding is ready
 - We are starting security audits for the Acala Network
