@@ -1,10 +1,10 @@
-# Karura’s Approach to the Upcoming Crowdloan and Parachain Auction on Kusama
+# Karura готовится к предстоящему Crowdloan и Parachain аукциону на Kusamа
 
-## Karura, the sister network to Acala and DeFi hub of Kusama, will soon begin its Crowdloan to garner community support for the first Kusama parachain auction
+## Karura, сестринская сеть Acala и DeFi хаб на Kusama, в ближайшее время начнёт свой Crowdloan, чтобы заручиться поддержкой от комьюнити для первого PLO (Parachain Lease Offering) на Kusama
 
 ![Image for post](https://miro.medium.com/max/1600/0*1XypG_FOdz_or1ro)
 
-Karura, built as a sister network to Acala with virtually the same code, is a new blockchain network dedicated to serving the Kusama community as its primary decentralized finance (DeFi) hub. Karura’s cross-chain DeFi hub will provide a stablecoin (kUSD), staking liquidity for KSM called L-KSM, DEX capabilities, borrowing, lending, among other applications.
+Karura - это "сестринская" сеть Acala, с практически тем же кодом и является новым типом блокчейнов, который предназначен для сети Kusama в качестве её основного хаба децентрализованных финансов (DeFi). Karura будет иметь свой стейблкоин (kUSD), ликвидный стейкинг для токенов KSM, которые будут называться L-KSM, функционирование полноценной DEX, займы, кредитование и другие приложения.
 
 Any chain, like Karura, planning to connect to [Kusama](http://kusama.network)’s ‘layer zero’ multi-chain network for interoperability and plug-and-play security is referred to as a parachain. Kusama plans to have 100+ parachain slots available in the future, but the network is still in its early stages. Hence, the network, built by Polkadot Founder, Dr. Gavin Wood, is starting with a very limited number of available parachain slots. In order to gain access to a parachain slot, any hopeful team must participate in and win a [candle auction](https://wiki.polkadot.network/docs/en/learn-auction) using Kusama’s native token, KSM, which is subsequently locked for the duration of the parachain’s lease.
 
