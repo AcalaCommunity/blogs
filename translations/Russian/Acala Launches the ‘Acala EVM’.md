@@ -1,6 +1,6 @@
 # **Acala запускает "Acala EVM" для DeFi на Polkadot | Совместимость Ethereum с неограниченной функциональностью Substrate**
 
-![Image for post](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
+![Изображение для публикации](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
 
 ## Acala EVM перенимает лучшее из сети Ethereum, используя весь потенциал Substrate с помощью объединяемого единого кошелька, Acala-EVM-Substrate-WASM с функцией «принеси свой газ», «ончейн» автопланированием и многим другим.
 
@@ -40,31 +40,31 @@ Acala дебютирует с Acala EVM на ETHDenver 2021, предлагая 
 
 # **Acala на высоком уровне**
 
-If you’re new here, Acala is an Ethereum-compatible decentralized finance (DeFi) platform built for scale, leveraging Polkadot’s multi-chain network. Although Acala is a parachain providing layer 1 infrastructure, the Acala team has also built out an entire application layer on top of the parachain. Acala’s applications are built around a stable asset (aUSD) and offers end-user applications such as borrowing, lending, synthetic asset trading, and interest earning, all executed extremely fast with inexpensive gas fees. Developers can also leverage Acala as a platform on which to build their own applications.
+Acala - это платформа для децентрализованных финансов (DeFi), которая совместима с Ethereum, созданная для масштабирования и использующая мультичейновую сеть Polkadot. Хоть Acala и является парачейном, обеспечивающим инфраструктуру уровня 1 (layer 1), команда Acala также создала целый прикладной уровень поверх парачейна. Приложения Acala построены на основе стабильного актива (стейблкоина) (aUSD) и предлагают приложения для конечных пользователей, такие как заимствование, кредитование, торговля синтетическими активами и получение процентов. Всё это выполняется чрезвычайно быстро с недорогой платой за газ (комиссиями). Разработчики также могут использовать Acala в качестве платформы для создания своих собственных приложений.
 
-The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange. **Overall, Acala’s platform also offers:**
+Платформа предлагает набор финансовых примитивов: стейблкоин, обеспеченный кросс-чейновыми активами, такими как Bitcoin, деривативы для стейкинга и децентрализованная биржа (DEX). В целом платформа Acala также предлагает:
 
-1.  **Micro Gas Fees** — Acala solves the gas fee problem for DeFi users, in combination with the ability to ‘bring your own gas’ as mentioned above
-2.  **Staking derivative L-DOT** (Liquid DOT to release liquidity from staked DOT for use in Acala’s DeFi applications)
-3.  **Stablecoin borrowing and lending** (DOT, Bitcoin and L-DOT used as primary collateral asset)
-4.  **Earning yield and interest**
-5.  Trading on **decentralized exchange** (DEX)
-6.  On-chain **governance**
-7.  On-chain **Treasury**
-8.  Native network of **aggregated oracle price feeds**
-9.  **On-chain sovereign wealth fund** to sustain the network’s future ([read more](https://medium.com/acalanetwork/building-a-decentralized-sovereign-wealth-fund-6a5a0ae995b1))
-10. **Continuously upgrade with no forks**: Keep in mind that Acala can upgrade seamlessly with no forks. This means that the future is virtually limitless. Any new Substrate pallet (a product or feature in the form of a DeFi primitive or runtime) can smoothly integrate into Acala. It’s like getting an iPhone 12 that will auto-upgrade to a 13, 14, 15+ in the palm of your hand.
+1.  Низкие комиссии - Acala решает проблему платы за газ для пользователей DeFi в сочетании с возможностью «принести свой газ», как упоминалось выше
+2.  Производная ставка L-DOT для стейкинга (застейкав свои токены DOT, вы получает токены L-DOT, которыми можете пользоваться дальше в приложениях Acala)
+3.  Заимствование и кредитование стейблкоинов (DOT, Bitcoin и L-DOT используются в качестве основного залогового актива)
+4.  **Доходный фарминг и проценты**
+5.  Торговля на децентрализованной бирже (DEX)
+6.  Ончейн-управление (гаверненс)
+7.  Ончейн-казначейство
+8.  Собственная сеть ораклов
+9.  Он-чейн суверенный фонд благосостояния для обеспечения будущего сети (более детально здесь)
+10. Непрерывное обновление без форков: имейте в виду, что Acala может легко обновляться без форков. Это означает, что будущее, практически, безгранично. Любая новая паллета субстрата (продукт или функция в форме примитива DeFi) может плавно интегрироваться в Acala. Это все равно что получить iPhone 12, который автоматически обновится до моделей 13, 14, 15+ прямо у вас на ладони.
 
-![Image for post](https://miro.medium.com/max/3200/0*iHVQdZllz1MxLwuy)
+![Изображение для публикации](https://miro.medium.com/max/3200/0*iHVQdZllz1MxLwuy)
 
 http://apps.acala.network
 
-Thanks for checking out the new Acala EVM. We’ll continue to keep you updated on the progress of the Acala EVM, as well as further educational material on the different benefits it provides to the ecosystem. As always, you can find us on [Discord](https://discord.gg/vdbFVCH), [subscribe to our newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) for updates, or any of our channels below:
+Благодарим вас за ознакомление с Acala EVM. Мы будем продолжать держать вас в курсе развития Acala EVM, а также предоставлять дополнительные образовательные материалы о различных преимуществах, которые она дает экосистеме. Как всегда, вы можете найти нас в Discord, подписаться на нашу рассылку для получения обновлений или на любом из наших каналов ниже:
 
-![Image for post](https://miro.medium.com/max/2402/0*BvF8sTfeQd4Sc71D.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/0*BvF8sTfeQd4Sc71D.png)
 
-# **About Acala**
+# **Об Acala**
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform, operated by micro gas fees, offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа, управляемая за счет микрокомиссионных сборов, предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, стейкинг и децентрализованная биржа. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [All Channels](https://linktr.ee/acalanetwork)
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
