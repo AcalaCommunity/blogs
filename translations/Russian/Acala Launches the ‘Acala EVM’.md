@@ -1,44 +1,44 @@
-# **Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited Substrate Functionality**
+# **Acala запускает "Acala EVM" для DeFi на Polkadot | Совместимость Ethereum с неограниченной функциональностью Substrate**
 
 ![Image for post](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
 
-## The Acala EVM leverages the best of Ethereum while unlocking Substrate’s full potential with a composable, single-wallet, Acala-EVM-Substrate-WASM experience with ‘bring your own gas’, on-chain auto-scheduling, and more.
+## Acala EVM перенимает лучшее из сети Ethereum, используя весь потенциал Substrate с помощью объединяемого единого кошелька, Acala-EVM-Substrate-WASM с функцией «принеси свой газ», «ончейн» автопланированием и многим другим.
 
-Acala’s engineering team has custom-built and launched the Acala EVM! This innovation, novel to the Polkadot ecosystem, enables Acala to provide Solidity, Substrate, and Web3 developers a complete full-stack (Acala+EVM+Substrate+WASM) experience seamlessly with a single wallet. Acala EVM also brings protocol composability for EVM and Substrate runtime (aka pallets) and enables developers to build and deploy DApps on Acala with exceptional tooling support.
+Разработчики Acala запускают Acala EVM! Это нововведение для экосистемы Polkadot, позволяющее Acala предоставлять разработчикам Solidity, Substrate и Web3 полный набор функций (Acala + EVM + Substrate + WASM) с помощью единого кошелька. Также Acala EVM обеспечивает возможность компоновки протоколов для EVM и Substrate (также известной как паллеты) и позволяет разработчикам создавать и запускать DApps на Acala с исключительной поддержкой инструментов.
 
-Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
+Многие инновации были вдохновлены примером сравнения Ethereum и Bitcoin: "цифровое золото" никогда не сможет располагать теми функциями, которыми в данный момент многие пользуют на "Эфире". Substrate и Polkadot кардинально отличаются от Ethereum тем, что расширяют возможности многих новых блокчейн-инноваций за пределами песочницы EVM. Мы безоговорочно верим в силу Substrate и создали Acala EVM для того, чтобы оптимизировать весь потенциал Substrate, а не просто повторно развернули Ethereum на Polkadot.
 
-# **The Acala EVM**
+# **Acala EVM**
 
-## **Composable DeFi Environment**
+## **DeFi-среда**
 
-Smart Contract Dapps deployed in Acala EVM can directly use native and cross-chain assets such as DOT, ACA, aUSD, renBTC, XBTC, and more. ERC-20 tokens deployed in the EVM can also be made available at the runtime level, to be listed in the DEX, or (by governance approval) to be used as gas fee tokens. This means that, for example, our friends at Ampleforth can deploy AMPL contracts on Acala EVM to be made available as a native token, so it can be used to pay transaction fees and listed directly on our DEX.
+Развернутые на новой EVM смарт-контракты могут напрямую использовать собственные и кросс-чейн активы на базе Polkadot, такие как: DOT, ACA, aUSD, renBTC, XBTC и другие. Токены на основе Ethereum (ERC-20) могут быть добавлены в листинг на децентрализованной бирже (DEX) или (после голосования) использованы для оплаты за газ. Это значит, что, например, наши друзья из Ampleforth могут развернуть контракты AMPL на Acala EVM, и при этом использовать собственный токен платформы для оплаты комиссий (газа) за транзакции и листинга непосредственно на Acala DEX.
 
-New to the concept of composability? A16z put it very well in their [4 Eras of Blockchain Computing: Degrees of Composability](https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=A%20platform%20is%20composable%20if,more%20rapid%20and%20compounding%20innovation.).
+В новинку концепция компоновки? A16z очень хорошо описали это в своей «Эре блокчейн-вычислений: степени компоновки».
 
-To make this a bit more ‘real’, watch below as Acala Co-Founder and CTO Bryan Chen recently demonstrates one use case of the Acala EVM when he deployed Uniswap onto Acala and executed a trade within 2 minutes:
+Для наглядности, посмотрите ниже короткое видео, на котором соучредитель и технический директор Acala Bryan Chen демонстрирует один из вариантов использования Acala EVM, где он развернул Uniswap на Acala и сделал "свап" всего за 2 минуты:
 
-## **Other Fully Composable DeFi Primitives in the Acala EVM**
+## **Что ещё можно в Acala EVM:**
 
-- **Bring your own gas**: Power transactions with virtually any token — The native and cross-chain tokens integrated with Acala will be able to be used for paying gas. When live it could look like this: _Are you sending wrapped ETH to Acala to start playing in DeFi? Send your ETH to Acala via the bridge, and start deploying your wrapped ETH immediately in the Acala DeFi apps using your wrapped ETH as the gas fee. No need to go out and find ACA._
-- **On-chain automatic scheduler** that enables use cases like subscriptions and recurring payments. Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-on-chain-scheduler) or watch the 6 min demo below.
+- Использование собственного газа: вы можете проводить транзакции практически с любым токеном - собственные и кросс-чейн токены, интегрированные с Acala, можно будет использовать для оплаты комиссий. На практике это выглядит следующим образом: вы отправляете WETH в Acala, чтобы начать использовать DeFi? Отправьте свой ETH в Acala через мост и сразу же начните применение вашего WETH в приложениях Acala DeFi, используя ваш  WETH в качестве платы за газ. Нет никакой необходимости менять ваши активы и покупать токены ACA.
+- Он-чейновый автоматический планировщик, который включает такие варианты использования, как подписки и регулярные платежи. Более детально вы можете ознакомиться по ссылке или посмотреть короткое видео ниже.
 
-- **Native and cross-chain tokens** available in ERC20: DOT, ACA, aUSD, XBTC (from ChainX), LDOT (liquid staking DOT), RENBTC, and more
-- Network of oracles to get price feeds. Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds).
-- Protocols such as DEX, stablecoin lending, and liquid staking derivatives (e.g. liquid DOT for your staked DOT)
+- Собственные и кросс-чейн токены, доступные в ERC20: DOT, ACA, aUSD, XBTC (от ChainX), L-DOT (застейканый токен DOT), renBTC и др.
+- Собственная сеть оракулов для получения цен в режиме реального времени. Более подробно можно ознакомиться по ссылке.
+- Поддержка протоколов, таких как: DEX, кредитование стейблкоинов и ликвидные деривативы для ставок (например, L-DOT для вашего застейканого DOT).
 
-## **🐰🕳 For a deep dive on the Acala EVM, check out the** [**Acala Wiki’s in-depth EVM section**](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack)**.**
+## Чтобы более детально изучить Acala EVM, вы можете перейти по ссылке.
 
-## Try it out at ETHDenver 2021
+## ETHDenver 2021
 
-Acala is debuting the Acala EVM at ETHDenver 2021, offering $3k USD for hackers to “**Build a DApp Using the Acala EVM**” or “**Build a DApp Using the Acala EVM with the On-Chain Automatic Scheduler Function**”.
+Acala дебютирует с Acala EVM на ETHDenver 2021, предлагая хакерам $3 000 за «создание DApp с использованием Acala EVM» или «создание DApp с использованием Acala EVM с функцией автоматического планировщика в сети».
 
-- Find Acala’s [**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**.**
-- Check out [**ETHDenver’s Bounty Hub**](https://www.ethdenver.com/post/acala) and [**Team Guidelines**](https://www.ethdenver.com/judging)**.**
+- Руководство для хакеров
+- Баунти-программа и Руководство для команд
 
-[Make Your DeFi DApp Polkadot-Ready with Acala’s EVM at ETHDenver 2021](https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
+[Подготовьте свой DeFi DApp на Polkadot с помощью EVM Acala на ETHDenver 2021](https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
 
-# **Acala at a High Level**
+# **Acala на высоком уровне**
 
 If you’re new here, Acala is an Ethereum-compatible decentralized finance (DeFi) platform built for scale, leveraging Polkadot’s multi-chain network. Although Acala is a parachain providing layer 1 infrastructure, the Acala team has also built out an entire application layer on top of the parachain. Acala’s applications are built around a stable asset (aUSD) and offers end-user applications such as borrowing, lending, synthetic asset trading, and interest earning, all executed extremely fast with inexpensive gas fees. Developers can also leverage Acala as a platform on which to build their own applications.
 
