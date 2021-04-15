@@ -4,7 +4,7 @@
 
 Авторы статьи Bette Chen и Bryan Chen
 
-![Image for post](https://miro.medium.com/max/1600/0*oEYR17rjpn2J6bQN)
+![Изображение для статьи](https://miro.medium.com/max/1600/0*oEYR17rjpn2J6bQN)
 
 # Прежний подход Acala к оракулам
 
@@ -68,10 +68,10 @@ DApps могут использовать ценовые предложения 
 
 [Представляем Open Oracle Gateway для сети Polkadot](https://medium.com/polkadot-network/introducing-the-open-oracle-gateway-for-polkadot-1cf2e1b71c92)
 
-# Join Acala’s Community
+# Присоединяйтесь к нам в соцсетях:
 
 Website | Medium | Twitter | GitHub | Acala Wiki | Discord | Telegram | Riot Chat А для того, чтобы быть в курсе всех новостей по предстоящему PLO, подпишитесь на новостную рассылку от Acala.
 
-# About Acala
+# Об Acala
 
-Acala - это децентрализованный финансовый центр Polkadot, позволяющий быстро и легко использовать финансовые приложения, доступные каждому. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+Acala - это децентрализованный финансовый центр Polkadot, позволяющий быстро и легко использовать финансовые приложения, доступные каждому. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа для раскрытия ликвидности и поддержки финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
