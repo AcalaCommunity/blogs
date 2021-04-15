@@ -1,22 +1,22 @@
-# Acala Security Audit
+# Аудит безопасности Acala
 
 ![Image for post](https://miro.medium.com/max/8000/1*yhydywHe1k2421hd6xqhFQ.jpeg)
 
-At Acala we believe individual users, not corporations, should be in control of their own finance. Our mission is to support and nurture financial applications of Web 3.0 — the truly decentralized and “trustless” web. A more open and fair financial future is what we hope to enable through our DeFi-optimized Smart Contract platform and our protocols — decentralized stablecoin, trustless liquid staking and decentralized exchange.
+Мы в Acala считаем, что контроль над средствами пользователей должен быть, непосредственно, у самих пользователей, а не в руках корпораций. Нашей миссией является всячески развивать и поддерживать все финансовые приложения Web 3.0 - по-настоящему децентрализованной сети. В наших планах создать более открытое и честное финансовое будущее. Это будет возможно при помощи нашей, оптимизированной под DeFi, платформе смарт-контрактов и наших протоколов - децентрализованного стейблкоина, ликвидного стейкинга и DEX.
 
-That said, the security of Acala’s blockchain and protocols is our highest priority. We have invested considerable efforts to develop a platform and associated protocols that we believe are safe and reliable; we have also engaged the best in the business to help audit our codebase — amongst them are [SRLabs](https://srlabs.de/), [Trail of Bits](https://www.trailofbits.com/) and [Slow Mist](https://www.slowmist.com/en/).
+При этом, безопасность самого блокчейна Acala и протоколов является нашей приоритетной задачей. Мы приложили много усилий для разработки платформы и связанных с ней протоколов, которые, по нашему мнению, являются безопасными и надежными. Также, нами были привлечены лучшие специалисты для аудита нашего кода, среди которых: SRLabs, Trail of Bits и Slow Mist.
 
 ![Image for post](https://miro.medium.com/max/1730/1*hKvzkJVXDmSA9OU7NhFLuA.jpeg)
 
-The scope of the audit included all runtime implementations of Acala including ecosystem module RenVM, the community maintained ORML modules that Acala depends on, as well as the front-end interface for Acala’s DApp. So far SRLabs and Slow Mist have completed their audits, and the Trail of Bits audit is scheduled to commence in Jan 2021.
+Аудиторская проверка была совершена в отношении модуля экосистемы RenVM, поддерживаемых сообществом модулей ORML, от которых зависит сеть Acala, а также внешнего интерфейса для DApp. На данный момент SRLabs и Slow Mist завершили свои аудиты, а вот проверка от Trail of Bits запланирована на январь 2021 года.
 
-# The Report & Fixes
+# Аудиторские заключения SlowMist и SRLabs
 
-The SRLabs audit found 0 Critical, 1 High, 7 Medium and 2 Low-level issues.
+В ходе аудиторской проверки от SRLabs было обнаружено 0 критических ошибок, 1 высокую, 7 средних и 2 проблемы низкого уровня.
 
-The SlowMist audit found 0 Critical, 0 High, 1 Medium and 1 Low-level issue.
+В ходе проведения аудита компанией SlowMist было обнаружено 0 критических, 0 высоких, 1 средняя и 1 проблема низкого уровня.
 
-The one high-level issue regarding weight assignment was a planned task yet to be implemented at the time of the audit. We have now completed benchmarking and finalized appropriate weights for all [extrinsic](https://substrate.dev/docs/en/knowledgebase/learn-substrate/extrinsics) (aka signed/unsigned transactions, and inherits — info included in a block but not gossiped).
+Единственная проблема высокого уровня, найденная во время аудита, была обнаружена нашей командой ещё до самого аудита и с того момента находится в процессе решения. We have now completed benchmarking and finalized appropriate weights for all [extrinsic](https://substrate.dev/docs/en/knowledgebase/learn-substrate/extrinsics) (aka signed/unsigned transactions, and inherits — info included in a block but not gossiped).
 
 All other network security related issues have been addressed and reviewed by the auditors. There are two application-related issues (#5 and #8 in SRLabs report) are general DeFi issues such as DeX front-running, which yet to have a satisfactory solution. We are addressing it from a risk management perspective by setting safe parameters. Beyond that, we are seeking further economic audits that use simulation-based market stress testing so that we can evaluate vulnerabilities and market risks at a scaled volume and value.
 
