@@ -1,14 +1,14 @@
-# Make Your DeFi DApp Polkadot-Ready with Acala’s EVM at ETHDenver 2021
+# Подготовьте свой DeFi DApp на Polkadot с помощью EVM Acala на ETHDenver 2021
 
-## _Earn bounties, meet the team, and access Acala’s EVM for the best of Ethereum and Polkadot/Substrate capabilities_
+## _Зарабатывайте награды, знакомьтесь с командой и получайте доступ к EVM Acala, чтобы получить лучшее от Ethereum и Polkadot / Substrate_
 
 ![Image for post](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
 
-Move over PegaBufficorn! It’s the year of the Spork Marmot. The ETHDenver #BUIDLathon is officially underway — and Acala is thrilled to attend as a presenting sponsor with exciting bounties, hands-on training, and a first look at the Acala EVM.
+Move over PegaBufficorn! Это год Сурка-Спорка. ETHDenver #BUIDLathon официально продолжается - и Acala очень рада принять участие в качестве спонсора с потрясающими наградами, практическим обучением и первым взглядом на Acala EVM.
 
-_Read on to make your Ethereum DApp compatible with Polkadot and beyond._
+_Читайте дальше, чтобы сделать ваш Ethereum DApp совместимым с Polkadot и не только._
 
-# All-in-One DeFi
+# Всё в одном DeFi
 
 Acala is the EVM-compatible DeFi Hub and stablecoin platform of Polkadot. It’s a special economic zone and landing pad for DeFi DApps to get access to the multi-chain Polkadot ecosystem. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
 
