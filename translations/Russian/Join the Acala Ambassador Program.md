@@ -1,6 +1,6 @@
-# Присоединяйтесь к программе Acala Амбассадор
+# Присоединяйтесь к амбассадорской программе Acala
 
-![Image for post](https://miro.medium.com/max/3200/0*X-e7lkvJHnabKk4k)
+![Изображение для публикации](https://miro.medium.com/max/3200/0*X-e7lkvJHnabKk4k)
 
 Acala - это DeFi-хаб Polkadot, который поддерживает открытые финансовые приложения и устраняет необходимость в финансовых посредниках. Миссия проекта Acala - поддерживать и развивать финансовые приложения настоящей децентрализованной сети. Движущей силой этой миссии является обеспечение финансовой стабильности, ликвидности и доступности для всех. Более открытое и более справедливое будущее - это то, что мы надеемся сделать с помощью нашего протокола и стейблкоина.
 
@@ -54,67 +54,67 @@ Acala - это DeFi-хаб Polkadot, который поддерживает о�
 
 ## **Как выглядит данный процесс?**
 
-Вам необходимо будет заполнить и отправить нам заявку на амбассадора. Once we’ve had a chance to review it, and if you match the requirements, we’ll likely have a quick chat to line up on expectations. Should that chat be successful, you’ll move into Apprentice mode. This is the phase of the process where you’ll learn the lay of the land, get to know the community at-large, and start working on tasks.
+Вам необходимо будет заполнить и отправить нам заявку на амбассадорство. Как только у нас будет возможность рассмотреть её и, если вы соответствуете требованиям, мы с вами свяжемся. Если собеседование пройдёт успешно - Вы перейдёте в режим "ученика". На данном этапе вы узнаете об организации проекта, познакомитесь с сообществом в целом и начнете работать над поставленными задачами.
 
-During your Apprenticeship, you’ll have a chance to discuss your progress with core team members, establish goals, and meet other Ambassadors. You’ll also have a chance to define which working group you intend on joining when you become a full-fledged Ambassador.
+Во время обучения у вас будет возможность обсудить свой прогресс с членами основной команды, поставить цели и пообщаться с другими амбассадорами. У вас также будет возможность определиться, к какой рабочей группе вы присоединитесь, когда станете полноценным амбассадором.
 
-After meeting the goals that we define together, and ensuring that you’re fully committed to the cause, we’ll turn your Apprenticeship into a full Ambassadorship. In this new role, you’ll have a range of tasks to complete like:
+Достигнув целей, которые мы вместе поставим и, убедившись, что вы преисполнены решимостью, мы переведём вас из режима "ученика" в статус полноценного амбассадора. В этой новой роли у вас будет ряд задач для выполнения:
 
-- Contributing code and/or improving documentation related to the Acala
-- Organizing meetups and workshops for your local communities
-- Creating blog posts, guides, videos and other collateral about Acala, the web3 financial hub
-- Representing your region on important Web 3.0 projects
-- Providing a warm welcome, and mentorship, to newcomers in the community
-- Participating in calls and tasks that help drive the ecosystem forward
-
-
-
-## There are five primary working groups for Acala Ambassadors:
+- Участие в работе с кодом и / или улучшение документации, связанной с Acala
+- Организация митапов и семинаров для ваших местных сообществ
+- Создание постов в блогах, мануалов, видео и других материалов об Acala, финансовом хабе web3
+- Представление вашего региона в важных проектах Web 3.0
+- Теплый прием и наставничество для новых пользователей в сообществе
+- Участие в вызовах и задачах, которые помогают экосистеме двигаться вперёд
 
 
 
-### **Event Organizer**
-
-Meetup Ambassadors are a key part of creating and growing web3 communities around the world. Identifying local blockchain enthusiasts and educating them about Acala, this is a crucial role in web3 onboarding. Meetup organizers take offline and online networking to the next level by guiding both beginners and dedicated crypto users through their journey with Acala and the infinite possibilities for cross chain value exchange.
+## Для амбассадоров Acala существует пять основных рабочих групп:
 
 
 
-### **Content Creator**
+### **Организатор Мероприятий**
 
-Content Creators focus on educating the community about the project through engaging, informative and engaging content such as videos, infographics, blog posts etc.
-
-
-
-### **Blockchain Developer**
-
-There are ample opportunities to get involved with Acala from a software development perspective. There will be many bounties and projects that you can contribute to along with Acala’s core development team.
+Митап Амбассадоры являются ключевой частью создания и роста сообществ web3 по всему миру. Найти местных блокчейн-энтузиастов и познакомить их с Acala - важнейшая роль в адаптации web3. Организаторы митапов выводят оффлайн и онлайн нетворкинг на новый уровень, направляя как новичков, так и продвинутых пользователей криптовалют с Acala к безграничным возможностям для обмена ценностями.
 
 
 
-### **Community Moderator**
+### **Создатель Контента**
 
-Moderators support the project by maintaining the official community channels and ensuring they are always informative, productive and provide a safe and welcoming place for the community to come together.
-
-
-
-### **Translator**
-
-Translators are a vital part of our work by ensuring access to Acala for everyone. Translating and disseminating content for all non-English speaking community members is a valuable contribution not just for Acala, but the web3 community at large.
+Создатели контента сосредотачиваются на информировании сообщества о проекте с помощью привлекательного, информативного и интересного контента, такого как видео, инфографика, сообщения в блогах и т. д.
 
 
 
-### **Apply**
+### **Блокчейн-девелоперы**
 
-If you would like to get involved and become an Acala Ambassadors and help us with your skills and connections please fill out the form on this link: [**Apply Here**](http://acala.hubspotpagebuilder.com/acala-ambassador-program)
-
-After filling the form out you will be contacted to find the best way we can collaborate together. In the meantime, join us in our community channels on [Discord](https://discord.com/invite/vdbFVCH) or [Telegram](https://t.me/acalaofficial).
-
-![Image for post](https://miro.medium.com/max/2402/0*qGT3mWl2DgxVsAy6.png)
+У вас есть большие возможности принять участие в Acala в области разработки программного обеспечения. Будет много баунти и проектов, в которые вы сможете внести свой вклад вместе с основной командой разработчиков Acala.
 
 
 
-# About Acala
+### **Модератор Сообщества**
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Модераторы поддерживают проект, ведя официальные каналы сообщества и гарантируя, что они всегда сохраняют свою информативность, продуктивность и обеспечивают безопасное и дружественное место для взаимодействия сообщества.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+
+
+### **Переводчик**
+
+Переводчики - важная часть нашей работы по обеспечению доступа к Acala для всех. Переводы и распространение контента для всех, кто не говорит по-английски, является ценным вкладом не только для Acala, но и для сообщества web3 в целом.
+
+
+
+### **Подать заявку**
+
+Если вы хотите принять участие и стать амбассадором Acala, помочь нам своими навыками и связями, заполните форму по этой ссылке: [**Подать заявку**](http://acala.hubspotpagebuilder.com/acala-ambassador-program)
+
+После заполнения формы с вами свяжутся и мы найдём наилучший способ сотрудничества. А пока присоединяйтесь к нам в каналах сообщества в [ Discord ](https://discord.com/invite/vdbFVCH) или [ Telegram ](https://t.me/acalaofficial).
+
+![Изображение для публикации](https://miro.medium.com/max/2402/0*qGT3mWl2DgxVsAy6.png)
+
+
+
+# Об Acala
+
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать и создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
+
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
