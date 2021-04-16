@@ -1,8 +1,8 @@
-# **SubQuery Integrates Acala to Aggregate and Serve DeFi Data to Polkadot and Kusama Builders**
+# **SubQuery интегрирует Acala для агрегирования и обслуживания данных DeFi в Polkadot и Kusama Builders**
 
 ![](https://miro.medium.com/max/2048/1*cg4kJs0WEcyPP73EAtHomA.png)
 
-Last week [SubQuery](https://www.subquery.network/) released the next stage of their project, the [SubQuery Explorer](https://explorer.subquery.network/). This week, Acala and SubQuery have finalized an integration to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost.
+На прошлой неделе [ SubQuery ](https://www.subquery.network/) выпустили следующий этап развития своего проекта - [ SubQuery Explorer ](https://explorer.subquery.network/). На этой неделе Acala и SubQuery завершили интеграцию, позволяющую пользователям и разработчикам запрашивать и извлекать данные из центра DeFi Acala для Polkadot всего за несколько минут и бесплатно.
 
 SubQuery is a data aggregation layer that will operate between the layer-1 blockchain (Acala) and DApp layer. The solution aggregates and organizes data from Acala and other blockchains, serving up well-structured data for developers to use for a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
 
