@@ -10,43 +10,43 @@ _Читайте дальше, чтобы сделать ваш Ethereum DApp с�
 
 # Всё в одном DeFi
 
-Acala - это EVM-совместимый DeFi Hub и стейблкоин на Polkadot. Это особая экономическая зона и площадка для DeFi DApps, позволяющая получить доступ к мультичейновой экосистеме Polkadot. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
+Acala - это EVM-совместимый DeFi Hub и стейблкоин на Polkadot. Это особая экономическая зона и площадка для DeFi DApps, позволяющая получить доступ к мультичейновой экосистеме Polkadot. С набором протоколов DeFi, включая стейблкоин, обеспеченный такими активами как Bitcoin и DOT, производный инструмент для размещения ставок (LDOT), который позволяет пользователям стейкать и получать доход в DeFi, а также децентрализованный обменник с низкими комиссиями, Acala - это универсальная биржа для мультичейновых примитивов DeFi.
 
-# Introducing the Acala EVM
+# Представляем Acala EVM
 
-With the [Acala EVM](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack), developers can enable Solidity contracts to be deployed on Acala and Polkadot with minimal changes. What’s more, the EVM offers distinct features in addition to being faster and cheaper, such as aggregated cross-chain liquidity, paying fees in any token, and an on-chain automatic scheduler that enables use cases like subscriptions and recurring payments.
+С помощью Acala EVM разработчики могут развернуть контракты Solidity на Acala и Polkadot с минимальными изменениями. Более того, EVM предлагает различные функции в дополнение к тому, что она быстрее и дешевле, например, агрегированная кросс-чейновая ликвидность, оплата газа любым токеном и автоматический планировщик в цепи, благодаря которому можно использовать подписки и регулярные платежи.
 
-# Leverage EVM on Your Build
+# Используйте EVM в своих разработках
 
-We’re excited to share our knowledge and experience while supporting Ethereum DApps to open shop on Polkadot and beyond. Whether you’re familiar with Solidity, Rust or Substrate — or you’re just getting started — our team is here to help you extend your project’s reach with an Acala’s EVM deployment. Ready to #BUIDL?
+Мы рады делиться своими знаниями и опытом, поддерживая Ethereum DApps для открытия магазина на Polkadot и других платформах. Независимо от того, знакомы ли вы с Solidity, Rust или Substrate - или только начинаете - наша команда готова помочь вам расширить охват вашего проекта с помощью развертывания Acala EVМ. Готовы к #BUIDL?
 
-- Visit Acala’s [**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**.**
-- Check out [**ETHDenver’s Bounty Hub**](https://www.ethdenver.com/post/acala) and [**Team Guidelines**](https://www.ethdenver.com/judging)**.**
-- Read the in-depth Acala EVM section of the [**Acala wiki**](https://wiki.acala.network/learn/basics/acala-evm)**.**
-- Visit our **virtual booth** in the ETHDenver Moon Shill Zone.
-- Watch our [kick-off **webinar**](https://www.crowdcast.io/e/acala-ethdenver-2021) to make your DApp Polkadot-ready.
+- Посмотрите руководство по Acala ETHDenver Hacker.
+- Ознакомьтесь с Bounty Hub и руководством для команды ETHDenver.
+- Прочтите подробный раздел Acala EVM в Acala wiki.
+- Посетите наш виртуальный стенд в зоне ETHDenver Moon Shill Zone.
+- Посмотрите наш стартовый вебинар, чтобы подготовить свой DApp к Polkadot.
 
-[ETHDenver Kickoff - Deploying your Ethereum Project on Acala & Polkadot - Crowdcast](https://www.crowdcast.io/e/acala-ethdenver-2021)
+[ETHDenver Kickoff - Размещение вашего проекта Ethereum на Acala и Polkadot - Crowdcast](https://www.crowdcast.io/e/acala-ethdenver-2021)
 
-# Bounties
+# Награды
 
-We’re offering two rewards for teams that demonstrate their creativity and technical expertise while contributing to the Web3 ecosystem. BUIDLers can compete for one or both bounties for a reward pool totaling $3000. We’re especially excited to see utilization of any special features and/or tech from other ETHDenver sponsors.
+Мы предлагаем две награды командам, которые продемонстрируют свой творческий потенциал и технический опыт, внеся свой вклад в экосистему Web3. BUIDLers (разработчики) смогут соревноваться за одну или обе награды на общую сумму 3000 долларов. Мы особенно рады видеть использование каких-либо специальных функций и / или технологий от других спонсоров ETHDenver.
 
-## **Deploy a DApp on Polkadot Using the Acala EVM**
+## **Развертывание DApp на Polkadot с помощью Acala EVM**
 
-**Reward: $1000**
+**Награда: $1000**
 
-For this bounty, teams are asked to deploy Solidity contracts on the Rust-based Polkadot chain, tapping into cross-chain liquidity in the Polkadot ecosystem. We’re keen to see what’s possible. The main judging criteria is the completeness of code and a working DApp. We’ll happily accept contracts you’ve built for other bounties and prizes.
+Для этой награды командам предлагается развернуть контракты Solidity в цепи Polkadot на базе Rust, используя кросс-чейновую ликвидность в экосистеме Polkadot. Мы очень хотим увидеть, что осуществимо. Главными критериями оценки является полнота кода и работающий DApp. Мы с радостью примем ваши контракты, которые вы готовили и на другие награды и баунти.
 
-## **Build a DApp Using the Acala EVM with the On-Chain Automatic Scheduler Function**
+## **Создайте DApp используя Acala EVM с помощью автоматического планировщика цепи**
 
-**Reward: $2000**
+**Награда: $2000**
 
-Imagine what you can do with the on-chain automatic scheduler. You can now build a Charity DAO to accept automatic recurring donations; deploy a web3 version of Stripe for subscription and payment services, or simply incorporate subscription in your current DApp; certainly, you can up level your DeFi DApp and automatically take and distribute profit, re-invest, and/or liquidate risky positions etc. There’re so many possibilities.
+Представьте, что вы можете делать с автоматическим планировщиком цепи. Теперь вы можете создать благотворительную DAO, чтобы принимать автоматические регулярные взносы; развернуть веб-версию Stripe для подписки и платежных услуг или просто включить подписку в свой текущий DApp; конечно, вы можете повысить уровень своего DeFi DApp и автоматически получать и распределять прибыль, реинвестировать и / или ликвидировать рискованные позиции и т. д. Здесь так много возможностей.
 
-We’ll happily accept DApps built for other bounties or any of the three track prizes that incorporate this Automatic Scheduler Function. We’re here to help you succeed and build a winning DApp at ETHDenver.
+Мы также с радостью примем DApps, созданные для других наград, или любые из трех призов, которые включают функцию автоматического планировщика. Мы здесь, чтобы помочь вам достичь успеха и создать победное децентрализованное приложение на ETHDenver.
 
-# Level Up Your Project
+# Повысьте уровень вашего проекта
 
 It doesn’t stop here. Take advantage of additional support and resources to facilitate your journey into a new DeFi ecosystem. Our team looks forward to sharing your project to a much wider audience and supporting your launch on [Acala](https://acala.network) and Polkadot. For more info, reach out on the official [Acala Discord](https://discord.gg/WZFZkqSzYa).
 
