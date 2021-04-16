@@ -10,7 +10,7 @@ _Читайте дальше, чтобы сделать ваш Ethereum DApp с�
 
 # Всё в одном DeFi
 
-Acala is the EVM-compatible DeFi Hub and stablecoin platform of Polkadot. It’s a special economic zone and landing pad for DeFi DApps to get access to the multi-chain Polkadot ecosystem. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
+Acala - это EVM-совместимый DeFi Hub и стейблкоин на Polkadot. Это особая экономическая зона и площадка для DeFi DApps, позволяющая получить доступ к мультичейновой экосистеме Polkadot. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
 
 # Introducing the Acala EVM
 
