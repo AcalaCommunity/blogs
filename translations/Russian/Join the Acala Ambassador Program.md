@@ -45,16 +45,16 @@ Acala - это DeFi-хаб Polkadot, который поддерживает о�
 
 **Основные преимущества:**
 
-- **Funding —** early bird access to earning opportunities like bounties and meetup organizing grants
-- **Access —** you’ll get to attend Acala and Polkadot events, benefit from Ambassador focused programming and training as well as access to core Acala team members.
-- **Swag** — It’s all about the swag and you’ll be first in line to get the latest and greatest branded items.
-- **Being part of a true community** — Web3 is all about community and the bonds we share in building a new world. This is your tribe, these are your peers and you are playing a key role in bringing ideas into reality.
+- Финансирование - ранний доступ к баунти-программам и гранты на организацию митапов.
+- Доступ - вы сможете посещать мероприятия Acala и Polkadot, пользоваться программами и обучением, ориентированными на амбассадоров, а также быть на связи с основным членам команды Acala.
+- Мерч - который очень важен, вы будете первым в очереди на получение новейших фирменных товаров.
+- Быть частью настоящего сообщества - Web3 - это сообщество и те связи, которые мы разделяем при построении нового мира. Это ваш клан и вы играете ключевую роль в воплощении идей в жизнь.
 
 
 
-## **What does the process look like?**
+## **Как выглядит данный процесс?**
 
-You should fill in and send an Ambassador application our way. Once we’ve had a chance to review it, and if you match the requirements, we’ll likely have a quick chat to line up on expectations. Should that chat be successful, you’ll move into Apprentice mode. This is the phase of the process where you’ll learn the lay of the land, get to know the community at-large, and start working on tasks.
+Вам необходимо будет заполнить и отправить нам заявку на амбассадора. Once we’ve had a chance to review it, and if you match the requirements, we’ll likely have a quick chat to line up on expectations. Should that chat be successful, you’ll move into Apprentice mode. This is the phase of the process where you’ll learn the lay of the land, get to know the community at-large, and start working on tasks.
 
 During your Apprenticeship, you’ll have a chance to discuss your progress with core team members, establish goals, and meet other Ambassadors. You’ll also have a chance to define which working group you intend on joining when you become a full-fledged Ambassador.
 
