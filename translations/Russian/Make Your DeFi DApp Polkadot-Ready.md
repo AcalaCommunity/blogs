@@ -2,9 +2,9 @@
 
 ## _Зарабатывайте награды, знакомьтесь с командой и получайте доступ к EVM Acala, чтобы получить лучшее от Ethereum и Polkadot / Substrate_
 
-![Image for post](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
+![Изображение для публикации](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
 
-Move over PegaBufficorn! Это год Сурка-Спорка. ETHDenver #BUIDLathon официально продолжается - и Acala очень рада принять участие в качестве спонсора с потрясающими наградами, практическим обучением и первым взглядом на Acala EVM.
+Пройдёмся по PegaBufficorn! Это год Сурка-Спорка. ETHDenver #BUIDLathon официально продолжается - и Acala очень рада принять участие в качестве спонсора с потрясающими наградами, практическим обучением и первым взглядом на Acala EVM.
 
 _Читайте дальше, чтобы сделать ваш Ethereum DApp совместимым с Polkadot и не только._
 
@@ -48,12 +48,12 @@ Acala - это EVM-совместимый DeFi Hub и стейблкоин на 
 
 # Повысьте уровень вашего проекта
 
-It doesn’t stop here. Take advantage of additional support and resources to facilitate your journey into a new DeFi ecosystem. Our team looks forward to sharing your project to a much wider audience and supporting your launch on [Acala](https://acala.network) and Polkadot. For more info, reach out on the official [Acala Discord](https://discord.gg/WZFZkqSzYa).
+На этом не всё. Воспользуйтесь дополнительной поддержкой и ресурсами, чтобы способствовать вашему путешествие в новую экосистему DeFi. Наша команда с нетерпением ждет возможности поделиться вашим проектом с гораздо более широкой аудиторией и поддержать ваш запуск на Acala и Polkadot. Для получения дополнительной информации, обратитесь к официальному [Acala Discord](https://discord.gg/WZFZkqSzYa).
 
-![Image for post](https://miro.medium.com/max/2402/1*xKdKCXlMPnyTQqZT5XlD_Q.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/1*xKdKCXlMPnyTQqZT5XlD_Q.png)
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать и создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых инструмкнтов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовые инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
