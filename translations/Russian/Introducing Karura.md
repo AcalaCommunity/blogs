@@ -6,19 +6,19 @@
 
 Феникс символизировал возрождение, обновление и переосмысление как повторяющуюся тему на протяжении всей истории человечества. Люди давно чтут эти истории надежды, которые успокаивают их страхи и гарантируют им более светлое и лучшее будущее. На протяжении веков Феникс появлялся в древних текстах, символизируя такие понятия, как возрождение, бессмертие, благодать, воскресение, силу и процветание в различных культурах: от греческой - до персидской и китайской. Феникс со временем укрепился как символ способности восставать из пепла снова и снова.
 
-Само имя Карура образуется от божественного существа на японском языке, происходящего от расы гигантских птиц в индуизме. Согласно японской мифологии, карура является огромной огнедышащей птицей, которая идеально соответствует смелым намерениям сети Karura. На логотипе Karura изображён Феникс. Built as a sister network to Acala with virtually the same code, Karura will be a network constantly reinventing itself and evolving as the latest technologies are deployed in the Acala ecosystem. Just like Acala’s purpose on Polkadot, Karura will serve the [Kusama](http://kusama.network) community as its primary decentralized finance (DeFi) hub. Going forward, Acala and Karura will continue to operate in parallel and serve the users of the Polkadot and Kusama communities. Once Kusama is bridged to Polkadot, Karura and Acala will also be interoperable with each other.
+Само имя Карура образуется от божественного существа на японском языке, происходящего от расы гигантских птиц в индуизме. Согласно японской мифологии, карура является огромной огнедышащей птицей, которая идеально соответствует смелым намерениям сети Karura. На логотипе Karura изображён Феникс. Созданная как дочерняя сеть Acala, с практически тем же кодом, Karura будет сетью, постоянно обновляющейся и развивающейся по мере появления новейших технологий в экосистеме Acala. Подобно тем функциям, которые предназначены для Acala в Polkadot, Karura будет выполнять идентичные, только для [ Kusama ](http://kusama.network) в качестве основного центра децентрализованных финансов (DeFi). В дальнейшем Acala и Karura будут продолжать работать параллельно и удовлетворять потребности пользователей сообществ Polkadot и Kusama. Как только Kusama соединится с Polkadot, Karura и Acala также будут взаимодействовать друг с другом.
 
-Now a little about why we chose Kusama for Karura. Kusama is an industry-leading, multi-chain “layer zero” network, on which many parachains, including Karura, will be built in order to inherit plug-and-play security from the network’s validators and to experience interoperability with all blockchains on and bridged to Kusama. Users and builders are searching for a DeFi platform that allows them to begin building and using DeFi applications that can scale, don’t have exorbitant transaction fees, and can communicate data and value between other chains instead of operating in isolation. Karura plans to step into this role for the Kusama community as Acala takes on this role for the Polkadot community.
+Сейчас немного о том, почему мы выбрали сеть Kusama для Karura. Kusama - это ведущая в отрасли мультичейновая сеть «нулевого уровня», в которой будут построены многие парачейны, включая Karura, чтобы унаследовать безопасность plug-and-play от валидаторов сети и получить взаимодействие со всеми включенными блокчейнами и соединиться мостом с Kusama. Пользователи и разработчики в поисках платформы DeFi, которая позволит им начать создавать и использовать приложения DeFi, которые могут масштабироваться, в которых нет огромных комиссий за транзакции и могут обмениваться данными и активами между другими чейнами вместо того, чтобы работать изолированно. Karura планирует взять на себя эту роль для сообщества Kusama, поскольку Acala берет на себя эту роль для сообщества Polkadot.
 
-As far as capabilities, the possibilities will be up to the community of builders, paving the way for new use cases and applications on Karura and Acala. Karura will begin with many ready-to-use applications, and since Karura is a blockchain platform, many developers will also deploy Apps on top of Karura’s infrastructure. Karura will begin its life on Kusama with the apps and use cases below. You can [try it now](https://apps.acala.network/) on Karura and Acala’s testnet, called Mandala.
+Что касается возможностей, они будут зависеть от сообщества разработчиков, открывая возможности для новых вариантов использования и приложений на Karura и Acala. Karura начнет с множества готовых к использованию приложений, и, поскольку Karura является блокчейн-платформой, многие разработчики также будут разворачивать приложения поверх инфраструктуры Karura. Karura начнет свой путь на Kusama с приложениями и кейсами использования ниже. Вы можете [ попробовать это сейчас ](https://apps.acala.network/) в тестовой сети Karura и Acala, которая называется Mandala.
 
-1.  **Staking derivative L-KSM** (Liquid KSM to release liquidity from staked KSM for DeFi use cases)
-2.  **Stablecoin credit facility** (KSM and L-KSM used as primary collateral asset)
-3.  **Earning yield and interest**
-4.  **Trading on decentralized exchange**
-5.  **On-chain governance**
-6.  **On-chain treasury**
-7.  **Native oracle price feed**
+1.  ** Производный инструмент для стекинга L-KSM ** (ликвидный KSM для выпуска ликвидности из застейканных KSM для использования в DeFi)
+2.  ** Кредитование стейблкоином ** (KSM и L-KSM используются в качестве основного залогового актива)
+3.  **Доходный фарминг и проценты**
+4.  **Торговля на децентрализованной бирже (DEX)**
+5.  **Ончейн управление**
+6.  **Ончейн казначейство**
+7.  **Шлюз оракулов**
 
 Karura and Acala will bring significant change to the status quo with which the DeFi community has been forced to become accustomed. Karura will bring to users the ability to:
 
