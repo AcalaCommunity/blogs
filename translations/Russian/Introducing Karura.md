@@ -20,9 +20,9 @@
 6.  **Ончейн казначейство**
 7.  **Шлюз оракулов**
 
-Karura and Acala will bring significant change to the status quo with which the DeFi community has been forced to become accustomed. Karura will bring to users the ability to:
+Karura и Acala внесут существенные изменения в статус-кво, к которому сообщество DeFi было вынуждено привыкнуть. Karura принесет пользователям возможность:
 
-- **Unlock staking liquidity:** Trustless staking derivatives will allow users who are staking KSM will be able to issue LKSM (liquid KSM), which can be used in any of the DeFi applications mentioned above or elsewhere in the cross-chain ecosystem.
+- ** Разблокируйте ликвидность стейкинга: ** Деривативы стекинга без доверия позволят пользователям, которые стейкают KSM, смогут эмитировать LKSM (ликвидный KSM), который можно использовать в любом из приложений DeFi, упомянутых выше, или где-либо еще в кросс-чейн экосистеме.
 
 - **Unlock cross-chain liquidity**: Users will be able to bring BTC and ETH into Karura through bridging solutions and pay fees in those wrapped tokens. This removes the need on legacy networks to pay fees in the network’s native token, such as ETH, instead of allowing users to simply pay fees with the token they’re moving. No more requirement to use the network’s native token for fees.
 
