@@ -24,20 +24,20 @@ Karura и Acala внесут существенные изменения в ст
 
 - ** Разблокируйте ликвидность стейкинга: ** Деривативы стекинга без доверия позволят пользователям, которые стейкают KSM, смогут эмитировать LKSM (ликвидный KSM), который можно использовать в любом из приложений DeFi, упомянутых выше, или где-либо еще в кросс-чейн экосистеме.
 
-- **Unlock cross-chain liquidity**: Users will be able to bring BTC and ETH into Karura through bridging solutions and pay fees in those wrapped tokens. This removes the need on legacy networks to pay fees in the network’s native token, such as ETH, instead of allowing users to simply pay fees with the token they’re moving. No more requirement to use the network’s native token for fees.
+- ** Разблокируйте кросс-чейн ликвидность **: пользователи смогут вводить BTC и ETH в Karura через мостовые решения и оплачивать комиссию этими обернутыми токенами (wrapped). Это устраняет необходимость, как в старых сетях, оплачивать комиссии с помощью собственного токена сети, например как токен ETH служит газом в сети Ethereum, вместо того, чтобы позволить пользователям просто оплачивать сборы с помощью токена, который они перемещают. Больше не требуется использовать нативный токен сети для оплаты комиссий.
 
-- **No more unbonding period**: Karura will remove the need for users to wait 7 days on Kusama for unbonding KSM, just as Acala will do the same on Polkadot.
+- ** Больше не будет анбонд-периода **: в Karura не будет необходимости ждать анлока токенов со стейкинга в течении 7 дней, как это происходит в Kusama с токеном KSM, точно так же и Acala сделает, только на Polkadot.
 
-- **Latest technology releases**: Being the bold and risk-taking sister network of Acala, tech releases will always go to Karura first. Karura users will always be getting the latest tech in their hands from the Karura and Acala ecosystem.
+- ** Последние технологические обновления **. Будучи смелой и рискованной дочерней сетью Acala, технические релизы и обновления всегда будут, в первую очередь, обкатаны в Karura. Пользователи Karura всегда будут первыми, кто опробует новейшие технологии из экосистемы Karura и Acala.
 
-## **Developing on Karura**
+## **Разработка на Karura**
 
-Kusama has been said to be a ‘cypherpunk heaven’ for developers looking to move fast and push the limits of what’s possible. Karura plans to integrate into this vibrant developer community, providing Kusama and Substrate developers with world-class tools and platforms for financial applications. Developers will find many new features, including a few below:
+Kusama считается «райским уголком шифропанка» для разработчиков, которые хотят действовать быстро и раздвигать границы возможного. Karura планирует интегрироваться в это динамичное сообщество девелоперов, предоставляя разработчикам Kusama и Substrate инструменты и платформы высшего уровня для финансовых приложений. Разработчики найдут много новых фич, в том числе некоторые из них:
 
-- **Solid User Base and Building Blocks:** Kurura offers a multi-collateral stablecoin, Liquid KSM (LKSM) liquidity, and a DEX as primitives (aka building blocks) to build on top of. Karura will also have access to Bitcoin, Ethereum and other networks through bridges. As a parachain connected to Kusama’s Relay Chain, Karura will have the ability to tap into Kusama’s cross-chain ecosystem.
+- ** Сильная база пользователей: ** Kurura предлагает стейблкоин, ликвидность Liquid KSM (LKSM) и DEX в качестве примитивов (то есть строительных блоков) для построения поверх. Karura также будет иметь доступ к Bitcoin, Ethereum и другим сетям через мосты. Как парачейн, подсоединённый к релейной цепи Kusama, Karura будет иметь возможность подключиться к кросс-чейн экосистеме Kusama.
 
-- **Sophisticated Customization:** Using the blockchain-building framework, Substrate, with which Karura was built, developers can build independent economic models and incorporate your own token as a fee token.
-- **Optimized for DeFi:** Developers will have quality of service from the native oracle price feed built into the code, can build independent economic models using Substrate, and can use Karura’s flex-fee capability to have fees paid in any token.
+- ** Сложная настройка: ** Используя структуру построения блокчейнов, Substrate, с помощью которого была построена Karura, разработчики могут создавать независимые экономические модели и включать свой собственный токен в качестве токена оплаты комиссий.
+- ** Оптимизировано для DeFi: ** Разработчики будут получать качество услуг на основе встроенного в код оракула цен, смогут строить независимые экономические модели с использованием Substrate и смогут оплачивать комиссий в любом токене.
 - **Scalable Cross-chain Liquidity:** Karura offers high capacity and throughput and liquidity from any chain bridged to the network. We expect Karura will be bridged initially to Polkadot, Bitcoin, and Ethereum.
 
 ## **What’s next for Karura**
