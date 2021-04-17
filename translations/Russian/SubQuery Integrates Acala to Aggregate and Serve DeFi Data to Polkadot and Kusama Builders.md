@@ -6,40 +6,40 @@
 
 SubQuery - это уровень агрегации данных, который будет работать между блокчейном уровня-1 (Acala) и уровнем DApp. Решение собирает и упорядочивает данные из Acala и других блокчейнов, предоставляя хорошо структурированные данные разработчикам для использования в широком спектре проектов. Эта услуга позволяет разработчикам DApp сосредоточиться на их основных вариантах использования и внешнем интерфейсе, не тратя время на создание настраиваемого серверного интерфейса для обработки данных.
 
-Acala is a firm believer and a long-term builder for the multi-chain future — reducing liquidity fragmentation, increasing composability, and enabling DeFi accessibility to everyone. Acala is a specialized blockchain focusing on decentralized finance (DeFi), and created multiple DeFi primitives that became a DeFi hub and infrastructure serving the Polkadot and Kusama ecosystems. The team has built products including a multi-collateralized stablecoin (aUSD — The Acala Dollar), an automated market maker (AMM) DEX, a tokenized staked asset called Liquid DOT (LDOT), and implemented a bring-your-own-gas feature allowing gas fees to be payable in any supported assets such as stablecoins. Acala’s parachain plans to play the role of DeFi hub for Polkadot and a landing pad that aggregates assets and liquidity from a variety of blockchains.
+Acala твердо верит и является долгосрочным строителем мультичейнового будущего - уменьшения фрагментации ликвидности и обеспечение доступности DeFi для всех. Acala - это специализированный блокчейн, ориентированный на децентрализованные финансы (DeFi), который создал несколько примитивов DeFi, которые стали центром DeFi и инфраструктурой, обслуживающей экосистемы Polkadot и Kusama. Команда создала продукты, включая стейблкоин с множественным обеспечением (aUSD - доллар Акала), автоматизированного маркет-мейкера (AMM) DEX, токенизированный актив под названием Liquid DOT (LDOT), а также реализовала функцию «принеси свой собственный газ». разрешение на оплату газа любыми поддерживаемыми активами, например, стейблкоинами. Парачейн Acala планирует играть роль концентратора DeFi для Polkadot и площадки для сбора активов и ликвидности из различных блокчейнов.
 
-Today when you access the [SubQuery Explorer](https://explorer.subquery.network/) you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
+Сегодня, открыв [ SubQuery Explorer ](https://explorer.subquery.network/), вы увидите новый проект Acala SubQuery. SubQuery динамически отслеживает все внешние данные, созданные в Acala, и может быстро отображать производную агрегированную статистику для следующего:
 
-- Historical Data on liquidity changes (broken down by providers)
-- Historical Data on all cross chain asset swaps
-- Transfer history
+- Исторические данные об изменении ликвидности (по поставщикам)
+- Исторические данные обо всех межсетевых обменах активами
+- История транзакций
 
-![Image for post](https://miro.medium.com/max/3200/0\*u-9ATQbxUEyfHN70)
+![Изображение для публикации](https://miro.medium.com/max/3200/0\*u-9ATQbxUEyfHN70)
 
-You can play around with the Acala SubQuery Graph using the [Explorer](https://explorer.subquery.network/) without implementing anything in code. Additionally, we’ve documented the types that you can specify in each GraphQL request when analysing Acala’s data.
+Вы можете поэкспериментировать с Acala SubQuery Graph, используя [ Explorer ](https://explorer.subquery.network/), не добавляя ничего в код. Кроме того, мы задокументировали типы, которые вы можете указывать в каждом запросе GraphQL при анализе данных Acala.
 
-**A future with a live Acala SubQuery Graph**
+**Будущее с Acala SubQuery Graph**
 
-Below is a simple example of how a user can quickly and easily see the previous 5 transfer events using the ACA token over the Acala Mandala network. You can see here that we use simple GraphQL language to sort and retrieve this data to any client. DApps can use this to monitor loan positions, and jump on auctions etc to help liquidate collaterals.
+Ниже приведен простой пример того, как пользователь может быстро и легко увидеть предыдущие 5 транзакций, используя токен ACA по сети Acala Mandala. Вы можете видеть здесь, что мы используем простой язык GraphQL для сортировки и извлечения этих данных любому клиенту. DApps могут использовать это для отслеживания позиций по кредиту, переходить на аукционы и т. д., чтобы помочь ликвидировать залоговое обеспечение.
 
-![Image for post](https://miro.medium.com/max/2492/0\*X0kS4uS4PipqsmQQ)
+![Изображение для публикации](https://miro.medium.com/max/2492/0\*X0kS4uS4PipqsmQQ)
 
-A slightly more complex example follows, where we inspect a single account and retrieve all token swap events made by it. A portfolio DApp might use this data to create an overview of the holder’s account and token performance, revenue from staking, liquidity provisioning, and expenses on borrowing.
+Далее следует немного более сложный пример, в котором мы проверяем одну учетную запись и извлекаем все события обмена токенами, произведенные ею. Портфельный DApp может использовать эти данные для создания обзора учетной записи держателя и производительности токена, доходов от размещения ставок, предоставления ликвидности и расходов по займам.
 
-![Image for post](https://miro.medium.com/max/2500/0\*R6CBoBkWRtcWpG4i)
+![Изображение для публикации](https://miro.medium.com/max/2500/0\*R6CBoBkWRtcWpG4i)
 
-![Image for post](https://miro.medium.com/max/2402/0\*3By-wOEsXARygX2V.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/0\*3By-wOEsXARygX2V.png)
 
-**SubQuery — Transform and Query the World’s Data for a Web3 future.**
+**SubQuery - преобразование и запрос мировых данных для будущего Web3.**
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It’s mission is to ease access to Polkadot network data by providing infrastructure services to help developers achieve more.
+[ SubQuery Explorer ](https://explorer.subquery.network/) - это размещенная в Интернете служба, которая обеспечивает доступ к опубликованным проектам SubQuery, созданными участниками со всего мира и управляемая группой SubQuery. Миссия проекта - облегчить доступ к сетевым данным Polkadot путем предоставления инфраструктурных услуг, чтобы помочь разработчикам добиться большего.
 
-[SubQuery](https://www.subquery.network/) allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+[ SubQuery ](https://www.subquery.network/) позволяет каждой команде Substrate / Polkadot обрабатывать и запрашивать свои данные. Проект вдохновлен ростом протоколов данных, обслуживающих уровень приложений, и его цель - помочь проектам Polkadot / Substrate создавать лучшие приложения, позволяя любому пользователю быстрее находить и использовать данные. Сегодня любой может запрашивать и извлекать сетевые данные Polkadot всего за несколько минут и бесплатно.
 
 [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-**About Acala**
+**Об Acala**
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать и создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
