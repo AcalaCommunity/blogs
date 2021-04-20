@@ -1,39 +1,39 @@
-# The First Successful Cross-Chain Message Passing (XCMP) Transaction on Polkadot Testnet
+# Первая успешная транзакция межсетевого обмена сообщениями (XCMP) в тестовой сети Polkadot
 
-## Plasm Network & Acala have completed the first XCMP transaction on Polkadot’s testnet Rococo
+## Plasm Network и Acala завершила первую транзакцию XCMP в тестовой сети Polkadot Rococo
 
-![Image for post](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
+![Изображение для публикации](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
 
-During the night, we witnessed a special piece of crypto history inside Polkadot.js and a telegram chat amongst the developers of Plasm Network and Acala. The two teams, planning to become Polkadot and Kusama parachains in the near future, have successfully connected through Polkadot’s parachain testnet and transferred Plasm’s token (PLM) cross-chain using [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (cross-chain message passing) functionality.
+Ночью мы стали свидетелями особой части истории криптографии внутри Polkadot.js и телеграмм-чата между разработчиками Plasm Network и Acala. Две команды, планирующие в ближайшем будущем стать парачейнами Polkadot и Kusama, успешно подключились через тестовую сеть парачейна Polkadot и передали кросс-чейном токены Plasm (PLM), используя функцию [ XCMP ](https://wiki.polkadot.network/docs/en/learn-crosschain) (передача сообщений между цепями). .
 
-![Image for post](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
+![Изображение для публикации](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
 
-## **How We Got Here**
+## **Как мы сюда добрались**
 
-Acala built the xtoken ([github](https://github.com/open-web3-stack/open-runtime-module-library/tree/sw/rococo-v1/xtokens)) Substrate pallet, made for cross-chain token transfers within the Polkadot and Kusama ecosystem. We since open-sourced this pallet and made it a ‘common good’ for any parachain to integrate into their project. We also recently completed a cross-chain token transfer between the Acala testnet and Laminar testnet with cross-chain messages.
+Acala построила паллет субстратов xtoken ([ github ](https://github.com/open-web3-stack/open-runtime-module-library/tree/sw/rococo-v1/xtokens)), предназначенный для передачи токенов между цепями в экосистемах Polkadot и Kusama. С тех пор мы сделали этот паллет с открытым исходным кодом и сделали его «общим благом» для любого парачейна, который можно интегрировать в свой проект. Мы также недавно завершили кросс-чейн передачу токенов между тестовой сетью Acala и тестовой сетью Laminar с кросс-чейн сообщениями.
 
-During testing, Plasm Network lead engineer, [Aleksandr Krupenkin](https://github.com/akru), found some issues with using XCM on Rococo. Aleksandr fixed the problem and his [pull request was merged by Parity](https://github.com/paritytech/cumulus/pull/309).
+Во время тестирования, ведущий инженер Plasm Network  [ Александр Крупенкин ](https://github.com/akru), обнаружил некоторые проблемы с использованием XCM на Rococo. Александр исправил проблему, и его [ pull-запрос был объединен Parity ](https://github.com/paritytech/cumulus/pull/309).
 
-Finally, after the changes were accepted and XCM working properly, the two parachains completed the successful cross-chain token transfer that you can see in this video:
+Наконец, после того, как изменения были приняты и XCM заработал должным образом, два парачейна завершили успешную передачу токенов между цепями, что вы можете увидеть в этом видео:
 
-## **Next Steps for Acala & Karura Parachain Auctions and Launches**
+## **Дальнейшие действия по аукционам и запускам парачейнов Acala и Karura**
 
-Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, Acala’s Karura network (the DeFi hub of Kusama) will begin it’s process to host a KSM [crowdsourcing event](http://acala.network/karura-crowdloan) to bootstrap the network for the parachain slot auction. After the crowdsousrcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet. **To join the 19,000 other people on Karura Parachain Auction Waitlist and be eligible for a 10% KAR bonus split between you and your referee,** [**sign up here**](https://forms.gle/Qj8i2RxG3fHyg8DA8)**.**
+Теперь, когда мы завершили передачу токенов между сетями, мы на шаг ближе к тому, чтобы парачейны Kusama заработали. Как только команда Kusama объявит о начале краудлоанов, сеть Karura (DeFi-центр на Kusama) начнет процесс проведения [ краудсорсинга ](http://acala.network/karura-crowdloan) KSM для начальной загрузки сети для аукциона парачейн-слотов. После краудсорсинга Karura примет участие в аукционе парачейн-слотов. Выиграв этот аукцион, Karura запустит свою сеть. ** Чтобы присоединиться к 19 000 других людей из вайтлиста аукциона парачейнов Karura и иметь право на получение бонуса в размере 10% KAR, разделенного между вами и вашим рефералом, ** [** зарегистрируйтесь здесь **](https://forms.gle/Qj8i2RxG3fHyg8DA8) **. </ 0></p>
 
-How does the parachain auction process work? Watch here:
+Как работает процесс аукциона парачейнов? Смотреть здесь:
 
-After Karura’s parachain auction, Polkadot-based crowdloans and parachain auctions will begin to happen. Acala will host another crowdsourcing event, this time for DOT, and will then use this pot of DOT to participate in the first Polkadot parachain auction. After winning an auction, Acala will then launch its mainnet.
+После парачейн-аукциона Karura начнут проводиться краудзаймы на Polkadot и другие парачейн-аукционы. Acala проведет еще одно мероприятие по краудсорсингу, на этот раз для DOT, а затем будет использовать этот банк DOT для участия в первом аукционе парачейнов Polkadot. После победы на аукционе Acala запустит свою сеть.
 
-![Image for post](https://miro.medium.com/max/2402/0*4QUW9GSAV2UxUI6E.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/0*4QUW9GSAV2UxUI6E.png)
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki)
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
 
-# About Plasm
+# О Plasm
 
-Plasm Network is a scalable smart contract platform on Polkadot supporting cutting edge layer 2 solutions and Ethereum Virtual Machine. It is built on Substrate and designed to be a Polkadot Parachain. Plasm Network focuses on making a great smart contract platform so that dApps developers on Polkadot do not need to pay much attention to infrastructure and can focus more on their dApps. Ideally, the developers can build whatever applications on Plasm Network without having to consider its scalability.
+Plasm Network - это масштабируемая платформа смарт-контрактов на Polkadot, поддерживающая передовые решения уровня 2 и виртуальную машину Ethereum (EVM). Он построен на Substrate и разработан как парачейн для Polkadot. Plasm Network фокусируется на создании отличной платформы для смарт-контрактов, чтобы разработчикам dApps на Polkadot не нужно было уделять много внимания инфраструктуре и чтобы они могли больше сосредоточиться на своих dApps. В идеале разработчики могут создавать любые приложения на сети Plasm, не задумываясь о ее масштабируемости.
 
 [Website](https://www.plasmnet.io/) | [Twitter](https://twitter.com/Plasm_Network) | [Telegram](https://t.me/PlasmOfficial) | [Discord](https://discord.gg/Z3nC9U4) | [GitHub](https://github.com/PlasmNetwork/Plasm)
