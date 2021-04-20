@@ -1,26 +1,26 @@
-# What We Learned from Acala’s Extreme Testing Simulation
+# Что мы узнали из моделирования экстремальных испытаний Acala
 
-## Acala’s 3-week testnet campaign has concluded, highlighting the importance of a Canary Network and leading to several technical improvements to the network
+## Завершилась трехнедельная кампания Acala по тестированию сети, которая подчеркнула важность сети Canary и привела к нескольким техническим улучшениям сети
 
 ![Image for post](https://miro.medium.com/max/1600/1*lGVbzGOgp5M3DqCPtAds8A.jpeg)
 
-By: [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----5ef5769a0902--------------------------------)
+Автор статьи: [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----5ef5769a0902--------------------------------)
 
-The Acala [Mandala Fest Season #3](https://medium.com/acalanetwork/acala-mandala-festival-season-3-d0a6f155c154), a 3-week testnet campaign, was successfully concluded on the 17th of August. It was a great way for us to demonstrate our development progress to the community by testing the system and protocols under heavy loads and extreme situations while providing rewards to participants.
+17 августа успешно завершилась трехнедельная тестовая кампания Acala [Mandala Fest Season #3 ](https://medium.com/acalanetwork/acala-mandala-festival-season-3-d0a6f155c154). Для нас это был отличный способ продемонстрировать сообществу наш прогресс в разработке, протестировав систему и протоколы при больших нагрузках и экстремальных ситуациях, предоставив участникам награды.
 
-We have been overwhelmed by the support, enthusiasm, and participation from the community. Here are some of the stats we have seen:
+Мы были поражены поддержкой, энтузиазмом и участием сообщества. Вот некоторые статистические данные, которые мы увидели:
 
-✅ 14,500 + new accounts
+✅ 14,500 + новых аккаунтов
 
-⛓️ 140,000 + meaningful transactions
+⛓️ 140,000 + транзакций
 
-💰 $52 million locked total value
+💰 $52 миллиона залоченных средств
 
-💲 $25 million aUSD issued
+💲 $25 миллионов aUSD выпущенно
 
-**Award highlights are as follows and full results published** [**here**](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#season-3-prize-giving)**.**
+** Ниже приведены основные награды и опубликованы полные ** [ ** результаты** ](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&- Награды # season-3-pri -iving) **. **
 
-😎 Week 1 awards went to 2,105 users out of 10,525 qualified
+😎 Награды 1-й недели получили 2105 пользователей из 10 525 прошедших квалификацию
 
 [⌛](https://emojipedia.org/hourglass-done/) Week 2 awards went to top 10 traders with an average return of 24,200%
 
