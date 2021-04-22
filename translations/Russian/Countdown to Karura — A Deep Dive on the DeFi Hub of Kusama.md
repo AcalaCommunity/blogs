@@ -10,11 +10,11 @@ Karura - это универсальный DeFi-хаб на Kusama.
 
 Читайте дальше, чтобы узнать, как вы можете поддержать предстоящий запуск и подготовиться к универсальной кроссчейновой платформе DeFi от Karura, которая поможет вам обмениваться, брать взаймы, одалживать, зарабатывать и стейкать - все это с микро-комиссиями.
 
-# **Building the next evolution of DeFi**
+# **Создание следующего этапа DeFi**
 
-It’s no secret that decentralized finance (DeFi) is changing everything. With blockchain technology innovating at a tremendous pace, and the total value locked in DeFi protocols growing from 1 Billion in February 2020 to over **41 Billion** in March 2021, it’s clear: users demand a better financial system — one that grants autonomy and unfettered access to the newest and most sophisticated of investment strategies.
+Не секрет, что децентрализованные финансы (DeFi) меняют все. С учетом того, что технология блокчейн внедряется огромными темпами, а общая стоимость протоколов DeFi выросла с 1 миллиарда в феврале 2020 года до более ** 41 миллиарда ** в марте 2021 года, становится ясно: пользователи требуют лучшей финансовой системы - которая даст автономию и неограниченный доступ к новейшим и самым современным инвестиционным стратегиям.
 
-It’s time for DeFi to deliver on the promise of democratizing financial services — like payments, staking, lending, borrowing, and trading — without the pain points of juggling multiple protocols and staggering network fees. Savvy investors are ready for a power-house platform to serve its community with cutting-edge and composable financial apps that are fast, affordable, and rewarding. And they not only want to utilize this platform; they want to be a part of it — guiding its development and ensuring that its ecosystem continues to grow and lead the way in a multi-chain future. Thankfully, the wait is over.
+Пришло время DeFi выполнить обещание по демократизации финансовых услуг, таких как: платежи, ставки, кредитование, заимствование и торговля - без проблем, связанных с манипуляциями с несколькими протоколами и ошеломляющими комиссиями. Опытные инвесторы готовы к мощной платформе, которая будет обслуживать свое сообщество с помощью передовых и легко компонуемых финансовых приложений, которые будут быстрыми, доступными и полезными. И они не только хотят использовать эту платформу; они хотят быть её частью - направлять развитие и обеспечивать, чтобы эта экосистема продолжала расти и доминировать в мультичейновом будущем. К счастью, ожиданиям пришёл конец.
 
 # **Meet Karura, the all-in-one DeFi hub of Kusama.**
 
