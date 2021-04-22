@@ -16,37 +16,37 @@ Karura - это универсальный DeFi-хаб на Kusama.
 
 Пришло время DeFi выполнить обещание по демократизации финансовых услуг, таких как: платежи, ставки, кредитование, заимствование и торговля - без проблем, связанных с манипуляциями с несколькими протоколами и ошеломляющими комиссиями. Опытные инвесторы готовы к мощной платформе, которая будет обслуживать свое сообщество с помощью передовых и легко компонуемых финансовых приложений, которые будут быстрыми, доступными и полезными. И они не только хотят использовать эту платформу; они хотят быть её частью - направлять развитие и обеспечивать, чтобы эта экосистема продолжала расти и доминировать в мультичейновом будущем. К счастью, ожиданиям пришёл конец.
 
-# **Meet Karura, the all-in-one DeFi hub of Kusama.**
+# **Встречайте - Karura, универсальный DeFi-центр на Kusama.**
 
 ![Image for post](https://miro.medium.com/max/2400/0\*8dXFxggFmDOEL74Z)
 
-Founded by the Acala Foundation, [Karura](https://acala.network/karura) is a scalable, EVM-compatible network optimized for DeFi, and built on Kusama. It’s an all-in-one DeFi platform that offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX (the Karura DEX) — all with micro gas fees that can be paid in any token.
+Основанная Acala Foundation, [ Karura ](https://acala.network/karura) представляет собой масштабируемую, совместимую с EVM сеть, оптимизированную для DeFi и построенную на Kusama. Это универсальная платформа DeFi, которая предлагает набор финансовых приложений, в том числе: производный финансовый дериватив без доверия (ликвидный KSM), стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами (kUSD), и AMM DEX (Karura DEX) - все с невероятно низкими комиссиями, которые могут быть оплачены любым токеном.
 
-Not only that, but Karura provides an ethical and sustainable token distribution model as well as an on-chain Treasury and [decentralized Sovereign Wealth Fund](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), both of which support its community and longevity. And because Karura leverages its novel [Acala EVM,](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4) which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
+Более того, Karura предлагает этичную и устойчивую модель распределения токенов, а также онлайн-казначейство и [ децентрализованный фонд национального благосостояния ](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), которые поддерживают её сообщество и долговечность. А поскольку Karura использует свою новую [ Acala EVM ](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4), которая обеспечивает совместимость Ethereum с неограниченной функциональностью Substrate \ *, сеть предназначена для поддержки развертывания ведущих проектов DeFi, которые стремятся расширить свои услуги за пределы Ethereum.
 
-_\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.*
+_\ * _ [_ Substrate _](http://substrate.io) _ - это основанный на блокчейне фреймворк для построения на Polkadot и Kusama.*
 
-# **Why is Karura built on Kusama?**
+# **Почему Karura построена на Kusama?**
 
-Karura is built by Acala, a leading development team in the Polkadot ecosystem, which has received four Web3 Foundation grants, and founded the [Substrate Developer Academy](https://www.industryconnect.org/substrate-runtime-developer-academy/) (led by Karura/Acala CTO Bryan Chen). Both Karura, and its sister-network Acala are backed by Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere, among many other top firms.
+Karura создана Acala, ведущей командой разработчиков в экосистеме Polkadot, которая получила четыре гранта Web3 Foundation и основала [ Substrate Developer Academy ](https://www.industryconnect.org/substrate-runtime-developer-academy/) (во главе с техническим директором Karura / Acala Брайаном Ченом). И Karura, и сестринская сеть Acala, поддерживаются Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere и многими другими ведущими фондами.
 
 ![Image for post](https://miro.medium.com/max/3200/0\*SyZWCt8qNFSvStX4)
 
-Backers of Karura and Acala include Coinbase Ventures, Pantera, Polychain Capital, and other top firms.
+Бейкерами Karura и Acala являются Coinbase Ventures, Pantera, Polychain Capital и другие ведущие фонды.
 
-But with all the Polkadot-ecosystem experience and support, why launch Karura on Kusama?
+Но при всем опыте и поддержке Polkadot-экосистемы, зачем запускать Karura на Kusama?
 
-## **Kusama is the network for rapid progress and experimentation**
+## **Kusama - это сеть для быстрого прогресса и экспериментов**
 
-Kusama is Polkadot’s faster-moving, wilder cousin — a multi-chain network for radical innovation. Though related by codebase, Kusama and Polkadot are independent, standalone networks with their own development communities and DeFi demands. But because Kusama has faster governance parameters and higher risk tolerance, projects like Karura can build big and move fast.
+Kusama - более динамичная и дикая кузина Polkadot - мультичейновая сеть для радикальных инноваций. Хотя Kusama и Polkadot связаны кодовой базой, они являются независимыми автономными сетями со своими собственными сообществами разработчиков и спросом DeFi. Но поскольку у Kusama более быстрые параметры управления и более высокая устойчивость к риску, такие проекты, как Karura, могут быстро строиться и развиваться.
 
-By launching on Kusama, Karura can push the limits of what’s possible, giving the Acala team a place to launch bold new financial innovations without risking funds on the more robust Acala network. Karura will access Kusama’s plug-and-play security while enjoying high-capacity processing speeds, micro-gas fees, and interoperability between multiple networks, all ultimately bridged to Polkadot. By launching as a Kusama parachain, Karura will deliver decentralized financial products and stable assets to Kusama’s entire ecosystem of networks.
+Запустив Kusama, Karura может раздвинуть границы возможного, давая команде Acala возможность запускать новые смелые финансовые инновации, не рискуя средствами в более надежной сети Acala. Karura получит доступ к системе безопасности Kusama plug-and-play, обладая высокой скоростью обработки, низкими комиссиями и взаимодействием между несколькими сетями, и все это, в конечном итоге, будет связано с Polkadot. Запустившись как парачейн Kusama, Karura будет предоставлять децентрализованные финансовые продукты и стабильные активы для всей экосистемы сетей Kusama.
 
-# **Introducing Karura’s DeFi DApps**
+# **Представляем DeFi-приложения Karura**
 
 ![Image for post](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
 
-With Karura, you can execute hundreds of DeFi strategies without ever leaving the platform. Utilize your cross-chain tokens like BTC or ETH to issue a self-serviced loan in kUSD. Provide liquidity to the Karura DEX to earn fees from trading volume. Stay liquid while staking KSM to earn rewards and amplify your potential gains with the unlocked, liquid KSM staking derivative. The possibilities are infinite thanks to Karura’s thoughtfully-designed financial apps.
+С Karura вы можете выполнять сотни DeFi стратегий, даже не покидая платформу. Используйте свои кросс-чейн токены, такие как BTC или ETH, для выдачи займа с самообслуживанием в kUSD. Обеспечьте ликвидность Karura DEX, чтобы получать комиссию от объема торгов. Оставайтесь "ликвидными", во время стейкинга KSM, чтобы получать вознаграждения и увеличивать свой потенциальные выгоды с помощью разблокированной и ликвидной производной ставки KSM. The possibilities are infinite thanks to Karura’s thoughtfully-designed financial apps.
 
 # **Karura Dollar Stablecoin (kUSD)**
 
