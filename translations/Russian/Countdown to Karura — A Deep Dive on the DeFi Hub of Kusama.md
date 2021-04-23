@@ -76,54 +76,54 @@ Kusama - более динамичная и дикая кузина Polkadot - �
 
 ![Image for post](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
 
-Stake KSM for Liquid KSM on Karura
+Стейкайте KSM и получайте Liquid KSM на Karura
 
-Users in the Kusama ecosystem have been staking their KSM in a variety of ways from Polkadot.js to centralized services. Staking KSM generates favorable yield for holders; however, there have been several challenges up to this point:
+Пользователи экосистемы Kusama стейкают свои KSM разными способами - от Polkadot.js - до централизованных сервисов. Стейкинг KSM приносит прибыль холдерам; однако до этого момента было несколько проблем:
 
-- Staked KSM is locked/bonded and has no utility beyond earning rewards.
-- Staking through Polkadot.js requires high staking minimums, and a seven-day unbonding period.
-- And the UX can be frustrating, with many users turning to centralized exchanges that offer a simplified experience while forcing the user to forgo the custody of their keys.
+- Застейканные KSM заблокированы / залочены и не имеют никакой пользы, кроме получения вознаграждения.
+- Для стейкинга через Polkadot.js требуются высокие минимальные ставки и семидневный период анбондинга.
+- И UX может расстраивать, поскольку многие пользователи обращаются к централизованным биржам, которые предлагают упрощенный опыт, вынуждая пользователя отказаться от хранения своих ключей.
 
-Fortunately, a new staking experience is available with Karura’s Liquid KSM (LKSM) staking derivative.
+К счастью, новый вид стейкинга доступен с производной от Karura Liquid KSM (LKSM).
 
-## **Stay liquid while staking with LKSM**
+## **Не теряйте ликвидность в период стейкинга благодаря LKSM**
 
-Liquid KSM (LKSM) allows users to stake their KSM while maintaining access to its liquidity. A game changer in the world of staking, when KSM is staked, users receive LKSM (a tokenized receipt for their stake) with the additional benefit of it being a yield-earning token.
+Ликвидный KSM (LKSM) позволяет пользователям стейкать свои токены KSM, сохраняя при этом доступ к их ликвидности. Настоящий "гейм-ченджер" в мире стейкинга: когда стейкается KSM, пользователи получают LKSM (токенизированная "квитанция" на свой стейк) с дополнительным преимуществом в виде токена, приносящего доход.
 
-With LKSM’s accessible liquidity, users can make additional use of their stake with Karura’s other financial products. For example, LKSM can be used as collateral for a stablecoin loan or for trading within the DEX. One can quickly see how this creates some interesting DeFi use cases.
+Благодаря доступной ликвидности LKSM, пользователи могут дополнительно использовать свою долю стейкинга с другими финансовыми продуктами Karura. Например, LKSM можно использовать в качестве залога для займа стейблкоина или для торговли на DEX. Можно быстро увидеть, как это создает некоторые интересные варианты использования DeFi.
 
-What’s more, Liquid KSM offers no staking minimums, and no unbonding period for the underlying KSM, since users can unbond anytime for a small fee.
+Более того, Liquid KSM не требует минимальной суммы для стейкинга и андонд-периода для базового KSM, поскольку пользователи могут вывести из стейкинга в любое время за небольшую плату.
 
-# **It’s all powered by KAR**
+# **Все работает на базе KAR**
 
 ![Image for post](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
 
-Karura is powered by KAR, its native utility and governance token.
+Karura работает на KAR, собственном токене служебных программ и управления.
 
-KAR is the utility and governance token that powers Karura’s DeFi hub of Kusama. Generated at launch, Karura’s native token will have six distinct use cases. KAR tokens:
+KAR - это служебный и управленческий токен, на котором работает Karura - DeF-центр Kusama. Собственный токен Karura, генерируемый при запуске, будет иметь шесть различных вариантов использования. KAR токены будут использоваться для:
 
-- Power the micro gas fees and smart contract execution for transactions.
-- Incentivize network nodes to monitor and relay messages to Kusama.
-- Support Karura’s on-chain governance by empowering the community to vote, elect council members, and drive the development of Karura.
-- Enable algorithmic risk adjustment to automatically adjust risk parameters such as interest rates or collateral ratio.
-- Are staked by teams deploying new Substrate pallets on the Karura blockchain.
-- Are staked by teams deploying new DApps and smart contracts on Karura.
+- Платы за микрогаз и выполнение смарт-контрактов для транзакций.
+- Стимулирования нод к отслеживанию и передаче сообщений в Kusama.
+- Поддержки онлайн-управления Karura, предоставляя сообществу возможность голосовать, избирать членов совета и стимулировать развитие Karura.
+- Включения алгоритмической корректировки рисков, чтобы автоматически настраивать параметры риска, такие как процентные ставки или коэффициент обеспечения.
+- Стейкинга командами, развертывающими новые Substrate паллеты на блокчейне Karura.
+- Стейкинга командами, развертывающими новые DApps и смарт-контракты на Karura.
 
-With all of these incentives aligned, KAR ensures that Karura will be a fast-moving and powerful network that enables efficient and inexpensive transactions while offering the best and latest in DeFi innovations.
+Благодаря согласованию всех этих стимулов, KAR гарантирует, что Karura будет быстроразвивающейся и мощной сетью, которая обеспечивает эффективные и недорогие транзакции, предлагая при этом лучшие и последние инновации DeFi.
 
-But how does one get KAR?
+Но как же получить KAR?
 
-# **Karura’s Path to Launch**
+# **Путь к запуску Karura**
 
-With a vibrant community of 100,000+ members, it’s clear that users are excited to support the launch and try Karura’s DApps beyond the [Mandala testnet](https://apps.acala.network/). **But in order to launch, Karura must first secure a parachain slot on the Kusama network**, [a process](https://wiki.polkadot.network/docs/en/learn-auction) that requires adequate funding to strategically bid in the network’s candle auction alongside several other parachain teams.
+Благодаря активному сообществу, насчитывающему более 100 000 участников, очевидно, что пользователи рады поддержать запуск и попробовать DApps Karura, выходящие за рамки [ тестовой сети Mandala ](https://apps.acala.network/). ** Но для запуска Karura должна, сначала, обеспечить себе слот парачейна в сети Kusama **, [ процесс ](https://wiki.polkadot.network/docs/en/learn-auction), который требует адекватного финансирования для стратегических торгов на сетевом аукционе свечей наряду с несколькими другими командами, проекты которых тоже претендуют стать парачейнами.
 
-Karura’s path to launch now includes three major milestones: Crowdsource KSM with the Crowdloan Module, Participate in the Parachain Auction, and Win! The process will kick off any day now — with adequate time for KSM stakers to unbond their KSM and prepare for the event.
+Путь Karura к запуску теперь включает три основных этапа: Crowdsource KSM с модулем Crowdloan, участие в аукционе Parachain и победа! Процесс начнется в любой день - у стейкеров KSM будет достаточно времени, чтобы вывести из стейкинга свои токены KSM и подготовиться к мероприятию.
 
-Here’s what to expect:
+Вот, что можно ожидать:
 
-## **1.) Crowdsource KSM with the Crowdloan Module**
+## **1.) Краудсорсинг KSM с модулем Crowdloan**
 
-Soon Karura will hold a KSM crowdsourcing event to bootstrap the network’s bid for the Kusama parachain slot auction. The KSM will be used to participate in the auction in order to gain a slot on Kusama’s network for security and interoperability.
+Вскоре Karura проведет краудсорсинговое мероприятие с помощью токенов KSM, чтобы сделать ставку на аукционе парачейн-слотов в Kusama. KSM будет использоваться для участия в аукционе, чтобы получить слот в сети Kusama для обеспечения безопасности и взаимодействия.
 
 For their contribution, participants will receive Karura’s native token KAR. For each 1 KSM locked, users will be distributed a yet-to-be-determined amount of KAR upon Karura’s launch. The final KAR amount will depend on the amount of support Karura receives.
 
