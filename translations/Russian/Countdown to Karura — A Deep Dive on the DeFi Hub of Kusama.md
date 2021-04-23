@@ -125,9 +125,9 @@ KAR - это служебный и управленческий токен, на
 
 Вскоре Karura проведет краудсорсинговое мероприятие с помощью токенов KSM, чтобы сделать ставку на аукционе парачейн-слотов в Kusama. KSM будет использоваться для участия в аукционе, чтобы получить слот в сети Kusama для обеспечения безопасности и взаимодействия.
 
-For their contribution, participants will receive Karura’s native token KAR. For each 1 KSM locked, users will be distributed a yet-to-be-determined amount of KAR upon Karura’s launch. The final KAR amount will depend on the amount of support Karura receives.
+За свой вклад участники получат собственный токен Karura - KAR. За каждый заблокированный токен KSM пользователям будет распределена еще не определенная сумма KAR после запуска Karura. Окончательная сумма KAR будет зависеть от суммы поддержки, которую получит Karura.
 
-## **2.) Participate in Parachain Auction on Kusama**
+## **2.) Примите участие в парачейн-аукционе на Kusama**
 
 Next, Karura will participate in an unpermissioned candle auction to earn a slot on Kusama’s network. The opening bid will use the “crowdloan module” holding the KSM contributed during the crowdsourcing event. Community members can continue to contribute until the end of the parachain auction.
 
