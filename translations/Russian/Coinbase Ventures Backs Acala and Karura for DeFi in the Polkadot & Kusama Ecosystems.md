@@ -14,28 +14,28 @@ Acala - это блокчейн уровня 1, совместимый с EVM и
 
 ## **Универсальный DeFi-центр**
 
-Набор приложений DeFi от Acala и Karura создан и готов к запуску, и эти приложения будут доступны пользователям в первый же день. Ниже вы можете увидеть пользовательский интерфейс для Karura, включая займы в kUSD, свапы с использованием DEX, ликвидный стейкинг KSM и многое другое. If you’re interested in trying Acala and Karura’s DeFi applications, you can use the [Getting Started guide](https://wiki.acala.network/learn/get-started) to get testnet tokens to try the live testnet at [apps.acala.network](http://apps.acala.network).
+Набор приложений DeFi от Acala и Karura создан и готов к запуску, и эти приложения будут доступны пользователям в первый же день. Ниже вы можете увидеть пользовательский интерфейс для Karura, включая займы в kUSD, свапы с использованием DEX, ликвидный стейкинг KSM и многое другое. Если вы хотите попробовать приложения DeFi от Acala и Karura, вы можете использовать [ Руководство по использованию ](https://wiki.acala.network/learn/get-started), для получения токенов тестовой сети, чтобы опробовать в живую тестовую сеть на [ apps.acala.network ](http://apps.acala.network).
 
-![Image for post](https://miro.medium.com/max/2796/0\*PbSvsr\_K0Wso2FiY)
+![Изображение для публикации](https://miro.medium.com/max/2796/0\*PbSvsr\_K0Wso2FiY)
 
-## **Supporting Acala and Karura**
+## **Поддержка Acala и Karura**
 
-You can support Karura and Acala in a variety of ways. Follow all of our social channels to stay up to date on the latest, and be sure to subscribe to our [newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) for updates on parachain auctions, bonuses, and exclusive announcements.
+Вы можете поддержать Karura и Acala разными способами. Следите за всеми нашими социальными каналами, чтобы быть в курсе последних новостей, и не забудьте подписаться на нашу [ новостную рассылку ](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc), чтобы получать новости об аукционах парачейнов, бонусах и эксклюзивных объявлениях.
 
-![Image for post](https://miro.medium.com/max/2402/0\*RE4psgKd7Cb5Zp4T.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/0\*RE4psgKd7Cb5Zp4T.png)
 
-# About Coinbase Ventures
+# О Coinbase Ventures
 
-[Coinbase Ventures](https://ventures.coinbase.com/) invests in companies building the open financial system. We provide financing to promising early stage companies that have the teams and ideas that can move the space forward in a positive, meaningful way. We’re taking a long term view of the space, and we believe that multiple approaches are healthy and good. Our goal is simply to help the most compelling companies in the space flourish. Learn more in the [Introducing Coinbase Ventures](https://blog.coinbase.com/introducing-coinbase-ventures-c67865a1d2fe) blog post.
+[ Coinbase Ventures ](https://ventures.coinbase.com/) инвестирует в компании, создающие открытую финансовую систему. Мы предоставляем финансирование перспективным компаниям на ранней стадии развития, у которых есть команды и идеи, которые могут продвинуть сферу вперед позитивным и значимым образом. Мы смотрим на эту сферу в долгосрочной перспективе и считаем, что использование нескольких подходов полезно и хорошо. Наша цель - просто помочь процветанию самых успешных компаний в этой сфере. Узнайте больше в статье [ Знакомство с Coinbase Ventures ](https://blog.coinbase.com/introducing-coinbase-ventures-c67865a1d2fe).
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
 [Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-# About Karura
+# О Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+[ Karura ](http://acala.network/karura) - это универсальный DeFi-центр в Kusama. Karura, основанная Acala Foundation, представляет собой масштабируемую, совместимую с EVM сеть, оптимизированную под DeFi. Платформа предлагает набор финансовых приложений, в том числе: стейкинг без доверия (ликвидный KSM), стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами (kUSD), и AMM DEX - все с минимальными комиссиями, которые могут быть оплачены любым токеном.
 
-[Linktree](http://linktr.ee/karuranetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) (**new**)| [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+[Linktree](http://linktr.ee/karuranetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) (**новый**)| [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
