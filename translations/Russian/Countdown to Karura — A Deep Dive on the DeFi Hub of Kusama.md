@@ -119,7 +119,7 @@ KAR - это служебный и управленческий токен, на
 
 Путь Karura к запуску теперь включает три основных этапа: Crowdsource KSM с модулем Crowdloan, участие в аукционе Parachain и победа! Процесс начнется в любой день - у стейкеров KSM будет достаточно времени, чтобы вывести из стейкинга свои токены KSM и подготовиться к мероприятию.
 
-Вот, что можно ожидать:
+Вот, что ожидается:
 
 ## **1.) Краудсорсинг KSM с модулем Crowdloan**
 
@@ -127,11 +127,11 @@ KAR - это служебный и управленческий токен, на
 
 За свой вклад участники получат собственный токен Karura - KAR. За каждый заблокированный токен KSM пользователям будет распределена еще не определенная сумма KAR после запуска Karura. Окончательная сумма KAR будет зависеть от суммы поддержки, которую получит Karura.
 
-## **2.) Примите участие в парачейн-аукционе на Kusama**
+## **2.) Принятие участия в парачейн-аукционе на Kusama**
 
-Next, Karura will participate in an unpermissioned candle auction to earn a slot on Kusama’s network. The opening bid will use the “crowdloan module” holding the KSM contributed during the crowdsourcing event. Community members can continue to contribute until the end of the parachain auction.
+Затем, Karura примет участие в аукционе свечей (candle auction), чтобы заработать слот в сети Kusama. Первоначальная ставка будет использовать «модуль краудзайма», содержащая KSM, внесенные во время краудсорсинга. Члены сообщества могут участвовать, внося свои токены KSM, до конца аукциона парачейнов.
 
-## **3.) Win Auction and Launch Mainnet**
+## **3.) Победа на аукционе и запуск основной сети**
 
 After Karura wins a parachain auction, Karura mainnet will launch and KAR will be generated and distributed to supporters. Any supporter who had locked their KSM in the crowdloan module will receive a reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the parachain’s slot lease. As Karura DeFi applications go live, liquidity provider programs will begin, and DeFi will officially be available on Kusama!
 
