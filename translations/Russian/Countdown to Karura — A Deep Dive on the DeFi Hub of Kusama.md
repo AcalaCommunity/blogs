@@ -2,7 +2,7 @@
 
 ** Ознакомьтесь с новым ** [** веб-сайтом Karura **](https://acala.network/karura) **, изучите DApps и узнайте, как поддержать Karura на предстоящем аукционе Kusama Parachain Auction. **
 
-![Image for post](https://miro.medium.com/max/6000/1\*L8SpBaVlHefw4De\_DsqT4g.png)
+![Изображение для публикации](https://miro.medium.com/max/6000/1\*L8SpBaVlHefw4De\_DsqT4g.png)
 
 Karura - это универсальный DeFi-хаб на Kusama.
 
@@ -18,7 +18,7 @@ Karura - это универсальный DeFi-хаб на Kusama.
 
 # **Встречайте - Karura, универсальный DeFi-центр на Kusama.**
 
-![Image for post](https://miro.medium.com/max/2400/0\*8dXFxggFmDOEL74Z)
+![Изображение для публикации](https://miro.medium.com/max/2400/0\*8dXFxggFmDOEL74Z)
 
 Основанная Acala Foundation, [ Karura ](https://acala.network/karura) представляет собой масштабируемую, совместимую с EVM сеть, оптимизированную для DeFi и построенную на Kusama. Это универсальная платформа DeFi, которая предлагает набор финансовых приложений, в том числе: производный финансовый дериватив без доверия (ликвидный KSM), стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами (kUSD), и AMM DEX (Karura DEX) - все с невероятно низкими комиссиями, которые могут быть оплачены любым токеном.
 
@@ -30,7 +30,7 @@ _\ * _ [_ Substrate _](http://substrate.io) _ - это основанный на
 
 Karura создана Acala, ведущей командой разработчиков в экосистеме Polkadot, которая получила четыре гранта Web3 Foundation и основала [ Substrate Developer Academy ](https://www.industryconnect.org/substrate-runtime-developer-academy/) (во главе с техническим директором Karura / Acala Брайаном Ченом). И Karura, и сестринская сеть Acala, поддерживаются Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere и многими другими ведущими фондами.
 
-![Image for post](https://miro.medium.com/max/3200/0\*SyZWCt8qNFSvStX4)
+![Изображение для публикации](https://miro.medium.com/max/3200/0\*SyZWCt8qNFSvStX4)
 
 Бейкерами Karura и Acala являются Coinbase Ventures, Pantera, Polychain Capital и другие ведущие фонды.
 
@@ -44,13 +44,13 @@ Kusama - более динамичная и дикая кузина Polkadot - �
 
 # **Представляем DeFi-приложения Karura**
 
-![Image for post](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
+![Изображение для публикации](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
 
 С Karura вы можете выполнять сотни манёвров в DeFi даже не покидая платформу. Используйте свои кросс-чейн токены, такие как BTC или ETH, для выдачи займа с самообслуживанием в kUSD. Обеспечьте ликвидность для Karura DEX, чтобы получать комиссию от объема торгов. Оставайтесь "ликвидными", во время стейкинга KSM, чтобы получать вознаграждения и увеличивать свой потенциальные выгоды с помощью разблокированной и ликвидной производной ставки KSM. Возможности безграничны благодаря продуманным финансовым приложениям Karura.
 
 # **Стейблкоин Karura (kUSD)**
 
-![Image for post](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
+![Изображение для публикации](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
 
 Зарабатывайте больше с долларом Karura, стейблкоином kUSD.
 
@@ -62,7 +62,7 @@ Kusama - более динамичная и дикая кузина Polkadot - �
 
 # **Karura DEX**
 
-![Image for post](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
+![Изображение для публикации](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
 
 Свапайте мгновенно на Karura DEX.
 
@@ -74,7 +74,7 @@ Kusama - более динамичная и дикая кузина Polkadot - �
 
 # **Ликвидный стейкинг KSM**
 
-![Image for post](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
+![Изображение для публикации](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
 
 Стейкайте KSM и получайте Liquid KSM на Karura
 
@@ -96,7 +96,7 @@ Kusama - более динамичная и дикая кузина Polkadot - �
 
 # **Все работает на базе KAR**
 
-![Image for post](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
+![Изображение для публикации](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
 
 Karura работает на KAR, собственном токене служебных программ и управления.
 
@@ -133,12 +133,12 @@ KAR - это служебный и управленческий токен, на
 
 ## **3.) Победа на аукционе и запуск основной сети**
 
-After Karura wins a parachain auction, Karura mainnet will launch and KAR will be generated and distributed to supporters. Any supporter who had locked their KSM in the crowdloan module will receive a reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the parachain’s slot lease. As Karura DeFi applications go live, liquidity provider programs will begin, and DeFi will officially be available on Kusama!
+После того, как Karura выиграет аукцион парачейнов, запустится основная сеть Karura, токен KAR будет сгенерирован и распространен среди участвовавших в аукционе. Любой участник, заблокировавший свои токены KSM в модуле Crowdloan, получит вознаграждение в токенах KAR. После получения, 30% этих токенов KAR будут разлочены истанут доступными для использования в DeFi экосистеме Karura, в то время как остальные 70% будут переданы и разлочены постепенно до конца аренды слота парачейна. Когда приложения Karura DeFi будут запущены, начнутся программы поставщиков ликвидности, и DeFi будет официально доступен на Kusama!
 
-🚀 **_Interested in supporting Karura? Visit the_** [**_Karura website_**](https://acala.network/karura) **_for more info._**
+🚀 **_Заинтересованы в поддержке Karura? Для получения дополнительной информации посетите_** [**_сайт Karura_**](https://acala.network/karura) **_._**
 
-🏘️ **_Connect with us on_** [**_Twitter_**](https://twitter.com/karuranetwork) **_and join the conversation on_** [**_Discord_**](https://discord.com/invite/HpsZx5r)**_._**
+🏘️ **_Присоединяйтесь к нам в_** [**_Twitter_**](https://twitter.com/karuranetwork) **_и к чату в_** [**_Discord_**](https://discord.com/invite/HpsZx5r)**_._**
 
-📬 **_Subscribe to our_** [**_newsletter_**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **_and be among the first to know when the Karura crowdsourcing event begins._**
+📬 **_Подписывайтесь на нашу_** [**_новостную рассылку_**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **_и будьте в числе первых, кто узнает, когда Karura crowdsourcing event начнётся._**
 
 [Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/kar-crowdloan) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
