@@ -2,7 +2,7 @@
 
 Par [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c--------------------------------)
 
-![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
+![Image pour la publication](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
 # Nouveaux partenaires
 
@@ -10,60 +10,60 @@ Acala Foundation est heureuse d'annoncer que de nouveaux partenaires s'associent
 
 # Mises à jour
 
-## Roadmap & Website Revamped
+## Feuille de route & site web réorganisés
 
-Nous travaillons en étroite collaboration avec les ingénieurs de Parité et de Poladot, et la mise à jour constante de notre feuille de route pour mieux s'aligner avec la disponibilité du parachain et le lancement du principal réseau Polkadot, quelques faits saillants comme suit:
+Nous travaillons en étroite collaboration avec les ingénieurs de Parité et de Polkadot, et mettons à jour de façon constante notre feuille de route pour mieux s'aligner avec la disponibilité des parachain et du lancement du réseau principal Polkadot, comme :
 
-- Launch Acala Karura canary network as soon as Kusama parachain bonding is ready
-- We are starting security audits for the Acala Network
-- Launch Acala mainnet (a plain network) and participate in parachain auction as soon as Polkadot is ready
-- Then enable stablecoin and other features once the network runs steadily
+- Lancez le réseau canari Acala Karura dès que la liaison de parachain avec Kusama est prête
+- Nous sommes en train de lancer des audits de sécurité pour le réseau Acala
+- Lancez le mainnet d'Acala et participer aux enchères en parachain dès que Polkadot est prêt
+- Activez ensuite le stablecoin et d'autres fonctionnalités une fois que le réseau fonctionne de façon constante
 
-Check out our revamped website [acala.network](https://acala.network/) for more details.
+Consultez notre site web remanié [acala.network](https://acala.network/) pour plus de détails.
 
-![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
+![Image pour la publication](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
-## Responding to Recent DeFi Black Swan Event
+## Répondre à l'événement récent DeFi Black Swan
 
-Recent DeFi Black Swan event specifically re [MakerDAO multi-million dollar incident](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) has brought several network and market structural issues to light — some are known but unsolvable at the protocol level, some are ignored or overlooked. Nevertheless, there are invaluable lessons learned from Acala’s perspective:
+L'événement récent DeFi Black Swan [MakerDAO plusieurs millions de dollars d'incident](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) a mis en lumière sur plusieurs problèmes de structure du réseau et du marché — certains sont connus mais insolubles au niveau du protocole, certains sont ignorés ou négligés. Néanmoins, les enseignements tirés du point de vue d’Acala sont inestimables :
 
-- **Network congestion**: Polkadot’s sharded design with minimum 200 TPS aside, with Substrate, Acala is designing Quality of Service type transaction classification to prioritize critical transactions e.g. oracle operations, to effectively counter this issue.
-- **Vulnerability in the liquidation process**: An automated on-chain liquidator/keeper (made possible by Substrate) aside, Acala is also designing a hybrid mechanism with a built-in DeX supplementing collateral auctions to ensure robustness, liquidity and optimal pricing.
-- **Capital reserve**: Acala is designing a triple capital reserve system to protect the value of the network — a foreign crypto reserve (via the [decentralized Sovereign Wealth Fund](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) as an emergency fund, a built-in DeX that attracts liquidity as a passive reservoir, and ACA auction as last resort.
-- In principle, a system or protocol should strive for decentralization to continuously lean towards **more truth and less trust**. However when trust is still required (some components are still not fully decentralized and automated), no less effort, capital, regulation, and insurance is required to counter the risks than what the centralized finance world is doing today — and that’s the price we pay for trust.
+- **Encombrement du réseau** : la conception fragmenté de Polkadot, avec un minimum de 200 TPS, avec Substrate, Acala conçoit la qualité de service avec la classification des transactions de type pour prioriser les transactions critiques comme les opérations avec les oracles, pour contrer efficacement ce problème.
+- **Vulnérabilité dans le processus de liquidation** : Un liquidateur/détenteur automatisé sur chaîne (rendu possible par Substrate) de côte, Acala conçoit également un mécanisme hybride avec un système de vente aux enchères collatérales intégré pour assurer robustesse, liquidité et prix optimaux.
+- **Réserve de capital** : Acala conçoit un triple système de réserve de capital pour protéger la valeur du réseau - une réserve de cryptomonnaies étrangères (via le [Fonds Souverain décentralisé dSWF](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) en tant que fonds d'urgence, un DeX intégré qui attire la liquidité comme réservoir passif et une vente aux enchères ACA en dernier ressort.
+- En principe, un système ou un protocole doit tendre continuellement vers la décentralisation **plus de vérité et moins de confiance**. Cependant, lorsque la confiance est encore nécessaire (certains composants ne sont toujours pas entièrement décentralisés et automatisés), il ne faut pas moins d'efforts, de capitaux, de réglementation et d'assurance pour contrer les risques que ce que fait le monde de la finance centralisé d'aujourd'hui, et c’est le prix que nous payons pour la confiance.
 
-Read more discussions on the issues and potential solutions in [Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) and [a recent AMA | Acala Network: Cross-Chain Finance in PoS Era](https://polkabase.com/blog/1217).
+Lisez plus de discussions sur les problèmes et les solutions potentielles dans [Reprendre confiance dans les Stablecoins décentralisés](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) et [un récent AMA | Acala Network : Cross-Chain Finance in PoS Era](https://polkabase.com/blog/1217).
 
 # Acala Mandala Festival 🎉
 
-![Image for post](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
+![Image pour la publication](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
-Mandala Test Network is the first in [Acala’s trilogy networks](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). It’s a value-free but chaotic playground for everyone to test drive functionalities of Acala:
+Mandala Test Network est le premier dans la [trilogie des réseaux d'Acala](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). C'est un terrain de jeu sans valeur et chaotique pour tout le monde afin de tester les fonctionnalités d'Acala :
 
-- borrow stablecoin aUSD with test DOT and BTC as collaterals
-- built-in decentralized exchange
-- functioning auction systems and oracle services
+- emprunter le stablecoin aUSD avec des test DOT et BTC en tant que garanties
+- échange décentralisé intégré
+- des systèmes d'enchères et des services oracle fonctionnels
 
-We hosted [a Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) to celebrate and reward supporters and festival-goers. Now three weeks have passed, and we are near the end of it. It’s been both fascinating and rewarding to see so much participation and prize-giving:
+Nous avons hébergé [un festival de Mandala](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) pour célébrer et récompenser les supporters et les festivaliers. Aujourd'hui, trois semaines se sont écoulées, et nous sommes proche de la fin. Ce fut à la fois fascinant et gratifiant de voir tant de participation et de cadeaux distribués :
 
-- 260+ nodes running across 24 cities (2nd on [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) as of 27th March)
-- 350+ users with meaningful transaction qualified for lucky draws
-- 20+ quality articles submitted
+- 260 nœuds parcourant plus de 24 villes (2ème sur [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) au 27 mars)
+- Plus de 350 utilisateurs avec une transaction significative qualifiée pour le tirage au sort
+- Plus de 20 articles de qualité soumis
 
-Check out the prize board [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Coding challenge and bug bounties will go on🚀, what are you waiting for?!
+Consultez le tableau de prix [ici](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Le défi de codage et les primes de bug vont continuer 🚀, qu'attendez-vous ?!
 
-# Stay Updated with Acala
+# Restez à jour avec Acala
 
-Website: [https://acala.network](https://acala.network/)  
-Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
-Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
-GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
-Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
+Site Web : [https://acala.network](https://acala.network/)  
+Twitter : [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
+Medium : [https://medium. om/acalanetwork](https://medium.com/acalanetwork)  
+GitHub : [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
+Riot : [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
 
-# About Acala
+# À propos d'Acala
 
-[Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. The Acala Network is a dual-protocol network, with a decentralized cross-chain capable multi-collateralized stablecoin protocol — Honzon, and a trust-less tokenized staking liquidity protocol — Homa. Acala aims to bring stability and liquidity to the crypto world and beyond.
+[Acala — un consortium de finance décentralisé unique en son genre](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), avec une vision de créer une infrastructure de finance cross-chain pour l'écosystème [Polkadot](https://polkadot.network/). Le réseau Acala est un réseau à double protocole, avec un protocole de stablecoin multi-garanties décentralisé et capable de cross-chain — Honzon, et un protocole de liquid stacking — Homa. Acala vise à apporter de la stabilité et de la liquidité au monde des cryptomonnaies et au-delà.
 
-The Acala Stablecoin Project is proudly supported by the [Web3 Foundation](https://web3.foundation/)
+Le projet Acala Stablecoin est fièrement soutenu par la [Fondation Web3](https://web3.foundation/)
 
-![Image for post](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
+![Image pour la publication](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
