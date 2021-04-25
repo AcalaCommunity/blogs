@@ -4,11 +4,11 @@ Par [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a3
 
 ![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
-# New Partners
+# Nouveaux partenaires
 
-Acala Foundation is pleased to announce new partners joining the effort in building a cross-blockchain decentralized stablecoin and staking liquidity platform to power open finance applications on the Polkadot network. We believe these partners — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — are our long term allies in our quest in building a sustainable, resilient and solid open finance infrastructure.
+Acala Foundation est heureuse d'annoncer que de nouveaux partenaires s'associent à l'effort de construction d'un stablecoin décentralisé et d'une plateforme de liquidité pour alimenter les applications de financement ouvertes sur le réseau Polkadot. Nous croyons que ces partenaires — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), et [Digital Renaissance](https://drf.ee/) — sont nos alliés à long terme dans notre quête pour bâtir une infrastructure financière ouverte durable, résiliente et solide.
 
-# Updates
+# Mises à jour
 
 ## Roadmap & Website Revamped
 
