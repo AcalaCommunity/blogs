@@ -4,11 +4,11 @@
 
 ![Image for post](https://miro.medium.com/max/1600/0*AKMAckfj4PDxBHMX)
 
-Well, 2021 has wasted no time continuing the drama of late. Elon Musk is supporting Bitcoin (and shilling Doge), Ray Dalio wrote a piece on Bitcoin and digital assets, and Mark Cuban wrote a long blog discussing DeFi, crypto, and NFTs. Oh and a subreddit community has created a short squeeze among some of the top hedge funds in the United States. Where will this lead? Only time will tell, but it’s surely a positive indicator of a world moving toward decentralized technologies and democratized financial systems.
+Что ж, 2021 год не стал зря тратить время на продолжение драмы последнего времени. Илон Маск поддерживает Bitcoin (и шиллит Doge), Рэй Далио написал статью о Bitcoin и цифровых активах, а Марк Кьюбан написал длинный блог, в котором обсуждались DeFi, криптовалюта и NFT. Да, и сообщество subreddit создало краткосрочное давление на некоторые лучшие хедж-фонды США. Куда это приведет? Только время покажет, но это, безусловно, положительный показатель того, что мир движется к децентрализованным технологиям и демократизированным финансовым системам.
 
-After a brief holiday around the new year, we’ve spent January working on several initiatives: Acala has launched a parachain on Polkadot’s testnet Rococo, we’ve significantly grown our community across Acala and Karura, three new people have joined the Acala team, the Acala Dollar is being integrated with Injective, Bette spoke at Binance Blockchain Week, and we are preparing for our time with developers at ETHDenver.
+После коротких каникул в районе Нового года, мы провели январь работая над несколькими инициативами: Acala запустила парачейн в тестовой сети Polkadot Rococo, мы значительно расширили наше сообщество через Acala и Karura, к команде Acala присоединились три новых члена, Доллар Acala интегрируется с Injective, Бетт выступила на Binance Blockchain Week, и мы готовимся к сотрудничеству с разработчиками на ETHDenver.
 
-If you’re new to Acala, welcome! [Acala](http://acala.network) is the decentralized financial hub of Polkadot that provides financial applications and stable assets to DeFi users.
+Если вы новичок в Acala, добро пожаловать! [ Acala ](http://acala.network) - это децентрализованный финансовый центр Polkadot, который предоставляет финансовые приложения и стабильные активы пользователям DeFi.
 
 ## **Acala on Polkadot’s Parachain Testnet, Rococo**
 
