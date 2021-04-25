@@ -1,8 +1,8 @@
-# Building Acala — September 2020 | Acala’s Testnet Parachain, New Funding Round, Smart Contracts and Ethereum-Compatibility
+# Building Acala - сентябрь 2020 г. | Парачейн тестовой сети Acala, новый раунд финансирования, смарт-контракты и совместимость с Ethereum
 
 ![Image for post](https://miro.medium.com/max/1600/0*rPcIWxu2NiMMUEpU)
 
-It’s time for the September 2020 version of **Building Acala**, and if you’re new to Acala, welcome! [Acala](http://acala.network) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. Looking back on August, it was a month highlighted by major milestones with the Acala parachain beginning to function and successfully complete token transfers on the Polkadot testnet, a new round of investors and strategic partners, and the unveiling of smart contracts and Ethereum-compatibility on Acala. Continue below for all the happenings around the Acala ecosystem, and afterward, we invite you to come join us on [Twitter](https://twitter.com/acalanetwork) and [Telegram](https://t.me/AcalaOfficial).
+Пришло время для сентябрьской версии 2020 года ** Building Acala ** и, если вы новичок в Acala, добро пожаловать! [ Acala ](http://acala.network) - это децентрализованный финансовый центр Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя драгоценное время. Looking back on August, it was a month highlighted by major milestones with the Acala parachain beginning to function and successfully complete token transfers on the Polkadot testnet, a new round of investors and strategic partners, and the unveiling of smart contracts and Ethereum-compatibility on Acala. Continue below for all the happenings around the Acala ecosystem, and afterward, we invite you to come join us on [Twitter](https://twitter.com/acalanetwork) and [Telegram](https://t.me/AcalaOfficial).
 
 # **Development Updates**
 
