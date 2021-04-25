@@ -1,6 +1,6 @@
-# **Building Acala — January 2021 Recap**
+# **Building Acala — итоги за январь 2021**
 
-## Acala on Polkadot’s parachain testnet Rococo, three new team members, Acala Dollar integration with Injective, Acala at Binance Blockchain Week, and preparing for ETHDenver
+## Acala в тестовой сети парачейна Polkadot Rococo, три новых члена команды, интеграция Acala Dollar с Injective, Acala на Binance Blockchain Week и подготовка к ETHDenver
 
 ![Image for post](https://miro.medium.com/max/1600/0*AKMAckfj4PDxBHMX)
 
