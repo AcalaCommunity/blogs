@@ -10,61 +10,61 @@
 
 Если вы новичок в Acala, добро пожаловать! [ Acala ](http://acala.network) - это децентрализованный финансовый центр Polkadot, который предоставляет финансовые приложения и стабильные активы пользователям DeFi.
 
-## **Acala on Polkadot’s Parachain Testnet, Rococo**
+## **Acala в тестовой парачейн-сети Polkadot, Rococo**
 
-Acala Mandala PC2 (Acala’s parachain candidate) was the first parachain connected to Rococo, Polkadot’s parachain testnet. You can check all the connected parachains [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/parachains).
+Acala Mandala PC2 (кандидат в парачейн от Acala) был первым парачейном, подключенным к Rococo, тестовой сети парачейнов Polkadot. Вы можете посмотреть все подключенные парачейны [ здесь ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/parachains).
 
-Anyone can check out Acala Mandala PC2 [here](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-1.acala.laminar.one%2Fws#/explorer).
+Любой желающий может ознакомиться с Acala Mandala PC2 [ здесь ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-1.acala.laminar.one%2Fws#/explorer).
 
-We are currently doing internal testing with the parachain and will open it up to public to use and test in the very near future so people can try cross-chain interactions themselves.
+В настоящее время мы проводим внутреннее тестирование парачейна и откроем его для использования и тестирования в ближайшем будущем, чтобы люди могли сами опробовать кросс-чейн взаимодействия.
 
-## **Karura Parachain Auction Details**
+## **Детали парачейн-аукциона Karura**
 
-**17,797** people have signed up for the Karura Parachain Auction Waitlist! If you haven’t signed up yet, [you can still sign up now](https://forms.gle/WXC9FaLwj2ciCrhP9). The waitlist allows you to be eligible for referral bonuses (5% for you and 5% for your friend), as well as allows you to stay informed about all the next steps in the process.
+** 17 797 ** человек подписалось на вейтлист парачейн-аукциона Karura! Если вы еще не зарегистрировались, [ вы можете это сделать сейчас](https://forms.gle/WXC9FaLwj2ciCrhP9). Вейтлист позволяет вам иметь право на получение реферальных бонусов (5% для вас и 5% для вашего друга), а также позволяет вам быть в курсе всех следующих шагов по этому процессу.
 
-Ruitao, Bette, and Dan gave a presentation this month on the Karura Parachain Auction process. You can watch their presentation here:
+В этом месяце Руитао, Бетт и Дэн представили презентацию о процессе парачейн-аукциона Karura. Вы можете посмотреть их презентацию здесь:
 
-## **New Team Members**
+## **Новые члены команды**
 
 ![Image for post](https://miro.medium.com/max/198/1*CKAzfp_7ymaDkEABfbJxgw.png)
 
-**Robin Whitney** has joined as Community & Growth Manager: As an advocate for decentralized technologies and open finance, Robin has worked in Growth and Community for projects within DeFi ecosystems on Ethereum and EOS, including: MyEtherWallet, Provable Things, p.Network, and Eidoo. She’s developed audience acquisition and retention strategies for Fender Music, American Public Media, FiveThirtyEight and the Electronic Frontier Foundation — with whom she has led workshops on responsible data, Creative Commons, and Net Neutrality. Robin is based in Los Angeles, USA. ([LinkedIn](https://www.linkedin.com/in/robinmwhitney/))
+** Робин Уитни ** заняла должность Менеджера по сообществу и развитию: как сторонник децентрализованных технологий и открытых финансов, Робин работала в Growth and Community над проектами в экосистемах DeFi на Ethereum и EOS, включая MyEtherWallet, Provable Things, p.Network и Eidoo. Она разработала стратегии привлечения и удержания аудитории для Fender Music, American Public Media, FiveThirtyEight и Electronic Frontier Foundation, с которыми она провела семинары по Responsible Data, Creative Commons и Net Neutrality. Робин находится в Лос-Анджелесе, США. ([LinkedIn](https://www.linkedin.com/in/robinmwhitney/))
 
 ![Image for post](https://miro.medium.com/max/198/1*a4vDhjcZXc2CVqrlVo4Eaw.png)
 
-**Brett Kolodny** has joined as Software Engineer at Acala: Brett joins us as a graduate of the Substrate Runtime Developer Academy hosted by Acala, Industry Connect, and Parity Technologies. Brett was a top performer during the Polkadot Hello World hackathon, and recently competed in the Encode hackathon working on a parachain built with Substrate. Brett is a recent Computer Science graduate of the University of Buffalo and is based in NY, USA. ([LinkedIn](https://www.linkedin.com/in/brett-kolodny/))
+** Бретт Колодни ** присоединился к нам в качестве инженера-программиста в Acala: Бретт присоединился к нам как выпускник Substrate Runtime Developer Academy, организованной Acala, Industry Connect и Parity Technologies. Бретт был одним из лучших участников хакатона Polkadot Hello World, а недавно участвовал в хакатоне Encode, работая над парачейном, созданным с помощью Substrate. Бретт - недавний выпускник компьютерных наук University of Buffalo, живет в Нью-Йорке, США. ([LinkedIn](https://www.linkedin.com/in/brett-kolodny/))
 
 ![Image for post](https://miro.medium.com/max/192/1*alFvyf2j_3VXZw0p7i4-Ig.png)
 
-**Dan Reecer** has joined as VP of Growth: Dan joins us from Web3 Foundation’s Community & Growth team where he worked on marketing, hackathons, and community growth for the launches of Polkadot and Kusama. Prior to his work at Web3 Foundation, Dan worked in the layer-one interoperability space at Wanchain where he led marketing. Before moving to crypto full time, Dan spent four years at Eli Lilly & Company working on brand marketing teams for pharmaceutical products in Alzheimer’s, cancer, and immunology. Dan is based between Austin, TX, USA and São Paulo, Brazil. ([LinkedIn](https://www.linkedin.com/in/reecer/))
+** Дэн Ризер ** стал вице-президентом по развитию: Дэн присоединился к нам из сообщества Web3 Foundation’s Community & Growth, в которой он работал над маркетингом, хакатонами и развитием сообщества для запуска Polkadot и Kusama. До своей работы в Web3 Foundation, Дэн работал в области взаимодействия первого уровня в Wanchain, где руководил маркетингом. Прежде чем перейти в криптосферу на полную ставку, Дэн четыре года проработал в Eli Lilly & Company, работающая в группах по бренд-маркетингу фармацевтических продуктов для лечения болезни Альцгеймера, рака и иммунологии. Дэн живет в Остине, Техас, США, и Сан-Паулу, Бразилия. ([LinkedIn](https://www.linkedin.com/in/reecer/))
 
-## **Acala Dollar Integration Coming to Injective Protocol**
+## **Интеграция Acala Dollar с Injective Protocol**
 
-Acala and Injective are working together to integrate the Acala Dollar (aUSD) into Injective’s derivative trading ecosystem. The integration of aUSD will provide a stable asset that can be used to collateralize Polkadot-based derivative products on Injective. This also expands opportunities for us to create new derivative products alongside Injective, further increasing the use cases for aUSD. More here:
+Acala и Injective работают вместе, чтобы интегрировать доллар Acala (aUSD) в экосистему торговли производными инструментами Injective. Интеграция aUSD предоставит стабильный актив, который можно использовать для обеспечения производных продуктов на основе Polkadot на Injective. Это также расширяет возможности для нас по созданию новых производных продуктов наряду с Injective, что еще больше увеличивает количество вариантов использования доллара США. Больше здесь:
 
-[Acala’s aUSD Stablecoin to be Integrated on Injective’s Polkadot-based Derivative Products](https://medium.com/acalanetwork/acalas-ausd-stablecoin-to-be-integrated-on-injective-s-polkadot-based-derivative-products-342bfed0bc30)
+[Стейблкоин Acala aUSD будет интегрирован в производные продукты Injective на основе Polkadot](https://medium.com/acalanetwork/acalas-ausd-stablecoin-to-be-integrated-on-injective-s-polkadot-based-derivative-products-342bfed0bc30)
 
-## **Bette Chen at Binance Blockchain Week**
+## **Бетт Чен на Binance Blockchain Week**
 
-Acala Co-Founder and COO, Bette Chen, was recently on a panel during Binance Blockchain Week discussing Acala, DeFi, and her thoughts on the future of the industry. **Watch the recording** [**here**](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s):
+Соучредитель и главный операционный директор Acala, Бетт Чен, недавно была на дискуссионной панели на Binance Blockchain Week, где обсуждала Acala, DeFi и свои мысли о будущем отрасли. **Смотреть запись** [**здесь**](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s):
 
 ![Image for post](https://miro.medium.com/max/1988/1*1ramauqOTR30RSC-ZnNRsw.png)
 
 [https://www.pscp.tv/w/1rmxPzbVaVEGN?t=1h34m12s#](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s)
 
-## **Acala’s ETHDenver Bounties**
+## **Бонусы Acala ETHDenver**
 
-Acala is a supporter of this year’s ETHDenver, one of the leading Ethereum developer conferences in the world. Acala will have a digital booth inside the crypto castle and will be hosting two bounties for hackers. Watch for our announcement tomorrow (Feb 3rd) for details on the bounties. **Also, if you’re a developer, be sure to register for Acala Co-Founder and CTO, Bryan Chen’s, Crowdcast helping developers get started on Acala’s bounties and learn about the Acala EVM.**
+Acala поддерживает ETHDenver в этом году, одну из ведущих мировых конференций разработчиков Ethereum. У Acala будет цифровая кабинка внутри криптовалютного замка и две награды для хакеров. Следите за нашим объявлением завтра (3 февраля), чтобы узнать подробности о наградах. ** Кроме того, если вы разработчик, не забудьте зарегистрироваться на Crowdcast, проводимый соучредителем и техническим директором Acala, Брайаном Ченом, помогающий разработчикам начать работу с программами Acala и узнать о Acala EVM. **
 
-[**Save your spot here**](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog) — Hackers who join the Crowdcast and submit a bounty will receive a tshirt and hoodie from the Acala team.
+[** Забронируйте свое место здесь **](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog) - Хакеры, которые присоединятся к Crowdcast и "попадут под награду", получат футболку и толстовку от команды Acala.
 
 ![Image for post](https://miro.medium.com/max/1600/0*kw5WvFB9u1cGj9Fj)
 
-**Dates to Watch for**
+**Даты, на которые стоит обратить внимание:**
 
-- February 3rd, 2021: ETHDenver [Acala webinar #1 on Crowdcast](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog)
-- February 5th, 2021: [ETHDenver](https://www.ethdenver.com/) starts
-- February 6th, 2021: ETHDenver Acala webinar #2
+- 3 февраля 2021 года: ETHDenver [ Веб-семинар №1 по Acala на Crowdcast ](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog)
+- 5 февраля 2021 г: запуск [ ETHDenver ](https://www.ethdenver.com/)
+- 6 февраля 2021 года: веб-семинар ETHDenver Acala #2
 - February 12th, 2021: ETHDenver ends and judging completes
 - February 13th, 2021: Acala announces ETHDenver hackathon winners
 - Soon: Karura Parachain Auction ([learn more](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463))
