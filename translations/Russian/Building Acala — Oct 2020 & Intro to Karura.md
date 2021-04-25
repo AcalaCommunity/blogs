@@ -1,14 +1,14 @@
-# Building Acala — Oct 2020 | Intro to Karura — Kusama’s DeFi hub, Parachain Lease Offering (PLO) & EVM Integration
+# Building Acala - октябрь 2020 г. | Знакомство с Karura —  центром DeFi Kusama, Аренда Парачейнов (PLO) и Интеграция с EVM
 
 ![Image for post](https://miro.medium.com/max/1600/0*hmK9ex3hJqibgvrl)
 
-It’s time for the October 2020 version of **Building Acala**, and if you’re new to Acala, welcome! [Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time.
+Пришло время для редакции ** Building Acala ** за октябрь 2020 г., и если вы новичок в Acala, добро пожаловать! [ Acala ](http://acala.network/) - это децентрализованный финансовый центр Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя драгоценное время.
 
-Last month the team has been head-down building EVM integration, supporting teams deploying on Acala, and launching Karura — Kusama’s DeFi Hub through Parachain Lease Offering (PLO) & Paradrop.
+В прошлом месяце команда работала над интеграцией EVM, поддерживала команды, развертывающие на Acala и запускала Karura - DeFi Hub Kusama через Parachain Lease Offering (PLO) и Paradrop.
 
-# **Development Updates**
+# **Обновления в девелопмент-сфере**
 
-- **Ethereum Compatibility and Smart Contracts**: we have developed furthered EVM and Smart Contracts integration with Acala. The differentiator here is that contracts _no longer live in a sandbox, but are able to compose with Acala’s DeFi primitives_ (stablecoin, DeX, staking derivatives, and others), _tap into Acala’s user base, liquidity and cross-chain capabilities,_ and opens doors to a much larger market place in Polkadot’s parachain ecosystem. More details will be released soon.
+- ** Совместимость с Ethereum и смарт-контракты **: мы разработали дальнейшую интеграцию EVM и смарт-контрактов с Acala. Отличие заключается в том, что контракты _ больше не находятся в изолированной программной среде (песочнице), но могут составляться с примитивами Acala DeFi _ (стейблкоин, DEX, стейкинг и другие), _ подключаться к базе пользователей Acala, ликвидность и возможности кросс-чейн, _ и открывает двери на гораздо более крупный рынок в экосистеме парачейнов Polkadot. Более подробная информация будет опубликована в ближайшее время.
 
 - **Security Audit:** we have completed 2/3 planned security audits including one from SRLabs, and an upcoming audit from Trail of Bits. More details on the finding will be released in the coming weeks.
 
