@@ -1,81 +1,81 @@
-# **Building Acala — February 2021 Recap**
+# **Building Acala — итоги за февраль 2021**
 
-![Image for post](https://miro.medium.com/max/1600/1*oersbZPWGajTLHLnEkGbeQ.png)
+![Изображение для публикации](https://miro.medium.com/max/1600/1*oersbZPWGajTLHLnEkGbeQ.png)
 
-February flew by bringing the Polkadot and Kusama communities one step closer to parachains. Though an exact date is unclear, we _can_ confirm that Acala has been busy testing and refining the code on Polkadot’s parachain testnet while preparing for the fast-approaching Karura parachain auction events. Be sure to join the Karura Parachain Auction Waitlist for up-to-date information on the event and to reserve a 5% referral bonus for you and 5% for anyone in your network.
+Февраль пролетел, сделав сообщества Polkadot и Kusama еще на шаг ближе к парачейнам. Хотя точная дата пока неизвестна, мы _ можем _ подтвердить, что Acala была занята тестированием и доработкой кода в тестовой сети парачейна Polkadot во время подготовки к быстро приближающимся событиям парачейн-аукциона в Karura. Не забудьте присоединиться к вейтлисту парачейн-аукциона Karura, чтобы получить актуальную информацию о мероприятии и зарезервировать 5%-ый реферальный бонус для себя и 5% для всех в вашей сети.
 
-On the Acala side, we saw some significant technical progress with our first cross-chain token transfer completed with Plasm, as well as the launch of the Acala EVM.
+Что касается Acala, мы увидели значительный технический прогресс с нашей первой межсетевой передачей токенов, выполненной с помощью Plasm, а также запуск Acala EVM.
 
-Looking ahead, this week we’re excited to join the Polkadot Technical Working Group for [DeFi Demo Day](https://www.crowdcast.io/e/defidemoday) tomorrow (March 4th). Join Acala for quick introductions and demos from leading parachain and bridge teams, along with a panel moderated by Cami Russo of the Defiant. For even more DeFi, Acala will also be hosting a couple challenges in the upcoming Chainlink hackathon. Make sure to register by March 15th to hear from some of the top projects in crypto, compete for over 80k+ in prizes, and learn about the latest in decentralized oracle solutions. Join here: [https://chn.lk/3dAeB2I](https://chn.lk/3dAeB2I)
+Забегая вперед, на этой неделе мы рады присоединиться к технической рабочей группе Polkadot на [ DeFi Demo Day ](https://www.crowdcast.io/e/defidemoday) завтра (4 марта). Присоединяйтесь к Acala для быстрых представлений и демонстраций от ведущих команд парачейнов и мостов, а также дискуссионной панели, которую модерирует Ками Руссо из Defiant. Для еще большего количества DeFi Acala также проведет несколько испытаний на предстоящем хакатоне Chainlink. Обязательно зарегистрируйтесь до 15 марта, чтобы получать новости об одних из лучших проектов в области криптографии, побороться за более 80 тысяч призов и узнать о последних децентрализованных решениях оракулов. Присоединяйтесь здесь: [https://chn.lk/3dAeB2I](https://chn.lk/3dAeB2I)
 
-## **The First Successful Cross-Chain Message Passing (XCMP) Transaction on Polkadot Testnet**
+## **Первая успешная транзакция межсетевого обмена сообщениями (XCMP) в тестовой сети Polkadot**
 
-![Image for post](https://miro.medium.com/max/1400/0*j_NV5cE9SEQrMj-X)
+![Изображение для публикации](https://miro.medium.com/max/1400/0*j_NV5cE9SEQrMj-X)
 
-Acala and Plasm, two teams planning to become Polkadot and Kusama parachains in the near future, have successfully connected through Polkadot’s parachain testnet and transferred Plasm’s token (PLM) cross-chain using XCMP (cross-chain message passing) functionality. Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, the Acala team’s Karura network (the DeFi hub of Kusama) will begin its process to host a KSM crowdsourcing event to bootstrap the network for the parachain slot auction. After the crowdsourcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet.
+Acala и Plasm, две команды, планирующие в ближайшем будущем стать парачейнами Polkadot и Kusama, успешно подключились через тестовую сеть парачейна Polkadot и сделали кросс-чейн обмен токенами Plasm (PLM), используя функцию XCMP (кросс-чейн передача сообщений). Теперь, когда мы завершили передачу токенов между чейнами, мы на один шаг ближе к тому, чтобы парачейны Kusama начали работать. Как только команда Kusama объявит о начале краудлоанов, сеть Karura команды Acala (центр DeFi в Kusama) начнет процесс проведения краудсорсинга KSM для начальной загрузки сети для аукциона парачейн-слотов. После краудсорсинга Karura примет участие в аукционе парачейн-слотов. Выиграв этот аукцион, Karura запустит свою сеть.
 
-[The First Successful Cross-Chain Messaging Passing (XCMP) Transaction on Polkadot Testnet](https://medium.com/acalanetwork/the-first-successful-cross-chain-messaging-passing-xcmp-transaction-on-polkadot-testnet-eb36af2ad8c3)
+[Первая успешная транзакция межсетевого обмена сообщениями (XCMP) в тестовой сети Polkadot](https://medium.com/acalanetwork/the-first-successful-cross-chain-messaging-passing-xcmp-transaction-on-polkadot-testnet-eb36af2ad8c3)
 
-## **Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited Substrate Functionality**
+## **Acala запускает "Acala EVM" для DeFi на Polkadot | Совместимость Ethereum с неограниченной функциональностью Substrate**
 
-Acala’s engineering team has custom-built and launched the Acala EVM! Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
+Разработчики Acala запускают Acala EVM! Многие инновации были вдохновлены примером сравнения Ethereum и Bitcoin: "цифровое золото" никогда не сможет располагать теми функциями, которыми в данный момент многие пользуют на "Эфире". Substrate и Polkadot кардинально отличаются от Ethereum тем, что расширяют возможности многих новых блокчейн-инноваций за пределами песочницы EVM. Мы безоговорочно верим в силу Substrate и создали Acala EVM для того, чтобы оптимизировать весь потенциал Substrate, а не просто повторно развернули Ethereum на Polkadot.
 
-A couple game-changing features that this enables for DeFi users and developers are “**Bring Your Own Gas**,” allowing users to pay gas fees in virtually any token, and **on-chain automatic scheduler**, which enables use cases like subscriptions and recurring payments that are not possible with legacy blockchain platforms.
+Это дает пользователям и разработчикам DeFi возможность изменить правила игры: «** Принеси свой газ **», позволяющее пользователям оплачивать комиссии практически любым токеном, и ** автоматический планировщик в цепи **, что позволяет использовать такие варианты использования, как подписки и регулярные платежи, которые невозможны с устаревшими платформами блокчейнов.
 
-More detail and links here:
+Подробнее и ссылки здесь:
 
-[Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited…](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4)
+[Acala запускает Acala EVM для DeFi на Polkadot | Совместимость с Ethereum с неограниченным…](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4)
 
-## **Explainer: How the Parachain Auction process works**
+## **Поясняем: Как работает процесс парачейн-аукциона**
 
-Acala VP of Growth, Dan Reecer, put together a twitter thread explaining how the parachain auction process works. This will apply to both the upcoming Karura and Acala parachain auctions.
+Вице-президент Acala по развитию, Дэн Ризер, написал в Твиттере, как работает процесс аукциона парачейнов. Эта информация будет относиться к обоим предстоящим аукционам парачейнов Karura и Acala.
 
-## **Acala Ambassador Program onboarding has started!**
+## **Началась программа по набору амбассадоров Acala Ambassador Program!**
 
-The Acala Ambassador Program is live and kicking, as the first 15+ ambassadors have been onboarded from around the world. Ambassadors are working on the following working groups:
+Программа Acala Ambassador уже активна, первые 15+ амбассадоров со всего мира были приняты в проект. Амбассадоры участвуют в следующих рабочих группах:
 
-- Translations and Localization
-- Content
-- Community Moderation
-- Events
-- Development & Tech
+- Переводы по месту дислокации
+- Контент
+- Модерация Сообществ
+- Мероприятия
+- Разработка и Технологии
 
-To join the Ambassador program and begin your onboarding, [**apply here**](https://acala.hubspotpagebuilder.com/acala-ambassador-program).
+Чтобы поучаствовать амбассадорской программе и попасть в проект, заполните вашу [**заявку тут**](https://acala.hubspotpagebuilder.com/acala-ambassador-program).
 
-## **Acala China Community**
+## **Китайское сообщество Acala**
 
-Kelly, Yuzhu, and the rest of our team in China has been working to grow the Acala and Karura brands and build the community’s presence on channels like WeChat. To begin preparing the Chinese community for the upcoming Karura parachain auction, the team will host a Karura-focused AMA this week and, in parallel, will create the first Karura WeChat group. We currently have over 17,000 people across Acala’s official accounts in China and 13 Acala WeChat groups that reach over 7,000 people.
+Келли, Ючжу и другие члены нашей команды в Китае работают над развитием брендов Acala и Karura и расширением присутствия сообщества на таких каналах, как WeChat. Чтобы начать подготовку китайского сообщества к предстоящему аукциону парачейнов Karura, на этой неделе команда проведет AMA, ориентированную на Karura, и параллельно создаст первую группу Karura WeChat. В настоящее время у нас есть более 17 000 человек в официальных аккаунтах Acala в Китае и 13 групп Acala WeChat, которые охватывают более 7 000 человек.
 
-## New Team Members
+## Новые члены команды
 
-Alex Nechaiev ([LinkedIn](https://www.linkedin.com/in/alnech19/)) joins us as Technical Product Manager to work closely with our Engineering team. He has worked with blockchain tech since early 2017. Alex has a background as a developer and in project management, having Substrate as part of his portfolio. He is super passionate and has devoted his career to web 3.0 and Acala.
+Алекс Нечаев ([ LinkedIn ](https://www.linkedin.com/in/alnech19/)) присоедился к нам в качестве Technical Product Manager, чтобы тесно сотрудничать с нашей командой инженеров. Он работает с технологией блокчейн с начала 2017 года. Алекс имеет опыт работы в качестве разработчика и в управлении проектами, имея Substrate в своём портфолио. Он очень увлечен и посвятил свою карьеру Web 3.0 и Acala.
 
-## **Upcoming Events**
+## **Предстоящие мероприятия**
 
-- [**DeFi Demo Day**](https://www.crowdcast.io/e/defidemoday) — **This Thursday**, March 4 (feat. Acala, Centrifuge, Interlay, Moonbeam, Phala, Plasm, Snowfork)
-- [Chainlink hackathon](https://chainlink-2021.devpost.com/) — Starting March 15th
-- Soon: Karura Parachain Auction — [learn more](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) or [join the waitlist](https://forms.gle/1YShteaxrenxeauX8)
-- Soon: Acala Parachain Auction
+- [** DeFi Demo Day **](https://www.crowdcast.io/e/defidemoday) - ** В этот четверг **, 4 марта (при участии Acala, Centrifuge, Interlay, Moonbeam, Phala, Plasm, Snowfork)
+- [ Chainlink hackathon ](https://chainlink-2021.devpost.com/) - с 15 марта
+- Скоро: парачейн-аукцион Karura - [ узнать больше ](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) или [ присоединиться к вейтлисту](https://forms.gle/1YShteaxrenxeauX8)
+- Скоро: парачейн-аукцион Acala
 
-## **👩‍💻👨‍💻Try the Acala and Karura DeFi apps on testnet before we go live**
+## **👩‍💻👨‍💻Попробуйте DeFi приложения Acala и Karura в тестовой сети перед запуском**
 
-You can try the DeFi apps coming to the Polkadot and Kusama ecosystem by going to our [Getting Started guide](https://wiki.acala.network/learn/get-started) for instructions on getting testnet tokens, then using them at [apps.acala.network](http://apps.acala.network). Acala will provide DeFi to the Polkadot ecosystem, while Karura is serving the DeFi demand on the Kusama community.
+Вы можете попробовать DeFi приложения, входящие в экосистему Polkadot и Kusama, перейдя к нашему [ Руководству по началу работы ](https://wiki.acala.network/learn/get-started) для получения инструкций по получению токенов тестовой сети, а затем используя их на [ apps.acala.network ](http://apps.acala.network). Acala предоставит DeFi экосистеме Polkadot, в то время как Karura удовлетворит спрос на DeFi в сообществе Kusama.
 
-_“What will I be able to do on Karura?”_
+_«Что я смогу сделать на Karura?»_
 
-1.  Get Liquid KSM (LKSM) for your staked KSM. Your KSM continues to earn staking rewards, while you can use your LKSM in other yield-bearing uses such as liquidity providing.
-2.  Make swaps on our AMM decentralized exchange
-3.  Take out some kUSD stablecoins with your assets as collateral by initiating a collateralized debt position (CDP).
-4.  Check out the [apps](http://apps.acala.network) for more…
+1.  Получить Liquid KSM (LKSM) за стейкинг своих токенов KSM. Ваши токены KSM продолжат получать вознаграждения за стейкинг, в то время как вы сможете использовать LKSM для других целей, приносящих доход, таких как обеспечение ликвидности.
+2.  Делать свары на нашей AMM DEX.
+3.  Получите несколько стейблкоинов kUSD вместе со своими активами в качестве обеспечения, инициировав обеспеченную долговую позицию (CDP).
+4.  Посмотрите [приложение](http://apps.acala.network) для большего…
 
-![Image for post](https://miro.medium.com/max/3200/0*Zu0B8f4XoS5HVM-K)
+![Изображение для публикации](https://miro.medium.com/max/3200/0*Zu0B8f4XoS5HVM-K)
 
-We hope you have a great March, and see you on [Discord](https://discord.gg/vdbFVCH)!
+Мы надеемся, что у вас будет отличный март и до скорой встречи в [ Discord ](https://discord.gg/vdbFVCH)!
 
-![Image for post](https://miro.medium.com/max/2402/0*UgMpUJZXP3gBZubo.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/0*UgMpUJZXP3gBZubo.png)
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать и создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
