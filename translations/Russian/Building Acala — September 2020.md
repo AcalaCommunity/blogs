@@ -1,79 +1,91 @@
 # Building Acala - сентябрь 2020 г. | Парачейн тестовой сети Acala, новый раунд финансирования, смарт-контракты и совместимость с Ethereum
 
-![Image for post](https://miro.medium.com/max/1600/0*rPcIWxu2NiMMUEpU)
+![Изображение для публикации](https://miro.medium.com/max/1600/0*rPcIWxu2NiMMUEpU)
 
-Пришло время для сентябрьской версии 2020 года ** Building Acala ** и, если вы новичок в Acala, добро пожаловать! [ Acala ](http://acala.network) - это децентрализованный финансовый центр Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя драгоценное время. Looking back on August, it was a month highlighted by major milestones with the Acala parachain beginning to function and successfully complete token transfers on the Polkadot testnet, a new round of investors and strategic partners, and the unveiling of smart contracts and Ethereum-compatibility on Acala. Continue below for all the happenings around the Acala ecosystem, and afterward, we invite you to come join us on [Twitter](https://twitter.com/acalanetwork) and [Telegram](https://t.me/AcalaOfficial).
+Пришло время для сентябрьской версии 2020 года ** Building Acala ** и, если вы новичок в Acala, добро пожаловать! [ Acala ](http://acala.network) - это децентрализованный финансовый центр Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя драгоценное время. Оглядываясь назад на август, это был месяц, отмеченный важными результатами: парачейн Acala начал функционировать и успешно завершил передачу токенов в тестовой сети Polkadot, новый раунд инвесторов и стратегических партнеров, а также открытие смарт-контрактов и совместимости с Ethereum на Acala. Продолжайте следить за всеми событиями вокруг экосистемы Acala, а также мы приглашаем вас присоединиться к нам в [Twitter](https://twitter.com/acalanetwork) и [Telegram](https://t.me/AcalaOfficial).
 
-# **Development Updates**
+# **Обновления в девелопмент-сфере**
 
-- **Acala Unveils Smart Contracts and Ethereum Compatibility for Polkadot DeFi** [**(Medium)**](https://medium.com/acalanetwork/acala-unveils-smart-contracts-and-ethereum-compatibility-for-polkadot-defi-588b3891e53d)**:** Acala now supports the EVM and ink! pallets on Substrate, enabling Solidity and Wasm-based Smart Contracts for developers.
+- ** Acala представляет смарт-контракты и совместимость с Ethereum для Polkadot DeFi ** [**(Medium)**](https://medium.com/acalanetwork/acala-unveils-smart-contracts-and-ethereum-compatibility-for-polkadot-defi-588b3891e53d) **: ** Acala теперь поддерживает EVM и подписи! паллеты на Substrate, что позволяет разработчикам использовать смарт-контракты на основе Solidity и Wasm.
 
-- **Acala Launched First Parachain on Polkadot Testnet** [(**Medium**)](https://medium.com/acalanetwork/acala-launches-the-1st-parachain-on-polkadot-testnet-682c02bad08b): Acala has launched its parachain on Polkadot’s testnet in preparation for mainnet deployments on Kusama and Polkadot.
+- ** Acala запустила первый парачейн в тестовой сети Polkadot ** [ (** Medium **) ](https://medium.com/acalanetwork/acala-launches-the-1st-parachain-on-polkadot-testnet-682c02bad08b): Acala запустила свой парачейн в тестовой сети Polkadot в рамках подготовки к развертыванию основной сети на Kusama и Polkadot.
 
-- **First successful cross-chain token transfer and trade in Acala DEX** [(**Twitter**)](https://twitter.com/AcalaNetwork/status/1297851737525481473?s=20): Acala has enabled a full DeFi suite on a testnet parachain: test DOT can be transferred to the Acala parachain trustlessly, used as the underlying fee token, and used to participate in DeFi e.g. use DeX to trade, or collateralize for USD credits.
+- ** Первая успешная кросс-чейн передача токенов и торговля ими в Acala DEX ** [ (** Twitter **) ](https://twitter.com/AcalaNetwork/status/1297851737525481473?s=20): Acala включила полный пакет DeFi в парачейне тестовой сети: тестовые токены DOT можно без доверия передать в парачейн Acala, использовать в качестве базового токена комиссии и использовать для участия в DeFi, например: используйте для торговли на DEX или обеспечения кредитов в долларах США.
 
-- **First successful cross-chain stablecoin transfer from Acala to Laminar on testnet** [(**Twitter**)](https://twitter.com/bettechentt/status/1298768242333237248?s=20): Acala has been integrated with the [Laminar](https://www.laminar.one/) parachain testnet for trustless cross-chain token transfers and DeFi functionality. Demo video:
+- ** Первый успешный кросс-чейн перенос стейблкоинов из Acala в Laminar в тестовой сети ** [ (** Twitter **) ](https://twitter.com/bettechentt/status/1298768242333237248?s=20): Acala интегрирована с
 
-- **Acala built and released the _xtoken_ pallet for token transfers in the Polkadot ecosystem** [(**Github**)](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens): Any parachain using the xtoken pallet, built by Acala, can now integrate with Acala for token transfers. Xtoken was released as a common good library for any parachain to use.
+ Laminar </ 2> в тестовой сети парачейна для надежной кросс-чейн передачи токенов и функциональности DeFi. Демо-видео:</p></li> 
+  
+  - ** Acala построила и выпустила паллету _ xtoken _ для передачи токенов в экосистеме Polkadot ** [ (** Github **) ](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens): любой парачейн, использующий паллету xtoken, созданный Acala, теперь может интегрироваться с Acala для передачи токенов. Xtoken был выпущен как обычная хорошая библиотека для использования любым парачейном.
 
-- **Acala built and released code to help any Substrate-based chain to become a parachain on Polkadot or Kusama** [(**Github**)](https://github.com/AcalaNetwork/Acala/pull/362): Check out this PR above along with an ongoing refactoring effort ([**Github**](https://github.com/AcalaNetwork/Acala/compare/rococo-rc6)) to support chains running as independent Substrate chains or parachains.
+- ** Acala создала и выпустила код, чтобы помочь любой цепи на основе Substrate стать парачейном на Polkadot или Kusama ** [ (** Github **) ](https://github.com/AcalaNetwork/Acala/pull/362): ознакомьтесь с этим PR выше вместе с продолжающейся деятельностью по рефакторингу ([** Github **](https://github.com/AcalaNetwork/Acala/compare/rococo-rc6)) для поддержки цепей, работающих как независимые Substrate чейны или парачейны.</ul> 
 
-**Other upcoming development updates:**
+**Остальные предстоящие девелопмент-обновления:**
 
-- Acala’s next testnet release will enable smart contract capability on Acala with guidelines on the production readiness process
-- Watch for more cross-parachain and cross-blockchain integration coming up soon
+- Следующая версия тестовой сети Acala обеспечит возможность использование смарт-контрактов в Acala с рекомендациями по процессу производственной готовности
+- Следите за появлением в ближайшее время большей интеграции кросс-парачейнов и кросс-блокчейнов
 
-# **Ecosystem Updates**
 
-- **Acala Raises Additional Series A for Polkadot DeFi Hub Ahead of Upcoming Parachain Launch (**[**Medium**](https://medium.com/acalanetwork/acala-raises-additional-series-a-for-polkadot-defi-hub-ahead-of-upcoming-parachain-launch-22fdee9c2be9)**)**: Acala has raised an additional round of funding, along with partnerships for DeFi expertise, liquidity provisioning, and risk management ([Twitter](https://twitter.com/bettechentt/status/1299497896207773696?s=20)).
-- **What We Learned from Acala’s Extreme Testing Simulation** ([Medium](https://medium.com/acalanetwork/what-we-learned-from-acalas-extreme-testing-simulation-5ef5769a0902)): Acala’s 3-week testnet campaign has concluded, highlighting the importance of a Canary Network and leading to several technical improvements to the network.
 
-Some of the stats we saw during this community testnet campaign:
+# **Обновления Экосистемы**
 
-✅ 14,500 + new accounts | ⛓️ 140,000 + meaningful transactions | 💰 $52 million locked total value | 💲 $25 million aUSD issued
+- ** Acala создает дополнительную Серию A для Polkadot DeFi Hub в преддверии предстоящего запуска Parachain (** [** Medium **](https://medium.com/acalanetwork/acala-raises-additional-series-a-for-polkadot-defi-hub-ahead-of-upcoming-parachain-launch-22fdee9c2be9) **) **: Acala собрала дополнительный раунд финансирования вместе с партнерскими отношениями для экспертной оценки DeFi, обеспечения ликвидности и управления рисками ([ Twitter ](https://twitter.com/bettechentt/status/1299497896207773696?s=20)).
+- ** Что мы узнали из моделирования экстремального тестирования Acala ** ([ Средний ](https://medium.com/acalanetwork/what-we-learned-from-acalas-extreme-testing-simulation-5ef5769a0902)): трехнедельная кампания тестовой сети Acala завершилась, подчеркнув важность Canary Network и приведя к нескольким техническим улучшениям в сеть.
 
-Award highlights are as follows and full results published on [Github](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#season-3-prize-giving):
+Некоторые статистические данные, которые мы наблюдали во время этой кампании сообщества по тестированию:
 
-😎 Week 1 awards went to 2,105 users out of 10,525 qualified
+✅ 14,500 + новых аккаунтов | ⛓️ 140,000 + значимых транзакций | 💰 $52 миллионов залочено всего | 💲 $25 миллионов aUSD сминтенно
 
-⌛ Week 2 awards went to top 10 traders with an average return of 24,200%
+Ниже приведены основные награды, а полные результаты опубликованы на [ Github ](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#season-3-prize-giving):
 
-🌋 Week 3 awards went to 200 users
+😎 Награды 1-ой недели получили 2105 пользователей из 10 525 прошедших квалификацию
 
-✍️ 10 bloggers/vloggers awarded
+⌛ Награды 2-ой недели получили 10 лучших трейдеров со средней доходностью в 24 200%
 
-🐞 45 bug hunters awarded
+🌋 Награды 3-ей недели получили 200 пользователей
 
-🤖️ 1 code bounty awarded
+✍️ Награждены были 10 блогеров / влогеров
 
-# **Acala in the Press**
+🐞 Награждено 45 баг-хантеров
 
-![Image for post](https://miro.medium.com/max/2576/1*v2Ndsw3UwNTj0EhQNbFykw.png)
+🤖️ Присуждена 1 награда за кодировку
+
+
+
+# **Acala в СМИ**
+
+![Изображение для публикации](https://miro.medium.com/max/2576/1*v2Ndsw3UwNTj0EhQNbFykw.png)
 
 [CoinDesk](https://www.coindesk.com/acala-polkadot-defi-7m-pantera-saft)
 
-![Image for post](https://miro.medium.com/max/2562/1*z4iztwspAQT0KgfGt4jp_w.png)
+![Изображение для публикации](https://miro.medium.com/max/2562/1*z4iztwspAQT0KgfGt4jp_w.png)
 
 [Yahoo Finance](https://finance.yahoo.com/news/polkadot-based-defi-project-acala-092543143.html)
 
-![Image for post](https://miro.medium.com/max/2274/1*ZA2JHJmNc15TXwClrwE_GQ.png)
+![Изображение для публикации](https://miro.medium.com/max/2274/1*ZA2JHJmNc15TXwClrwE_GQ.png)
 
 [CryptoBriefing](https://cryptobriefing.com/acala-network-polkadots-makerdao-comes-ethereum/)
 
-# **Events**
 
-- [Acala participated in a Cross-chain DeFi AMA with Acala, Laminar & Ren for 650+ people](https://twitter.com/AcalaNetwork/status/1295477682214338560?s=20)
-- Sep 16–18: Acala will speak at The 3rd China International Blockchain Business Future Development Summit by Chain News and inkrpto
-- Acala Co-founder Ruitao judged the first Kusama hackathon, Hackusama, and Acala supported as technology and education partner ([Hackusama with Acala](https://medium.com/acalanetwork/hackusama-ea1ddf3e945a)). Although this hackathon is over, the building continues! We are looking for excellent teams building DeFi or Finance related products. Come build with Acala ([Github — Build with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala)).
 
-![Image for post](https://miro.medium.com/max/1358/0*qMAanMu2kGLUXByX)
+# **Мероприятия**
 
-# Join Us
+- [Acala участвовала в кросс-чейн DeFi AMA с Acala, Laminar и Ren на 650+ человек](https://twitter.com/AcalaNetwork/status/1295477682214338560?s=20)
+- 16–18 сентября: Acala выступила на 3-ем Китайском международном саммите по развитию будущего блокчейн-бизнеса, организованном Chain News и inkrpto
+- Соучредитель Acala Ruitao оценил первый хакатон Kusama, а также поддержал Hackusama и Acala в качестве партнера по технологиям и обучению ([ Hackusama with Acala ](https://medium.com/acalanetwork/hackusama-ea1ddf3e945a)). Хоть этот хакатон и закончился, но строительство продолжается! Мы ищем отличные команды, создающие продукты, связанные с DeFi или финансами. Приходите строить с Acala ([ Github - Build with Acala ](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala)).
+
+![Изображение для публикации](https://miro.medium.com/max/1358/0*qMAanMu2kGLUXByX)
+
+
+
+# Присоединяйтесь к нам
 
 [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launches on Polkadot and Kusama, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Чтобы быть в курсе того, как запускаются парачейны Acala на Polkadot и Kusama, подпишитесь на новостную рассылку от  Acala.</p> 
 
-# **About Acala**
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+
+# **Об Acala**
+
+[ Acala ](http://acala.network/) - это децентрализованный финансовый центр Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя драгоценное время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
