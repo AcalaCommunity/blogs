@@ -2,7 +2,7 @@
 
 ## Acala в тестовой сети парачейна Polkadot Rococo, три новых члена команды, интеграция Acala Dollar с Injective, Acala на Binance Blockchain Week и подготовка к ETHDenver
 
-![Image for post](https://miro.medium.com/max/1600/0*AKMAckfj4PDxBHMX)
+![Изображение для публикации](https://miro.medium.com/max/1600/0*AKMAckfj4PDxBHMX)
 
 Что ж, 2021 год не стал зря тратить время на продолжение драмы последнего времени. Илон Маск поддерживает Bitcoin (и шиллит Doge), Рэй Далио написал статью о Bitcoin и цифровых активах, а Марк Кьюбан написал длинный блог, в котором обсуждались DeFi, криптовалюта и NFT. Да, и сообщество subreddit создало краткосрочное давление на некоторые лучшие хедж-фонды США. Куда это приведет? Только время покажет, но это, безусловно, положительный показатель того, что мир движется к децентрализованным технологиям и демократизированным финансовым системам.
 
@@ -26,15 +26,15 @@ Acala Mandala PC2 (кандидат в парачейн от Acala) был пе�
 
 ## **Новые члены команды**
 
-![Image for post](https://miro.medium.com/max/198/1*CKAzfp_7ymaDkEABfbJxgw.png)
+![Изображение для публикации](https://miro.medium.com/max/198/1*CKAzfp_7ymaDkEABfbJxgw.png)
 
 ** Робин Уитни ** заняла должность Менеджера по сообществу и развитию: как сторонник децентрализованных технологий и открытых финансов, Робин работала в Growth and Community над проектами в экосистемах DeFi на Ethereum и EOS, включая MyEtherWallet, Provable Things, p.Network и Eidoo. Она разработала стратегии привлечения и удержания аудитории для Fender Music, American Public Media, FiveThirtyEight и Electronic Frontier Foundation, с которыми она провела семинары по Responsible Data, Creative Commons и Net Neutrality. Робин находится в Лос-Анджелесе, США. ([LinkedIn](https://www.linkedin.com/in/robinmwhitney/))
 
-![Image for post](https://miro.medium.com/max/198/1*a4vDhjcZXc2CVqrlVo4Eaw.png)
+![Изображение для публикации](https://miro.medium.com/max/198/1*a4vDhjcZXc2CVqrlVo4Eaw.png)
 
-** Бретт Колодни ** присоединился к нам в качестве инженера-программиста в Acala: Бретт присоединился к нам как выпускник Substrate Runtime Developer Academy, организованной Acala, Industry Connect и Parity Technologies. Бретт был одним из лучших участников хакатона Polkadot Hello World, а недавно участвовал в хакатоне Encode, работая над парачейном, созданным с помощью Substrate. Бретт - недавний выпускник компьютерных наук University of Buffalo, живет в Нью-Йорке, США. ([LinkedIn](https://www.linkedin.com/in/brett-kolodny/))
+** Бретт Колодни ** присоединился к нам в Acala в качестве инженера-программиста: Бретт присоединился к нам как выпускник Substrate Runtime Developer Academy, организованной Acala, Industry Connect и Parity Technologies. Бретт был одним из лучших участников хакатона Polkadot Hello World, а недавно участвовал в хакатоне Encode, работая над парачейном, созданным с помощью Substrate. Бретт - недавний выпускник компьютерных наук University of Buffalo, живет в Нью-Йорке, США. ([LinkedIn](https://www.linkedin.com/in/brett-kolodny/))
 
-![Image for post](https://miro.medium.com/max/192/1*alFvyf2j_3VXZw0p7i4-Ig.png)
+![Изображение для публикации](https://miro.medium.com/max/192/1*alFvyf2j_3VXZw0p7i4-Ig.png)
 
 ** Дэн Ризер ** стал вице-президентом по развитию: Дэн присоединился к нам из сообщества Web3 Foundation’s Community & Growth, в которой он работал над маркетингом, хакатонами и развитием сообщества для запуска Polkadot и Kusama. До своей работы в Web3 Foundation, Дэн работал в области взаимодействия первого уровня в Wanchain, где руководил маркетингом. Прежде чем перейти в криптосферу на полную ставку, Дэн четыре года проработал в Eli Lilly & Company, работающая в группах по бренд-маркетингу фармацевтических продуктов для лечения болезни Альцгеймера, рака и иммунологии. Дэн живет в Остине, Техас, США, и Сан-Паулу, Бразилия. ([LinkedIn](https://www.linkedin.com/in/reecer/))
 
@@ -48,7 +48,7 @@ Acala и Injective работают вместе, чтобы интегриро�
 
 Соучредитель и главный операционный директор Acala, Бетт Чен, недавно была на дискуссионной панели на Binance Blockchain Week, где обсуждала Acala, DeFi и свои мысли о будущем отрасли. **Смотреть запись** [**здесь**](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s):
 
-![Image for post](https://miro.medium.com/max/1988/1*1ramauqOTR30RSC-ZnNRsw.png)
+![Изображение для публикации](https://miro.medium.com/max/1988/1*1ramauqOTR30RSC-ZnNRsw.png)
 
 [https://www.pscp.tv/w/1rmxPzbVaVEGN?t=1h34m12s#](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s)
 
@@ -58,24 +58,24 @@ Acala поддерживает ETHDenver в этом году, одну из в�
 
 [** Забронируйте свое место здесь **](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog) - Хакеры, которые присоединятся к Crowdcast и "попадут под награду", получат футболку и толстовку от команды Acala.
 
-![Image for post](https://miro.medium.com/max/1600/0*kw5WvFB9u1cGj9Fj)
+![Изображение для публикации](https://miro.medium.com/max/1600/0*kw5WvFB9u1cGj9Fj)
 
 **Даты, на которые стоит обратить внимание:**
 
-- 3 февраля 2021 года: ETHDenver [ Веб-семинар №1 по Acala на Crowdcast ](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog)
-- 5 февраля 2021 г: запуск [ ETHDenver ](https://www.ethdenver.com/)
+- 3 февраля 2021 года: ETHDenver [ Веб-семинар #1 по Acala на Crowdcast ](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog)
+- 5 февраля 2021 года: запуск [ ETHDenver ](https://www.ethdenver.com/)
 - 6 февраля 2021 года: веб-семинар ETHDenver Acala #2
-- February 12th, 2021: ETHDenver ends and judging completes
-- February 13th, 2021: Acala announces ETHDenver hackathon winners
-- Soon: Karura Parachain Auction ([learn more](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463))
-- Soon+: Acala Parachain Auction
+- 12 февраля 2021 года: ETHDenver подходит к концу и судьи подводят итоги
+- 13 февраля 2021 года: Acala объявляет победителей хакатона ETHDenver
+- Скоро: парачейн-аукцион Karura ([ узнать больше ](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463))
+- Скоро+: парачейн-аукцион Acala
 
-We hope you have a great February, and see you on [Discord](https://discord.gg/vdbFVCH)!
+Мы надеемся, что у вас будет отличный февраль и до скорой встречи в [ Discord ](https://discord.gg/vdbFVCH)!
 
-![Image for post](https://miro.medium.com/max/2402/1*4JsJArgpnTL_OOXk00UL_g.png)
+![Изображение для публикации](https://miro.medium.com/max/2402/1*4JsJArgpnTL_OOXk00UL_g.png)
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+Acala - это децентрализованный финансовый центр и стейблкоин на Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и безопасностью.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+Discord | Website | Twitter | GitHub | Acala Wiki | Newsletter | All Channels
