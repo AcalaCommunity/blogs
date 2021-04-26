@@ -1,6 +1,6 @@
 # Перенос BTC в Polkadot: Acala x Ren
 
-![Image for post](https://miro.medium.com/max/3200/0*t3D78kECFlwX7T1L)
+![Изображение для публикации](https://miro.medium.com/max/3200/0*t3D78kECFlwX7T1L)
 
 В сотрудничестве с [ Ren](https://renproject.io/), ** мы переносим Bitcoin** - и в будущем другие изолированные классы активов - ** в сеть Acala ** и в более широкую мультичейновую вселенную сети Polkadot!
 
@@ -10,36 +10,36 @@
 
 Ren x Acala Flow
 
-Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. Шлюз BTC предоставляется RenVM, а создание и запись renBTC на Acala обеспечивается этим модулем шлюза. Это сотрудничество расширит классы активов, доступных в Acala, и принесет совершенно новые варианты использования Bitcoin:
+Ren [строит с помощью Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) путем развертывания его [ модуля моста RenVM](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) в сети Acala. Шлюз BTC предоставляется RenVM, а создание и запись renBTC на Acala обеспечивается этим модулем шлюза. Это сотрудничество расширит классы активов, доступных в Acala, и принесет совершенно новые варианты использования Bitcoin:
 
 - renBTC можно использовать в качестве залога для займа aUSD
 - renBTC можно обменять на Acala DEX на другие активы, такие как DOT, LDOT, ACA, aUSD, XBTC
-- Users can now take part in Polkadot Proof-of-Stake validation and earn staking returns by trading DOT and using the staking derivative protocol
-- Providing liquidity to DeX and earning additional yields is now a smooth flow
-- aUSD can be transferred to the Laminar Chain for margin trading synthetic forex pairs e.g. EURUSD, gold and stocks, and synthetic BTC & ETH.
+- Теперь пользователи могут принимать участие в проверке Polkadot Proof-of-Stake и получать прибыль от стейкинга, торгуя DOT и используя производный протокол стейкинга
+- Предоставление ликвидности DEX и получение дополнительной прибыли теперь является бесперебойным процессом
+- aUSD можно перевести в сеть Laminar для маржинальной торговли синтетическими валютными парами, например EURUSD, золото и акции, а также синтетические BTC и ETH.
 
-## **The renBTC Opportunities**
+## **Возможности renBTC**
 
-We have also integrated **renBTC as a native transaction fee token.** A new user account only holding renBTC can transact on Acala from the very start **using renBTC to pay fees**. Initially, the transaction fees for minting renBTC on Acala will be waived without compromising on security. This essentially makes renBTC on Acala a powerful cross-chain DeFi steroid propelling the space forward.
+Мы также интегрировали ** renBTC в качестве собственного токена комиссии за транзакции**. Новая учетная запись пользователя, содержащая только renBTC, может с самого начала совершать транзакции на Acala ** с использованием renBTC для оплаты комиссий**. Изначально, транзакционные комиссии за выпуск renBTC на Acala будут отменены без ущерба для безопасности. По сути, это делает renBTC на Acala мощным кросс-чейн стероидом DeFi, продвигающим сферу вперед.
 
-For projects like Ren, looking to gain access to Polkadot’s multi-chain ecosystem, building on Acala is a technically and economically superior alternative to building a separate blockchain (or so-called parachain). As RenVM was [released to Mainnet](https://medium.com/renproject/renvm-mainnet-release-98cac4c6fa8e), a new era of cross-chain interoperability could begin and we are delighted **Acala is one of the first integrations the Ren team decided to complete.**
+Для таких проектов, как Ren, которые хотят получить доступ к мультичейновой экосистеме Polkadot, разработка на Acala является технически и экономически более лучшей альтернативой по созданию отдельного блокчейна (или так называемого парачейна). Поскольку RenVM был [выпущен для основной сети](https://medium.com/renproject/renvm-mainnet-release-98cac4c6fa8e), может начаться новая эра межсетевого взаимодействия, и мы очень рады, что ** Acala - одна из первых интеграций, которую решила сделать команда Ren. **
 
-> “The Ren team is very excited to be working with Acala on this initiative. This is a key step in Ren’s larger vision of enabling permissionless transfers of value between any blockchain. Fluid interoperability for the crypto ecosystem is coming to fruition and we couldn’t be more thrilled to take the first step.” — **Taiyang Zhang, Ren CEO**
+> «Команда Ren очень рада сотрудничать с Acala над этой инициативой. Это ключевой шаг в более широком видении Ren по обеспечению беспрепятственной передачи ценностей между любыми блокчейнами. Гибкое взаимодействие для крипто-экосистемы начинает приносить плоды, и мы очень рады сделать первый шаг». — **Taiyang Zhang, Ren CEO**
 
-Your first opportunity to test drive the integration will be the **Acala Mandala Festival Season #3, starting Monday, July 27th**. We’ll run a cross-chain trading competition co-hosted with [Ren](https://renproject.io/) and [Laminar](http://laminar.one/) where you’ll get to mint renBTC, swap tokens and provide liquidity via DeX. There will be a lot of exciting things to get involved with for three full weeks so make sure you join our community channels and keep your eyes on [Twitter](https://twitter.com/AcalaNetwork).
+Ваша первая возможность протестировать интеграцию - это **Acala Mandala Festival Season #3, который начнется в понедельник, 27 июля**. Мы проведем соревнование по межсетевой торговле, организованное совместно с [Ren](https://renproject.io/) и [ Laminar](http://laminar.one/), где вы сможете минтить renBTC, обменивать токены и обеспечивать ликвидность через DEX. В течение трех полных недель будет много интересных вещей, поэтому обязательно присоединяйтесь к нашим каналам сообщества и следите за [Twitter](https://twitter.com/AcalaNetwork).
 
-## **About Ren**
+## **О Ren**
 
-Ren is an open protocol that enables the permissionless and private transfer of value between any blockchain.
+Ren - это открытый протокол, который позволяет осуществлять конфиденциальную передачу ценностей между любым блокчейном без разрешения.
 
 [Website](https://renproject.io/) | [Docs](https://docs.renproject.io/ren) | [Telegram](https://t.me/renproject) | [Announcements](https://t.me/renprojectann) | [Twitter](https://twitter.com/renprotocol) | [Reddit](https://www.reddit.com/r/renproject) | [Github](https://github.com/renproject)
 
-## About Acala
+## Об Acala
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[ Acala](http://acala.network/) - это первый в своем роде консорциум децентрализованного финансирования, который стремится обеспечить финансовую стабильность, ликвидность и доступность для всех. **Acala Network - это межсетевой финансовый центр для экосистемы Polkadot** и не только. Он предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, производный инструмент без доверия и децентрализованный обмен для раскрытия ликвидности и поддержки финансовых инноваций. Это открытая платформа для ориентированных на финансы dApps, для развертывания с использованием смарт-контрактов или встроенных протоколов с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
 
-## Join Us
+## Присоединяйтесь к нам
 
-Learn more about Acala on [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) and [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). You can join our community on [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) and [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Any inquiries, please [email](http://hello@acala.network/) or DM us.
+Узнайте больше об Acala на [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) и [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). Вы можете присоединиться к нашему сообществу на [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) и [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Если у вас возникнут вопросы, [ напишите нам на почту](http://hello@acala.network/) или в личные сообщения.
 
-To keep up to date with progress on the Acala launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Чтобы быть в курсе процесса запуска Acala, подпишитесь на [новостную рассылку Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
