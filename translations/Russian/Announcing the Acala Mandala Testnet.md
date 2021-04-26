@@ -1,24 +1,24 @@
-# Announcing the Acala Mandala Testnet, Proof-of-Liveness Partners, and Ecosystem projects
+# Анонсирование тестовой сети Acala Mandala, партнеров Proof-of-Liveness и экосистемных проектов
 
-We are thrilled to launch the first trilogy network for Acala — the Mandala Test Network, announce our partners, and the Acala Ecosystem Program.
+Мы очень рады запустить первую трилогию сети для Acala - тестовую сеть Mandala, объявить о наших партнерах и о программе Acala Ecosystem.
 
 ![Image for post](https://miro.medium.com/max/5000/0*9hFZBkxybL4cD0nm.jpg)
 
-# An Unfolding of Acala Trilogy Networks
+# Развитие сетей трилогии Acala
 
-[The Acala Network](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf) will power cross-chain capable multi-collateralized and decentralized stablecoin, and serve as a DeFi building block for the Polkadot Ecosystem. The evolution of the Acala Network will be marked by trilogy networks:
+[Сеть Acala](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf) будет обеспечивать кросс-чейн-совместимый мульти-залоговый и децентрализованный стейблкоин и служить строительным блоком DeFi для экосистемы Polkadot. Развитие сети Acala будет отмечено трилогией сетей:
 
-- **Mandala Test Network**: is a risk-free and value-free playground for us, users and developers to test drive functionalities of Acala. Expect bugs, chaos, and unannounced reboots.
-- **Karura Network**: is an unaudited and experimental release of Acala that will join the Kusama network as parachain. It will have economic value represented as KAR native tokens, and KSM can be used as collateral for kaUSD.
-- **Acala Mainnet**: will be connected to the Polkadot network upon its launch.
+- **Mandala Test Network**: это безопасная и бесплатная "игровая" площадка для нас, пользователей и разработчиков, для тестирования функциональных возможностей Acala. Ожидаются ошибки, хаос и необъявленные перезагрузки.
+- **Karura Network**: неаудированная и экспериментальная версия Acala, которая присоединится к сети Kusama в качестве парачейна. Он будет иметь экономическую ценность, представленную в виде собственных токенов KAR, а KSM может использоваться в качестве залога для kaUSD.
+- **Acala Mainnet**: будет подключен к сети Polkadot после запуска.
 
-# Mandala Network
+# Сеть Mandala
 
-Expect Bugs and Unannounced Reboots.
+Ожидайте ошибок и необъявленных перезагрузок.
 
-Mandala is the test network for Acala. It allows users, teams, and developers to test drive stablecoin functionalities, get a taste of Acala’s governance, and build integration in a risk-free environment.
+Mandala является тестовой сетью для Acala. Он позволяет пользователям, командам и разработчикам тестировать функциональные возможности стейблкоинов, получать представление об управлении Acala и создавать интеграцию в безрисковой среде.
 
-# Why Mandala?
+# Почему Mandala?
 
 Well, why Acala in the first place? Acala is the immovable deity and the gate guardian in Buddhism. Symbolically, stablecoin is the guardian foundation of decentralized finance. **Mandala is meant to be Acala’s gateway into the two networks hereafter**, where we can have a taste of Acala, try things out freely and safely in terms of functionality. Whereas economically and governance-wise, the Karura network will serve the experimental purposes for Acala.
 
