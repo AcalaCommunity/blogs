@@ -1,19 +1,19 @@
-# Bringing BTC to Polkadot: Acala x Ren
+# Перенос BTC в Polkadot: Acala x Ren
 
 ![Image for post](https://miro.medium.com/max/3200/0*t3D78kECFlwX7T1L)
 
-In collaboration with [Ren](https://renproject.io/), **we are bringing Bitcoin** — and in future other currently isolated asset classes — **onto the Acala Network** and into the wider Polkadot multi-chain universe!
+В сотрудничестве с [ Ren](https://renproject.io/), ** мы переносим Bitcoin** - и в будущем другие изолированные классы активов - ** в сеть Acala ** и в более широкую мультичейновую вселенную сети Polkadot!
 
-This is a key step in the cross chain DeFi journey as it enables **permissionless transfers of value between blockchains**. Through its RenVM, the protocol has so far been enabling BTC, BCH and ZEC to fuel Ethereum DeFi use cases. Since Acala is a Polkadot finance hub offering a suite of DeFi primitives — multi-collateralized stablecoin, staking derivative and decentralized exchange to enable cross-chain DeFi — the collaboration with Ren was a natural fit. Providing a high performance, highly liquid, and easily accessible DeFi experience for the broader web3 community is a goal both teams share.
+Это ключевой шаг в кросс-чейн путешествии DeFi, поскольку он обеспечивает **передачу ценностей между блокчейнами без разрешений**. Благодаря RenVM, протокол до сих пор позволял BTC, BCH и ZEC обеспечивать сценарии использования Ethereum DeFi. Поскольку Acala является финансовым центром Polkadot, предлагающим набор примитивов DeFi - стейблкоин с множественным обеспечением, производный стейкинг и децентрализованный обмен для обеспечения кросс-чейн DeFi - сотрудничество с Ren было естественным подходом. Обеспечение высокопроизводительного, высоколиквидного и легкодоступного опыта DeFi для более широкого сообщества web3 - это цель, которую разделяют обе команды.
 
-The Ren team have been working closely with Acala for the past couple of months and we are thrilled to release the integration on Acala’s Mandala testnet. We hope it will launch a new age of cross chain DeFi activity and will become **a key step towards powerful web3 finance**.
+Команда Ren тесно сотрудничает с Acala последние пару месяцев, и мы очень рады выпустить нашу интеграцию на тестовой сети Acala Mandala. Мы надеемся, что это откроет новую эру кроссчейновой деятельности DeFi и станет ** ключевым шагом на пути к мощному web3 finance**.
 
 Ren x Acala Flow
 
-Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. The BTC gateway is provided by RenVM, while minting and burning of renBTC on Acala are provided by this gateway module. This collaboration will boost the asset classes available on Acala and bring brand new use cases for Bitcoin:
+Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. Шлюз BTC предоставляется RenVM, а создание и запись renBTC на Acala обеспечивается этим модулем шлюза. Это сотрудничество расширит классы активов, доступных в Acala, и принесет совершенно новые варианты использования Bitcoin:
 
-- renBTC can be used as collateral for aUSD credit facility
-- renBTC can be traded on Acala DeX for other assets like DOT, LDOT, ACA, aUSD, XBTC
+- renBTC можно использовать в качестве залога для займа aUSD
+- renBTC можно обменять на Acala DEX на другие активы, такие как DOT, LDOT, ACA, aUSD, XBTC
 - Users can now take part in Polkadot Proof-of-Stake validation and earn staking returns by trading DOT and using the staking derivative protocol
 - Providing liquidity to DeX and earning additional yields is now a smooth flow
 - aUSD can be transferred to the Laminar Chain for margin trading synthetic forex pairs e.g. EURUSD, gold and stocks, and synthetic BTC & ETH.
