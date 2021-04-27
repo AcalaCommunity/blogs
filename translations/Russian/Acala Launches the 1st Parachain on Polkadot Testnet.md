@@ -1,17 +1,17 @@
-# Acala Launches the 1st Parachain on Polkadot Testnet
+# Acala запускает первый парачейн в тестовой сети Polkadot
 
 ![Image for post](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
 
-We’ve reached a significant milestone towards launching Acala as parachain on Polkadot — we launched Acala Mandala PC1 (Parachain Candidate 1) testnet as the first parachain on [Rococo — Polkadot’s parachain testnet](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56).
+Мы достигли важной отметки на пути к запуску Acala в качестве парачейна на Polkadot - мы запустили тестовую сеть Acala Mandala PC1 (Parachain Candidate 1) в качестве первого парачейна в [Rococo - тестовой сети парачейна Polkadot](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56).
 
-Rococo enables parachain consensus and shared security via [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus), as well as cross-chain communication via HRMP (Horizontal Relay-chain Message Passing). HRMP requires cross-chain messages being routed via Relay-chains, as a stepping stone towards direct parachain to parachain communication via [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) later on.
+Rococo обеспечивает консенсус парачейна и общую безопасность через [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus), а также межсетевое взаимодействие через HRMP (Horizontal Relay-chain Message Passing). HRMP требует маршрутизации сообщений между цепями через релейные чейны в качестве ступеньки к прямой связи между цепями через [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) после.
 
-With Acala Mandala PC1, we can
+С Acala Mandala PC1 мы можем:
 
-- **Test Acala’s full DeFi suite** (stablecoin, staking derivative, and DeX) using cross-chain consensus and message passing.
-- Develop further the [Cross-Consensus Message (XCM) format](https://github.com/paritytech/xcm-format) implementation, and specifically flesh out the **cross-chain fungible token standard** that we had spearheaded. The draft standard [here](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) & PoC pallet implementation [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
-- **Test Acala Collator nodes** and implement reward schemes.
-- **Test cross-chain integrations** **with other parachains** such as Laminar, Plasm, Interlay, and others.
+- **Протестировать полный пакет DeFi** Acala (стейблкоин, стейкинг и DEX), используя межсетевой консенсус и передачу сообщений.
+- Дальнейшее развитие [Cross-Consensus Message (XCM)](https://github.com/paritytech/xcm-format) и, в частности, конкретизация **стандарта взаимозаменяемых токенов между цепями**, который мы инициировали. Проект стандарта [здесь](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) и Реализация PoC паллеты [здесь](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
+- **Протестируовать узлы Acala Collator** и реализовать схемы вознаграждения.
+- **Протестировать кросс-чейновую интеграцию** ** с другими парачейнами**, такими как Laminar, Plasm, Interlay и остальными.
 - Implement Homa protocol’s **trustless staking bridge to Relay-chain**.
 
 # Parachain Developer Community
