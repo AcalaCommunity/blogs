@@ -1,25 +1,25 @@
-# **Acala Receives Compound Grant to Connect Compound Chain and Polkadot via Acala**
+# **Acala получила Compound Grant на соединение Compound Chain и Polkadot через Acala**
 
 ![](https://miro.medium.com/max/4800/1*3vdQ49AL1YacBOCxQRBH7A.png)
 
-Compound has recently launched the [Compound Gateway testnet](https://www.comp.xyz/t/compound-gateway-testnet/1302) — a cross-chain money market built with Substrate. Acala is a firm believer and a long-term builder for the multi-chain future. We believe in reducing liquidity fragmentation and increasing composability and DeFi accessibility to everyone. This is a vision we share with the [Compound Gateway](https://www.comp.xyz/t/compound-gateway-testnet/1302).
+Compound недавно запустил тестовую сеть [Compound Gateway](https://www.comp.xyz/t/compound-gateway-testnet/1302) - кросс-чейн денежный рынок, построенный с помощью Substrate. Acala - уверенный сторонник и долгосрочный строитель мультичейн будущего. Мы верим в снижение фрагментации ликвидности и повышение возможности компоновки и доступности DeFi для всех. Это видение, которое мы разделяем с [Compound Gateway](https://www.comp.xyz/t/compound-gateway-testnet/1302).
 
-[Polkadot](https://polkadot.network/) is a layer-0 protocol that merely provides shared PoS security and cross-chain communication for its connected parachains. Other chain-specific and application-specific logic, such as EVM and smart contracts, are implemented on parachains. Acala’s parachain plays the role of DeFi hub and a landing pad that aggregates assets and liquidity from a variety of blockchains.
+[Polkadot](https://polkadot.network/) - это протокол уровня 0, который просто обеспечивает общую безопасность PoS и межсетевое взаимодействие для своих подключенных парачейнов. Другая концепция, зависящая от цепи и приложения, такая как EVM и смарт-контракты, реализована на парачейнах. Парачейн Acala играет роль DeFi-центра и посадочной площадки, которая объединяет активы и ликвидность из различных блокчейнов.
 
 ![](https://miro.medium.com/max/1380/0\*M7wOJognbkTn85DF)
 
-We will integrate with Compound Chain and implement its cross-chain interface, Starport. [The proposal](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349) was first published on the Compound forum and has since gathered great community feedback. This proposal will enable us to bring Compound’s services and CASH token (Compound’s interest-bearing token) to Acala and Polkadot, and introduce DOT and Liquid DOT (LDOT) as new collateral assets to the Compound money market.
+Мы интегрируемся с Compound Chain и реализуем его кросс-чейн-интерфейс, Starport. [Предложение](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349) было впервые опубликовано на форуме Compound и с тех пор было получено много положительных отзывов от сообщества. Это предложение позволит нам предоставить услуги Compound CASH-токен (процентный токен Compound) в Acala и Polkadot, а также представить DOT и Liquid DOT (LDOT) в качестве новых залоговых активов на финансовый рынок Compound.
 
-We are confident this contribution will be beneficial to the Compound community, to Acala, and to the Polkadot ecosystem, creating a win-win-win situation with a more evolved and cheaper money market service, more collateral asset variety, and much wider user adoption across multiple blockchains.
+Мы уверены, что этот вклад будет полезен сообществу Compound, Acala и экосистеме Polkadot, создав беспроигрышную ситуацию с более развитой и более дешевой услугой финансового рынка, большим разнообразием залоговых активов и гораздо более широким принятием пользователями через несколько блокчейнов.
 
-This proposal has now [received a grant of USD$35,000](https://compoundgrants.org/3-31-21-Batch-1-Funded-2355ec32682c4f8bb68956487bbc5261) from [the Compound Grants Program](https://compoundgrants.org/) as its first batch of funded initiatives. This proposal will partially be funded by this grant, and partially funded by Acala. The detailed implementation plan can be found [here](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349).
+Это предложение уже [получило грант в размере 35 000 долларов США](https://compoundgrants.org/3-31-21-Batch-1-Funded-2355ec32682c4f8bb68956487bbc5261) от [ Программы комплексных грантов](https://compoundgrants.org/) в качестве первого пакета финансируемых инициатив. Это предложение будет частично профинансировано этим грантом, а частично - Acala. Подробный план реализации можно найти [здесь](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349).
 
-This is our first public proposal to the Compound community. We have been pleased to receive warm welcomes and helpful feedback from various members of the community. We look forward to making the proposal a reality, and continuing to share more development progress as we proceed.
+Это наше первое публичное предложение сообществу Compound. Мы были рады получить теплый прием и полезные отзывы от различных членов сообщества. Мы с нетерпением ждем возможности воплотить это предложение в жизнь и продолжим сообщать о дальнейшем прогрессе в разработке.
 
 ![](https://miro.medium.com/max/2402/1\*vtgTFpNWqwSNRChv3uQAWg.png)
 
-# About Acala
+# Об Acala
 
-Acala is the all-in-one DeFi hub of Polkadot. Acala is an Ethereum-compatible platform for financial applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security. The platform also offers a suite of financial applications including: a trustless staking derivative (liquid DOT), a multi-collateralized stablecoin backed by cross-chain assets (aUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Acala - это универсальный DeFi-центр Polkadot. Acala - это Ethereum-совместимая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и надежной безопасностью. Платформа также предлагает набор финансовых приложений, в том числе: стейкинг без доверия (ликвидный DOT), стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами (aUSD), и AMM DEX - все с минимальными комиссиями, которые могут быть оплачены любым токеном.
 
-[Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+[Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Новостная рассылка](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
