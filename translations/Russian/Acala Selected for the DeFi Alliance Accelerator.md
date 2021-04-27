@@ -1,12 +1,12 @@
-# **Acala Selected for the DeFi Alliance Accelerator to Help Build, Deploy, and Grow the DeFi Hub of Polkadot**
+# **Acala выбрана для DeFi Alliance Accelerator для помощи в создании, развертывании и развитии DeFi-центра на Polkadot**
 
 ![Image for post](https://miro.medium.com/max/3200/0*7SxlrlyVQIduIxF5)
 
-Written by [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----c1526008963e--------------------------------)
+Автор статьи [Бетт Чен](https://medium.com/u/8d475d21e811?source=post_page-----c1526008963e--------------------------------)
 
-Acala is honored and thrilled to be one of twelve teams selected for [the second cohort of the DeFi Alliance accelerator program](https://medium.com/@lmrankhan/defi-alliance-announces-cohort-2-liquidity-launchpad-5bbaf76cde32), out of more than 100 applications. We are joined by the following teams innovating in the decentralized finance space: [_Pods_](http://pods.finance/)_,_ [_Paraswap_](https://paraswap.io/#/)_, Saddle,_ [_Notional_](http://notional.finance/)_,_ [_Tokenlon_](http://tokenlon.im/)_,_ [_Vega_](http://vega.xyz/)_,_ [_Derivadex_](https://derivadex.com/)_,_ [_Perpetual,_](http://perp.fi/) [_Loopring_](https://loopring.org/#/)_,_ [_Deversifi_](http://deversifi.com/)_, and_ [_Mcdex_](https://mcdex.io/)_._
+Для Acala большая честь и радость быть одной из двенадцати команд, выбранных для [ второй группы акселерационной программы DeFi Alliance](https://medium.com/@lmrankhan/defi-alliance-announces-cohort-2-liquidity-launchpad-5bbaf76cde32) из более чем 100 заявок. Мы присоединились к следующим командам, которые внедряют инновации в сфере децентрализованного финансирования: [_Pods_](http://pods.finance/)_,_ [_Paraswap_](https://paraswap.io/#/)_, Saddle,_ [_Notional_](http://notional.finance/)_,_ [_Tokenlon_](http://tokenlon.im/)_,_ [_Vega_](http://vega.xyz/)_,_ [_Derivadex_](https://derivadex.com/)_,_ [_Perpetual,_](http://perp.fi/) [_Loopring_](https://loopring.org/#/)_,_ [_Deversifi_](http://deversifi.com/)_, and_ [_Mcdex_](https://mcdex.io/)_._
 
-The [DeFi Alliance](https://defialliance.co)’s inaugural cohort hosted some of the top DeFi teams including 0x, dYdX, Kyber Network, IDEX, Opyn, Set Protocol, and Synthetix. The program helps connect the cohort participants with a network of experts and resources, with a particular focus on designing liquidity mining programs and onboarding liquidity providers to bootstrap liquidity.
+В состав первой группы [ DeFi Alliance](https://defialliance.co) входили одни из лучших команд в сфере DeFi, включая 0x, dYdX, Kyber Network, IDEX, Opyn, Set Protocol и Synthetix. The program helps connect the cohort participants with a network of experts and resources, with a particular focus on designing liquidity mining programs and onboarding liquidity providers to bootstrap liquidity.
 
 We look forward to learning from the mentors and Alliance members including firms such as Jump Trading, DRW/Cumberland, CMT Digital, Volt Capital, Alameda Research, ParaFi, Spartan Group, Framework Ventures, Gauntlet, Aave, Compound, Kyber Network, Synthetix, Mechanism, and many other trading firms, venture investors, legal experts, and alumni of the accelerator program.
 
