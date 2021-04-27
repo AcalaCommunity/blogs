@@ -1,6 +1,6 @@
 # Acala запускает первый парачейн в тестовой сети Polkadot
 
-![Image for post](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
+![Изображение для публикации](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
 
 Мы достигли важной отметки на пути к запуску Acala в качестве парачейна на Polkadot - мы запустили тестовую сеть Acala Mandala PC1 (Parachain Candidate 1) в качестве первого парачейна в [Rococo - тестовой сети парачейна Polkadot](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56).
 
@@ -12,36 +12,36 @@ Rococo обеспечивает консенсус парачейна и общ�
 - Дальнейшее развитие [Cross-Consensus Message (XCM)](https://github.com/paritytech/xcm-format) и, в частности, конкретизация **стандарта взаимозаменяемых токенов между цепями**, который мы инициировали. Проект стандарта [здесь](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) и Реализация PoC паллеты [здесь](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
 - **Протестируовать узлы Acala Collator** и реализовать схемы вознаграждения.
 - **Протестировать кросс-чейновую интеграцию** ** с другими парачейнами**, такими как Laminar, Plasm, Interlay и остальными.
-- Implement Homa protocol’s **trustless staking bridge to Relay-chain**.
+- Внедрить **надежный мост стейкинга в Relay-chain** протокола Homa.
 
-# Parachain Developer Community
+# Сообщество разработчиков парачейна
 
-We have shared the following with the parachain developer community
+Мы поделились следующим с сообществом разработчиков парачейнов:
 
-- **Turn a Substrate-based chain into a parachain** including turning nodes into [Collators](https://wiki.polkadot.network/docs/en/maintain-collator) by integrating Cumulus [here](https://github.com/AcalaNetwork/Acala/pull/362)
-- **Cross-chain fungible multi-token transfer implementation** — the ‘xtoken’ pallet [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). This already enables transferring ROC (Rococo’s network token) between Rococo and Mandala PC1; other parachains who adopt this or use the same standards can transfer tokens to each other.
+- ** Превратите цепь на основе Substrate в парачейн**, включая превращение узлов в [Collators](https://wiki.polkadot.network/docs/en/maintain-collator) путем интеграции Cumulus [здесь](https://github.com/AcalaNetwork/Acala/pull/362).
+- **Реализация взаимозаменяемой передачи нескольких токенов между цепями** - паллеты «xtoken» [здесь](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). Это уже позволяет передавать ROC (сетевой токен Rococo) между Rococo и Mandala PC1; другие парачейны, которые принимают это или используют те же стандарты, могут передавать токены друг другу.
 
-# What’s Next
+# Что будет дальше
 
-For the Mandala PC1, it will reset inadvertently unannounced multiple times to keep up with the latest version of Rococo, roll out new functionalities and support integrations with other parachains. The key upcoming developments for the Mandala Parachain Candidate are:
+Для Mandala PC1 оно будет сбрасываться непреднамеренно, без предупреждения, несколько раз, чтобы не отставать от последней версии Rococo, развертывать новые функции и поддерживать интеграцию с другими парачейнами. Ключевые предстоящие разработки для кандидата в парачейны Mandala:
 
-- **Continue to develop the XCM pallet** along with Parity, the Web3 Foundation, and others in the community towards production-ready.
-- **Enable Acala staking** with rewards/slash on Acala Collator nodes.
-- **Extensive cross-chain communication testing** with other parachains, and make possible some of the use cases that were implemented in isolation, for example, and cross aUSD to Laminar as the base currency for margin trading, and cross aUSD to Plasm network as payment methods.
-- **Enable Homa staking derivative (LDOT) Relay-chain bridge** so that trustless liquid staking for Kusama and Polkadot is ready on launch.
+- **Продолжайте разрабатывать паллету XCM** вместе с Parity, Web3 Foundation и другими участниками сообщества в направлении готовности к использованию.
+- **Включите Acala стейкинг** с помощью наград/слеш на узлах Acala Collator.
+- **Обширное тестирование межсетевого взаимодействия** с другими парачейнами, что делает возможными некоторые варианты использования, которые были реализованы изолированно, например, и перемещение aUSD в Laminar в качестве базовой валюты для маржинальной торговли и перемещение aUSD в сеть Plasm в качестве способа оплаты.
+- **Включите мост релейной цепи Homa Staking Derivative (LDOT)**, чтобы к запуску был готов ликвидный стейкинг без доверия для Kusama и Polkadot.
 
-# Launch
+# Запуск
 
-Beyond Rococo and Mandala, Acala will launch its canary network Karura as parachain firstly on Kusama when parachain function is enabled there, then launch mainnet on Polkadot. Acala will operate the two networks — Karura & Acala mainnet to provide DeFi infrastructure and liquidity for both Kusama and Polkadot ecosystem. From here on, we will be preparing for parachain auction to secure a slot and launch on the two networks. **Subscribe** [**here**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **to receive updates on the Acala parachain auction and launch.**
+Помимо Rococo и Mandala, Acala запустит свою канареечную сеть Karura в качестве парачейна сначала на Kusama, когда там будет включена функция парачейна, а затем запустит основную сеть на Polkadot. Acala будет управлять двумя сетями - Karura и Acala для обеспечения инфраструктуры и ликвидности DeFi для экосистемы Kusama и Polkadot. С этого момента мы будем готовиться к аукциону парачейнов, чтобы получить слот и запустить его в двух сетях. **Подпишитесь** [**здесь**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)**, чтобы получать новости об аукционе парачейна Acala и его запуске.**
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. The Acala Network is a cross-chain finance hub for the Polkadot ecosystem and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[ Acala](http://acala.network/) - это первый в своем роде консорциум децентрализованного финансирования, который стремится обеспечить финансовую стабильность, ликвидность и доступность для всех. Acala Network - это межсетевой финансовый центр для экосистемы Polkadot и не только. Он предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, производный инструмент без доверия и децентрализованный обмен для раскрытия ликвидности и поддержки финансовых инноваций. Это открытая платформа для ориентированных на финансы dApps, для развертывания с использованием смарт-контрактов или встроенных протоколов с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
 
-**Join Us**
+**Присоединяйтесь к нам**
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-![Image for post](https://miro.medium.com/max/1500/0*YTeYSsHAVjOBCZu8.jpeg)
+![Изображение для публикации](https://miro.medium.com/max/1500/0*YTeYSsHAVjOBCZu8.jpeg)
 
-Acala is a proud Web3 Foundation Grantee
+Acala гордится полученным грантом от Web3 Foundation
