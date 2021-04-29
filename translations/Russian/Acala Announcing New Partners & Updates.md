@@ -12,20 +12,20 @@ Acala Foundation рада объявить о новых партнерах, к�
 
 ## Обновлены веб-сайт и Дорожная карта
 
-We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
+Мы тесно сотрудничаем с инженерами из Parity и Polkadot и постоянно обновляем нашу дорожную карту, чтобы лучше согласоваться с готовностью к парачейну и запуском основной сети Polkadot, некоторые основные моменты:
 
-- Launch Acala Karura canary network as soon as Kusama parachain bonding is ready
-- We are starting security audits for the Acala Network
-- Launch Acala mainnet (a plain network) and participate in parachain auction as soon as Polkadot is ready
-- Then enable stablecoin and other features once the network runs steadily
+- Запуск канареечной сети Acala Karura, как только будет готово соединение парачейна Kusama
+- Мы начинаем аудиты безопасности для Acala Network
+- Запуск основной сети Acala (простой сети) и участвуйте в аукционе парачейнов, как только Polkadot будет готов
+- Затем активация стейблкоина и других функций, когда сеть заработает стабильно
 
-Check out our revamped website [acala.network](https://acala.network/) for more details.
+Посетите наш обновленный веб-сайт [acala.network](https://acala.network/) для получения более подробной информации.
 
 ![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
-## Responding to Recent DeFi Black Swan Event
+## Ответ на недавнее событие в DeFi Black Swan (Чёрный Лебедь)
 
-Recent DeFi Black Swan event specifically re [MakerDAO multi-million dollar incident](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) has brought several network and market structural issues to light — some are known but unsolvable at the protocol level, some are ignored or overlooked. Nevertheless, there are invaluable lessons learned from Acala’s perspective:
+Недавнее событие в DeFi "Чёрный Лебедь", а именно [ многомиллионному инциденту с MakerDAO](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6), выявило ряд сетевых и рыночных структурных проблем - некоторые из них известны, но неразрешимы на уровне протокола, некоторые игнорируются или упускаются из виду. Тем не менее, есть бесценные уроки, извлеченные с точки зрения Acala:
 
 - **Network congestion**: Polkadot’s sharded design with minimum 200 TPS aside, with Substrate, Acala is designing Quality of Service type transaction classification to prioritize critical transactions e.g. oracle operations, to effectively counter this issue.
 - **Vulnerability in the liquidation process**: An automated on-chain liquidator/keeper (made possible by Substrate) aside, Acala is also designing a hybrid mechanism with a built-in DeX supplementing collateral auctions to ensure robustness, liquidity and optimal pricing.
