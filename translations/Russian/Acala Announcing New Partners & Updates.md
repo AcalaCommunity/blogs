@@ -6,11 +6,11 @@
 
 # Новые партнёры
 
-Acala Foundation is pleased to announce new partners joining the effort in building a cross-blockchain decentralized stablecoin and staking liquidity platform to power open finance applications on the Polkadot network. We believe these partners — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — are our long term allies in our quest in building a sustainable, resilient and solid open finance infrastructure.
+Acala Foundation рада объявить о новых партнерах, которые присоединятся к работе по созданию кросс-блокчейн децентрализованного стейблкоина и платформы и ликвидного стейкинга для поддержки открытых финансовых приложений в сети Polkadot. Мы считаем, что эти партнеры — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — наши давние союзники в нашем стремлении создать устойчивую, устойчивую и прочную открытую финансовую инфраструктуру.
 
-# Updates
+# Новости
 
-## Roadmap & Website Revamped
+## Обновлены веб-сайт и Дорожная карта
 
 We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
 
