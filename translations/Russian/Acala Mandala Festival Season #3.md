@@ -1,19 +1,19 @@
 # Acala Mandala Festival Season #3
 
-🎉 Get ready for three weeks of DeFi action starting July 27! 🎉
+🎉 Приготовьтесь к трехнедельному мероприятию DeFi с 27 июля! 🎉
 
 ![Image for post](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
 
-We can’t believe it’s already time for our third season of Mandala Festival, it seems like only yesterday we were announcing the inaugural edition back in March! We’ve been blown away by your support, enthusiasm and the wealth of activity we’ve had on the network ever since.
+Мы не можем поверить, что пришло время для нашего третьего сезона Mandala Festival, кажется, только вчера мы анонсировали инаугурационное издание еще в марте! Мы были потрясены вашей поддержкой, энтузиазмом и огромной активностью, которую мы с тех пор вели в сети.
 
-The first two seasons attracted a lot of attention, with a considerable influx of participants and a flurry of meaningful activity:
+Первые два сезона привлекли к себе много внимания, со значительным наплывом участников и шквалом значимой деятельности:
 
-📈 1300+ node runners  
-👥 600 + app users  
-✍️ 30+ bloggers  
-🐞 30+ bug hunters  
-✅ 4000+ new accounts  
-⛓️ 40,000 + meaningful transactions
+📈 1300+ держателей нод  
+👥 600 + пользователей приложений  
+✍️ 30+ блогов  
+🐞 30+ "охотников за багами"  
+✅ 4000+ новых аккаунтов  
+⛓️ 40,000 + значимых транзакций
 
 ## Mandala TC4 Cross-Chain DeFi
 
