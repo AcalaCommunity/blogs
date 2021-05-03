@@ -2,7 +2,7 @@
 
 Статья написана [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c--------------------------------)
 
-![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
+![Изображение для публикации](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
 # Новые партнёры
 
@@ -21,7 +21,7 @@ Acala Foundation рада объявить о новых партнерах, к�
 
 Посетите наш обновленный веб-сайт [acala.network](https://acala.network/) для получения более подробной информации.
 
-![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
+![Изображение для публикации](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
 ## Ответ на недавнее событие в DeFi Black Swan (Чёрный Лебедь)
 
@@ -32,27 +32,27 @@ Acala Foundation рада объявить о новых партнерах, к�
 - **Резерв капитала**: Acala разрабатывает систему тройного резерва капитала для защиты ценности сети - внешний крипто-резерв (через [децентрализованный фонд суверенного благосостояния](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) в качестве чрезвычайного фонда, встроенного в DEX, привлекающего ликвидность в качестве пассивного резервуара, и аукциона ACA в качестве последнего средства.
 - В принципе, система или протокол должны стремиться к децентрализации, чтобы постоянно склоняться к **большей правде и меньшему доверию**. Однако, когда доверие все еще требуется (некоторые компоненты все еще не полностью децентрализованы и автоматизированы), для противодействия рискам требуется не меньше усилий, капитала, регулирования и страхования, чем то, что делает сегодня мир централизованных финансов - и это цена, которую мы платим за доверие.
 
-Read more discussions on the issues and potential solutions in [Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) and [a recent AMA | Acala Network: Cross-Chain Finance in PoS Era](https://polkabase.com/blog/1217).
+Дополнительные обсуждения проблем и возможных решений читайте в [Вернуть уверенность в децентрализованном стейблкойне](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) и [недавней AMA | Сеть Acala: Кросс-чеин финансирование в эпоху PoS](https://polkabase.com/blog/1217).
 
 # Acala Mandala Festival 🎉
 
-![Image for post](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
+![Изображение для публикации](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
-Mandala Test Network is the first in [Acala’s trilogy networks](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). It’s a value-free but chaotic playground for everyone to test drive functionalities of Acala:
+Mandala Test Network - первая из [трилогии сетей Acala](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). Это бесплатная, но хаотичная площадка, где каждый может протестировать функциональные возможности Acala:
 
-- borrow stablecoin aUSD with test DOT and BTC as collaterals
-- built-in decentralized exchange
-- functioning auction systems and oracle services
+- заимствовать стейблкоины aUSD с тестовыми DOT и BTC в качестве обеспечения
+- встроенная децентрализованная биржа
+- функционирующие аукционные системы и сервисы оракулов
 
-We hosted [a Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) to celebrate and reward supporters and festival-goers. Now three weeks have passed, and we are near the end of it. It’s been both fascinating and rewarding to see so much participation and prize-giving:
+Мы организовали [Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6), чтобы отметить и наградить сторонников и посетителей фестиваля. Прошло три недели, и мы подошли к концу. Было одновременно увлекательно и приятно видеть такое количество участников и награждений:
 
-- 260+ nodes running across 24 cities (2nd on [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) as of 27th March)
-- 350+ users with meaningful transaction qualified for lucky draws
-- 20+ quality articles submitted
+- 260+ нод, работающих в 24 городах (2-е по [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) по состоянию на 27 марта)
+- 350+ пользователей со значимыми транзакциями, получивших право на счастливые билеты
+- Отправлено 20+ качественных статей
 
-Check out the prize board [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Coding challenge and bug bounties will go on🚀, what are you waiting for?!
+Ознакомьтесь со списком наград [здесь](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Соревнование по кодированию и баг баунти продолжаются🚀, чего вы ждете?!
 
-# Stay Updated with Acala
+# Будьте в курсе с Acala
 
 Website: [https://acala.network](https://acala.network/)  
 Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
@@ -60,10 +60,10 @@ Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
 
-# About Acala
+# Об Acala
 
-[Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. The Acala Network is a dual-protocol network, with a decentralized cross-chain capable multi-collateralized stablecoin protocol — Honzon, and a trust-less tokenized staking liquidity protocol — Homa. Acala aims to bring stability and liquidity to the crypto world and beyond.
+[Acala - первый в своем роде консорциум децентрализованных финансов](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), целью которого является создание кросс-чейн инфраструктуры открытого финансирования для экосистемы [Polkadot](https://polkadot.network/). Сеть Acala представляет собой двухпротокольную сеть с децентрализованным межсетевым протоколом, поддерживающим многопользовательский стейблкоин - Honzon, и протоколом ликвидности с токенизированной ставкой без доверия - Homa. Acala стремится обеспечить стабильность и ликвидность в криптовалютном мире и за его пределами.
 
-The Acala Stablecoin Project is proudly supported by the [Web3 Foundation](https://web3.foundation/)
+Проект Acala Stablecoin с гордостью поддерживается [Web3 Foundation](https://web3.foundation/)
 
-![Image for post](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
+![Изображение для публикации](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
