@@ -15,9 +15,9 @@
 ✅ 4000+ новых аккаунтов  
 ⛓️ 40,000 + значимых транзакций
 
-## Mandala TC4 Cross-Chain DeFi
+## Mandala TC4 кросс-чейн DeFi
 
-As **we launch this third season of the festival on Monday 27th of July**, it’s perhaps time to reiterate **Acala’s main mission: enable an interconnected, autonomous, efficient and sophisticated cross-blockchain finance ecosystem.** Because Acala is a finance hub on Polkadot, it provides a suite of financial primitives including multi-collateralized stablecoin, trustless staking derivative and a decentralized exchange. These primitives are offered via the Acala dApp, directly to end-users, and also as SDKs for other dApps to build on.
+Поскольку **мы запускаем этот третий сезон фестиваля в понедельник, 27 июля**, возможно, пришло время повторить главную миссию **Acala: создать взаимосвязанную, автономную, эффективную и сложную кросс-блокчейн финансовую экосистему.** Поскольку Acala является финансовым центром Polkadot, он предоставляет набор финансовых примитивов, включая стейблкоин с множественным обеспечением, производный инструмент для ставок без доверия и децентрализованный обмен. Эти примитивы предлагаются через Acala dApp непосредственно конечным пользователям, а также в качестве SDK для других приложений dApp.
 
 ## The most recent updates in making cross chain DeFi a reality are as follows:
 
