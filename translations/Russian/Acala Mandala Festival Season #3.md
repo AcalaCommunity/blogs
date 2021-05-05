@@ -19,11 +19,11 @@
 
 Поскольку **мы запускаем этот третий сезон фестиваля в понедельник, 27 июля**, возможно, пришло время повторить главную миссию **Acala: создать взаимосвязанную, автономную, эффективную и сложную кросс-блокчейн финансовую экосистему.** Поскольку Acala является финансовым центром Polkadot, он предоставляет набор финансовых примитивов, включая стейблкоин с множественным обеспечением, производный инструмент для ставок без доверия и децентрализованный обмен. Эти примитивы предлагаются через Acala dApp непосредственно конечным пользователям, а также в качестве SDK для других приложений dApp.
 
-## The most recent updates in making cross chain DeFi a reality are as follows:
+## Последние обновления в реализации кросс-чейн DeFi заключаются в следующем:
 
-- **_Acala’s full-fledged DeFi suite_** _is now open_: multi-collateralized stablecoin supporting DOT, LDOT, renBTC as collaterals, staking derivative and decentralized exchange
-- **_Laminar trading_**: aUSD can now be transferred to the Laminar Chain to create synthetic assets like synthetic fiat (e.g. EUR, USD), and for margin trading a variety of instruments e.g. forex, gold, stocks and synthetic crypto pairs
-- [**_Ren x Acala collaboration is live_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Reputable inter-blockchain asset bridge Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. The BTC gateway is provided by RenVM, while the minting and burning renBTC on Acala is provided by the gateway module.
+- **_Полноценный пакет DeFi от Acala_** _теперь открыт_: стейблкоин с множественным обеспечением, поддерживающий DOT, LDOT, renBTC в качестве залога, производные инструменты для стейкинга и децентрализованный обмен
+- **_Laminar трейдинг_**: теперь aUSD можно передать в Laminar Chain для создания синтетических активов, таких как синтетический фиат (например, евро, доллар США), а также для маржинальной торговли различными инструментами, например форекс, золото, акции и синтетические криптопары
+- [**_Сотрудничество Ren x Acala в процессе_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Авторитетный мост между блокчейн-активами, Ren [построил с помощью Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala), развернув его [модуль моста RenVM](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) в сети Acala. The BTC gateway is provided by RenVM, while the minting and burning renBTC on Acala is provided by the gateway module.
 
 **_Two upfront benefits that Ren users can instantly enjoy:_**
 
