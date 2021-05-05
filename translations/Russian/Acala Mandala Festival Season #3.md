@@ -23,76 +23,76 @@
 
 - **_Полноценный пакет DeFi от Acala_** _теперь открыт_: стейблкоин с множественным обеспечением, поддерживающий DOT, LDOT, renBTC в качестве залога, производные инструменты для стейкинга и децентрализованный обмен
 - **_Laminar трейдинг_**: теперь aUSD можно передать в Laminar Chain для создания синтетических активов, таких как синтетический фиат (например, евро, доллар США), а также для маржинальной торговли различными инструментами, например форекс, золото, акции и синтетические криптопары
-- [**_Сотрудничество Ren x Acala в процессе_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Авторитетный мост между блокчейн-активами, Ren [построил с помощью Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala), развернув его [модуль моста RenVM](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) в сети Acala. The BTC gateway is provided by RenVM, while the minting and burning renBTC on Acala is provided by the gateway module.
+- [**_Сотрудничество Ren x Acala в процессе_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Авторитетный мост между блокчейн-активами, Ren [построил с помощью Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala), развернув его [модуль моста RenVM](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) в сети Acala. Шлюз BTC предоставляется RenVM, а создание и сжигание renBTC на Acala обеспечивается модулем шлюза.
 
-**_Two upfront benefits that Ren users can instantly enjoy:_**
+**_Два предварительных преимущества, которыми пользователи Ren могут сразу воспользоваться:_**
 
-1.  A brand new account only holding freshly minted renBTC can perform any transaction on Acala without needing a fee token. Thanks to Acala’s FlexiFee feature, tokens like renBTC are integrated natively as one of the default fee tokens alongside with ACA, aUSD and DOT.
-2.  Fees for minting renBTC can be waived without compromising security. We see this as essential to boost the usage of renBTC on Acala and within the wider Polkadot ecosystem.
+1.  Совершенно новая учетная запись, содержащая только недавно отчеканенный (сминтенный) renBTC, может выполнять любые транзакции в Acala без использования токена комиссии. Благодаря функции Acala FlexiFee (гибким комиссиям), такие токены, как renBTC, изначально интегрированы в качестве одного из токенов комиссии по умолчанию наряду с ACA, aUSD и DOT.
+2.  От комиссии за выпуск renBTC можно отказаться без ущерба для безопасности. Мы считаем это важным для увеличения использования renBTC на Acala и в более широкой экосистеме Polkadot.
 
-Ren is a great example for DeFi projects entering the Polkadot multi-chain universe. Because Acala is a customizable and fully optimized finance platform, the upfront economic and technical costs involved in building a separate blockchain (aka parachain) are instantly removed.
+Ren - отличный пример того, как проекты DeFi входят в мультичейн-вселенную Polkadot. Поскольку Acala представляет собой настраиваемую и полностью оптимизированную финансовую платформу, предварительные экономические и технические затраты, связанные с построением отдельного блокчейна (также известного как парачейн), мгновенно устраняются.
 
-Find out more on Acala cross-chain DeFi [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi).
+Подробнее об Acala кросс-чейн DeFi [здесь](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi).
 
-## Mandala Fest #3: Something for Everyone
+## Mandala Fest #3: Что-то для Всех
 
-As we continue to collaborate with projects across chains and reaching new audiences, we know that **building Acala is a community effort**. Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. We also believe that **web3 should be for everyone and we want Acala to be open to all builders: from crypto enthusiasts to node runners, developers, bloggers, economists, marketers, deep thinkers and the curious.**
+Продолжая сотрудничать с проектами в различных цепях и охватывая новые аудитории, мы знаем, что **создание Acala - это совместное усилие**. Тогда Mandala Fest становится праздником этого растущего сообщества и огромных возможностей, которые ждут всех нас в создании web3. Мы также считаем, что **web3 должен быть для всех, и мы хотим, чтобы Acala была открыта для всех разработчиков: от криптоэнтузиастов до держателей нод, разработчиков, блоггеров, экономистов, маркетологов, глубоких мыслителей и просто любопытных.**
 
-To celebrate this inclusivity and mark the third season, we’re going BIG. Acala is hosting the festival in collaboration with [Laminar](http://laminar.one/) (synthetic asset and margin trading), [Ren](https://renproject.io/) (permissionless inter-blockchain value transfer), [Polkawallet](https://polkawallet.io/) (leading mobile wallet for Polkadot) and Polkaworld (leading Polkadot community).
+Мы собираемся с размахом отпраздновать эту инклюзивность и отметить третий сезон. Acala проводит фестиваль в сотрудничестве с [Laminar](http://laminar.one/) (синтетические активы и маржинальная торговля), [Ren](https://renproject.io/) (передача ценностей между блокчейнами без разрешения), [Polkawallet](https://polkawallet.io/) (ведущий мобильный кошелек для Polkadot) и Polkaworld (ведущее сообщество Polkadot).
 
-The event will consist of a trading competition, a [Black Thursday](https://decrypt.co/26299/black-thursday-reshaped-bitcoin-futures-market-report) Simulation as well as our standard blog and bug bounties scheduled to keep you busy throughout season 3!
+Событие будет включать в себя соревнование по трейдингу, симуляцию [Черного четверга](https://decrypt.co/26299/black-thursday-reshaped-bitcoin-futures-market-report), а также наш стандартный блог и награды за найденные ошибки, запланированные, чтобы занять вас в течение 3-го сезона!
 
-**Here’s how we’ve mapped it out with all the details of reward pools and duration:**
+**Вот как мы это отметили со всеми подробностями о пулах вознаграждений и продолжительности:**
 
 ![Image for post](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
 
-# Get Started
+# Приступим
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- Check out these guides on Laminar [synthetic asset](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [margin trading](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)
-- Results are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- Начните работу с Acala с создание кошелька и получения тестовых токенов [здесь](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
+- Ознакомьтесь с этими гайдами, чтобы использовать [стейблкоин Honzon](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX) и [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
+- Ознакомьтесь с гайдами по кросс-чейн торговле с Laminar и Ren [здесь](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
+- Ознакомьтесь с этими гайдами о Laminar [синтетическом активе](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) и [маржинальной торговле](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)
+- Результаты опубликованы [здесь](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
 
-## Full Schedule and Rules
+## Полное расписание и правила
 
-## Week 1: User Participation
+## Неделя 1: участие пользователей
 
-**Duration**: 27-July-2020 to 03-August-2020 (one week)  
-**Award Pool**: 20,000 ACA + 20,000 KAR
+**Продолжительность**: с 27 июля 2020 года по 3 августа 2020 года (одна неделя)  
+**Призовой фонд**: 20 000 ACA + 20 000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
+- Все квалифицированные пользователи разделят пул вознаграждений
+- Все награды будут записаны и опубликованы
 
 ![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
-**Participation Rules:**
+**Правила участия:**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- Получите тестовые aUSD из "крана", сборы оплачиваются в aUSD
+- Пользователи, совершившие три значимых транзакции, будут вознаграждены
 
-**Meaningful transactions include:**
+**Значимые транзакции включают:**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity
-- Use Honzon stablecoin to collateralize for aUSD
-- Use Homa protocol to get staking derivative LDOT
-- Transfer aUSD to Laminar Chain, and use it either for synthetic asset, or margin trading
-- Mint renBTC and use it in above activities
-- Participate in auctions of system
+- Использование DEX для обмена токенов
+- Использование DEX для обеспечения ликвидности
+- Использавние стейблкоина Honzon для обеспечения aUSD
+- Использование протокола Homa для получения производной LDOT для стейкинга
+- Отправление aUSD в Laminar Chain и использование его для синтетических активов или маржинальной торговли
+- "Чеканка" renBTC и использование его в указанных выше операциях
+- Участие в аукционах системы
 
-## Week 2 Trading Competition
+## Неделя 2: соревнование по трейдингу
 
-**Duration**: 03-August-2020 to 10-August-2020 (one week)  
-**Award Pool**: 5,000 ACA + 5,000 KAR
+**Продолжительность**: с 3 августа 2020 года по 10 августа 2020 года (одна неделя)  
+**Призовой фонд**: 5 000 ACA + 5 000 KAR
 
-- Top 10 qualified traders will share the reward pool
-- All rewards will be recorded and published
+- Топ-10 квалифицированных трейдеров разделят пул вознаграждения
+- Все награды будут записаны и опубликованы
 
-**Participation Rules:**
+**Правила участия:**
 
-- Use the balance of USD as the unit of account
-- Profit calculated as ending balance — beginning balance
+- Используйте в качестве расчетной единицы остаток в долларах США
+- Прибыль рассчитывается как конечный баланс - начальный баланс
 
 **The rules for ranking of trading competition :**
 
