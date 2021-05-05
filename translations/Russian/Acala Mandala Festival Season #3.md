@@ -2,7 +2,7 @@
 
 🎉 Приготовьтесь к трехнедельному мероприятию DeFi с 27 июля! 🎉
 
-![Image for post](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
+![Изображение для публикации](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
 
 Мы не можем поверить, что пришло время для нашего третьего сезона Mandala Festival, кажется, только вчера мы анонсировали инаугурационное издание еще в марте! Мы были потрясены вашей поддержкой, энтузиазмом и огромной активностью, которую мы с тех пор вели в сети.
 
@@ -44,7 +44,7 @@ Ren - отличный пример того, как проекты DeFi вхо�
 
 **Вот как мы это отметили со всеми подробностями о пулах вознаграждений и продолжительности:**
 
-![Image for post](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
+![Изображение для публикации](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
 
 # Приступим
 
@@ -64,7 +64,7 @@ Ren - отличный пример того, как проекты DeFi вхо�
 - Все квалифицированные пользователи разделят пул вознаграждений
 - Все награды будут записаны и опубликованы
 
-![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
+![Изображение для публикации](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
 **Правила участия:**
 
@@ -81,7 +81,7 @@ Ren - отличный пример того, как проекты DeFi вхо�
 - "Чеканка" renBTC и использование его в указанных выше операциях
 - Участие в аукционах системы
 
-## Неделя 2: соревнование по трейдингу
+## Неделя 2: Соревнование по трейдингу
 
 **Продолжительность**: с 3 августа 2020 года по 10 августа 2020 года (одна неделя)  
 **Призовой фонд**: 5 000 ACA + 5 000 KAR
@@ -94,77 +94,77 @@ Ren - отличный пример того, как проекты DeFi вхо�
 - Используйте в качестве расчетной единицы остаток в долларах США
 - Прибыль рассчитывается как конечный баланс - начальный баланс
 
-**The rules for ranking of trading competition :**
+**Правила формирования рейтинга по трейдинговому соревнованию:**
 
-- Snapshots will be taken for both Acala and Laminar networks at the beginning of the trading competition; the total net value of various assets (including debts) will be calculated based on the price feed at the time as the initial balance.
-- Another snapshot will be taken at the end of the competition, using the feed price at that time as the final balance. Cross-chain transfers (e.g. transfers between Acala and Laminar) are not counted, while transfers between addresses are counted as capital.
-- Profit margin = total value of final balance / (total value of initial balance + capital sum correction) — 100%, all accounts are ranked according to this function
+- Снимки будут сделаны как для сети Acala, так и для сети Laminar в начале трейдингового соревнования; общая чистая стоимость различных активов (включая долги) будет рассчитана на основе ценовых поступлений в то время как начальный баланс.
+- Еще один снимок будет сделан в конце конкурса, с использованием цены на тот момент в качестве окончательного баланса. Кросс-чейн передачи (например, переводы между Acala и Laminar) не учитываются, а переводы между адресами считаются капитальными.
+- Маржа прибыли = общая стоимость окончательного баланса / (общая стоимость начального баланса + корректировка суммы капитала) - 100%, все счета ранжируются в соответствии с этой функцией
 
-**The following are included in the balance calculation:**
+**В расчет баланса включаются:**
 
-**Balances of all assets:**  
-— Acala : aUSD, ACA, renBTC, XBTC, DOT, LDOT  
-— Laminar : aUSD, LAMI, synthetic assets
+**Баланс всех активов:**   
+- Acala: aUSD, ACA, renBTC, XBTC, DOT, LDOT  
+- Laminar: aUSD, LAMI, синтетические активы
 
-**Balances of all DeFi positions:**  
-— Acala : CDP (net value of collateral value minus debt value), share value in Deposit & Earn  
-— Laminar : margin position value
+**Балансы всех позиций DeFi:**   
+- Acala: CDP (чистая стоимость залогового имущества минус стоимость долга), стоимость доли в Deposit & Earn   
+- Laminar: стоимость маржинальной позиции
 
-## Week 3 Black Thursday Simulation
+## Неделя 3: Симуляция "Чёрного четверга"
 
-**Duration**: 10-August-2020 to 17-August-2020 (one week)  
-**Award Pool**: 4,000 ACA + 4,000 KAR
+**Продолжительность**: с 10 августа 2020 года по 17 августа 2020 года (одна неделя)  
+**Призовой фонд**: 4 000 ACA + 4 000 KAR
 
-- A draw of 200 qualified users will share the reward pool
-- All rewards will be recorded and published
+- Розыгрыш среди 200 квалифицированных пользователей разделит пул вознаграждений
+- Все награды будут записаны и опубликованы
 
-**Participation Rules:**
+**Правила участия:**
 
-- **Day 1 — Day 4liquidation events**: users participate by closing CDP or increasing collateral or participate in auctions
-- **Day 5**: emergency shutdown will be triggered, participants will use aUSD to buy back collaterals
-- Users who took part in the above activity will benefit from rewards
+- **День 1 - День 4 - liquidation events**: пользователи участвуют, закрывая CDP или увеличивая залог, или участвуют в аукционах
+- **День 5**: произойдет аварийное отключение, участники будут использовать aUSD для выкупа залогов
+- Пользователи, которые приняли участие в указанной выше деятельности, получат вознаграждения
 
-## Blog Bounty (Throughout Festival)
+## Блог-баунти (на протяжении всего фестиваля)
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**Продолжительность**: с 27 июля 2020 года по 17 августа 2020 года (три недели)   
+**Призовой фонд**: 2 000 ACA + 2 000 KAR
 
-- 10 awards will be awarded in total
-- Awards will be published one week after the event ends
+- В общей сложности будет присуждено 10 наград
+- Награды будут опубликованы через неделю после окончания ивента
 
-**Participation Rules:**
+**Правила участия:**
 
-- Submit a blog to either [Medium](https://medium.com/), [Bihu](https://bihu.com/), or [YouTube](https://www.youtube.com/) regarding the Acala Network.
-- The article must **include your Acala Mandala Address to receive prizes**.
-- Submit the link to your piece of content to Acala [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) or [Riot](https://riot.im/app/#/room/#acala:matrix.org) channel using the hashtag #MandalaFest3
-- The content must be original
-- We will judge both the **quality** (how appealing is the story, idea, perspective, insights, analysis, etc) and **social reactions** (number of comments, likes, twitter or other social sharing, etc).
+- Отправьте блог на [Medium](https://medium.com/), [Bihu](https://bihu.com/) или [YouTube](https://www.youtube.com/) который касается сети Acala.
+- В статье должен **быть указан ваш Acala Mandala адрес для получения наград**.
+- Отправьте ссылку на свой контент на канал Acala в [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) или [Riot](https://riot.im/app/#/room/#acala:matrix.org), используя хэштег #MandalaFest3.
+- Контент должен быть оригинальным.
+- Мы будем оценивать как **качество** (насколько привлекательна история, идея, перспектива, идеи, анализ и т. д.), так и **социальные реакции** (количество комментариев, лайков, ретвитов или других социальных активностей и т. д.).
 
-## Bug Bounty (Throughout Festival)
+## Баг-баунти (на протяжении всего фестиваля)
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 10,000 ACA + 10,000 KAR
+**Продолжительность**: с 27 июля 2020 года по 17 августа 2020 года (три недели)   
+**Призовой фонд**: 10 000 ACA + 10 000 KAR
 
-- Please allow one week from your submission for our review.
+- Пожалуйста, подождите одну неделю с момента вашей отправки для нашего рассмотрения.
 
-**Participation Rules:**
+**Правила участия:**
 
-- Find bugs for the following two repos:  
+- Найдите ошибки для следующих двух репозиториев:   
   [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
-  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team, and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
-- Please **include your Acala Mandala Address in the Github issue** for easy prize disbursal
+  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp)[ https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (часть Acala)
+- Ошибки оцениваются по значимости и серьезности командой инженеров Acala и присуждаются примерно на основе уровней [здесь](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
+- Пожалуйста, ** укажите свой Acala Mandala адрес в теме Github **, чтобы упростить выдачу наград.
 
-## 🎉 **Let the festivities begin**
+## 🎉 **Да начнутся празднования**
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+Мы рады отпраздновать Mandala Fest вместе со всеми вами! Мы надеемся, что щедрые награды, широкий спектр задач и знаменательные возможности кросс-чейн DeFi понравятся многим из вас. **Что касается тест драйва Polkadot, Acala дает вам поул-позицию и самый быстрый путь от "нуля до короля".** Как всегда, команда всегда готова ответить на любые вопросы и помочь вам максимально эффективно использовать Фестиваль. Присоединяйтесь к нашим каналам, чтобы получить VIP-доступ к поддержке и нашему сообществу 👇
 
-**Join us — Acala** [**Telegram**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **and** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org) **channels.**
+**Присоединяйтесь к нашим каналам в Acala** [**Telegram**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **and** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org)
 
-# **About Acala**
+# **Об Acala**
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[ Acala](http://acala.network/) - это первый в своем роде консорциум децентрализованного финансирования, который стремится обеспечить финансовую стабильность, ликвидность и доступность для всех. **Acala Network - это межсетевой финансовый центр для экосистемы Polkadot** и не только. Он предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, производный инструмент без доверия и децентрализованный обмен для раскрытия ликвидности и поддержки финансовых инноваций. Это открытая платформа для ориентированных на финансы dApps, для развертывания с использованием смарт-контрактов или встроенных протоколов с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
 
-Learn more about Acala on [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) and [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). You can join our community on [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) and [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Any inquiries, please [email](http://hello@acala.network/) or DM us.
+Узнайте больше об Acala на [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) и [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). Вы можете присоединиться к нашему сообществу на [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) и [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Если у вас возникнут вопросы, [ напишите нам на почту](http://hello@acala.network/) или в личные сообщения.
 
-To keep up to date with progress on the Acala launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Чтобы быть в курсе процесса запуска Acala, подпишитесь на [новостную рассылку Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
