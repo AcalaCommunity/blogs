@@ -1,24 +1,24 @@
-# Acala — Powering Cross-Blockchain Open Finance Applications on Polkadot
+# Acala - поддержка кросс-блокчейн-приложений для открытых финансов на Polkadot
 
-by [Ruitao Su](https://medium.com/u/16c79136e2c8?source=post_page-----abb6075a6edf--------------------------------) & Fuyao Jiang
+авторы статьи [Жуйтао Су](https://medium.com/u/16c79136e2c8?source=post_page-----abb6075a6edf--------------------------------) и Фуяо Цзян
 
-# Introducing Acala
+# Представляем Acala
 
 ![Image for post](https://miro.medium.com/max/1318/0*XOIAcGroNfplJBzG)
 
-We are thrilled to announce [Acala](https://acala.network/) — a **_first-of-its-kind decentralized finance consortium_**, with a vision to create cross-chain open finance infrastructure for the Polkadot ecosystem. Acala aims to bring stability and liquidity to the crypto world. The initial implementation is a **_cross-chain capable multi-collateralized and decentralized stablecoin_** based on Substrate, which is **_transferrable to all chains on the Polkadot network_**.
+Мы рады объявить о создании [Acala](https://acala.network/) - **_первого в своем роде консорциума децентрализованных финансов_**, целью которого является создание кросс-чейн инфраструктуры открытого финансирования для экосистемы Polkadot. Цель Acala - обеспечение стабильности и ликвидности в мире криптовалют. Начальным этапом является создание **_децентрализованного стейблкоина, _**построенного на Substrate, который **_можно отправлять между всеми сетями на Polkadot_**.
 
-Acala is founded by two active members in the Polkadot ecosystem: [Laminar](https://laminar.one/) and [Polkawallet](https://polkawallet.io/). We are running the Acala network in the form of a consortium, because:
+Acala основана двумя активными участниками экосистемы Polkadot: [Laminar](https://laminar.one/) и [Polkawallet](https://polkawallet.io/). Мы используем сеть Acala в форме консорциума, потому что:
 
-- we believe that as a **_common-good foundational layer_** of the Polkadot DeFi ecosystem, the protocols should **_NOT_** be dominated by any single entity;
-- we are building **_a community-owned stablecoin network_**, where stakeholders, participants, and users are able to govern the core monetary policies of the ecosystem collectively;
-- we are **_broadening the membership and inviting ecosystem participants_** to join the consortium and the movement towards a truly decentralized and community-owned currency.
+- мы считаем, что как **_основополагающий уровень общего блага_** DeFi экосистемы Polkadot, протоколы **_НЕ должны_** подчиняться какой-либо отдельной сущности;
+- мы строим **_сеть стейблкоинов, принадлежащую сообществу_**, где заинтересованные стороны, участники и пользователи могут коллективно управлять основной денежно-кредитной политикой экосистемы;
+- мы **_расширяем членство и приглашаем участников экосистемы_** присоединиться к консорциуму и движению к действительно децентрализованной и принадлежащей сообществу валюте.
 
-## Web3 Foundation Grant
+## Грант от Web3 Foundation
 
-This announcement coincides with great news from the Web3 Foundation that **_a significant development grant_** has been awarded to the Acala stablecoin project, which is a recognition of the team’s effort and our solution as part of the DeFi ecosystem. We are excited to be part of the W3F and Polkadot family and look forward to closer collaboration and further contribution towards the ecosystem.
+Это объявление совпадает с отличной новостью от Web3 Foundation о том, что **_значительный грант на разработку_** был присужден проекту стейблкоина Acala, что является признанием усилий команды и нашего решения как части экосистемы DeFi. Мы рады быть частью семьи W3F и Polkadot и надеемся на более тесное сотрудничество и дальнейший вклад в экосистему.
 
-> “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
+> «Мы очень рады видеть, что проект под руководством сообщества создает стейблкоин для Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
 
 ## Substrate Builder Program Inaugural Member
 
