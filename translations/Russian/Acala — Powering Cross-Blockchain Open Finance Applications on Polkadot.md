@@ -18,11 +18,11 @@ Acala основана двумя активными участниками эк
 
 Это объявление совпадает с отличной новостью от Web3 Foundation о том, что **_значительный грант на разработку_** был присужден проекту стейблкоина Acala, что является признанием усилий команды и нашего решения как части экосистемы DeFi. Мы рады быть частью семьи W3F и Polkadot и надеемся на более тесное сотрудничество и дальнейший вклад в экосистему.
 
-> «Мы очень рады видеть, что проект под руководством сообщества создает стейблкоин для Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
+> «Мы очень рады видеть, что проект под руководством сообщества создает стейблкоин для Polkadot. Это может быть ключевая часть инфраструктуры, которая обеспечит различные варианты использования в сети Polkadot, такие как DeFi и игровые приложения.» — Джек Платтс, руководитель отдела сотрудничества Web3 Foundation
 
-## Substrate Builder Program Inaugural Member
+## Первый участник программы Substrate Builder
 
-Acala is also proud to be selected to join the first batch of the [Substrate Builder Program](http://builders.parity.io/). The Substrate Builders Program powered by Parity identifies, supports and mentors current and potential Substrate-based blockchain projects that are building impactful chains. We look forward to working closely with the Parity team and other builders to take the development of Acala’s protocols, products, and community to the next level.
+Acala также гордится тем, что ее выбрали для участия в первой группе [Substrate Builder Program](http://builders.parity.io/). Программа Substrate Builders на базе Parity определяет, поддерживает и координирует текущие и потенциальные блокчейн-проекты на основе Substrate, которые создают эффективные цепи. Мы надеемся на тесное сотрудничество с командой Parity и другими разработчиками, чтобы вывести разработку протоколов, продуктов и сообщества Acala на новый уровень.
 
 ![Image for post](https://miro.medium.com/max/2800/0*jtrfXlllLsc1QIgG)
 
