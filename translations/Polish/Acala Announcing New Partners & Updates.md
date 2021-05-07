@@ -2,7 +2,7 @@
 
 przez \[Acala Network\] (https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c---------------- ----------------)
 
-![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
+![Obraz do wpisu](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
 # Nowi partnerzy
 
@@ -12,7 +12,7 @@ Fundacja Acala z przyjemnością ogłasza, że nowi partnerzy przyłączają si�
 
 ## Plan działań oraz witryna internetowa
 
-Ściśle współpracujemy z inżynierami z Parity i Polkadot, i nieustannie aktualizujemy nasz plan działania, aby lepiej dostosować go do gotowości pracy z parachain i uruchomienia mainnet Polkadot, niektóre z nich podkreślają następujące kwestie:
+Ściśle współpracujemy z inżynierami z Parity i Polkadot, i nieustannie aktualizujemy nasz plan działania, tak aby lepiej dostosować go do gotowości pracy z parachain i uruchomienia mainnet Polkadot, niektóre z nich podkreślają następujące kwestie:
 
 - Uruchomienie sieci sieci Karura, sieci ostrzegawczej / testowej dla Acala, jako parachain sieci Kusama, gdy połączenie będzie gotowe
 - Rozpoczynamy audyty bezpieczeństwa sieci Acala
@@ -21,7 +21,7 @@ Fundacja Acala z przyjemnością ogłasza, że nowi partnerzy przyłączają si�
 
 Sprawdź naszą odnowioną stronę internetową \[acala.network\] (https://acala.network/), aby uzyskać więcej informacji.
 
-![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
+![Obraz do wpisu](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
 ## Odpowiadając na ostatnie wydarzenie DeFi Black Swan Event
 
@@ -40,38 +40,38 @@ Przeczytaj więcej dyskusji na temat problemów i potencjalnych rozwiązań w [ 
 
 # Acala Mandala Festival 🎉
 
-![Image for post](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
+![Obraz do wpisu](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
-Sieć Testowa Mandala to pierwsza [ część trylogii w sieci Acala](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). To nie mająca wartości, platforma do testowania funkcji Acala:
+Sieć Testowa Mandala to pierwsza [ część trylogii w sieci Acala](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). Jest to nie mająca wartości, platforma do testowania funkcji Acala:
 
-- pożycz stablecoin aUSD z testowym DOT i BTC jako zabezpieczenie
+- możesz pożyczyć stablecoin aUSD z testowym DOT i BTC jako zabezpieczenie
 - wbudowana zdecentralizowana giełda
 - funkcjonujące systemy aukcji i usługi wycen
 
-Zorganizowaliśmy [ Festiwal Mandali ](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6), aby uczcić i nagrodzić sympatyków i bywalców festiwalu. Teraz minęły trzy tygodnie i my zbliżamy się do końca. To było zarówno fascynujące, jak i satysfakcjonujące, widzieć tak duży udział i rozdanie nagród:
+Zorganizowaliśmy [ Festiwal Mandali ](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6), aby uczcić i nagrodzić sympatyków i bywalców festiwalu. Teraz minęły trzy tygodnie i my zbliżamy się do końca. To było zarówno fascynujące, jak i satysfakcjonujące, widzieć tak dużo uczestników i rozdających nagrody:
 
 - Ponad 260 węzłów działających w 24 miastach (drugie miejsce w [ Polkadot Telemetry ](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) na dzień 27 marca)
-- Ponad 350 użytkowników ze znaczącymi transakcjami zakwalifikowanych do szczęśliwych losowań - Przesłano ponad 20 wysokiej jakości artykułów
-- 20+ quality articles submitted
+- Ponad 350 użytkowników ze znaczącymi transakcjami zakwalifikowanymi do losowań
+- Zgłoszono ponad 20 dobrej jakości artykułów
 
-Sprawdź tablicę nagród \[tutaj\] (https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution -&-Nagrody). Wyzwanie kodowania i nagrody za błędy będą kontynuowane, na co czekasz ?!
+Sprawdź tablicę z nagrodami [ tutaj ](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Wyzwanie związane z kodowaniem i nagrody za błędy będą kontynuowane🚀, na co czekasz?!
 
 
 
-# Informacje Acala
+# Bądź na bieżąco z Acala
 
-Website: [https://acala.network](https://acala.network/)  
+Strona internetowa: [https://acala.network](https://acala.network/)  
 Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
-Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
+Medium: [https://medium. om/acalanetwork](https://medium.com/acalanetwork)  
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
 
 
 
-# Bądź na bieżąco z witryną Acala
+# O Acala
 
-\[Acala - pierwsze w swoim rodzaju zdecentralizowane konsorcjum finansowe\] (https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), z wizja stworzenia międzyłańcuchowej otwartej infrastruktury finansowej dla ekosystemu \[Polkadot\] (https://polkadot.network/). Sieć Acala to sieć z dwoma protokołami, ze zdecentralizowanym, obsługującym wiele łańcuchów protokołem stablecoin z wieloma zabezpieczeniami - Honzon, oraz bez zaufania tokenizowanym protokołem płynności - Homa. Acala ma na celu zapewnienie stabilności i płynności w świecie kryptowalut i poza nim.
+[ Acala - pierwsze w swoim rodzaju zdecentralizowane konsorcjum finansowe ](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf) z wizją stworzenia międzyłańcuchowej otwartej infrastruktury finansowej dla ekosystemu [ Polkadot ](https://polkadot.network/). Sieć Acala to sieć z dwoma protokołami, ze zdecentralizowanym, obsługującym wiele łańcuchów (sieci) protokołem stablecoin z wieloma zabezpieczeniami - Honzon, oraz bez zaufania stokenizowanym protokołem płynności "liquidity staking" - Homa. Acala ma na celu zapewnienie stabilności i płynności w świecie kryptowalut i poza nim.
 
-Projekt Acala Stablecoin jest dumnie wspierany przez \[Fundację Web3\] (https://web3.foundation/)
+Projekt Acala Stablecoin jest dumnie wspierany przez [ Web3 Foundation ](https://web3.foundation/)
 
-![Image for post](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
+![Obraz do wpisu](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
