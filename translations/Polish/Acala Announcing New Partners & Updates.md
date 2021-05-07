@@ -1,4 +1,4 @@
-# Acala ogłasza nowych partnerów i aktualizacje
+# Acala ogłasza współpracę z nowymi partnerami oraz aktualizacje
 
 przez \[Acala Network\] (https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c---------------- ----------------)
 
@@ -6,13 +6,13 @@ przez \[Acala Network\] (https://medium.com/u/43f74518f3f4?source=post_page-----
 
 # Nowi partnerzy
 
-Fundacja Acala z przyjemnością ogłasza nowych partnerów, którzy przyłączają się do wysiłków na rzecz budowania zdecentralizowanego systemu „stablecoin” międzyblokowego oraz stawienia czoła platformie „płynności” w celu zasilenia otwartych aplikacji finansowych w sieci Polkadot. Wierzymy, że ci partnerzy - \[Polychain\] (https://polychain.capital/), \[Hashkey\] (https://www.hashkey.com/), \[P2P Capital\] (https://www.p2pcap.com/ ), \[KR1\] (https://www.kryptonite1.co/), \[SNZ\] (https://snzholding.com/), \[Polkadot Ecosystem Fund\] (https://polkadot.network/announcing-the- polkadot-ecosystem-fund /), \[Hypersphere Ventures\] (https://www.hypersphere.ventures/), \[Web3.Capital\] (https://web3.capital/), \[Stake.Zone\] (http: / /stake.zone/), \[Goodmore Capital\] (http://goodmore.capital/) i \[Digital Renaissance\] (https://drf.ee/) - to nasi długoterminowi sojusznicy w naszych dążeniach do budowania zrównoważonego odporna i solidna otwarta infrastruktura finansowa.
+Fundacja Acala z przyjemnością ogłasza, że nowi partnerzy przyłączają się do wysiłków na rzecz budowania zdecentralizowanego systemu „stablecoin” cross-blockchain oraz platformy umożliwiającej liquidity staking w celu wsparcia otwartych aplikacji finansowych w sieci Polkadot. Wierzymy, że partnerzy - \[Polychain\] (https://polychain.capital/), \[Hashkey\] (https://www.hashkey.com/), \[P2P Capital\] (https://www.p2pcap.com/ ), \[KR1\] (https://www.kryptonite1.co/), \[SNZ\] (https://snzholding.com/), \[Polkadot Ecosystem Fund\] (https://polkadot.network/announcing-the- polkadot-ecosystem-fund /), \[Hypersphere Ventures\] (https://www.hypersphere.ventures/), \[Web3.Capital\] (https://web3.capital/), \[Stake.Zone\] (http: / /stake.zone/), \[Goodmore Capital\] (http://goodmore.capital/) i \[Digital Renaissance\] (https://drf.ee/) - to nasi długoterminowi sojusznicy w dążeniach do budowania zrównoważonej, odpornej oraz solidnej infrastruktury dla otwartych finansów.
 
 # Aktualizacje
 
-## mapa drogowa i witryna internetowa
+## Plan działań oraz witryna internetowa
 
-OdnowionaŚciśle współpracujemy z inżynierami z Parity i Polkadot i stale aktualizujemy naszą mapę drogową, aby lepiej dostosować ją do gotowości spadochronowej i uruchomienia głównej sieci Polkadot, niektóre z najważniejszych wydarzeń:
+Ściśle współpracujemy z inżynierami z Parity i Polkadot, i nieustannie aktualizujemy nasz plan działania, aby lepiej dostosować go do gotowości pracy z parachain i uruchomienia mainnet Polkadot, niektóre z nich podkreślają następujące kwestie:
 
 - Uruchom sieć kanaryjską Acala Karura, gdy tylko spadochron Kusama łączenie jest gotowe
 - Rozpoczynamy audyty bezpieczeństwa sieci Acalasieć
