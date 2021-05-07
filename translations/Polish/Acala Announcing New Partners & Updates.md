@@ -14,47 +14,49 @@ Fundacja Acala z przyjemnością ogłasza, że nowi partnerzy przyłączają si�
 
 Ściśle współpracujemy z inżynierami z Parity i Polkadot, i nieustannie aktualizujemy nasz plan działania, aby lepiej dostosować go do gotowości pracy z parachain i uruchomienia mainnet Polkadot, niektóre z nich podkreślają następujące kwestie:
 
-- Uruchom sieć kanaryjską Acala Karura, gdy tylko spadochron Kusama łączenie jest gotowe
-- Rozpoczynamy audyty bezpieczeństwa sieci Acalasieć
-- Uruchomgłówną Acala (zwykłą sieć) i weź udział w aukcji spadochronowej, gdy tylko Polkadot będzie gotowy
-- Następnie włącz stablecoin i inne funkcje, gdy sieć będzie działać stabilnie
+- Uruchomienie sieci sieci Karura, sieci ostrzegawczej / testowej dla Acala, jako parachain sieci Kusama, gdy połączenie będzie gotowe
+- Rozpoczynamy audyty bezpieczeństwa sieci Acala
+- Uruchomienie Acala mainnet (główna sieć) oraz udział w aukcji parachain, gdy tylko sieć Polkadot będzie gotowa
+- Następnie, gdy sieć będzie działać stabilnie, planowane jest uruchomienie stablecoin oraz innych funkcji
 
 Sprawdź naszą odnowioną stronę internetową \[acala.network\] (https://acala.network/), aby uzyskać więcej informacji.
 
 ![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
-## Odpowiadając na ostatnie wydarzenie DeFi Black Swanwydarzenie
+## Odpowiadając na ostatnie wydarzenie DeFi Black Swan Event
 
-OstatnieDeFi Black Swan w szczególności re \[Wielomilionowy incydent MakerDAO \] (https://medium.com/@whiterabbit_hq/black-th Thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) ujawnił kilka problemów związanych ze strukturą sieci i rynku - niektóre są znane, ale nierozwiązywalne na poziomie protokołu, inne są ignorowane lub pomijane. Niemniej jednak z punktu widzeniawyciągnięto bezcenne wnioski:
+Ostatnie wydarzenie DeFi Black Swan, a w szczególności
 
-- ** Podatność w procesie likwidacji **: Oprócz zautomatyzowanego likwidatora / zarządcy łańcucha (umożliwianego przez Substrate), Acala projektuje również mechanizm hybrydowy z wbudowanym uzupełniającym DeX aukcjami zabezpieczeń, aby zapewnić solidność, płynność i optymalne cennik.
-- ** Rezerwa kapitałowa **: Acala projektuje system potrójnych rezerw kapitałowych w celu ochrony wartości sieci - zagraniczną rezerwę kryptograficzną (za pośrednictwem \[zdecentralizowanego funduszu suwerennego majątku\] (https://github.com/AcalaNetwork/Acala- white-paper / blob / master / Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) jako fundusz awaryjny, wbudowany DeX, który przyciąga płynność jako pasywny rezerwuar i aukcja ACA w ostateczności.
-- \[https://acala.network\] (https://acala.network/)  
-  Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
-  Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
-  GitHub: \[https://github.com/AcalaNetwork/Acala\](https://github.com/AcalaNetwork/ Acala)  
-  Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
-- Zasadniczo system lub protokół powinien dążyć do decentralizacji, aby stale dążyć do ** większej ilości prawdy i mniejszego zaufania **. Jednak gdy zaufanie jest nadal wymagane (niektóre komponenty nadal nie są w pełni zdecentralizowane i zautomatyzowane), nie mniej wysiłku, kapitału, regulacji i ubezpieczenia są potrzebne, aby przeciwdziałać ryzyku, niż to, co robi dziś scentralizowany świat finansów - i taką cenę płacimy za zaufanie.
+ [Wielomilionowy incydent MakerDAO ] ujawnił kilka problemów związanych ze strukturą sieci i rynku - niektóre są znane, ale nierozwiązywalne na poziomie protokołu, inne są ignorowane lub pomijane. Niemniej jednak z perspektywy Acala wyciągnięto bezcenne wnioski:</p> 
 
-Acali- ** Przeciążenie sieci **: Oddzielny projekt Polkadot z minimum 200 TPS na bok, z Substratem, Acala projektuje klasyfikację transakcji typu Quality of Service, aby nadać priorytet transakcjom krytycznym, np. Operacjom wyroczni, aby efektywnie przeciwdziałać temu problemowi.
+- **Przeciążenie sieci**: model wspólny z siecią Polkadot osiągający minimum 200 TPS (transakcji na sekundę), dzięki Substrate, aby efektywnie temu przeciwdziałać Acala została zaprojektowana jako Wysokiej Jakości Usługa, która krytyczne operacje takie jak wycena, traktuje priorytetowo.
+- **Słabe strony procesu likwidacji**: Automatyczny on-chain system likwidacji / utrzymania (możliwy dzięki Substrate), Acala została zaprogramowana z wbudowanym hybrydowym mechanizmem DeX uzupełniającym aukcje zabezpieczające w celu zapewnienia solidności, płynności i optymalnego ustalania cen.
+- **Rezerwa kapitałowa**: Acala ustala potrójny system rezerw w celu ochrony wartości sieci — zewnętrzny fundusz kryptowalutowy (za pośrednictwem [zdecentralizowanego funduszu państwowego](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) jako fundusz zapasowy, wbudowany w DeX, który przyciąga płynność jako pasywny rezerwuar, oraz aukcje ACA jako środek ostateczny.
+- Zasadniczo system lub protokół powinien dążyć do decentralizacji, aby ciągle ** więcej prawdi i mniej zaufania **. Jednak gdy zaufanie jest nadal wymagane (niektóre komponenty nadal nie są w pełni zdecentralizowane i zautomatyzowane), aby przeciwdziałać ryzyku, więcej wysiłku, kapitału, regulacji i ubezpieczeń, jest potrzebne, tak jak to robi dzisiejszy scentralizowany świat finansów - i to jest cena, którą płacimy za zaufanie.
+
+Przeczytaj więcej dyskusji na temat problemów i potencjalnych rozwiązań w [ Odzyskaj zaufanie do zdecentralizowanych stablecoinów ](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) i [ ostatnie AMA | Acala Network: Cross-Chain Finance w erze PoS ](https://polkabase.com/blog/1217).
+
+
 
 # Acala Mandala Festival 🎉
 
 ![Image for post](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
-Mandala Test Network to pierwsza w \[sieci trylogii Acali\] (https: // medium .com / acalanetwork / announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). Toale chaotyczny plac zabaw dla wszystkich do przetestowania funkcjonalności:
+Sieć Testowa Mandala to pierwsza [ część trylogii w sieci Acala](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). To nie mająca wartości, platforma do testowania funkcji Acala:
 
+- pożycz stablecoin aUSD z testowym DOT i BTC jako zabezpieczenie
 - wbudowana zdecentralizowana giełda
-- działające systemy aukcyjne i usługi wyroczni,
-- functioning auction systems and oracle services
+- funkcjonujące systemy aukcji i usługi wycen
 
-które gościliśmy \[Mandala Festival\] (https : //medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6), aby uczcić i nagrodzić kibiców i bywalców festiwali. Teraz minęły trzy tygodnie, a my zbliżamy się do końca. To było zarówno fascynujące, jak i satysfakcjonujące, widzieć tak duże uczestnictwo i nagrody:
+Zorganizowaliśmy [ Festiwal Mandali ](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6), aby uczcić i nagrodzić sympatyków i bywalców festiwalu. Teraz minęły trzy tygodnie i my zbliżamy się do końca. To było zarówno fascynujące, jak i satysfakcjonujące, widzieć tak duży udział i rozdanie nagród:
 
-- Ponad 260 węzłów działających w 24 miastach (drugie miejsce na \[Polkadot Telemetry\] (https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet ) od 27 marca)
+- Ponad 260 węzłów działających w 24 miastach (drugie miejsce w [ Polkadot Telemetry ](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) na dzień 27 marca)
 - Ponad 350 użytkowników ze znaczącymi transakcjami zakwalifikowanych do szczęśliwych losowań - Przesłano ponad 20 wysokiej jakości artykułów
 - 20+ quality articles submitted
 
 Sprawdź tablicę nagród \[tutaj\] (https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution -&-Nagrody). Wyzwanie kodowania i nagrody za błędy będą kontynuowane, na co czekasz ?!
+
+
 
 # Informacje Acala
 
@@ -63,6 +65,8 @@ Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)
 Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
+
+
 
 # Bądź na bieżąco z witryną Acala
 
