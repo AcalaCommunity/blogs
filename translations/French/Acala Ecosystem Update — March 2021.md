@@ -1,12 +1,12 @@
-# **Acala Ecosystem Update — March 2021**
+# **Mise à jour de l'écosystème d'Acala - Mars 2021**
 
 ![](https://miro.medium.com/max/2800/1*QL98Lx2R1D7e10smue8TVA.png)
 
-With another whirlwind month in the books, the Acala team is celebrating some exciting milestones. Between Coinbase Ventures [announcing](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) its backing of Acala and Karura, to Compound awarding us with a grant to build a Starport gateway to Polkadot, Acala shows no signs of slowing down. In fact, the team just launched the [new Karura website](https://acala.network/karura) and is intensely preparing for the upcoming Kusama Parachain Auction.
+Avec un autre mois éclair dans les livres, l'équipe Acala célèbre des étapes passionnantes. Entre Coinbase Ventures [annonçant](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) son soutien d'Acala et de Karura, à Compound nous attribuant une subvention pour construire une passerelle de Starport à Polkadot, Acala ne montre aucun signe de ralentissement. Dans les faits, l'équipe vient de lancer le [nouveau site web de Karura](https://acala.network/karura) et prépare intensément la prochaine vente aux enchères des Parachains sur Kusama.
 
-Here’s a look back at our achievements from March.
+Voici un aperçu de nos réalisations en Mars.
 
-## Acala previews cross-chain functionality at DeFi Demo Day
+## Acala présente les fonctionnalités inter-chaînes lors de la journée de démonstration de la DeFi
 
 ![](https://miro.medium.com/max/3296/1\*c4fdF6mopG5ARbae-ExJNA.png)
 
