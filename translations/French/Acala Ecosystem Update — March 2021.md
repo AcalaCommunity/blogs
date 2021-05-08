@@ -6,53 +6,53 @@ Avec un autre mois éclair dans les livres, l'équipe Acala célèbre des étape
 
 Voici un aperçu de nos réalisations en Mars.
 
-## Acala présente les fonctionnalités inter-chaînes lors de la journée de démonstration de la DeFi
+## Acala présente les fonctionnalités inter-chaînes lors de la DeFi Demo Day
 
 ![](https://miro.medium.com/max/3296/1\*c4fdF6mopG5ARbae-ExJNA.png)
 
-Acala Co-Founder and CTO Bryan Chen showcases DeFi DApps with cross-chain BTC.
+Acala co-fondateur et CTO Bryan Chen présente les DApps DeFi avec BTC cross-chain.
 
-We kicked off the month presenting at [DeFi Demo Day](https://www.crowdcast.io/e/defidemoday), a showcase of the future of DeFi in the Polkadot ecosystem. Not only did founders Bette Chen and Bryan Chen demonstrate the Acala platform’s DeFi DApps, but they also offered a sneak peek into Acala’s cross-chain functionality — with integrations of PolkaBTC, RenBTC, and SnowETH.
+Nous avons démarré le mois en présentant aux [DeFi Demo Day](https://www.crowdcast.io/e/defidemoday), une vitrine du futur de la DeFi dans l'écosystème Polkadot. Non seulement les fondateurs Bette Chen et Bryan Chen ont présenté les DApps DeFi de la plateforme Acala, mais ils ont aussi offert un aperçu de la fonctionnalité transversale d’Acala — avec les intégrations de PolkaBTC, RenBTC et SnowETH.
 
-During the [presentation](https://www.crowdcast.io/e/defidemoday), Bryan instantly minted cross-chain BTC tokens, deposited them as collateral to borrow the Acala Dollar stablecoin (aUSD), and then swapped his stablecoin loan for DOT in Acala’s AMM-style DEX. With DOT on hand, Bryan then showed attendees how they can earn staking rewards without sacrificing liquidity with Acala’s Liquid DOT Staking (LDOT).
+Lors de la [présentation](https://www.crowdcast.io/e/defidemoday), Bryan a instantanément transféré les jetons BTC par le cross-chaîne, les a déposés en garantie pour emprunter du stablecoin Acala Dollar (aUSD), puis échanger son emprunt de stablecoin pour du DOT dans le DEX AMM d'Acala. Avec les DOT en main, Bryan a ensuite montré aux participants comment ils peuvent gagner des récompenses de stacking sans sacrifier la liquidité avec le Liquid DOT Staking d’Acala (LDOT).
 
-## Coinbase Ventures Backs Acala and Karura
+## Coinbase Ventures soutient Acala et Karura
 
 ![](https://miro.medium.com/max/2800/1\*3ZiFjMlC2kYxkx0L14gXLw.png)
 
-Coinbase Ventures announced its backing of Acala and Karura
+Coinbase Ventures a annoncé son soutien à Acala et Karura
 
-Our team is thrilled to welcome Coinbase Ventures to the Acala ecosystem. This week, the investment arm of Coinbase has [announced its support](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) for Acala, the all-in-one DeFi hub of Polkadot. This investment also supports [Karura](https://acala.network/karura), the DeFi hub of Kusama. It’s a significant achievement and we look forward to working with our backers to launch our EVM-compatible layer-1 blockchains and full suites of DeFi applications.
+Notre équipe est ravie d’accueillir Coinbase Ventures dans l’écosystème d’Acala. Cette semaine, la branche d’investissement de Coinbase a [annoncé son soutien](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) pour Acala, le hub tout en un de la DeFi sur Polkadot. Cet investissement soutient également [Karura](https://acala.network/karura), le hub DeFi sur Kusama. C'est un accomplissement significatif et nous sommes impatients de travailler avec nos bailleurs de fonds pour lancer notre EVM blockchains compatibles et nos suites complètes d'applications DeFi.
 
-## Compound awards Acala a grant to build a Starport
+## Compound attribue à Acala une subvention pour construire un Starport
 
 ![](https://miro.medium.com/max/2800/1\*HBjTiYMXO8Vm4eIeSVPhzQ.png)
 
-Acala is a recipient of a Compound grant to build a Starport to Polkadot.
+Acala est bénéficiaire d'une subvention par Compound pour construire un Starport pour Polkadot.
 
-We’re also honored for Acala to be a recipient of the inaugural [Compound Grants Program](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a). The grant will fund Acala’s proposal to build a Starport, a gateway enabling a cross-chain money market for Compound Chain and the Polkadot ecosystem. The proposal, which incorporated feedback from the Compound community and grants team, enables DOT and the staking derivative Liquid DOT (LDOT) as new collaterals on Compound Chain, while bringing Compound’s CASH token to the Polkadot ecosystem, as well as integrating it into Acala DApps. For more details, see our [proposal](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349/10) on the Compound forum.
+Nous sommes également honorés que Acala soit un bénéficiaire du programme inaugural de [Compound Grants Program](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a). La subvention financera la proposition d'Acala de construire un Starport, une passerelle permettant un marché monétaire trans-chaîne entre Compound Chain et l'écosystème Polkadot. La proposition, qui a incorporé les commentaires de la communauté Compound et de l'équipe de subventions, d'activer DOT et le staking dérivé Liquid DOT (LDOT) comme nouvelles garanties sur la Compound Chain, tout en apportant le jeton CASH de Compound à l’écosystème Polkadot, tout en l’intégrant dans Acala DApps. Pour plus de détails, consultez notre [proposition](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349/10) sur le forum de Compound.
 
-## SubQuery integrates Acala to aggregate and report on DeFi Data
+## SubQuery intègre Acala à l'agrégat et rapport des données de la DeFi
 
 ![](https://miro.medium.com/max/2048/0\*mZSC0lvmD90nqFlz)
 
-In mid March, Acala and [SubQuery](https://www.subquery.network/) finalized an integration to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. The achievement comes on the heels of SubQuery’s project, [SubQuery Explorer](https://explorer.subquery.network/), which aggregates and organizes blockchain data to provide well-structured information for developers. SubQuery’s data aggregation layer will operate between the layer-1 blockchain (Acala) and DApp layer. With this integration in place, our two projects ensure increased composability for a multi-chain future.
+À la mi-mars, Acala et [SubQuery](https://www.subquery.network/) ont finalisé une intégration pour permettre aux utilisateurs et aux développeurs de demander et d'extraire des données du DeFi hub d'Acala pour Polkadot en seulement quelques minutes et sans frais. Cette réalisation fait suite au projet de SubQuery, [SubQuery Explorer](https://explorer.subquery.network/), qui agrègent et organise des données de la blockchain pour fournir des informations bien structurées aux développeurs. La couche d'agrégation de données de SubQuery fonctionnera entre la blockchain layer-1 (Acala) et la couche DApp. GrâcAvec cette intégration en place, nos deux projets assurent une composabilité accrue pour un avenir multi-chaînes.
 
-## Acala wins first parachain slot auction on Polkadot’s Testnet
+## Acala remporte la première vente aux enchères de parachain sur le Testnet de Polkadot
 
 ![](https://miro.medium.com/max/1528/0\*EzkXYOY9GjXZ3oiK)
 
-Acala secured the first public parachain slot on Rococo.
+Acala a assuré la première vente publique de parachain sur Rococo.
 
-In anticipation of the upcoming parachain auctions, Acala has secured the first Rococo parachain slot. Though entirely on testnet, the process was an important step for Polkadot and its ecosystem of prospect parachain networks. By testing inter-shard communication protocols, Polkadot is preparing for projects like Acala and Karura to bid in the upcoming parachain auctions to deploy on Polkadot’s sister-network Kusama, and eventually Polkadot mainnet. It’s exciting for Acala to occupy the first public parachain slot on Rococo, and we aim to achieve our goal of securing the first public parachain slot on Kusama.
+En prévision des prochaines ventes aux enchères, Acala a obtenu la première place de parachain sur Rococo. Bien que entièrement réalisé sur le testnet, le processus a été une étape importante pour Polkadot et son écosystème de réseaux de parachain. En testant les protocoles de communication inter-shard, Polkadot se prépare à des projets comme Acala et Karura pour participer aux prochaines enchères de parachain à déployer sur le réseau sœur de Polkadot, Kusama, et éventuellement sur le réseau principal de Polkadot. C’est excitant pour Acala d’occuper la première place publique de parachain sur Rococo, et nous visons à atteindre notre objectif de sécuriser la première place publique de parachain sur Kusama.
 
-## Discover the new Karura website
+## Découvrez le nouveau site web de Karura
 
 ![](https://miro.medium.com/max/2816/0\*KVAVAiFZUNF\_fi\_K)
 
-Reimagine DeFi Possibilities with Karura’s all-on-one DeFi platform.
+Reimaginez les Possibilities DeFi avec la plate-forme DeFi tout en un sur Karura.
 
-The countdown is on! As our team works to prepare for the upcoming Karura Crowdloan Event and subsequent Kusama Parachain Auctions, we’re pleased to launch the [Karura website](https://acala.network/karura). The site offers a look at Karura’s user interface, as well as an overview of its DeFi products and its native utility token KAR. Karura is a scalable, EVM-compatible DeFi network with a suite of financial applications, including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Le compte à rebours est activé! Alors que notre équipe travaille à la préparation du prochain événement de Karura Crowdloan et ensuite des enchères de parachain sur Kusama, nous sommes heureux de lancer le [siteweb de Karura](https://acala.network/karura). Le site offre un aperçu de l’interface utilisateur de Karura ainsi qu’une vue d’ensemble de ses produits DeFi et de son jeton natif KAR. Karura est un réseau Defi scalable, compatible EVM avec une suite d'applications financières, incluant : un dérivé de staking (liquide KSM), un stablecoin multi-collateralisé soutenu par des actifs cross-chain (kUSD), et un AMM DEX — le tout avec des frais de micro gaz qui peuvent être payés dans n'importe quel jeton.
 
 For more information on Karura’s DeFi DApps and its path to launch, check out our recent [deep dive](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f) or watch our [presentation on the upcoming Polkadot and Kusama Crowdloans.](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
 
