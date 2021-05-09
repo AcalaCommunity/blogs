@@ -6,63 +6,63 @@ By [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34
 
 # พันธมิตรใหม่
 
-Acala Foundation is pleased to announce new partners joining the effort in building a cross-blockchain decentralized stablecoin and staking liquidity platform to power open finance applications on the Polkadot network. We believe these partners — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — are our long term allies in our quest in building a sustainable, resilient and solid open finance infrastructure.
+มูลนิธิ Acala มีความยินดีอย่างยิ่งที่จะประกาศพันธมิตรรายใหม่ที่เข้ามามีส่วนร่วมในการสร้างแพลตฟอร์ม Defi Stablecoin แบบ Cross-blockchain และ การ staking liquidity เพื่อขับเคลื่อน Defi บน polkadot network  เราเชื่อว่าพันธมิตรเหล่านี้ - Polychain , Hashkey , P2P Capital , KR1, Polkadot , SNZ  ,  Ecosystem Fund , Hypersphere Ventures , Web3.Capital , Stake.Zone , Goodmore Capital , Digital Renaissance จะเป็นพันธมิตรในระยะยาวของเราในการทำสร้างโครงสร้างพื้นฐานทางการเงินแบบเปิดที่ยั่งยืน ยืดหยุ่น และมั่นคง
 
-# Updates
+# อัพเดท
 
-## Roadmap & Website Revamped
+## แผนงาน (Road map) และ แผนปรับปรุงเว็บไซด์
 
-We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
+เราทำงานอย่างใกล้ชิดกับ Developer จาก Parity และ Polkadot และอัปเดตแผนงานของเราอย่างต่อเนื่องเพื่อให้สอดคล้องกับความพร้อมของ Parachain และการเปิดตัว Polkadot mainnet ซึ่งมีไฮไลท์บางส่วนดังนี้
 
-- Launch Acala Karura canary network as soon as Kusama parachain bonding is ready
-- We are starting security audits for the Acala Network
-- Launch Acala mainnet (a plain network) and participate in parachain auction as soon as Polkadot is ready
-- Then enable stablecoin and other features once the network runs steadily
+- ดำเนินการ Acala kurara canary network ทันที เมื่อ kusama parachain พร้อม
+- เรากำลังเริ่มการตรวจสอบความปลอดภัยสำหรับ Acala Network
+- เปิดตัว Acala mainnet (ระบบหลัก) และเข้าร่วมการประมูลของ parachain ทันทีที่ Polkadot พร้อม
+- หลังจากนั้นจะเปิดการใช้งาน stablecoin และฟีเจอร์อื่นๆ เมื่อเครือข่ายทำงานได้อย่างมีประสิทธิภาพ
 
-Check out our revamped website [acala.network](https://acala.network/) for more details.
+ตรวจสอบเว็บไซต์ของเรา acala.network สำหรับรายละเอียดเพิ่มเติม
 
 ![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
-## Responding to Recent DeFi Black Swan Event
+## การตอบสนองต่อเหตุการณ์ที่ไม่คาดคิดที่เกิดขึ้นใน Defi
 
-Recent DeFi Black Swan event specifically re [MakerDAO multi-million dollar incident](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) has brought several network and market structural issues to light — some are known but unsolvable at the protocol level, some are ignored or overlooked. Nevertheless, there are invaluable lessons learned from Acala’s perspective:
+เหตุการณ์ที่ไม่คาดคิดที่เกิดขึ้นกับ MakerDao จำนวนหลายล้านดอลล่า ทำให้เกิดปัญหาที่ส่งผลกระทบต่อภาพรวมทั้งด้านเครือข่ายและโครงสร้างของ , มีบางคนรู้ปัญหาแต่ไม่สามารถแก้ไขได้ในระดับ Protcol , บางคนรู้ปัญหาแต่ก็มองข้ามมันไป   อย่างไรก็ตามมีบทเรียนล้ำค่าที่ได้เรียนรู้จากมุมมองของ Acala
 
-- **Network congestion**: Polkadot’s sharded design with minimum 200 TPS aside, with Substrate, Acala is designing Quality of Service type transaction classification to prioritize critical transactions e.g. oracle operations, to effectively counter this issue.
-- **Vulnerability in the liquidation process**: An automated on-chain liquidator/keeper (made possible by Substrate) aside, Acala is also designing a hybrid mechanism with a built-in DeX supplementing collateral auctions to ensure robustness, liquidity and optimal pricing.
-- **Capital reserve**: Acala is designing a triple capital reserve system to protect the value of the network — a foreign crypto reserve (via the [decentralized Sovereign Wealth Fund](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) as an emergency fund, a built-in DeX that attracts liquidity as a passive reservoir, and ACA auction as last resort.
-- In principle, a system or protocol should strive for decentralization to continuously lean towards **more truth and less trust**. However when trust is still required (some components are still not fully decentralized and automated), no less effort, capital, regulation, and insurance is required to counter the risks than what the centralized finance world is doing today — and that’s the price we pay for trust.
+- ความแออัดของเครือข่าย: การออกแบบที่แตกต่างของ Polkadot โดยมีขั้นต่ำ 200 TPS นอกเหนือจาก Substrate แล้ว Acala กำลังออกแบบการจัดประเภทธุรกรรมประเภท Quality of Service เพื่อจัดลำดับความสำคัญของธุรกรรมที่สำคัญเช่น การดำเนินการ oracle เพื่อตอบโต้ปัญหานี้อย่างมีประสิทธิภาพ
+- Vulnerability in the liquidation process: An automated on-chain liquidator/keeper  (ควบคุมโดย Substrate) นอกจากนี้ Acala ยังออกแบบกลไกไฮบริด (Hybrid) ให้ DeX ผนวกกับผู้ดูแลระบบ เพื่อให้การประมูลใน parachain มีความแข็งแกร่งและมีสภาพคล่องและราคาที่เหมาะสม
+- ทุนสำรอง: Acala กำลังออกแบบระบบสำรองเงินทุนสามเท่าเพื่อปกป้องมูลค่าของเครือข่ายนั่นคือ เงินสำรอง crypto จากต่างประเทศ (ผ่านกองทุน Sovereign Wealth Fund แบบกระจายอำนาจ)
+- โดยหลักการแล้วระบบหรือโปรโตคอลควรเป็นเครื่องมือที่พยายามสร้างการกระจายอำนาจและโน้มเอียงไปสู่การเชื่อระบบมากขึ้น อย่างไรก็ตามเมื่อยังคงต้องการความไว้วางใจ (องค์ประกอบบางอย่างยังไม่กระจายอำนาจและยังไม่เป็นระบบอัตโนมัติทั้งหมด) มันไม่ง่ายเลยที่เงินทุน กฎระเบียบและการประกันภัยจะสามารถรับมือกับความเสี่ยง ที่มากกว่าที่โลกการเงินแบบ Centralize กำลังทำอยู่ในปัจจุบัน - และนั่นคือราคาที่เราจ่าย สำหรับความไว้วางใจ
 
-Read more discussions on the issues and potential solutions in [Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) and [a recent AMA | Acala Network: Cross-Chain Finance in PoS Era](https://polkabase.com/blog/1217).
+อ่านการอภิปรายเพิ่มเติมเกี่ยวกับปัญหาและแนวทางแก้ไขในการคืนความเชื่อมั่นใน Stablecoin แบบกระจายอำนาจและ AMA ล่าสุด | Acala Network: Cross-Chain Finance ใน PoS Era
 
-# Acala Mandala Festival 🎉
+# เทศกาล Acala Mandala  🎉
 
 ![Image for post](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
-Mandala Test Network is the first in [Acala’s trilogy networks](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). It’s a value-free but chaotic playground for everyone to test drive functionalities of Acala:
+Mandala Test Network เป็นเครือข่ายไตรภาคแรกของ Acala  ที่นี่คือพื้นที่สำหรับทดลองระบบสำหรับทุกที่ต้องการทดสอบฟังก์ชันการทำงานของ Acala:
 
-- borrow stablecoin aUSD with test DOT and BTC as collaterals
-- built-in decentralized exchange
-- functioning auction systems and oracle services
+- ยืม stablecoin aUSD พร้อมทดสอบ DOT และ BTC เป็นหลักประกัน
+- สร้างการแลกเปลี่ยนแบบกระจายอำนาจ
+- การทำงานของระบบประมูลและบริการ Oracle
 
-We hosted [a Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) to celebrate and reward supporters and festival-goers. Now three weeks have passed, and we are near the end of it. It’s been both fascinating and rewarding to see so much participation and prize-giving:
+เราเป็นเจ้าภาพจัดงานเทศกาลมันดาลาเพื่อเฉลิมฉลองและให้รางวัลแก่ผู้สนับสนุนและผู้ที่มาร่วมงานเทศกาล Now three weeks have passed, and we are near the end of it เป็นทั้งสิ่งที่น่าสนใจและคุ้มค่าที่ได้เห็นการมีส่วนร่วมและการให้รางวัลมากมาย:
 
-- 260+ nodes running across 24 cities (2nd on [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) as of 27th March)
-- 350+ users with meaningful transaction qualified for lucky draws
-- 20+ quality articles submitted
+- 260+ โหนดที่ทำงานใน 24 เมือง (อันดับ 2 ของ Polkadot Telemetry ณ วันที่ 27 มีนาคม)
+- ผู้ใช้มากกว่า 350 คนที่มีธุรกรรมที่มีความหมายมีคุณสมบัติสำหรับการจับรางวัล
+- ส่งบทความคุณภาพมากกว่า 20 รายการ
 
-Check out the prize board [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Coding challenge and bug bounties will go on🚀, what are you waiting for?!
+ตรวจสอบกระดานรางวัลที่นี่  ความท้าทายในการเข้ารหัสและรางวัลที่หาเจอบั๊กกำลังดำเนินอยู่🚀  แล้วคุณจะรออะไรอยู่หล่ะ
 
-# Stay Updated with Acala
+# ติดตามความคืบหน้าของ Acala
 
-Website: [https://acala.network](https://acala.network/)  
+เว็บไซด์: [https://acala.network](https://acala.network/)  
 Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
 Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. The Acala Network is a dual-protocol network, with a decentralized cross-chain capable multi-collateralized stablecoin protocol — Honzon, and a trust-less tokenized staking liquidity protocol — Homa. Acala aims to bring stability and liquidity to the crypto world and beyond.
+Acala - Hub of defi แห่งแรกที่มีวิสัยทัศน์ในการสร้างโครงสร้างพื้นฐานทางการเงินแบบเปิดข้ามสายโซ่สำหรับระบบนิเวศ Polkadot Acala Network เป็นเครือข่ายแบบดูอัลโพรโทคอลที่มีการกระจายอำนาจข้ามสายโซ่ที่มีความสามารถในการทำงานร่วมกันได้หลายรูปแบบ - Honzon และโปรโตคอลสภาพคล่องในการเดิมพันโทเค็นที่เชื่อถือได้น้อยกว่า - Homa Acala aims to bring stability and liquidity to the crypto world and beyond.
 
 The Acala Stablecoin Project is proudly supported by the [Web3 Foundation](https://web3.foundation/)
 
