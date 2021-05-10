@@ -1,4 +1,4 @@
-# **Aktualizacja ekosystemu Acala - Marzec 2021**
+# **Aktualizacja Ekosystemu Acala - Marzec 2021**
 
 ![](https://miro.medium.com/max/2800/1*QL98Lx2R1D7e10smue8TVA.png)
 
