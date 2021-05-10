@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/2800/1*QL98Lx2R1D7e10smue8TVA.png)
 
-Z kolejnym burzliwym miesiącem w książkach, zespół Acala świętuje ekscytujące kamienie milowe. Pomiędzy Coinbase Ventures [ ogłaszając ](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) swoje poparcie dla Acali i Karury, a Compound przyznając nam grant na budowę bramy Starport do Polkadot, Acala nie wykazuje żadnych oznak spowolnienia. W rzeczywistości zespół właśnie uruchomił [ nową stronę internetową Karury ](https://acala.network/karura) i intensywnie przygotowuje się do zbliżającej się aukcji Kusama Parachain.
+Wraz z kolejnym burzliwym i pracowitym miesiącem, zespół Acala świętuje ekscytujące osiągnięcia. Pomiędzy Coinbase Ventures [ ogłaszaja ](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) swoje poparcie dla Acali i Karury, a Compound przyznając nam grant na budowę bramy Starport do Polkadot, Acala nie wykazuje żadnych oznak spowolnienia. W rzeczywistości, zespół właśnie uruchomił [ nową stronę internetową Karura ](https://acala.network/karura) i intensywnie przygotowuje się do zbliżającej się aukcji Kusama Parachain.
 
 Oto podsumowanie naszych osiągnięć z marca.
 
@@ -36,41 +36,41 @@ Jesteśmy również zaszczyceni, że Acala otrzymała dotację z inauguracyjnego
 
 ![](https://miro.medium.com/max/2048/0\*mZSC0lvmD90nqFlz)
 
-W połowie marca Acala i [ SubQuery ](https://www.subquery.network/) sfinalizowały integrację, aby umożliwić użytkownikom i programistom przeszukiwanie i wyodrębnianie danych z centrum Acala DeFi dla Polkadot w zaledwie kilka minut i bez żadnych kosztów. Osiągnięcie to jest podstawą projektu SubQuery, [ SubQuery Explorer ](https://explorer.subquery.network/), który gromadzi i organizuje dane blockchain, aby zapewnić programistom dobrze zorganizowane informacje. Warstwa agregacji danych SubQuery będzie działać między łańcuchem bloków warstwy pierwszej (Acala) a warstwą DApp. Dzięki tej integracji nasze dwa projekty zapewniają zwiększoną kompozytowalność w przyszłości z wieloma łańcuchami.
+W połowie marca Acala i [ SubQuery ](https://www.subquery.network/) sfinalizowały integrację, aby umożliwić użytkownikom i programistom przeszukiwanie i wyodrębnianie danych z centrum Acala DeFi dla Polkadot w zaledwie kilka minut i bez żadnych kosztów. Osiągnięcie to jest podstawą projektu SubQuery, [ SubQuery Explorer ](https://explorer.subquery.network/), który gromadzi i organizuje dane blockchain, aby zapewnić programistom dobrze zorganizowane informacje. Warstwa agregacji danych SubQuery będzie działać między łańcuchem bloków warstwy pierwszej (Acala) a warstwą DApp. Dzięki tej integracji nasze dwa projekty zapewnią zwiększoną kompozytowalność w przyszłości z wieloma łańcuchami.
 
-## Acala wygrywa pierwszą aukcję na spadochrony w Testnecie firmy Polkadot
+## Acala wygrywa pierwszą aukcję parachain w Testnecie Polkadot
 
 ![](https://miro.medium.com/max/1528/0\*EzkXYOY9GjXZ3oiK)
 
-Acala zapewniła pierwsze publiczne miejsce na spadochrony na Rococo.
+Acala zabezpieczyła pierwsze publiczne miejsce (slot) w parachain`ie Rococo.
 
-W oczekiwaniu na nadchodzące aukcje spadochronów Acala zabezpieczyła pierwszy rokokowy slot na spadochrony. Choć całkowicie w sieci testowej, proces ten był ważnym krokiem dla firmy Polkadot i jej ekosystemu potencjalnych sieci spadochronowych. Testując protokoły komunikacyjne między odłamkami, Polkadot przygotowuje się do projektów takich jak Acala i Karura, które wezmą udział w nadchodzących aukcjach spadochronowych, aby wdrożyć je w siostrzanej sieci Polkadot Kusama, a ostatecznie w sieci głównej Polkadot. To ekscytujące dla Acali zajmowanie pierwszego publicznego miejsca na spadochrony w Rococo, a naszym celem jest zapewnienie pierwszego publicznego miejsca na spadochron na Kusamie.
+W oczekiwaniu na nadchodzące aukcje parachain, Acala zabezpieczyła pierwsze miejsce (slot) na parachain`ie Rococo. Choć całkowicie w sieci testowej, proces ten był ważnym krokiem dla Polkadot i jej ekosystemu potencjalnych sieci parachain. Testując współdzielone protokoły komunikacyjne, Polkadot przygotowuje się do projektów, takich jak Acala i Karura, które wezmą udział w nadchodzących aukcjach parachain, aby wdrożyć je w siostrzanej sieci Polkadot - Kusama, a ostatecznie w sieci głównej Polkadot. Zajęcie przez Acala pierwszego publicznego miejsca (slot) parachain w Rococo jest bardzo ekscytujące, naszym celem jest zapewnienie pierwszego publicznego miejsca (slot) parachain na Kusamie.
 
-## Odkryj nową stronę internetową
+## Odkryj nową stronę internetową Karura
 
 ![](https://miro.medium.com/max/2816/0\*KVAVAiFZUNF\_fi\_K)
 
-KaruryWyobraź sobie na nowo możliwości DeFi dzięki uniwersalnej platformie DeFi firmy Karura.
+Wyobraź sobie możliwości Karura z platformą DeFi wszystko w jednym.
 
-Odliczanie trwa! Ponieważ nasz zespół pracuje nad przygotowaniami do nadchodzącego wydarzenia Karura Crowdloan i kolejnych aukcji Kusama Parachain, z przyjemnością uruchamiamy \[stronę Karura\] (https://acala.network/karura). Witryna oferuje przegląd interfejsu użytkownika Karury, a także przegląd jej produktów DeFi i natywnego tokena narzędziowego KAR. Karura to skalowalna, kompatybilna z EVM sieć DeFi z pakietem aplikacji finansowych, w tym: zaufana pochodna obstawiania (płynny KSM), multi-zabezpieczony stablecoin wspierany przez aktywa międzyłańcuchowe (kUSD) oraz AMM DEX - wszystko z opłaty za mikro-gaz, które można uiścić dowolnym tokenem.
+Odliczanie jest włączone! Ponieważ nasz zespół pracuje nad przygotowaniami do nadchodzącego wydarzenia Karura Crowdloan i kolejnych aukcji Kusama Parachain, z przyjemnością uruchamiamy [ stronę internetową Karura ](https://acala.network/karura). Witryna oferuje podgląd na interfejs użytkownika Karura, a także przegląd jej produktów DeFi i natywnego tokena użytkowego KAR. Karura to skalowalna, kompatybilna z EVM sieć DeFi z pakietem aplikacji finansowych, takich jak: bezpieczna pochodna staking`u (płynny KSM), stablecoin z wieloma zabezpieczeniami, zabezpieczony przez międzyłańcuchowe aktywa (kUSD) oraz AMM DEX - wszystko z mikro opłatami za gaz, które można uiścić dowolnym tokenem.
 
-Aby uzyskać więcej informacji o DeFi DApps firmy Karura i jej ścieżce do uruchomienia, zapoznaj się z naszym ostatnim \[głębokim nurkowaniem\] (https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi- hub-of-kusama-410066fc1e1f) lub obejrzyj naszą \[prezentację na temat nadchodzących Polkadot i Kusama Crowdloans.\] (https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
+Aby uzyskać więcej informacji na temat DeFi DApps firmy Karura i jej drogi do uruchomienia, zapoznaj się z naszym ostatnim [ głęboki wgląd ](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f) lub obejrzyj naszą [ prezentację na temat nadchodzących Crowdloans na Polkadot i Kusama. ](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
 
-# Acala odsłania nowe logo
+# Acala przedstawia nowe logo
 
 ![](https://miro.medium.com/max/2072/0\*IGwkNLwEePOYWKrw)
 
-Z przyjemnością przedstawiamy nowe logo na wszystkich kanałach społeczności Acala. Dzięki temu żywemu i bardziej zrównoważonemu projektowi - w którym nasza Acala „A” i jej komponenty w pełni i płynnie wzmacniają się w trójwymiarowej formie - mamy nadzieję, że to nowe logo okaże wsparcie i zrównoważony rozwój tak powszechne w ekosystemie Acala i jego społeczność. Ponadto Acala jest skupiona na dwóch kręgach reprezentujących bezpieczeństwo i stabilność platformy, dwie podstawowe zasady, których zamierzamy przestrzegać. W nadchodzących tygodniach spodziewaj się kolejnych odświeżeń naszej marki.
+Cieszymy się z wprowadzenia nowego logo na wszystkich kanałach społecznościowych Acala. Dzięki temu żywemu i bardziej zrównoważonemu projektowi - w którym nasza Acala „A” i jej komponenty w pełni i płynnie wzmacniają się w trójwymiarowej formie - mamy nadzieję, że to nowe logo okaże wsparcie i zrównoważony rozwój tak powszechne w ekosystemie Acala i wśród jego społeczności. Ponadto, Acala jest skupiona na dwóch kręgach, które reprezentują bezpieczeństwo i stabilność platformy, dwie podstawowe zasady, których zamierzamy przestrzegać. W nadchodzących tygodniach spodziewaj się kolejnych odświeżeń naszej marki.
 
-## Nadchodzące wydarzenia
+## Nadchodzące Wydarzenia
 
-- \[What is Karura\] (https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) - ciekawi siostrzanej sieci Acali Karura. Dołącz do naszego zespołu na prezentację o Karurze i przygotuj się na DeFi Hub of Kusama. (Https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
-- \[Chainlink Hackathon\] (https://chain.link/hackathon) - Acala jest podekscytowana możliwością wsparcia Chainlink 2021 dwoma wyzwaniami Acala EVM. Dołącz do nas i innych sponsorów na ceremonię zamknięcia 16 kwietnia
+- [ Czym jest Karura ](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) - Ciekawość Karura - siostrzanej sieci Acala. Dołącz do prezentację naszego zespołu na temat Karura i bądż gotowy na Kusama DeFi Hub. [ Zarejestruj się tutaj! ](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
+- [Chainlink Hackathon](https://chain.link/hackathon) — Acala jest podekscytowana wsparciem Chainlink 2021 w dwóch wyzwaniach Acala EVM. Dołącz do nas i innych sponsorów 16 kwietnia podczas ceremonii zamknięcia.
 
 ![](https://miro.medium.com/max/2402/0\*vfld\_ERpJGvSAJnD.png)
 
 # O Acala
 
-Acala to all-in- jedno centrum DeFi firmy Polkadot. Acala to kompatybilna z Ethereum platforma dla aplikacji finansowych do korzystania z inteligentnych kontraktów lub wbudowanych protokołów z gotowymi funkcjami cross-chain i solidnymi zabezpieczeniami. Platforma oferuje również zestaw aplikacji finansowych, w tym: niezaufaną pochodną do obstawiania (płynny DOT), multi-zabezpieczony stablecoin wspierany przez aktywa międzyłańcuchowe (aUSD) oraz AMM DEX - wszystko z opłatami za mikro-gaz, które można wpłacić dowolny token.
+Acala to kompleksowe centrum DeFi na Polkadot. Acala to kompatybilna z Ethereum platforma dla aplikacji finansowych do korzystania z inteligentnych kontraktów lub wbudowanych protokołów z gotowymi funkcjami cross-chain i solidnymi zabezpieczeniami. Platforma oferuje również zestaw aplikacji finansowych, w tym: bezpieczną pochodną staking`u (płynny KSM), stablecoin z wieloma zabezpieczeniami, zabezpieczony przez międzyłańcuchowe aktywa (kUSD) oraz AMM DEX - wszystko z mikro opłatami za gaz, które można uiścić dowolnym tokenem.
 
-\[Linktree\] (https://linktr.ee/acalanetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Witryna internetowa\] (https://acala.network/) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+[Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
