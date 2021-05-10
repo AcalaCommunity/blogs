@@ -1,70 +1,70 @@
-# **Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited Substrate Functionality**
+# **Acala uruchamia „Acala EVM” dla DeFi na Polkadot | Zgodność z Ethereum z nieograniczoną funkcjonalnością Substrate**
 
-![Image for post](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
+![Obraz do wpisu](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
 
-## The Acala EVM leverages the best of Ethereum while unlocking Substrate’s full potential with a composable, single-wallet, Acala-EVM-Substrate-WASM experience with ‘bring your own gas’, on-chain auto-scheduling, and more.
+## Acala EVM wykorzystuje to, co najlepsze w Ethereum, jednocześnie odblokowując pełny potencjał Substrate z komponowalnym, pojedynczym portfelem, Acala-EVM-Substrate-WASM z funkcją `` przynieś swój własny gaz '', automatycznym harmonogramem w łańcuchu i nie tylko.
 
-Acala’s engineering team has custom-built and launched the Acala EVM! This innovation, novel to the Polkadot ecosystem, enables Acala to provide Solidity, Substrate, and Web3 developers a complete full-stack (Acala+EVM+Substrate+WASM) experience seamlessly with a single wallet. Acala EVM also brings protocol composability for EVM and Substrate runtime (aka pallets) and enables developers to build and deploy DApps on Acala with exceptional tooling support.
+Zespół inżynierów Acala zbudował i uruchomił Acala EVM! Ta innowacja, nowość w ekosystemie Polkadot, Acala umożliwia programistom Solidity, Substrate i Web3, dostęp do pełnego pakietu kodów (Acala + EVM + Substrate + WASM) za pomocą jednego portfela. Acala EVM zapewnia również możliwość komponowania protokołów dla środowiska wykonawczego EVM i Substrate (czyli palet) oraz umożliwia programistom tworzenie i wdrażanie DApps na platformie Acala z wyjątkową obsługą narzędzi.
 
-Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
+Podobnie jak Ethereum, Acala może robić rzeczy, których Bitcoin nigdy nie będzie w stanie zrobić, co zainspirowało wiele nowych innowacji, Substrate i Polkadot są kategorycznie różne od Ethereum w sposób, który umożliwia wiele innowacji na poziomie łańcucha poza EVM sandbox. Mocno wierzymy w siłę Substrate i zbudowaliśmy Acala EVM, aby zoptymalizować pełny potencjał i długowieczność Substrate, zamiast po prostu ponownie wdrożyć Ethereum na Polkadot.
 
-# **The Acala EVM**
+# **Acala EVM**
 
-## **Composable DeFi Environment**
+## **Komponowalne środowisko DeFi**
 
-Smart Contract Dapps deployed in Acala EVM can directly use native and cross-chain assets such as DOT, ACA, aUSD, renBTC, XBTC, and more. ERC-20 tokens deployed in the EVM can also be made available at the runtime level, to be listed in the DEX, or (by governance approval) to be used as gas fee tokens. This means that, for example, our friends at Ampleforth can deploy AMPL contracts on Acala EVM to be made available as a native token, so it can be used to pay transaction fees and listed directly on our DEX.
+Inteligentne kontrakty Dapps wdrożone w Acala EVM mogą bezpośrednio korzystać z natywnych i międzyłańcuchowych zasobów, takich jak DOT, ACA, aUSD, renBTC, XBTC i inne. Tokeny ERC-20 umieszczone w EVM mogą być również udostępniane na poziomie środowiska wykonawczego, mogą być listowane w DEX lub (za zgodą zarządu) używane jako tokeny opłat za gaz. Oznacza to, że na przykład nasi przyjaciele z Ampleforth mogą wdrażać kontrakty AMPL na Acala EVM, aby były dostępne jako token natywny, dzięki czemu można go używać do płacenia opłat transakcyjnych i umieszczać je bezpośrednio na naszym DEX.
 
-New to the concept of composability? A16z put it very well in their [4 Eras of Blockchain Computing: Degrees of Composability](https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=A%20platform%20is%20composable%20if,more%20rapid%20and%20compounding%20innovation.).
+Nowy w koncepcji kompozytowalności? A16z bardzo dobrze to ujął w swoich \[4 Eras of Blockchain Computing: Degrees of Composability\] (https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/# : ~: text = A% 20platform% 20is% 20composable% 20if, more% 20rapid% 20and% 20compounding% 20innovation.).
 
-To make this a bit more ‘real’, watch below as Acala Co-Founder and CTO Bryan Chen recently demonstrates one use case of the Acala EVM when he deployed Uniswap onto Acala and executed a trade within 2 minutes:
+Aby uczynić to trochę bardziej "prawdziwym", zobacz poniżej, jak współzałożyciel Acala i CTO Bryan Chen niedawno demonstruje jeden przypadek użycia Acala EVM, kiedy wdrożył Uniswap na Acali i wykonał transakcję w ciągu 2 minut:
 
-## **Other Fully Composable DeFi Primitives in the Acala EVM**
+## **** Inne W pełni Komponowalne prymitywy DeFi w Acala EVM ****
 
-- **Bring your own gas**: Power transactions with virtually any token — The native and cross-chain tokens integrated with Acala will be able to be used for paying gas. When live it could look like this: _Are you sending wrapped ETH to Acala to start playing in DeFi? Send your ETH to Acala via the bridge, and start deploying your wrapped ETH immediately in the Acala DeFi apps using your wrapped ETH as the gas fee. No need to go out and find ACA._
-- **On-chain automatic scheduler** that enables use cases like subscriptions and recurring payments. Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-on-chain-scheduler) or watch the 6 min demo below.
+- ** Przynieś własny gaz **: Transakcje zasilania z praktycznie dowolnym tokenem - Natywne i krzyżowe tokeny zintegrowane z Acala będą mogły być używane do płacenia za paliwo. Na żywo mogłoby to wyglądać tak: _Czy wysyłasz zapakowane ETH do Acali, aby zacząć grać w DeFi? Wyślij swój ETH do Acali przez most i zacznij natychmiast wdrażać zapakowane ETH w aplikacjach Acala DeFi, używając opakowanego ETH jako opłaty za gaz. Nie musisz wychodzić i szukać ACA._
+- ** Automatyczny harmonogram w łańcuchu **, który umożliwia takie przypadki użycia, jak subskrypcje i powtarzające się płatności. Wypróbuj \[tutaj\] (https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-on-chain-scheduler) lub obejrzyj 6-minutowe demo poniżej.
 
-- **Native and cross-chain tokens** available in ERC20: DOT, ACA, aUSD, XBTC (from ChainX), LDOT (liquid staking DOT), RENBTC, and more
-- Network of oracles to get price feeds. Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds).
-- Protocols such as DEX, stablecoin lending, and liquid staking derivatives (e.g. liquid DOT for your staked DOT)
+- ** Tokeny natywne i krzyżowe ** dostępne w ERC20: DOT, ACA, aUSD, XBTC (od ChainX), LDOT (płynne obstawianie DOT), RENBTC i więcej
+- Sieć wyroczni w celu uzyskania kanałów cenowych. Wypróbuj \[tutaj\] (https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds).
+- Protokoły, takie jak DEX, pożyczki stablecoin i płynne instrumenty pochodne do obstawiania (np. Płynny DOT dla obstawionego DOT)
 
 ## **🐰🕳 For a deep dive on the Acala EVM, check out the** [**Acala Wiki’s in-depth EVM section**](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack)**.**
 
-## Try it out at ETHDenver 2021
+## Wypróbuj na ETHDenver 2021 Debiut
 
-Acala is debuting the Acala EVM at ETHDenver 2021, offering $3k USD for hackers to “**Build a DApp Using the Acala EVM**” or “**Build a DApp Using the Acala EVM with the On-Chain Automatic Scheduler Function**”.
+\[Przygotuj DeFi DApp Polkadot-Ready z EVM firmy Acala na ETHDenver 2021\] (https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
 
-- Find Acala’s [**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**.**
-- Check out [**ETHDenver’s Bounty Hub**](https://www.ethdenver.com/post/acala) and [**Team Guidelines**](https://www.ethdenver.com/judging)**.**
+- Znajdź [** ETHDenver Hacker przewodnik **] Acali (https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker) **. **
+- Zajrzyj do [** ETHDenver's Bounty Hub **] (https://www.ethdenver.com/post/acala) i [** Wytyczne dla zespołów **] (https://www.ethdenver.com/judging) **. **
 
 [Make Your DeFi DApp Polkadot-Ready with Acala’s EVM at ETHDenver 2021](https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
 
-# **Acala at a High Level**
+# **** Acala at a Wysoki poziom ****
 
-If you’re new here, Acala is an Ethereum-compatible decentralized finance (DeFi) platform built for scale, leveraging Polkadot’s multi-chain network. Although Acala is a parachain providing layer 1 infrastructure, the Acala team has also built out an entire application layer on top of the parachain. Acala’s applications are built around a stable asset (aUSD) and offers end-user applications such as borrowing, lending, synthetic asset trading, and interest earning, all executed extremely fast with inexpensive gas fees. Developers can also leverage Acala as a platform on which to build their own applications.
+Jeśli jesteś tu nowy, Acala to kompatybilna z Ethereum zdecentralizowana platforma finansowa (DeFi) zbudowana z myślą o dużej skali, wykorzystująca wielopasmową sieć Polkadot. Chociaż Acala jest spadochronem zapewniającym infrastrukturę warstwy 1, zespół Acala zbudował również całą warstwę aplikacji na szczycie spadochronu. Aplikacje Acala są zbudowane wokół stabilnych aktywów (aUSD) i oferują aplikacje dla użytkowników końcowych, takie jak pożyczki, pożyczki, handel aktywami syntetycznymi i zarabianie odsetek, a wszystko to realizowane niezwykle szybko z niedrogimi opłatami za gaz. Programiści mogą również wykorzystać Acalę jako platformę do tworzenia własnych aplikacji.
 
-The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange. **Overall, Acala’s platform also offers:**
+Platforma oferuje zestaw prymitywów finansowych: stablecoin z wieloma zabezpieczeniami wspierany przez aktywa międzyłańcuchowe, takie jak Bitcoin, niezaufana pochodna do obstawiania oraz zdecentralizowana giełda. ** Ogólnie rzecz biorąc, platforma Acala oferuje również: **
 
-1.  **Micro Gas Fees** — Acala solves the gas fee problem for DeFi users, in combination with the ability to ‘bring your own gas’ as mentioned above
-2.  **Staking derivative L-DOT** (Liquid DOT to release liquidity from staked DOT for use in Acala’s DeFi applications)
-3.  **Stablecoin borrowing and lending** (DOT, Bitcoin and L-DOT used as primary collateral asset)
-4.  **Earning yield and interest**
-5.  Trading on **decentralized exchange** (DEX)
-6.  On-chain **governance**
-7.  On-chain **Treasury**
-8.  Native network of **aggregated oracle price feeds**
-9.  **On-chain sovereign wealth fund** to sustain the network’s future ([read more](https://medium.com/acalanetwork/building-a-decentralized-sovereign-wealth-fund-6a5a0ae995b1))
-10. **Continuously upgrade with no forks**: Keep in mind that Acala can upgrade seamlessly with no forks. This means that the future is virtually limitless. Any new Substrate pallet (a product or feature in the form of a DeFi primitive or runtime) can smoothly integrate into Acala. It’s like getting an iPhone 12 that will auto-upgrade to a 13, 14, 15+ in the palm of your hand.
+1.  ** Opłaty za mikro gaz ** - Acala rozwiązuje problem opłat gazowych dla użytkowników DeFi, w połączeniu z możliwością „przyniesienia własnego gazu”, jak wspomniano powyżej
+2.  ** Stakingowy instrument pochodny L-DOT ** (Płynny DOT w celu uwolnienia płynności z postawionego DOT do wykorzystania w aplikacjach Acala DeFi)
+3.  ** Pożyczanie i udzielanie pożyczek Stablecoin ** (DOT, Bitcoin i L-DOT używane jako podstawowe aktywa zabezpieczające)
+4.  *** * Zarobki i odsetki ****
+5.  Handel na ** zdecentralizowanej giełdzie ** (DEX)
+6.  On-chain ** Governance **
+7.  On-chain ** Treasury **
+8.  Natywna sieć ** zagregowanej ceny wyroczni feeds **
+9.  ** On-chain suwerenny fundusz majątkowy **, aby utrzymać przyszłość sieci (\[czytaj więcej\] (https://medium.com/acalanetwork/building-a-decentralized-sovereign-wealth-fund-6a5a0ae995b1) )
+10. ** Ciągłe ulepszanie bez widelców **: Pamiętaj, że Acala może bezproblemowo aktualizować bez widelców. Oznacza to, że przyszłość jest praktycznie nieograniczona. Każda nowa paleta substratu (produkt lub funkcja w postaci prymitywu DeFi lub środowiska wykonawczego) może bezproblemowo zintegrować się z Acala. To tak, jakbyś miał iPhone'a 12, który automatycznie zaktualizuje się do wersji 13, 14, 15+ w Twojej dłoni.
 
 ![Image for post](https://miro.medium.com/max/3200/0*iHVQdZllz1MxLwuy)
 
 http://apps.acala.network
 
-Thanks for checking out the new Acala EVM. We’ll continue to keep you updated on the progress of the Acala EVM, as well as further educational material on the different benefits it provides to the ecosystem. As always, you can find us on [Discord](https://discord.gg/vdbFVCH), [subscribe to our newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) for updates, or any of our channels below:
+Dziękujemy za sprawdzenie nowego Acala EVM. Będziemy nadal informować Cię o postępach w Acala EVM, a także o dalszych materiałach edukacyjnych na temat różnych korzyści, jakie zapewnia ekosystemowi. Jak zawsze, możesz nas znaleźć na \[Discord\] (https://discord.gg/vdbFVCH), \[zasubskrybuj nasz biuletyn\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) w celu uzyskania aktualizacji lub dowolnego z nasze kanały poniżej
 
 ![Image for post](https://miro.medium.com/max/2402/0*BvF8sTfeQd4Sc71D.png)
 
-# **About Acala**
+# **** About Acala ****
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform, operated by micro gas fees, offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+\[Acala\] (http://acala.network/ ) jest zdecentralizowanym centrum finansowym i stablecoinem firmy Polkadot, dzięki czemu jest szybki i łatwy w użyciu lub budowaniu aplikacji finansowych, poprawiając efektywność handlu i oszczędzając czas. Platforma, obsługiwana przez opłaty za mikro gaz, oferuje zestaw prymitywów finansowych: wielozabezpieczony stablecoin wspierany przez aktywa międzyłańcuchowe, takie jak Bitcoin, niezaufany instrument pochodny do obstawiania oraz zdecentralizowana giełda, aby uwolnić płynność i napędzać innowacje finansowe. Acala jest de facto otwartą platformą dla aplikacji finansowych do korzystania z inteligentnych kontraktów lub wbudowanych protokołów z gotowymi funkcjami cross-chain i solidnymi zabezpieczeniami.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [All Channels](https://linktr.ee/acalanetwork)
+\[Discord\] (https://discord.gg/vdbFVCH) | \[Witryna internetowa\] (https://acala.network/) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | \[Wszystkie kanały\] (https://linktr.ee/acalanetwork)
