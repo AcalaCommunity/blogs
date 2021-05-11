@@ -1,31 +1,31 @@
-# **Acala’s aUSD Stablecoin to be Integrated on Injective’s Polkadot-based Derivative Products**
+# **Stablecoin aUSD Acala ma być zintegrowany z produktami pochodnymi na bazie Polkadot**
 
-## **Acala’s aUSD will provide a stable asset used to collateralize Polkadot-based derivative products on Injective, expanding opportunities to create even more derivative products and use cases for aUSD**
+## **aUSD Acala zapewni stabilne aktywo wykorzystywane do zabezpieczenia produktów pochodnych Injective zbudowanych na Polkadot, rozszerzając możliwości tworzenia jeszcze większej liczby produktów pochodnych i możliwości wykorzystania aUSD**
 
 ![Image for post](https://miro.medium.com/max/4800/1*1kX5VH_6kyUa9N4iaLEc1Q.png)
 
-[Acala](http://acala.network) and [Injective](http://injectiveprotocol.com), both [Pantera Capital](https://www.panteracapital.com/portfolio) portfolio projects and [DeFi Alliance](https://defialliance.co/) members, will work together to integrate the Acala Dollar (aUSD) into Injective’s derivative trading ecosystem. The integration of aUSD will provide a stable asset that can be used to collateralize Polkadot-based derivative products on Injective. This also expands opportunities for us to create new derivative products alongside Injective, further increasing the use cases for aUSD.
+[ Acala ](http://acala.network) i [ Injective ](http://injectiveprotocol.com), zarówno [ Pantera Capital ](https://www.panteracapital.com/portfolio), portfolio projektów i [ DeFi Alliance ](https://defialliance.co/), będą współpracować w celu zintegrowania Acala Dollar (aUSD) do ekosystemu handlu instrumentami pochodnymi Injective. Integracja aUSD zapewni stabilne aktywa, które można wykorzystać do zabezpieczenia produktów pochodnych opartych na Polkadot na platformie Injective. Zwiększa to również możliwości tworzenia nowych produktów pochodnych obok Injective, dodatkowo zwiększając przypadki użycia USD.
 
-Injective is a layer-2 decentralized exchange protocol that unlocks the full potential of derivatives and DeFi. Injective’s platform enables fully decentralized trading without any restrictions, allowing individuals to trade on any derivative market. The Injective Chain currently provides a two-way Ethereum peg-zone for Ether and ERC-20 tokens to be transferred to the Injective Chain as well as an EVM-compatible execution environment for DeFi applications. The core consensus is Tendermint-based, but Injective’s multi-chain strategy is taking them to the Polkadot ecosystem as they plan to build on top of a parachain.
+Injective to zdecentralizowany protokół wymiany warstwy drugiej, który odblokowuje pełny potencjał pochodnych i DeFi. Platforma Injective umożliwia w pełni zdecentralizowany handel bez żadnych ograniczeń, umożliwiając osobom fizycznym handel na dowolnym rynku instrumentów pochodnych. Łańcuch iniekcji zapewnia obecnie dwukierunkową strefę pegów Ethereum dla tokenów Ether i ERC-20, które mają być przenoszone do łańcucha iniekcyjnego, a także środowisko wykonawcze kompatybilne z EVM dla aplikacji DeFi. Podstawowy konsensus opiera się na Tendermint, ale strategia wielu łańcuchów Injective przenosi ich do ekosystemu Polkadot, ponieważ planują budować na szczycie spadochronu.
 
 ![Image for post](https://miro.medium.com/max/3200/0*EflzJlilS3HQB5pl)
 
-Injective has begun the process of introducing aUSD to its Solstice Pro network. You can try out their [Solstice Pro platform on testnet](https://testnet.injective.exchange/) today. For instructions on how to do so, follow their guide below:
+Injective rozpoczął proces wprowadzania USD do swojej sieci Solstice Pro. Możesz wypróbować ich \[platformę Solstice Pro w testnet\] (https://testnet.injective.exchange/) już dziś. Aby uzyskać instrukcje, jak to zrobić, postępuj zgodnie z poniższym przewodnikiem:
 
-[Solstice Testnet Walkthrough](https://medium.com/injective-labs/solstice-testnet-walkthrough-a5f6ebfd5f93)
+[\[Solstice Testnet Walkthrough\] (https://medium.com/injective-labs/solstice-testnet-walkthrough-a5f6ebfd5f93)](https://medium.com/injective-labs/solstice-testnet-walkthrough-a5f6ebfd5f93)
 
-We will keep the community updated on the progress of Injective and their integration of the Acala Dollar. Until then, please follow both teams via any of the links below.
+Będziemy informować społeczność o postępach w Injective oraz ich integracja z Acala Dollar. Do tego czasu śledź obie drużyny, korzystając z któregokolwiek z poniższych linków.
 
 # **About Acala**
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+\[Acala\] (http://acala.network/) to zdecentralizowane centrum finansowe i stablecoin firmy Polkadot, które umożliwia szybkie i łatwe w użyciu lub budowaniu aplikacji finansowych, poprawiając efektywność handlu i oszczędzając czas. Platforma oferuje zestaw prymitywów finansowych: wielozabezpieczony stablecoin wspierany przez międzyłańcuchowe aktywa, takie jak Bitcoin, niezaufany instrument pochodny do obstawiania oraz zdecentralizowana giełda, aby uwolnić płynność i napędzać innowacje finansowe. Acala jest de facto otwartą platformą dla aplikacji finansowych do korzystania z inteligentnych kontraktów lub wbudowanych protokołów z gotowymi funkcjami cross-chain i solidnymi zabezpieczeniami.
 
-[Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+\[Discord\] (https://discord.gg/vdbFVCH) | \[Witryna internetowa\] (https://acala.network/) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-# **About Injective**
+# **** About Injective ****
 
-[Injective Protocol](https://injectiveprotocol.com/) is the first layer-2 decentralized exchange protocol that unlocks the full potential of decentralized derivatives and borderless DeFi. Injective Protocol enables fully decentralized trading without any restrictions, allowing individuals to trade on any derivative market of their choosing. Injective Protocol is backed by a prominent group of stakeholders including Pantera Capital, one of the most renowned venture capital firms in the world, and the leading cryptocurrency exchange, Binance.
+\[Injective Protocol\] (https://injectiveprotocol.com/) to pierwszy zdecentralizowany protokół wymiany warstwy 2, który odblokowuje pełny potencjał zdecentralizowanych instrumentów pochodnych i bez granic DeFi. Protokół iniekcyjny umożliwia w pełni zdecentralizowany handel bez żadnych ograniczeń, umożliwiając osobom fizycznym handel na dowolnym wybranym przez siebie rynku instrumentów pochodnych. Injective Protocol jest wspierany przez znaczącą grupę interesariuszy, w tym Pantera Capital, jedną z najbardziej renomowanych firm venture capital na świecie, oraz wiodącą giełdę kryptowalut Binance.
 
-Want to learn more about Injective? Join us via the channels below!
+Chcesz dowiedzieć się więcej o Injective? Dołącz do nas za pośrednictwem poniższych kanałów!
 
-[**All Social Links**](https://linktr.ee/injective) **|** [**Telegram**](https://t.me/joininjective) **|** [**Discord**](http://discord/) **|** [**Blog**](https://blog.injectiveprotocol.com/) **|** [**Twitter**](https://www.twitter.com/@InjectiveLabs) **|** [**Learn**](https://blog.injectiveprotocol.com/tag/learn/) **|** [**Youtube**](https://www.youtube.com/channel/UCN99m0dicoMjNmJV9mxioqQ) **|** [**Instagram**](https://www.instagram.com/injectivelabs/)
+[** Wszystkie linki społecznościowe **] (https://linktr.ee/injective) ** | ** [** Telegram **] (https://t.me/joininjective) ** | ** \[* * Discord **\] (http: // discord /) ** | ** [** Blog **] (https://blog.injectiveprotocol.com/) ** | ** [** Twitter **] ( https://www.twitter.com/@InjectiveLabs) ** | ** [** Learn **] (https://blog.injectiveprotocol.com/tag/learn/) ** | ** [** Youtube **] (https://www.youtube.com/channel/UCN99m0dicoMjNmJV9mxioqQ) ** | ** [** Instagram **] (https://www.instagram.com/injectivelabs/)
