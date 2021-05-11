@@ -1,18 +1,18 @@
 # Build Acala: Polkadot parachain testnet Rococo, współpraca z Ren, Mandala testnet mania, na The Defiant | Sierpień 2020
 
-Lipiec był miesiącem budowania ze współpracownikami ekosystemu, takimi jak [ Ren ](https://renproject.io/) i [ Laminar ](http://laminar.one/), testując sieć z dziesiątkami tysięcy nowych kont i transakcji podczas kampanii sieci testowej 3. Sezonu Mandala Festival, oraz przygotowania się do uruchomienia na parachain`owej sieci testowej Polkadot Rococo.
+Lipiec był miesiącem budowania ze współpracownikami ekosystemu, takimi jak [ Ren ](https://renproject.io/) i [ Laminar ](http://laminar.one/), testując sieć z dziesiątkami tysięcy nowych kont i transakcji podczas kampanii sieci testowej 3. Sezonu Mandala Festival, oraz przygotowań do uruchomienia na parachain`owej sieci testowej Polkadot Rococo.
 
-![Image for post](https://miro.medium.com/max/8000/1*6wJEyP0ojcA8zM3SZAPzqQ.jpeg)
+![Obraz do wpisu](https://miro.medium.com/max/8000/1*6wJEyP0ojcA8zM3SZAPzqQ.jpeg)
 
-# **Aktualizacja programowania**
+# **Aktualizacja postępów**
 
-- ** Sieć testowa parachain`u na Polkadot ** [ ** Rococo: ** została uruchomiona ](https://polkadot.network/introducing-rococo-polkadots-parachain-testnet/) na początku tego tygodnia, co stanowi znaczący krok w kierunku integracji między łańcuchami. Parachain`y, aby korzystać ze wspólnych zabezpieczeń, teraz mogą łączyć się z łańcuchem sieci przekaźnikowej (od której zależą) - Relay, a także już możliwe jest bardzo oczekiwane wysyłanie wiadomości między łańcuchami, choć jest ograniczone do poziomego przesyłania wiadomości, w którym łańcuch sieci Relay będzie używany do kierowania wiadomości między dwoma parachain`ami. Acala pracuje nad rejestracją w sieci Rococo, aby przetestować funkcjonalności.
+- ** Sieć testowa parachain`u na Polkadot ** [ ** Rococo: ** została uruchomiona ](https://polkadot.network/introducing-rococo-polkadots-parachain-testnet/) na początku tego tygodnia, co stanowi znaczący krok w kierunku integracji między łańcuchami. Parachain`y, aby korzystać ze wspólnych zabezpieczeń, teraz mogą łączyć się z łańcuchem sieci przekaźnikowej (od której zależą) - Relay, a także już jest możliwe tak bardzo oczekiwane wysyłanie wiadomości między łańcuchami, choć jest ograniczone do poziomego przesyłania wiadomości, w którym łańcuch sieci Relay będzie używany do kierowania wiadomości między dwoma parachain`ami. Acala pracuje nad rejestracją w sieci Rococo, aby przetestować funkcjonalności.
 - [** Moduł mostu RenVM **](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules) ** & Integracja renBTC: ** została wdrożona w sieci testowej Acala Mandala TC4, stanowiąc pierwszy krok w przeniesieniu renBTC do Acali i ekosystemu Polkadot. renBTC jest teraz tokenem opłat, może służyć jako zabezpieczenie linii kredytowej dla stablecoin`ów i jest notowany na Acala DeX.
-- ** Substrate RC4 **: Mandala TC4 jest teraz zaktualizowana do [ Substrate RC4 ](https://github.com/paritytech/substrate/releases/tag/v2.0.0-rc4), co umożliwia transakcje atomowe - jest to krok bliżej do gotowych do produkcji smart kontraktów i wkrótce zostanie zaktualizowana do najnowszej TC5 po zakończeniu kampanii sieci testowej.
+- ** Substrate RC4 **: Mandala TC4 jest teraz zaktualizowana do [ Substrate RC4 ](https://github.com/paritytech/substrate/releases/tag/v2.0.0-rc4), co umożliwia transakcje atomowe - jest to o krok bliżej do gotowych do produkcji smart kontraktów i wkrótce zostanie zaktualizowana do najnowszej TC5 po zakończeniu kampanii sieci testowej.
 - ** Acala Pulse **: panel analityczny służący do śledzenia statystyk sieci jest w trakcie budowy i zostanie udostępniony w przyszłym tygodniu. Użytkownicy mogą śledzić podstawy systemu - emisję aUSD, wolumen DeX i ilość DOT w płynnym staking`u, a także ryzyka systemu, likwidacje i aukcje itp.
 - ** Ćwiczenie Czarnego Czwartku & Awaryjne wyłączenie **: w przyszłym tygodniu, [ w ramach Mandala Festival ](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#week-3-black-thursday-simulation), przeprowadzimy symulację zmienności Czarnego Czwartku, przetestujemy hybrydowy mechanizm likwidacji, który obejmuje DeX i aukcje, aby skutecznie odzyskać pożyczki. Następnie wprowadzimy awaryjne zamknięcie systemu, przetworzymy wszystkie niespłacone pożyczki i poprosimy użytkowników o odzyskanie zabezpieczeń z koszyka aktywów. _ Zasady 3. tygodnia festiwalu & nagrody są _ [_ tutaj _](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#week-3-black-thursday-simulation) _._
 
-  ![Image for post](https://miro.medium.com/max/2880/1*XQbgIIFPlzwrK8L1eXdKew.jpeg)
+  ![Obraz do wpisu](https://miro.medium.com/max/2880/1*XQbgIIFPlzwrK8L1eXdKew.jpeg)
 
 # **Aktualizacja ekosystemu**
 
@@ -29,14 +29,14 @@ Lipiec był miesiącem budowania ze współpracownikami ekosystemu, takimi jak [
 
 # O Acala
 
-[ Acala ](http://acala.network/) to pierwsze w swoim rodzaju zdecentralizowane konsorcjum finansowe z wizją wprowadzenia stabilności finansowej, płynności i dostępności do głównego nurtu. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. Oferuje zestaw prymitywów finansowych: stablecoin z wieloma zabezpieczeniami wspierany przez aktywa międzyłańcuchowe, takie jak Bitcoin, niezaufany instrument pochodny do obstawiania i zdecentralizowana giełda, aby uwolnić płynność i napędzać innowacje finansowe. Jest to otwarta platforma dla dApps zorientowanych na finanse, którą można wdrożyć przy użyciu inteligentnych kontraktów lub wbudowanych protokołów z gotowymi funkcjami cross-chain, bezpieczeństwem i optymalizacjami finansowymi.
+[ Acala ](http://acala.network/) to pierwsze w swoim rodzaju zdecentralizowane konsorcjum finansowe z wizją wprowadzenia stabilności finansowej, płynności i dostępności do głównego nurtu. **Sieć Acala to między-łańcuchowe centrum finansowe dla ekosystemu Polkadot** i nie tylko. Platforma oferuje zestaw narzędzi finansowych: stablecoin z zabezpieczeniami w walorach wielu sieci (cross-chain), takich jak Bitcoin, nie wymagającą zaufania pochodną staking`u, oraz zdecentralizowaną giełdę, w celu zapewnienia płynności i wsparcia innowacji finansowych. Jest to otwarta platforma dla dApps zorientowanych na finanse, którą można wdrożyć przy użyciu inteligentnych kontraktów lub wbudowanych protokołów z gotowymi funkcjami cross-chain, bezpieczeństwem i optymalizacjami finansowymi.
 
 # Dołącz do nas
 
-\[witryna internetowa\] (https://acala.network/) | \[Medium\] (https://medium.com/acalanetwork) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Telegram\] (https://t.me/acalaofficial) | \[Riot Chat\] (https://riot.im/app/#/room/#acala:matrix.org)
+[Strona internetowa](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-Aby być na bieżąco z postępami w uruchomieniu Acali, zasubskrybuj \[Acala Newsletter\] (https: // share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Aby być na bieżąco z postępami w uruchamianiu Acali, zasubskrybuj [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
 
-![Image for post](https://miro.medium.com/max/1500/0*1KozUmtgLB7qV79q.jpeg)
+![Obraz do wpisu](https://miro.medium.com/max/1500/0*1KozUmtgLB7qV79q.jpeg)
 
-Acala jest dumnym stypendystą Web3 Foundation
+Acala jest dumnym stypendystą Fundacji Web3
