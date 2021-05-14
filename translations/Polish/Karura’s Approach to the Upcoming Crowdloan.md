@@ -1,6 +1,6 @@
-# Podejście Karura do nadchodzącej aukcji Crowdloan na Parachain na Kusama
+# Podejście Karura do nadchodzącej pożyczki publicznej "Crowdloan" i aukcji na Parachain na Kusama
 
-## Karura, siostrzana sieć Acali i DeFi centrum w sieci Kusama, wkrótce rozpocznie Crowdloan, aby zdobyć poparcie społeczności dla pierwszej aukcji parachain`ów na Kusama
+## Karura, siostrzana sieć Acali i DeFi centrum w sieci Kusama, wkrótce rozpocznie pożyczkę/zbiórkę publiczną "Crowdloan", aby zdobyć poparcie społeczności podczas pierwszej aukcji parachain`ów na Kusama
 
 ![Image for post](https://miro.medium.com/max/1600/0*1XypG_FOdz_or1ro)
 
