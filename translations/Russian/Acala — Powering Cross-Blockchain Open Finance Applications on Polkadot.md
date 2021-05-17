@@ -4,7 +4,7 @@
 
 # Представляем Acala
 
-![Image for post](https://miro.medium.com/max/1318/0*XOIAcGroNfplJBzG)
+![Изображение для публикации](https://miro.medium.com/max/1318/0*XOIAcGroNfplJBzG)
 
 Мы рады объявить о создании [Acala](https://acala.network/) - **_первого в своем роде консорциума децентрализованных финансов_**, целью которого является создание кросс-чейн инфраструктуры открытого финансирования для экосистемы Polkadot. Цель Acala - обеспечение стабильности и ликвидности в мире криптовалют. Начальным этапом является создание **_децентрализованного стейблкоина, _**построенного на Substrate, который **_можно отправлять между всеми сетями на Polkadot_**.
 
@@ -24,7 +24,7 @@ Acala основана двумя активными участниками эк
 
 Acala также гордится тем, что ее выбрали для участия в первой группе [Substrate Builder Program](http://builders.parity.io/). Программа Substrate Builders на базе Parity определяет, поддерживает и координирует текущие и потенциальные блокчейн-проекты на основе Substrate, которые создают эффективные цепи. Мы надеемся на тесное сотрудничество с командой Parity и другими разработчиками, чтобы вывести разработку протоколов, продуктов и сообщества Acala на новый уровень.
 
-![Image for post](https://miro.medium.com/max/2800/0*jtrfXlllLsc1QIgG)
+![Изображение для публикации](https://miro.medium.com/max/2800/0*jtrfXlllLsc1QIgG)
 
 # Connecting the Dots (aka Value Networks)
 
@@ -44,7 +44,7 @@ Acala также гордится тем, что ее выбрали для уч
 - даёт возможность кредитования бизнеса с предсказуемым риском
 - служит строительным блоком для более открытых финансовых услуг
 
-![Image for post](https://miro.medium.com/max/2804/1*uacwW89mPE2BtzjZ6PJZIA.png)
+![Изображение для публикации](https://miro.medium.com/max/2804/1*uacwW89mPE2BtzjZ6PJZIA.png)
 
 ACALA стейблкоин, он же  aUSD, привязан к доллару США в соотношении 1:1. По сути, пользователи берут ссуду в долларах США, блокируя выбранные ценные криптоактивы, например, DOT, BTC или ETH в качестве залога. Пользователи должны будут платить проценты, чтобы поддерживать этот заем. Протоколы Honzon содержат набор механизмов для поддержания стабильности и управления рисками, связанными с колебаниями цен на базовый залоговый актив.
 
@@ -58,34 +58,34 @@ ACALA стейблкоин, он же  aUSD, привязан к доллару 
 
 В этой статье больше внимания будет уделено продукту стейблкоин, и дополнительная информация будет выпущена позже по мере нашего продвижения.
 
-# Acala Stablecoin
+# Стейблкоин Acala
 
-Existing stablecoins and crypto-assets are limited by their underlying blockchains in general, while isolation of the ledgers leads to isolation of the corresponding assets, limiting their usage and adoption. A common challenge for the existing stablecoin systems is that crypto-assets that can be used as collaterals are restrained to the type of assets available on the particular blockchain that the stablecoin system is launched on, which caps the total debt ceiling and stablecoin supply. In addition, it is counter-intuitive for non-crypto mainstream users to transfer one currency while paying blockchain gas fees in another.
+Существующие стейблкоины и криптоактивы в целом ограничены лежащими в их основе блокчейнами, в то время как изоляция реестров приводит к изоляции соответствующих активов, ограничивая их использование и принятие. Общей проблемой для существующих систем стейблкоинов является то, что криптоактивы, которые могут использоваться в качестве обеспечения, ограничены типом активов, доступных в конкретной цепи блоков, на которой запущена система стейблкоинов, что ограничивает общий потолок долга и предложение стейблкоинов. Кроме того, для обычных пользователей, не использующих криптовалюту, нелогично переводить одну валюту, одновременно оплачивая сборы за газ блокчейна в другой.
 
-Acala Stablecoin Network is built on Substrate and to be connected to the Polkadot network, that it will be interoperable with all networks in the ecosystem and beyond.
+Сеть стейблкоина Acala построена на Substrate и должна быть подключена к сети Polkadot, чтобы она могла взаимодействовать со всеми сетями в экосистеме и за ее пределами.
 
-- **Multi-collateral backed**: collaterals can be both native Polkadot assets like DOT and beyond, such as popular crypto-assets like BTC and ETH, which can be bridged into the Polkadot network and used as collaterals to achieve higher supply ceiling.
-- **Cross-chain capability**: stablecoin powered by Acala Network can be transferred to all chains in the network.
-- **Secured**: Acala Network will be secured by the Polkadot’s shared security model.
-- **Community-owned**: Acala network participants will gradually govern and share earnings of the network collectively, achieving true decentralization and censorship resistance ultimately.
-- **Specialized Stablecoin Chain**: Acala Network will be able to customize its fee schedule, for instance, free transfer of the balance that would enhance usability hugely while maintaining network security.
-- **Future Proof**: Acala Network is built on Substrate, that it is truly resilient, and able to adapt and upgrade itself without forking.
+- **Мультизалоговое обеспечение**: обеспечение может быть как собственными активами Polkadot, такими как DOT, так и другими, например, популярными криптоактивами, такиими как BTC и ETH, которые могут быть объединены в сеть Polkadot и использоваться в качестве залога для достижения более предельных высот.
+- **Возможность кросс-чейнов**: стейблкоин на базе Acala Network может быть отправлен во все чейны в сети.
+- **Защищенность**: сеть Acala будет защищена общей моделью безопасности Polkadot.
+- **Принадлежность сообществу**: участники сети Acala будут постепенно управлять и совместно распределять доходы сети, в конечном итоге достигая истинной децентрализации и сопротивления цензуре.
+- **Специализированная цепь стейблкоинов**: сеть Acala сможет настраивать график платежей, например, бесплатный перевод баланса, что значительно повысит удобство использования при сохранении сетевой безопасности.
+- **Перспективы**: Сеть Acala построена на Substrate, что делает ее действительно устойчивой и способной адаптироваться и обновляться без разветвления.
 
-![Image for post](https://miro.medium.com/max/3780/0*7Zh3WtIP0uGzKFDa)
+![Изображение для публикации](https://miro.medium.com/max/3780/0*7Zh3WtIP0uGzKFDa)
 
-The next article will explain more details of the protocol and the economic model powering the sustainability of the network, stay tuned.
+В следующей статье будут описаны более подробные сведения о протоколе и экономической модели, обеспечивающей устойчивость сети. Следите за обновлениями.
 
-# Roadmap
+# Дорожная карта
 
-![Image for post](https://miro.medium.com/max/3032/0*tq5FUjuXLrEEFbuS)
+![Изображение для публикации](https://miro.medium.com/max/3032/0*tq5FUjuXLrEEFbuS)
 
-# Build a DeFi Future with Acala
+# Постройте будущее DeFi с Acala
 
-There will be various ways that you can participate in the upcoming Kusama-like Acala Testnet and Acala Mainnet, stay tuned for updates on some fun & juicy reward schemes, our initial parachain offering plan, and much more.
+Вы сможете по-разному участвовать в грядущей тестовой сети Acala, подобной Kusama, и основной сети Acala, следите за обновлениями, чтобы узнать об интересных и сочных схемах вознаграждений, наш первоначальный план предложения парачейнов и многое другое.
 
-We are also broadening the membership of the Acala consortium for ecosystem partners and industry participants, and look forward to building a truly decentralized finance future together.
+Мы также расширяем членство в консорциуме Acala для партнеров по экосистеме и участников отрасли и надеемся вместе построить действительно децентрализованное финансовое будущее.
 
-Follow us on
+Присоединяйтесь к нам:
 
 Website: [https://acala.network](https://acala.network/)  
 Twitter：[https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
@@ -93,30 +93,30 @@ Medium ：[https://medium.com/acalanetwork](https://medium.com/acalanetwork)
 GitHub：[https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Email: [hello@acala.network](http://hello@acala.network)
 
-# About Web3 Foundation
+# О Web3 Foundation
 
-Established in Zug, Switzerland by Ethereum co-founder and Chief Technology Officer Dr. Gavin Wood, Web3 Foundation funds research and development teams building the stack of technologies behind the decentralized web.
+Основанный в Цуге, Швейцария, соучредителем Ethereum и главным техническим директором доктором Гэвином Вудом, Web3 Foundation финансирует группы исследований и разработок, создающие стек технологий, лежащих в основе децентрализованной сети.
 
-For more information on Web3 Foundation, visit [web3.foundation](https://web3.foundation/).
+Для получения дополнительной информации о Web3 Foundation посетите [web3.foundation](https://web3.foundation/).
 
-# About Polkadot
+# О Polkadot
 
-Polkadot is the first interoperability protocol that enables blockchain networks to work together under the protection of shared security.
+Polkadot - это первый протокол взаимодействия, который позволяет блокчейн-сетям всех видов работать вместе под защитой общей безопасности.
 
-By parallelizing transactions, Polkadot solves major scalability issues that have thus far hampered blockchain development. Polkadot also introduces a highly advanced, open governance system that will allow the network to innovate and grow at a much more rapid pace than legacy networks. Applications from decentralized finance and energy to gaming and communications will thrive on Polkadot, forming the basis of digital jurisdictions in Web 3.0. Polkadot is the first project spearheaded by Web3 Foundation.
+Распараллеливая транзакции, Polkadot решает основные проблемы масштабируемости, которые до сих пор препятствовали развитию блокчейнов. Polkadot также представляет высокоразвитую открытую систему управления, которая позволит сети внедрять инновации и расти гораздо более быстрыми темпами, чем это смогут делать прежние сети. Приложения от децентрализованных финансов и энергетики до игр и коммуникаций будут процветать на Polkadot, составляя основу цифровых юрисдикций в Web 3.0. Polkadot - первый проект, возглавляемый Web3 Foundation.
 
-For more information on Polkadot, visit [polkadot.network](https://polkadot.network/).
+Для получения дополнительной информации о Polkadot, посетите [polkadot.network](https://polkadot.network/).
 
-# About Laminar
+# О Laminar
 
-Laminar is a financial institute backed decentralized finance protocol company. Laminar’s Flow Protocols bring both synthetic assets and margin trading on the blockchain. It helps to solve the challenges of opaque pricing and price manipulation in the current financial markets, bridges on- and off-chain parties, and ultimately boosts on-chain trading liquidity, exposure, and variety. Laminar is a Web3 grant recipient and ecosystem contributor. It will contribute financial and risk management expertise to the Acala project, as well as providing initial demand for the aUSD stablecoins.
+Laminar - это компания по протоколу децентрализованного финансирования, поддерживаемая финансовым институтом. Laminar’s Flow-протоколы позволяют использовать как синтетические активы, так и маржинальную торговлю на блокчейне. Это помогает решить проблемы непрозрачного ценообразования и манипулирования ценами на текущих финансовых рынках, объединяет участников внутри и вне сети и, в конечном итоге, повышает ликвидность, открытость и разнообразие ончейн-торговли. Laminar - получатель гранта Web3 и участник экосистемы. Он внесет свой вклад в проект Acala в области финансов и управления рисками, а также обеспечит начальный спрос на стейблкоины aUSD.
 
 Website: [https://www.laminar.one/](https://www.laminar.one/)  
 Twitter: [https://twitter.com/LaminarProtocol](https://twitter.com/LaminarProtocol)
 
-# About Polkawallet
+# О Polkawallet
 
-Polkawallet is a mobile wallet that empowers users to on-board the Polkadot ecosystem. Built by early-adoptors and advocates of Substrate and Polkadot, Polkawallet is also a Web3 grant recipient and ecosystem contributor. Polkawallet will provide consumer-focused services for the Acala project, from initial user demand for the aUSD stablecoins to CDP creation.
+Polkawallet - это мобильный кошелек, который позволяет пользователям подключаться к экосистеме Polkadot. Созданный ранними последователями и сторонниками Substrate и Polkadot, Polkawallet также является получателем гранта Web3 и участником экосистемы. Polkawallet будет предоставлять ориентированные на потребителя услуги для проекта Acala: от первоначального пользовательского спроса на стейблкоины aUSD - до создания CDP.
 
 Website: [https://polkawallet.io/](https://polkawallet.io/)  
 Twitter: [https://twitter.com/polkawallet](https://twitter.com/polkawallet)
