@@ -50,13 +50,13 @@ ACALA стейблкоин, он же  aUSD, привязан к доллару 
 
 ## Homa — The Tokenized Staking Liquidity Protocol
 
-The second protocol Homa for tokenized staking liquidity — to alleviate the challenge of opportunity cost of using staking assets other than staking, and risking network security if returns are higher in other applications such as DeFi. The Homa Protocol establishes a staking pool tokenizing users’ staked assets (e.g. L-DOT as locked DOT) that will
+Второй протокол Homa для токенизированной ликвидности для стекинга - для облегчения проблемы альтернативных издержек использования активов для стекинга, отличных от стекинга, и риска сетевой безопасности, если доходность выше в других приложениях, таких как DeFi. Протокол Homa устанавливает пул ставок, токенизируя стекинг-активы пользователей (например, L-DOT как заблокированный DOT), который будет:
 
-- provide liquidity for staked assets (which would otherwise be locked without further use)
-- enable future markets of the staked assets
-- be tradable and liquid cross all chains on the Polkadot network.
+- обеспечить ликвидность для поставленных активов (которые, в противном случае, были бы заблокированы без дальнейшего использования)
+- включение будущих рынков застеканных активов
+- быть торгуемым и ликвидным во всех цепях сети Polkadot.
 
-This article will focus more on the stablecoin product, and more information will be released later as we progress.
+В этой статье больше внимания будет уделено продукту стейблкоин, и дополнительная информация будет выпущена позже по мере нашего продвижения.
 
 # Acala Stablecoin
 
