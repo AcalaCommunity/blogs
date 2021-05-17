@@ -28,25 +28,25 @@ Acala также гордится тем, что ее выбрали для уч
 
 # Connecting the Dots (aka Value Networks)
 
-Значение межсетевого взаимодействия для блокчейна аналогично значению Интернета для интрасети. Polkadot позволяет сети блокчейнов взаимодействовать с **_истинной совместимостью, экономической и транзакционной масштабируемостью_**. В настоящее время ценные сети, а именно Bitcoin, Ethereum и другие общедоступные корпоративные сети консорциума, работают в основном изолированно. Таким образом, они далеки от полной реализации своего потенциала. Общая модель безопасности Polkadot и кросс-блокчейн коммуникация, охватывающая обмен информацией и ценностями, неизбежно приведут к появлению **_более справедливых одноранговых цифровых юрисдикций и автономных экономик_**. This creates the basis for truly open finance — that leans more **towards public good than siloed private infrastructure** — that many have envisioned but never had the means to realize.
+Значение межсетевого взаимодействия для блокчейна аналогично значению Интернета для интрасети. Polkadot позволяет сети блокчейнов взаимодействовать с **_истинной совместимостью, экономической и транзакционной масштабируемостью_**. В настоящее время ценные сети, а именно Bitcoin, Ethereum и другие общедоступные корпоративные сети консорциума, работают в основном изолированно. Таким образом, они далеки от полной реализации своего потенциала. Общая модель безопасности Polkadot и кросс-блокчейн коммуникация, охватывающая обмен информацией и ценностями, неизбежно приведут к появлению **_более справедливых одноранговых цифровых юрисдикций и автономных экономик_**. Это создает основу для действительно открытых финансов - которое больше **ориентировано на общественное благо, чем на разрозненную частную инфраструктуру**, - что многие предполагали, но никогда не имели средств реализовать.
 
-When we look at an organization, **_it is the people in it that manifest the culture and values_**. When we look at a blockchain network, which intrinsically is a social construct, it is the community and participants who make the network come to life. **_Polkadot is a community of builders_**. Just to name a few this community includes: [Parity](https://www.parity.io/), a long-term builder in the Ethereum community and now Polkadot’s lead development team; [ChainX](https://chainx.org/), the asset gateway bridging and integrating assets from other blockchains such as BTC, ETH, EOS, etc to the Polkadot ecosystem; [Plasm network](https://medium.com/stake-technologies/plasm-testnet-launch-90d7e58328b3), a platform to build scalable decentralized applications; [Laminar](https://www.laminar.one/), a synthetic asset, and margin trading platform to bridge on-and-off chain liquidity; [Polkawallet](https://polkawallet.io/), one of the first mobile wallets in the Polkadot ecosystem; [Polymath](https://blog.polymath.network/polymesh-leveraging-the-substrate-framework-ede8a77c6019), a compliant security token platform will build out a new base layer blockchain on Substrate, and [Chainlink](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a), an open-source oracle system will also contribute to Polkadot, making much of off-chain data feeds, and various APIs available to all chains on the Polkadot network.
+Когда мы смотрим на организацию, **_именно люди в ней проявляют культуру и ценности_**. Когда мы смотрим на сеть блокчейнов, которая по сути является социальной конструкцией, именно сообщество и участники заставляют сеть быть живой. **_Polkadot — сообщество строителей_**. Вот лишь некоторые из имён, которые входят в состав этого сообщества: [Parity](https://www.parity.io/), давний разработчик в сообществе Ethereum, а теперь ведущая команда разработчиков Polkadot; [ChainX](https://chainx.org/), шлюз активов, соединяющий и интегрирующий активы из других блокчейнов, таких как BTC, ETH, EOS и т. д., В экосистему Polkadot; [Plasm network](https://medium.com/stake-technologies/plasm-testnet-launch-90d7e58328b3), платформа для создания масштабируемых децентрализованных приложений; [Laminar](https://www.laminar.one/), синтетический актив и платформа для маржинальной торговли для обеспечения непрерывной ликвидности цепи; [Polkawallet](https://polkawallet.io/), один из первых мобильных кошельков в экосистеме Polkadot; [Polymath](https://blog.polymath.network/polymesh-leveraging-the-substrate-framework-ede8a77c6019), совместимая платформа токенов безопасности, построит новый блокчейн базового уровня на Substrate, а [Chainlink](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a), система оракулов с открытым исходным кодом, также внесет свой вклад в Polkadot, делая большую часть каналов данных вне сети и различные API-интерфейсы, доступные для всех цепей в сети Polkadot.
 
-# Acala Protocols
+# Протоколы Acala
 
-The first two protocols in Acala’s portfolio that are now under construction would serve as the stepping stones towards stability and liquidity as the foundation for a freer and more open finance future for the masses.
+Первые два протокола в портфеле Acala, которые сейчас находятся в стадии разработки, послужат ступенями к стабильности и ликвидности, как основы для более свободного и более открытого финансового будущего для масс.
 
-## Honzon — The Stablecoin Protocol
+## Honzon — Стейблкоин-протокол
 
-The first is a decentralized cross-chain capable multi-collateralized stablecoin powered by the Honzon Protocol, a cross-chain stablecoin system that will:
+Первый протокол - это децентрализованный стейблкоин с множественным обеспечением, поддерживающий кросс-чейн, работающий на основе протокола Honzon, кросс-чейн системы стейблкоинов, который:
 
-- create a sound, stable currency for low cost, borderless value transfer for all chains in the network
-- enable business lending with predictable risk
-- serve as a building block for more open finance services
+- создаёт надежную, стабильную валюту для недорогой и безграничной передачи стоимости для всех цепей в сети
+- даёт возможность кредитования бизнеса с предсказуемым риском
+- служит строительным блоком для более открытых финансовых услуг
 
 ![Image for post](https://miro.medium.com/max/2804/1*uacwW89mPE2BtzjZ6PJZIA.png)
 
-The ACALA stablecoin, a.k.a. aUSD, is pegged to USD at 1:1 ratio. Essentially users would take out a loan of aUSD by locking selected valuable crypto assets e.g. DOT, BTC or ETH as collateral. Users would need to pay interests to maintain this loan. The Honzon protocols have a set of mechanisms to maintain stability and manage risks from price fluctuation of the underlying collateral asset.
+ACALA стейблкоин, он же  aUSD, привязан к доллару США в соотношении 1:1. По сути, пользователи берут ссуду в долларах США, блокируя выбранные ценные криптоактивы, например, DOT, BTC или ETH в качестве залога. Пользователи должны будут платить проценты, чтобы поддерживать этот заем. Протоколы Honzon содержат набор механизмов для поддержания стабильности и управления рисками, связанными с колебаниями цен на базовый залоговый актив.
 
 ## Homa — The Tokenized Staking Liquidity Protocol
 
