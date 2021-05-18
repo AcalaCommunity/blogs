@@ -1,4 +1,4 @@
-# Acala Ecosystem Update — April 2021
+# Обновление экосистемы Acala — Апрель 2021
 
 ![](https://miro.medium.com/max/1600/1*XOEVr_D6cvZjXJpD19P1bQ.png)
 
