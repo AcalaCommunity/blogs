@@ -34,25 +34,25 @@ Acala Foundationは、Polkadotネットワーク上のオープンファイナ�
 
 この問題と潜在的な解決策に関する議論は、[Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83)と[a recent AMA｜Acala Network: PoS時代のクロスチェーン・ファイナンス](https://polkabase.com/blog/1217) をお読みください。
 
-# Acala Mandala フェスティバル 🎉
+# Acala Mandala Festival 🎉
 
 ![投稿画像](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
 Mandala Test Networkは、[Acalaの3部作ネットワーク](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946)の最初のものです。 Acalaの機能を誰もがリスクなく試せる、カオスな遊び場です。
 
-- borrow stablecoin aUSD with test DOT and BTC as collaterals
-- built-in decentralized exchange
-- functioning auction systems and oracle services
+- テスト用のDOTとBTCを担保にステーブルコインaUSDを借りる
+- 組み込み型の分散型取引所
+- オークションシステムやオラクルサービス
 
-We hosted [a Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) to celebrate and reward supporters and festival-goers. Now three weeks have passed, and we are near the end of it. It’s been both fascinating and rewarding to see so much participation and prize-giving:
+私たちは [Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) を開催し、サポーターやフェスティバル参加者に報酬を与えました。 現在既に三週間が経過し、私たちはその終盤近くに存在しています。 多くの参加機会と賞品は、非常に魅力的であり、やりがいを生じさせます。
 
-- 260+ nodes running across 24 cities (2nd on [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet) as of 27th March)
-- 350+ users with meaningful transaction qualified for lucky draws
-- 20+ quality articles submitted
+- 24都市で260以上のノードが稼働（3月27日現在 [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet)で2位）
+- 350人以上のユーザーがトランザクションを実行しラッキードロー対象に
+- 20以上の高品質の記事が提出
 
-Check out the prize board [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Coding challenge and bug bounties will go on🚀, what are you waiting for?!
+賞金ボード [はこちら](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards) をご覧ください。 コーディングチャレンジとバグバウンティは次のとおりです🚀
 
-# Stay Updated with Acala
+# Acalaの最新情報を受け取る
 
 Website: [https://acala.network](https://acala.network/)  
 Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
@@ -60,10 +60,10 @@ Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
 
-# About Acala
+# Acalaについて
 
-[Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. The Acala Network is a dual-protocol network, with a decentralized cross-chain capable multi-collateralized stablecoin protocol — Honzon, and a trust-less tokenized staking liquidity protocol — Homa. Acala aims to bring stability and liquidity to the crypto world and beyond.
+[Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. Acala Networkは、分散型クロスチェーン対応のマルチ担保型ステーブルコインプロトコルを備えたデュアルプロトコルネットワーク — Honzon. 信頼のないトークン化された投資流動性プロトコル — Homa からなるプロジェクトです Acalaは、暗号分野に安定性と流動性をもたらすことを目指しています。
 
-The Acala Stablecoin Project is proudly supported by the [Web3 Foundation](https://web3.foundation/)
+Acala ステーブルコインプロジェトは [Web3 Foundation](https://web3.foundation/) によりサポートされています
 
-![Image for post](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
+![投稿画像](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
