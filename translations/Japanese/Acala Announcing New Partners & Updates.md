@@ -19,18 +19,18 @@ Acala Foundationは、Polkadotネットワーク上のオープンファイナ�
 - Acalaメインネット (プレーンネットワーク) をローンチし、Polkadotの準備ができ次第、パラチェーンオークションに参加します。
 - 次の段階として、ネットワークの安定稼働が確認でき次第、ステーブルコインを有効化します。
 
-Check out our revamped website [acala.network](https://acala.network/) for more details.
+改訂されたウェブサイト [acala.network](https://acala.network/) をご覧ください。
 
-![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
+![投稿画像](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
-## Responding to Recent DeFi Black Swan Event
+## DeFi Black Swan イベントへの対応
 
-Recent DeFi Black Swan event specifically re [MakerDAO multi-million dollar incident](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) has brought several network and market structural issues to light — some are known but unsolvable at the protocol level, some are ignored or overlooked. Nevertheless, there are invaluable lessons learned from Acala’s perspective:
+最近の DeFi Black Swan イベント、特に [MakerDAOによる数百万ドル規模の事件](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) では、ネットワークや市場の構造的な問題がいくつか明るみに出ました。既知の問題であってもプロトコルレベルで解決できないものもあれば、無視されたり見過ごされたりしていたものも存在します。 その様な中からでも、Acalaの観点から学んだ非常に貴重な教訓がそこにはありました。
 
-- **Network congestion**: Polkadot’s sharded design with minimum 200 TPS aside, with Substrate, Acala is designing Quality of Service type transaction classification to prioritize critical transactions e.g. oracle operations, to effectively counter this issue.
-- **Vulnerability in the liquidation process**: An automated on-chain liquidator/keeper (made possible by Substrate) aside, Acala is also designing a hybrid mechanism with a built-in DeX supplementing collateral auctions to ensure robustness, liquidity and optimal pricing.
-- **Capital reserve**: Acala is designing a triple capital reserve system to protect the value of the network — a foreign crypto reserve (via the [decentralized Sovereign Wealth Fund](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)) as an emergency fund, a built-in DeX that attracts liquidity as a passive reservoir, and ACA auction as last resort.
-- In principle, a system or protocol should strive for decentralization to continuously lean towards **more truth and less trust**. However when trust is still required (some components are still not fully decentralized and automated), no less effort, capital, regulation, and insurance is required to counter the risks than what the centralized finance world is doing today — and that’s the price we pay for trust.
+- **ネットワークの混雑について** Polkadotのシャード設計では最低200TPSが想定されていますが、Substrateを使用したAcalaにおいては、この問題に効果的に対処するために、オラクル操作などの重要なトランザクションを優先させるQuality of Serviceタイプのトランザクション分類を設計しています。
+- **清算プロセスにおける脆弱性** Acalaは堅牢性や流動性、最適な価格設定を確保する為に、担保オークションを補完するビルトインDeXを備えたハイブリッドメカニズムを実装しています。
+- **資本準備金** Acalaは、ネットワークの価値を確保するために、3つの資本準備システムを設計しています。緊急資金としての暗号資産の準備金（[分散型Sovereign Wealth Fund](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)経由）、パッシブ・リザーバーとしての流動性集約型DeX、そして最後の手段としてのACAオークションです。
+- 原則としてシステムやプロトコルは、**more truth and less trust**を継続的に維持する様に分散化に努めるべきであると考えます。 However when trust is still required (some components are still not fully decentralized and automated), no less effort, capital, regulation, and insurance is required to counter the risks than what the centralized finance world is doing today — and that’s the price we pay for trust.
 
 Read more discussions on the issues and potential solutions in [Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) and [a recent AMA | Acala Network: Cross-Chain Finance in PoS Era](https://polkabase.com/blog/1217).
 
