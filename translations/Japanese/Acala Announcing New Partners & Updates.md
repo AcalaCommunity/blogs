@@ -30,15 +30,15 @@ Acala Foundationは、Polkadotネットワーク上のオープンファイナ�
 - **ネットワークの混雑について** Polkadotのシャード設計では最低200TPSが想定されていますが、Substrateを使用したAcalaにおいては、この問題に効果的に対処するために、オラクル操作などの重要なトランザクションを優先させるQuality of Serviceタイプのトランザクション分類を設計しています。
 - **清算プロセスにおける脆弱性** Acalaは堅牢性や流動性、最適な価格設定を確保する為に、担保オークションを補完するビルトインDeXを備えたハイブリッドメカニズムを実装しています。
 - **資本準備金** Acalaは、ネットワークの価値を確保するために、3つの資本準備システムを設計しています。緊急資金としての暗号資産の準備金（[分散型Sovereign Wealth Fund](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)経由）、パッシブ・リザーバーとしての流動性集約型DeX、そして最後の手段としてのACAオークションです。
-- 原則としてシステムやプロトコルは、**more truth and less trust**を継続的に維持する様に分散化に努めるべきであると考えます。 However when trust is still required (some components are still not fully decentralized and automated), no less effort, capital, regulation, and insurance is required to counter the risks than what the centralized finance world is doing today — and that’s the price we pay for trust.
+- 原則としてシステムやプロトコルは、**more truth and less trust**を継続的に維持する様に分散化に努めるべきであると考えます。 しかしながら、信頼が必要な場合（一部のコンポーネントはまだ完全には分散化・自動化されていません）にリスクに対抗するためには、中央集権的な現在の金融企業に劣らない努力、資本、規制、保険が必要となります。
 
-Read more discussions on the issues and potential solutions in [Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83) and [a recent AMA | Acala Network: Cross-Chain Finance in PoS Era](https://polkabase.com/blog/1217).
+この問題と潜在的な解決策に関する議論は、[Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83)と[a recent AMA｜Acala Network: PoS時代のクロスチェーン・ファイナンス](https://polkabase.com/blog/1217) をお読みください。
 
-# Acala Mandala Festival 🎉
+# Acala Mandala フェスティバル 🎉
 
-![Image for post](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
+![投稿画像](https://miro.medium.com/max/1198/1*8SoYawu6H1fqnlEWmo5xsg.gif)
 
-Mandala Test Network is the first in [Acala’s trilogy networks](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946). It’s a value-free but chaotic playground for everyone to test drive functionalities of Acala:
+Mandala Test Networkは、[Acalaの3部作ネットワーク](https://medium.com/acalanetwork/announcing-the-acala-mandala-testnet-proof-of-liveness-partners-and-ecosystem-projects-3863f02df946)の最初のものです。 Acalaの機能を誰もがリスクなく試せる、カオスな遊び場です。
 
 - borrow stablecoin aUSD with test DOT and BTC as collaterals
 - built-in decentralized exchange
