@@ -1,8 +1,8 @@
-# Acala Launches the 1st Parachain on Polkadot Testnet
+# AcalaはPolkadot Testnetで最初のパラチェーンをローンチします
 
-![Image for post](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
+![投稿画像](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
 
-We’ve reached a significant milestone towards launching Acala as parachain on Polkadot — we launched Acala Mandala PC1 (Parachain Candidate 1) testnet as the first parachain on [Rococo — Polkadot’s parachain testnet](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56).
+AcalaをPolkadotのパラチェーンとしてローンチする為の重要なマイルストーンに到達しました。[Rococo - Polkadotのパラチェーンテストネット](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56)の最初のパラチェーンとしてAcala Mandala PC1 (Parachain Candidate 1) テストネットをローンチしました。
 
 Rococo enables parachain consensus and shared security via [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus), as well as cross-chain communication via HRMP (Horizontal Relay-chain Message Passing). HRMP requires cross-chain messages being routed via Relay-chains, as a stepping stone towards direct parachain to parachain communication via [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) later on.
 
