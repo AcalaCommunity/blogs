@@ -1,23 +1,23 @@
-# Acala Announcing New Partners & Updates
+# Acalaが新たなパートナー & アップデートを発表
 
 By [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c--------------------------------)
 
-![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
+![投稿画像](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
-# New Partners
+# 新たなパートナー
 
-Acala Foundation is pleased to announce new partners joining the effort in building a cross-blockchain decentralized stablecoin and staking liquidity platform to power open finance applications on the Polkadot network. We believe these partners — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — are our long term allies in our quest in building a sustainable, resilient and solid open finance infrastructure.
+Acala Foundationは、Polkadotネットワーク上のオープンファイナンスアプリケーションを強化する為の、クロスチェーンの分散型ステーブルコインとステーキングの流動性プラットフォームの構築に参加する新しいパートナーを発表します。 私たちはこれらのパートナー - [Polychain](https://polychain.capital/)、[Hashkey](https://www.hashkey.com/)、[P2P Capital](https://www.p2pcap.com/)、[KR1](https://www.kryptonite1.co/)、[SNZ](https://snzholding.com/)、[Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/)、[Hypersphere Ventures](https://www.hypersphere.ventures/)、[Web3.Capital](https://web3.capital/)、[Stake. Zone](http://stake.zone/)、[Goodmore Capital](http://goodmore.capital/)、[Digital Renaissance](https://drf.ee/)と共に持続可能で回復力のある強固なオープン・ファイナンス・インフラを構築していきます。
 
-# Updates
+# 更新
 
-## Roadmap & Website Revamped
+## ロードマップ & ウェブサイト更新
 
-We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
+私たちは、ParityやPolkadotのエンジニアと緊密に連携して、パラチェーンの準備とPolkadotのメインネットローンチに合わせて、ロードマップを常時更新しており、その中のいくつかをご紹介致します。
 
-- Launch Acala Karura canary network as soon as Kusama parachain bonding is ready
-- We are starting security audits for the Acala Network
-- Launch Acala mainnet (a plain network) and participate in parachain auction as soon as Polkadot is ready
-- Then enable stablecoin and other features once the network runs steadily
+- Kusamaパラチェーンの準備が整い次第、Acara・Karuraのカナリアネットワークをローンチします。
+- Acalaのセキュリティ監査を開始します。
+- Acalaメインネット (プレーンネットワーク) をローンチし、Polkadotの準備ができ次第、パラチェーンオークションに参加します。
+- 次の段階として、ネットワークの安定稼働が確認でき次第、ステーブルコインを有効化します。
 
 Check out our revamped website [acala.network](https://acala.network/) for more details.
 
