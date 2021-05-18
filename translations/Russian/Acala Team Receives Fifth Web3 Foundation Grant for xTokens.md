@@ -1,6 +1,6 @@
-# Acala Team Receives Fifth Web3 Foundation Grant for ‘xTokens,’ Providing Cross-Consensus Messaging for Fungible Assets on All Polkadot and Kusama Parachains
+# Команда Acala получила пятый грант Фонда Web3 на «xTokens», предоставляющий кросс-консенсусный обмен сообщениями для взаимозаменяемых активов на всех парачейнах Polkadot и Kusama
 
-## Acala‘s xTokens grant follows the team’s previously awarded grants for the aUSD stablecoin, Acala EVM, LaminarChain, and Reusable Libraries
+## Грант xTokens для Acala следует за ранее полученными грантами команды на стейблкоин aUSD, Acala EVM, LaminarChain и Reusable Libraries
 
 ![](https://miro.medium.com/max/4800/1*1RNGH-rpbzPNkHjwrez7-g.png)
 
