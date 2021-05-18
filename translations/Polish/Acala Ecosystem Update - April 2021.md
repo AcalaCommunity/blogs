@@ -1,8 +1,8 @@
-# Aktualizacje ekosystemu Acala - kwiecień 2021
+# Aktualizacja Ekosystemu Acala - Kwiecień 2021
 
 ![](https://miro.medium.com/max/1600/1*XOEVr_D6cvZjXJpD19P1bQ.png)
 
-Kwiecień był miesiącem podkreślonym przez kilka kluczowych wydarzeń, które pomogą ukształtować kierunek zarówno sieci Acala, jak i Karura - w szczególności nasz grant z Compound Grants, nasza integracja z Chainlink oracles i nasza współpraca z Gauntlet. Ukończyliśmy również nasze pierwsze wydarzenie Build Acala, które było wydarzeniem zorientowanym na społeczność, mającym na celu rozpoczęcie bootstrapowania Acala Treasury. Na koniec nasz zespół był w kryptosferze, rozmawiając o Acali, Karurze, Polkadot, Kusamie, pożyczkach społecznościowych i nie tylko, więc obejrzyj poniższe filmy.
+Kwiecień był miesiącem w którym zwrócono uwagę na kilka kluczowych wydarzeń, które pomogą w kształtowaniu kierunku rozwoju zarówno sieci Acala, jak i Karura - zwłaszcza uzyskanie dotacji z "Compound Grants", integracja z Chainlink oracles oraz partnerstwo z Gauntlet. Ukończyliśmy również nasze pierwsze wydarzenie Build Acala, które było wydarzeniem zorientowanym na społeczność, mającym na celu rozpoczęcie bootstrapowania Acala Treasury. Na koniec nasz zespół był w kryptosferze, rozmawiając o Acali, Karurze, Polkadot, Kusamie, pożyczkach społecznościowych i nie tylko, więc obejrzyj poniższe filmy.
 
 ## **** Acala otrzymuje dotację do Starport ****
 
