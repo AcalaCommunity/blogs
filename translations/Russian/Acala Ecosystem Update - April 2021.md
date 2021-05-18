@@ -2,7 +2,7 @@
 
 ![](https://miro.medium.com/max/1600/1*XOEVr_D6cvZjXJpD19P1bQ.png)
 
-April was a month highlighted by a few key events that will help shape the direction of both Acala and Karura’s networks — most notably our grant from Compound Grants, our integration with Chainlink oracles, and our partnership with Gauntlet. We also completed our first Build Acala event, which was a community-oriented event to begin bootstrapping the Acala Treasury. Last, our team was out in the cryptosphere talking about Acala, Karura, Polkadot, Kusama, crowdloans, and more, so check out those videos below.
+Апрель стал месяцем, ознаменованным несколькими ключевыми событиями, которые помогут сформировать направление сетей как Acala, так и Karura - в первую очередь, нашего гранта от Compound Grants, нашей интеграции с оракулами Chainlink и нашего партнерства с Gauntlet. We also completed our first Build Acala event, which was a community-oriented event to begin bootstrapping the Acala Treasury. Last, our team was out in the cryptosphere talking about Acala, Karura, Polkadot, Kusama, crowdloans, and more, so check out those videos below.
 
 ## **Acala Receives Compound Grant for Starport**
 
