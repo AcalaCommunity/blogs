@@ -44,7 +44,7 @@ Acala クロスチェーンDeFiの詳細は[こちら](https://github.com/AcalaN
 
 **ここでは、特典プールや期間などの詳細を図にしてみました。**
 
-![Image for post](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
+![投稿画像](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
 
 # はじめよう
 
@@ -64,7 +64,7 @@ Acala クロスチェーンDeFiの詳細は[こちら](https://github.com/AcalaN
 - 資格を持つ全ユーザーが報酬プールを共有します
 - 全ての報酬は記録され、公開されます
 
-![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
+![投稿画像](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
 **参加ルール：**
 
@@ -77,94 +77,94 @@ Acala クロスチェーンDeFiの詳細は[こちら](https://github.com/AcalaN
 - DEXを使用して流動性を提供する
 - Honzon ステーブルコインを使用しaUSDを担保化
 - Homaプロトコルを使用して、ステーキングデリバティブLDOTを取得
-- Transfer aUSD to Laminar Chain, and use it either for synthetic asset, or margin trading
-- Mint renBTC and use it in above activities
-- Participate in auctions of system
+- aUSDをLaminar Chainに転送し合成資産または証拠金取引のいずれかに使用
+- renBTCをミントして上記のタスクに使用
+- システムのオークションへの参加
 
-## Week 2 Trading Competition
+## 第2週目：トレーディングコンテスト
 
-**Duration**: 03-August-2020 to 10-August-2020 (one week)  
-**Award Pool**: 5,000 ACA + 5,000 KAR
+**期間**：2020年8月3日から2020年8月10日（1週間）  
+。 **賞金プール**：5,000 ACA + 5,000 KAR
 
-- Top 10 qualified traders will share the reward pool
-- All rewards will be recorded and published
+- トップ10の資格のあるトレーダーが報酬プールを共有します
+- 全ての報酬は記録・公開されます
 
-**Participation Rules:**
+**参加ルール：**
 
-- Use the balance of USD as the unit of account
-- Profit calculated as ending balance — beginning balance
+- USD残高をアカウントの単位として使用する
+- 利益は終了残高として計算されます — 開始残高
 
-**The rules for ranking of trading competition :**
+**トレードコンテスト・ランキングルール：**
 
-- Snapshots will be taken for both Acala and Laminar networks at the beginning of the trading competition; the total net value of various assets (including debts) will be calculated based on the price feed at the time as the initial balance.
-- Another snapshot will be taken at the end of the competition, using the feed price at that time as the final balance. Cross-chain transfers (e.g. transfers between Acala and Laminar) are not counted, while transfers between addresses are counted as capital.
-- Profit margin = total value of final balance / (total value of initial balance + capital sum correction) — 100%, all accounts are ranked according to this function
+- AcalaとLaminarの両ネットワークについて、取引大会の開始時にスナップショットを撮影し、その時の価格フィードに基づいて、各種資産（負債を含む）の純価値の合計を初期バランスとして計算します。
+- また、大会終了後にもスナップショットを撮影し、その時の価格を最終的な残高とします。 クロスチェーンの移動（例：AcalaとLaminar間の移動）はカウントされませんが、アドレス間の移動は資本としてカウントされます。
+- 利益率＝最終残高の合計値／（初期残高の合計値＋資本金の補正値）-100％、すべての勘定科目はこの機能に基づいてランク付けされます。
 
-**The following are included in the balance calculation:**
+**残高計算には以下のものが含まれます：**
 
-**Balances of all assets:**  
-— Acala : aUSD, ACA, renBTC, XBTC, DOT, LDOT  
-— Laminar : aUSD, LAMI, synthetic assets
+**全資産の残高:**  
+- Acala : aUSD、ACA、renBTC、XBTC、DOT、LDOT  
+。 - Laminar : aUSD、LAMI、合成資産
 
-**Balances of all DeFi positions:**  
-— Acala : CDP (net value of collateral value minus debt value), share value in Deposit & Earn  
-— Laminar : margin position value
+**DeFiポジションの全残高:**  
+。 - Acala : CDP（担保価値から負債価値を差し引いた純額）、入金t＆収益の価値  
+。 - Laminar : 証拠金ポジションの価値
 
-## Week 3 Black Thursday Simulation
+## 第3週目：ブラックサーズデーのシミュレーション
 
-**Duration**: 10-August-2020 to 17-August-2020 (one week)  
-**Award Pool**: 4,000 ACA + 4,000 KAR
+**期間**：2020年8月3日から2020年8月17日（1週間）  
+。 **賞金プール**：4,000 ACA + 4,000 KAR
 
-- A draw of 200 qualified users will share the reward pool
-- All rewards will be recorded and published
+- 抽選で200名の有資格者が報酬プールを分配
+- 全ての報酬は記録され、公開されます
 
-**Participation Rules:**
+**参加ルール：**
 
-- **Day 1 — Day 4liquidation events**: users participate by closing CDP or increasing collateral or participate in auctions
-- **Day 5**: emergency shutdown will be triggered, participants will use aUSD to buy back collaterals
-- Users who took part in the above activity will benefit from rewards
+- **Day 1 — 4日目清算イベント**: CDPを閉じたり、担保を増やしたり、オークションに参加したりすることで参加できます
+- **5日目**: 緊急停止が発生し、参加者は担保を購入するためにaUSDを使用します
+- 上記のアクティビティに参加したユーザーは報酬を受け取ることができます
 
-## Blog Bounty (Throughout Festival)
+## ブログバウンティ
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**期間**: 2020年7月27日~2020年8月23日 (3週間)   
+**賞金プール**: 2,000 ACA + 2,000 KAR
 
-- 10 awards will be awarded in total
-- Awards will be published one week after the event ends
+- 合計で10の賞が授与されます
+- イベント終了後1週間後に賞品が発行されます
 
-**Participation Rules:**
+**参加ルール：**
 
-- Submit a blog to either [Medium](https://medium.com/), [Bihu](https://bihu.com/), or [YouTube](https://www.youtube.com/) regarding the Acala Network.
-- The article must **include your Acala Mandala Address to receive prizes**.
-- Submit the link to your piece of content to Acala [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) or [Riot](https://riot.im/app/#/room/#acala:matrix.org) channel using the hashtag #MandalaFest3
-- The content must be original
-- We will judge both the **quality** (how appealing is the story, idea, perspective, insights, analysis, etc) and **social reactions** (number of comments, likes, twitter or other social sharing, etc).
+- Acala Networkに関する [Medium](https://medium.com/), [Bihu](https://bihu.com/), または [YouTube](https://www.youtube.com/) のいずれかにブログを提出してください。
+- 記事は **賞を受け取るためにあなたのAcala Mandala Addressを含める必要があります**。
+- コンテンツのリンクを、ハッシュタグ#MandalaFest3をつけて、Acalaの [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) or [Riot](https://riot.im/app/#/room/#acala:matrix.org)のいずれかのチャンネルに投稿してください
+- コンテンツはオリジナルでなければなりません
+- **品質**（ストーリー、アイデア、視点、洞察、分析などがどれだけ魅力的か）と**反応**（コメント、「いいね！」、twitterなどのソーシャルシェアの数など）の両方を審査します。
 
-## Bug Bounty (Throughout Festival)
+## バグ・バウンティ
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 10,000 ACA + 10,000 KAR
+**期間**: 2020年7月27日~2020年8月23日 (3週間)   
+**賞金プール**: 10,000 ACA + 10,000 KAR
 
-- Please allow one week from your submission for our review.
+- 審査には、ご応募から1週間ほどかかります。
 
-**Participation Rules:**
+**参加ルール：**
 
-- Find bugs for the following two repos:  
+- 次の 2 つのリポジトリのバグを見つけましょう:  
   [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
-  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team, and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
-- Please **include your Acala Mandala Address in the Github issue** for easy prize disbursal
+  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawalet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
+- バグはAcalaエンジニアリングチームによって重要度と重大度について判断され、ここ [レベルに基づいてほぼ授与されます](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
+- 賞金をうけとる為に **あなたのAcala Mandala Addressを含めてください**
 
-## 🎉 **Let the festivities begin**
+## 🎉 **フェスティバルを始めましょう**
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+皆様と一緒にマンダラフェストをお祝いできることを楽しみにしています！ 多くの報酬、多様なタスク、そして画期的なクロスチェーンDeFiの機会が皆さんにとって魅力的であることを願っています。 **Polkadotのテストに関しては、Acalaがポールポジションを提供し、ゼロからヒーローへの最短ルートを提供します**まや、皆さんの質問に答え、フェスティバルを最大限に楽しみ、活用できるようチームが常時待機しています。 サポートと 👇 コミュニティへの VIP アクセスを取得するには、私たちのチャンネルに参加してください:
 
 **Join us — Acala** [**Telegram**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **and** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org) **channels.**
 
-# **About Acala**
+# **Acalaについて**
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/)は、金融の安定性、流動性、アクセス性をメインストリームにもたらすというビジョンを持つ、世界初の分散型金融コンソーシアムです。 Acala Networkは、Polkadotのエコシステムとその先を見据えたクロスチェーンファイナンスのハブです。 ビットコインのようなクロスチェーン資産に裏付けられたマルチ担保のステーブルコイン、信頼性の高いステーキングデリバティブ、分散型取引所など、一連の金融プリミティブを提供し、流動性を解き放ち、金融イノベーションを実現します。 金融系のdAppsがスマートコントラクトや内蔵プロトコルを使ってデプロイするためのオープンプラットフォームであり、クロスチェーン機能、セキュリティ、金融の最適化が可能です。
 
-Learn more about Acala on [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) and [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). You can join our community on [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) and [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Any inquiries, please [email](http://hello@acala.network/) or DM us.
+Acalaについては[acala.network](https://acala.network/)、[Medium](https://medium.com/acalanetwork)、[Twitter](https://twitter.com/AcalaNetwork)、[GitHub](https://github.com/AcalaNetwork/Acala)、[Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki)で最新情報を入手できます。 [Discord](https://discord.gg/vdbFVCH)、 [Telegram](https://t.me/acalaofficial) 、 [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org) でコミュニティに参加できます。 ご不明な点は[email](http://hello@acala.network/) までお問い合わせください。
 
-To keep up to date with progress on the Acala launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Acalaのパラチェーンローンチに向けた進捗状況を知りたい方は、[Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)をご購読ください。
