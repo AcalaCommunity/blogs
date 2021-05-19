@@ -2,7 +2,7 @@
 
 ## Acalaによる3週間のテストネットキャンペーンが終了し、カナリア・ネットワークの重要性が浮き彫りになるとともに、ネットワークの技術的な改善にもつながりました
 
-![Image for post](https://miro.medium.com/max/1600/1*lGVbzGOgp5M3DqCPtAds8A.jpeg)
+![投稿画像](https://miro.medium.com/max/1600/1*lGVbzGOgp5M3DqCPtAds8A.jpeg)
 
 By: [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----5ef5769a0902--------------------------------)
 
@@ -51,32 +51,32 @@ Polkadotのカナリア・ネットワーク[Kusama](http://kusama.network)と�
 ## 以下の改善を実施しました：
 
 - **オラクル・オペレーションのサービス品質：** オラクルのトランザクションは優先され、常にブロックに含まれる為に価格フィードは常に最新でネットワークトラフィックの影響を受けません
-- **Auto liquidator** using [Off-chain Workers](https://www.parity.io/substrate-off-chain-workers-secure-and-efficient-computing-intensive-tasks/): external actors like Keepers are required in protocols like Maker only because Ethereum or similar technology cannot provide a safe and secure auto-scheduler on a blockchain node. Acala implemented an auto-liquidator that can efficiently assess loan positions in every block.
-- **Hybrid liquidation mechanism with DEX and auction:** the system will automatically liquidate collaterals on the DEX if price and slippage are favorable, to avoid price inefficiencies on auctions.
-- **High throughput and specialization:** Acala has unoptimized throughput of 1000 tps; in Polkadot’s multi-chain universe, each shard/parachain is likely to be optimized for its use case. For example, Acala will be the financial shard optimized for DeFi operations, while another chain might specialize in gaming or breeding cats. The real throughput of Polkadot would be 1000 tps multiplied by the total number of shards/parachains connected.
+- **オートリクイデーター** [オフチェーンワーカーの使用](https://www.parity.io/substrate-off-chain-workers-secure-and-efficient-computing-intensive-tasks/)：キーパーのような外部アクターがMakerのようなプロトコルで必要とされるのは、Ethereumや同様の技術がブロックチェーンノード上で安全でセキュアなオートスケジューラーを提供できないからに他なりません Acalaは全てのブロックのローンポジションを効率的に評価できるオートリクイデーターを導入しました
+- **DEXとオークションのハイブリッドな流動化メカニズム：** オークションでの価格の非効率性を避けるために、価格とスリッページが良好な場合、システムはDEXでコラテラルを自動的に流動化します
+- **スループットの高さと特殊性：** Acalaのスループットは1000 tpsと最適化されていません。Polkadotのマルチチェーンでは、各シャード/パラチェーンはそのユースケースに合わせて最適化されていると思われます。 例えるなら、AcalaはDeFi領域全般に最適化された金融シャードであり、別のチェーンはゲームやペットの繁殖などの用途に特化したものになるでしょう。 Polkadotの実際のスループットは、1000tpsに接続されているシャード/パラチェーンの総数を掛けたものになります
 
-During the campaign, Acala ran a Black Thursday drill to simulate severe price volatility resulting in liquidation of risky loan positions, followed by a system Emergency Shutdown. While under heavy load, the system performed as expected, and eventually all loans were processed and collaterals were returned to users.
+キャンペーン期間中、Acalaは「ブラックサーズデー」を想定した訓練を行い、価格変動が激しく、リスクの高いローンポジションを清算してシステムを緊急停止させるというシミュレーションを行いました。 高負荷の中、システムは期待通りに動作し、最終的には全てのローンが処理され担保がユーザーに返却されました
 
-📉 14,400+ loans were liquidated
+📉 14,400+ ローンを清算
 
-⚡️ $1.37 million of assets were liquidated
+⚡️ 計137万ドルの資産が清算
 
-# The Power of Cross-chain Liquidity
+# クロスチェーンリクイディティの力
 
-Acala is the finance hub of Polkadot’s multi-chain universe. It provides a suite of financial primitives including a multi-collateralized stablecoin, trustless staking derivative, and a decentralized exchange. These primitives are offered via Acala’s DApp directly to the end-users and also as SDKs for more DApps to be built upon. We see a more interconnected, autonomous, sophisticated, cross-blockchain finance ecosystem on the cusp of emergence.
+Acalaは、Polkadotのマルチチェーンユニバースのファイナンスハブです。 複数の担保を持つステーブルコイン、信頼性の高いステーキングデリバティブ、分散型取引所など、一連の金融プリミティブを提供しています。 各プリミティブは、AcalaのDAppを介してエンドユーザーに直接提供され、また、他のDAppが構築するためのSDKとしても提供されます。 相互に接続され、自律的で洗練された、クロスブロックチェーンの金融エコシステムが出現しつつあると考えています。
 
-We have integrated with Ren and Laminar and showcased the power of cross-chain liquidity:
+そしてAcalaは、RenやLaminarと統合し、クロスチェーンリクイディティの力を明示する事に成功しました。
 
-₿ 1,403 renBTC was minted
+₿ 1,403 renBTC がミント
 
-👨‍🌾 $1.4 million worth of renBTC traded on DeX, $5.5 million used in lending
+👨‍🌾 140万ドル相当のrenBTCがDeXで取引され、550万ドルが融資
 
-🌈 $4.3 million aUSD crossed to Laminar for synthetic asset (forex, gold, synthetic BTC & ETH) margin trading
+🌈 430万ドル相当のaUSDがLaminarの合成資産（FX、金、合成BTC、ETH）の証拠金取引に利用
 
-Learn more about Acala cross-chain DeFi use cases [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi); come and create the next killer DeFi project using our framework, DeFi primitives and SDKs. Our offerings are production-grade and production-ready. We were also an educational partner in Kusama’s recent Hackusama event, and you can learn more about building with Acala [here](https://medium.com/acalanetwork/hackusama-ea1ddf3e945a).
+AcalaのクロスチェーンDeFiのユースケースについては[こちら](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)をご覧ください。また、私たちのフレームワークやDeFiプリミティブ、SDKを使って、次のキラーDeFiプロジェクトを作りましょう！ 私たちが提供するのはプロダクショングレードであり、プロダクションレディです。 また、最近行われたKusamaのHackusamaイベントに私たちは教育的パートナーとして参加しました。
 
 # Join Us
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Acalaのパラチェーンローンチに向けた進捗状況を知りたい方は、[Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)をご購読ください。
