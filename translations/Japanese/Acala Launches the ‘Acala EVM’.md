@@ -24,47 +24,47 @@ Acalaの共同設立者兼CTOブライアン・チェン氏が、AcalaにUniswap
 - サブスクリプションや定期的な支払いなどのユースケースを可能にする**オンチェーンの自動スケジューラー** お試しは[こちら](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-on-chain-scheduler)または以下の6分間のデモをご覧ください。
 
 - **ネイティブトークンとクロスチェーントークン**がERC20で利用可能：DOT、ACA、aUSD、XBTC（ChainXから）、LDOT（リキッドステークDOT）、RENBTCなど
-- オラクルネットワークで、価格のフィードを取得する。 Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds).
-- Protocols such as DEX, stablecoin lending, and liquid staking derivatives (e.g. liquid DOT for your staked DOT)
+- オラクルネットワークで、価格のフィードを取得する。 [こちら](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds)を試してみてください。
+- DEX、ステーブルコインのレンディング、リキッドステークのデリバティブなどのプロトコル（例：ステークスしたDOTをリキッドDOTにするなど）
 
-## **🐰🕳 For a deep dive on the Acala EVM, check out the** [**Acala Wiki’s in-depth EVM section**](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack)**.**
+## **🐰🕳 AcalaのEVMについて深く知りたい方は** [**Acala WikiのEVMに関する詳細なセクション**](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack)**をご覧ください**
 
 ## Try it out at ETHDenver 2021
 
-Acala is debuting the Acala EVM at ETHDenver 2021, offering $3k USD for hackers to “**Build a DApp Using the Acala EVM**” or “**Build a DApp Using the Acala EVM with the On-Chain Automatic Scheduler Function**”.
+AcalaはETHDenver 2021でAcala EVMをデビューさせ**Acala EVMを使ってDAppを構築する**または<0>オンチェーン自動スケジューラ機能を備えたAcala EVMを使ってDAppを構築する**というハッカーに3,000ドルを提供しています。</p>
 
-- Find Acala’s [**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**.**
-- Check out [**ETHDenver’s Bounty Hub**](https://www.ethdenver.com/post/acala) and [**Team Guidelines**](https://www.ethdenver.com/judging)**.**
+- Acala[**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**を探す。</li>
+- [**ETHDenver's Bounty Hub**](https://www.ethdenver.com/post/acala)と[**Team Guidelines**](https://www.ethdenver.com/judging)**をチェック</li> </ul>
 
-[Make Your DeFi DApp Polkadot-Ready with Acala’s EVM at ETHDenver 2021](https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
+[ETHDenver 2021でAcalaのEVMを使ってDeFi DAppをPolkadotに対応させてみよう](https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
 
-# **Acala at a High Level**
+# **高いレベルでのAcala**
 
-If you’re new here, Acala is an Ethereum-compatible decentralized finance (DeFi) platform built for scale, leveraging Polkadot’s multi-chain network. Although Acala is a parachain providing layer 1 infrastructure, the Acala team has also built out an entire application layer on top of the parachain. Acala’s applications are built around a stable asset (aUSD) and offers end-user applications such as borrowing, lending, synthetic asset trading, and interest earning, all executed extremely fast with inexpensive gas fees. Developers can also leverage Acala as a platform on which to build their own applications.
+初めての方のために説明すると、Acalaは、Polkadotのマルチチェーンネットワークを活用した、スケールに合わせて構築されたEthereum対応の分散型金融（DeFi）プラットフォームです。 Acalaはレイヤー1のインフラを提供するパラチェーンであり、Acalaチームはパラチェーン上にアプリケーションレイヤー全体を構築します。 Acalaのアプリケーションは、ステーブル資産（aUSD）を中心に構築されており、借り入れや貸し出し、合成資産の取引、利息の受け取りなどのエンドユーザー向けのアプリケーションを提供しています。 開発者は、独自のアプリケーションを構築するためのプラットフォームとしてAcalaを活用することができます。
 
-The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange. **Overall, Acala’s platform also offers:**
+このプラットフォームは、ビットコインのようなクロスチェーン資産に裏付けられた複数の担保を持つステーブルコイン、信頼性の高いステーキングデリバティブ、そして分散型取引所といった一連の金融プリミティブを提供します。 **Acalaのプラットフォームは以下を提供します**
 
-1.  **Micro Gas Fees** — Acala solves the gas fee problem for DeFi users, in combination with the ability to ‘bring your own gas’ as mentioned above
-2.  **Staking derivative L-DOT** (Liquid DOT to release liquidity from staked DOT for use in Acala’s DeFi applications)
-3.  **Stablecoin borrowing and lending** (DOT, Bitcoin and L-DOT used as primary collateral asset)
-4.  **Earning yield and interest**
-5.  Trading on **decentralized exchange** (DEX)
-6.  On-chain **governance**
-7.  On-chain **Treasury**
-8.  Native network of **aggregated oracle price feeds**
-9.  **On-chain sovereign wealth fund** to sustain the network’s future ([read more](https://medium.com/acalanetwork/building-a-decentralized-sovereign-wealth-fund-6a5a0ae995b1))
-10. **Continuously upgrade with no forks**: Keep in mind that Acala can upgrade seamlessly with no forks. This means that the future is virtually limitless. Any new Substrate pallet (a product or feature in the form of a DeFi primitive or runtime) can smoothly integrate into Acala. It’s like getting an iPhone 12 that will auto-upgrade to a 13, 14, 15+ in the palm of your hand.
+1.  **マイクロガス料金** - Acalaは、前述の「bring your own gas（ガスの持ち込み）」機能との組み合わせで、DeFiユーザーのガスコスト問題を解決します。
+2.  **ステークデリバティブL-DOT**（AcalaのDeFiアプリケーションで使用するために、ステーク済のDOTから流動性を放出するリキッドDOT）
+3.  **ステーブルコインの貸し借り**（DOT、Bitcoin、L-DOTを主要担保資産とする）
+4.  **利回りと利息の獲得**
+5.  **分散型取引所**(DEX) での取引
+6.  オンチェーン**ガバナンス**
+7.  オンチェーン**トレジャリー**
+8.  **集約オラクルの価格フィード**のネイティブネットワーク
+9.  **オンチェーン・ソブリン・ウェルス・ファンド**がネットワークの未来を支える（[続きを読む](https://medium.com/acalanetwork/building-a-decentralized-sovereign-wealth-fund-6a5a0ae995b1)）
+10. **フォークなしで継続的にアップグレード**：Acalaはフォークなしでシームレスにアップグレードできることを覚えておいてください。 つまり、未来は事実上、無限大なのです。 新しいSubstrateパレット（DeFiのプリミティブやランタイムの形をした製品や機能）は、Acalaにスムーズに統合することができます。 Iphone12を手に入れた場合に、手のひらの上で13、14、15+に自動アップグレードされるようなものです。
 
-![Image for post](https://miro.medium.com/max/3200/0*iHVQdZllz1MxLwuy)
+![投稿画像](https://miro.medium.com/max/3200/0*iHVQdZllz1MxLwuy)
 
 http://apps.acala.network
 
-Thanks for checking out the new Acala EVM. We’ll continue to keep you updated on the progress of the Acala EVM, as well as further educational material on the different benefits it provides to the ecosystem. As always, you can find us on [Discord](https://discord.gg/vdbFVCH), [subscribe to our newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) for updates, or any of our channels below:
+新しいAcalaのEVMをチェックしていただきありがとうございます。 今後も、Acala EVMの進捗状況や、エコシステムにもたらす様々なメリットについての更なる教育資料を提供していきます。 [Discord](https://discord.gg/vdbFVCH)、[ニュースレター](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)または以下のチャンネルから最新情報を入手してください。
 
-![Image for post](https://miro.medium.com/max/2402/0*BvF8sTfeQd4Sc71D.png)
+![投稿画像](https://miro.medium.com/max/2402/0*BvF8sTfeQd4Sc71D.png)
 
-# **About Acala**
+# **Acalaについて**
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform, operated by micro gas fees, offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+[Acala](http://acala.network/)は、Polkadotの分散型金融ハブおよびステーブルコインであり、金融アプリケーションの利用や構築を迅速かつ容易にし、取引の効率化と時間の節約を実現します。 The platform, operated by micro gas fees, offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acalaは、金融アプリケーションがスマートコントラクトや内蔵プロトコルを使用するための、事実上のオープンプラットフォームであり、すぐに使えるクロスチェーン機能と強固なセキュリティを備えています。
 
 [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [All Channels](https://linktr.ee/acalanetwork)
