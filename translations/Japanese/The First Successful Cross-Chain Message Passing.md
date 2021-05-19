@@ -1,18 +1,18 @@
-# The First Successful Cross-Chain Message Passing (XCMP) Transaction on Polkadot Testnet
+# Polkadotテストネットで初めて成功したクロスチェイン・メッセージ・パッシング（XCMP）トランザクション
 
-## Plasm Network & Acala have completed the first XCMP transaction on Polkadot’s testnet Rococo
+## Plasm NetworkとAcalaが、PolkadotのテストネットRococo上で初のXCMPトランザクションを完了
 
 ![Image for post](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
 
-During the night, we witnessed a special piece of crypto history inside Polkadot.js and a telegram chat amongst the developers of Plasm Network and Acala. The two teams, planning to become Polkadot and Kusama parachains in the near future, have successfully connected through Polkadot’s parachain testnet and transferred Plasm’s token (PLM) cross-chain using [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (cross-chain message passing) functionality.
+Polkadot.jsを介した暗号分野の歴史的な瞬間は、Plasm NetworkとAcalaの開発者によるTlegramチャットの中に訪れました。 近い将来、PolkadotとKusamaのパラチェーンになる予定である両チームは、Polkadotのパラチェーン・テストネットを介して接続し[XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)（クロスチェインメッセージパッシング）機能を使ってPlasmのトークン（PLM）をクロスチェインで転送することに成功したのです。
 
 ![Image for post](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
 
-## **How We Got Here**
+## **ここまでの経緯**
 
-Acala built the xtoken ([github](https://github.com/open-web3-stack/open-runtime-module-library/tree/sw/rococo-v1/xtokens)) Substrate pallet, made for cross-chain token transfers within the Polkadot and Kusama ecosystem. We since open-sourced this pallet and made it a ‘common good’ for any parachain to integrate into their project. We also recently completed a cross-chain token transfer between the Acala testnet and Laminar testnet with cross-chain messages.
+Acalaはxtoken（[github](https://github.com/open-web3-stack/open-runtime-module-library/tree/sw/rococo-v1/xtokens)）のSubstrateパレットを構築：これは、PolkadotとKusamaのエコシステム内でのクロスチェーンでのトークンの転送のために作られました。 私たちはこのパレットをオープンソース化し、パラチェーンが各プロジェクトに組み込むことができる共通財としました。 また、AcalaテストネットとLaminarテストネット間でのクロスチェーンのメッセージによるトークンの転送を完了しました。
 
-During testing, Plasm Network lead engineer, [Aleksandr Krupenkin](https://github.com/akru), found some issues with using XCM on Rococo. Aleksandr fixed the problem and his [pull request was merged by Parity](https://github.com/paritytech/cumulus/pull/309).
+Plasm Networkのリードエンジニア[Aleksandr Krupenkin](https://github.com/akru)は、テスト中にRococoでXCMを使用する際にいくつかの問題を発見しました。 Aleksandrは問題を修正し、彼の[プルリクエストはParityによりマージされました](https://github.com/paritytech/cumulus/pull/309)。
 
 Finally, after the changes were accepted and XCM working properly, the two parachains completed the successful cross-chain token transfer that you can see in this video:
 
