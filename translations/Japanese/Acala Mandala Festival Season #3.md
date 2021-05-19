@@ -36,33 +36,33 @@ Acala クロスチェーンDeFiの詳細は[こちら](https://github.com/AcalaN
 
 ## Mandala Fest #3: みんなで楽しむ
 
-As we continue to collaborate with projects across chains and reaching new audiences, we know that **building Acala is a community effort**. Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. We also believe that **web3 should be for everyone and we want Acala to be open to all builders: from crypto enthusiasts to node runners, developers, bloggers, economists, marketers, deep thinkers and the curious.**
+チェーンを越えてプロジェクトと協力し、新しい参加者にリーチし続けていると** Acalaの構築はコミュニティの力に支えられている**という事を深く実感します。 Mandala Festは、成長し続けるコミュニティと、Web3を構築する上で私たちを待っている豊かな可能性を祝福し合う場となります。 また、**web3は全ての人の為のものであるべきだと考えており、Acalaは暗号愛好家からノードランナー、開発者、ブロガー、エコノミスト、マーケッターなど、全ての参加者に対して開かれたものでありたい**と思っています。
 
-To celebrate this inclusivity and mark the third season, we’re going BIG. Acala is hosting the festival in collaboration with [Laminar](http://laminar.one/) (synthetic asset and margin trading), [Ren](https://renproject.io/) (permissionless inter-blockchain value transfer), [Polkawallet](https://polkawallet.io/) (leading mobile wallet for Polkadot) and Polkaworld (leading Polkadot community).
+第3シーズンを記念して、私たちは大きく前進します。 Acalaは、[Laminar](http://laminar.one/)（合成資産と証拠金取引）、[Ren](https://renproject.io/)（パーミッションレスのインターブロックチェーン価値移転）、[Polkawallet](https://polkawallet.io/)（Polkadotの主要なモバイルウォレット）、Polkaworld（主要なPolkadotコミュニティ）と共同でフェスティバルを開催します。
 
-The event will consist of a trading competition, a [Black Thursday](https://decrypt.co/26299/black-thursday-reshaped-bitcoin-futures-market-report) Simulation as well as our standard blog and bug bounties scheduled to keep you busy throughout season 3!
+このイベントでは、トレーディング大会、[ブラックサーズデー](https://decrypt.co/26299/black-thursday-reshaped-bitcoin-futures-market-report)シミュレーションに加えて、標準的なブログやバグバウンティが予定されており、シーズン3の間、皆さんを飽きさせません。
 
-**Here’s how we’ve mapped it out with all the details of reward pools and duration:**
+**ここでは、特典プールや期間などの詳細を図にしてみました。**
 
 ![Image for post](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
 
-# Get Started
+# はじめよう
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- Check out these guides on Laminar [synthetic asset](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [margin trading](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)
-- Results are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- ウォレットの作成やテストトークンの入手など、Acalaの利用を開始するには[こちら](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)。
+- これらのガイドをチェックして、[Honzon ステーブルコイン](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin)、[Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX)、[Homa デリバティブステーキング](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT)を使ってみましょう。
+- LaminarとRenによるクロスチェーン・トレーディングのガイドはこちら</a>。
+- Laminarの[合成資産](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [証拠金取引](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)に関するガイドをご覧ください。
+- 結果は[こちら](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)に掲載されています。
 
-## Full Schedule and Rules
+## スケジュールとルール
 
-## Week 1: User Participation
+## 第 1 週目：ユーザーの参加
 
-**Duration**: 27-July-2020 to 03-August-2020 (one week)  
-**Award Pool**: 20,000 ACA + 20,000 KAR
+**期間**: 2020年7月27日~2020年8月23日(1週間)  
+**賞金プール**: 20,000 ACA + 20,000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
+- 資格を持つ全ユーザーが報酬プールを共有します
+- 全ての報酬は記録され、公開されます
 
 ![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
