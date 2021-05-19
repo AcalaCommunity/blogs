@@ -66,17 +66,17 @@ Acala クロスチェーンDeFiの詳細は[こちら](https://github.com/AcalaN
 
 ![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
-**Participation Rules:**
+**参加ルール：**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- 蛇口からAUSDテストトークンを受けとってください。手数料はaUSDで支払われます。
+- 3つの有意義なトランザクションを完了したユーザーに報酬を与えられます
 
-**Meaningful transactions include:**
+**意義のあるトランザクションとは次の通りです:**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity
-- Use Honzon stablecoin to collateralize for aUSD
-- Use Homa protocol to get staking derivative LDOT
+- DEXを使用してトークンを交換する
+- DEXを使用して流動性を提供する
+- Honzon ステーブルコインを使用しaUSDを担保化
+- Homaプロトコルを使用して、ステーキングデリバティブLDOTを取得
 - Transfer aUSD to Laminar Chain, and use it either for synthetic asset, or margin trading
 - Mint renBTC and use it in above activities
 - Participate in auctions of system
