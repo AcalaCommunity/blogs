@@ -16,22 +16,22 @@
 
 Чтобы помочь запустить Acala и Karura, Gauntlet сначала будет моделировать рыночный риск для обеспеченных залогом стейблкоинов kUSD и aUSD. Ключевые компоненты включают предоставление залога, заимствование и погашение, а также ликвидацию.
 
-At a later stage Gauntlet will investigate modeling stablecoin stability, token rewards, liquid staking, and fees to make Acala and Karura more robust. Acala and Karura are striving to be all-in-one DeFi platforms. Gauntlet’s simulation platform plans to be along for the ride.
+На более позднем этапе Gauntlet исследует моделирование устойчивости стейблкоинов, вознаграждений за токены, ликвидного стекинга и комиссий, чтобы сделать Acala и Karura более надежными. Acala и Karura стремятся стать универсальными платформами DeFi. Платформа-симулятор Gauntlet будет заниматься сопровождением.
 
 ![](https://miro.medium.com/max/2402/0\*uvE58RHVG1JsZKnf.png)
 
-## **About Gauntlet**
+## **О Gauntlet**
 
-[Gauntlet](https://gauntlet.network/) is a simulation platform for on-chain risk management. Gauntlet uses battle-tested techniques from the algorithmic trading industry to help protocols manage risk, fees, capital efficiency, and rewards. Our risk scoring and agent-based simulation models optimize parameter decisions for tens of billions of dollars in DeFi TVL.
+[Gauntlet](https://gauntlet.network/) - это платформа моделирования для управления рисками в цепи. Gauntlet использует проверенные в работе методы из индустрии алгоритмической торговли, чтобы помочь протоколам управлять рисками, комиссиями, эффективностью капитала и вознаграждениями. Наши модели оценки рисков и имитационные модели на основе агентов оптимизируют решения по параметрам для десятков миллиардов долларов в DeFi TVL.
 
-## **About Acala**
+## **Об Acala**
 
-Acala is the all-in-one DeFi hub of Polkadot. Acala is an Ethereum-compatible platform for financial applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security. The platform also offers a suite of financial applications including: a trustless staking derivative (liquid DOT), a multi-collateralized stablecoin backed by cross-chain assets (aUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Acala - это универсальный DeFi-центр Polkadot. Acala - это Ethereum-совместимая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна и надежной безопасностью. Платформа также предлагает набор финансовых приложений, в том числе: стейкинг без доверия (ликвидный DOT), стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами (aUSD), и AMM DEX - все с минимальными комиссиями, которые могут быть оплачены любым токеном.
 
 [Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-## About Karura
+## О Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+[ Karura ](http://acala.network/karura) - это универсальный DeFi-центр в Kusama. Karura, основанная Acala Foundation, представляет собой масштабируемую, совместимую с EVM сеть, оптимизированную под DeFi. Платформа предлагает набор финансовых приложений, в том числе: стейкинг без доверия (ликвидный KSM), стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами (kUSD), и AMM DEX - все с минимальными комиссиями, которые могут быть оплачены любым токеном.
 
-[Linktree](http://linktr.ee/karuranetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) (**new**)| [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+[Linktree](http://linktr.ee/karuranetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) (**новый**)| [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
