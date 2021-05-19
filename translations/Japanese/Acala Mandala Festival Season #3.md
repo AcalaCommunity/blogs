@@ -28,13 +28,13 @@
 **_Renユーザーがすぐに享受できる2つの先行したメリット：_**
 
 1.  新規にミントされたrenBTCを保有するだけの新しいアカウントは、手数料トークンを必要とせずにAcalaであらゆる取引を行うことができます。 AcalaのFlexiFee機能のおかげで、renBTCなどのトークンは、ACA、aUSD、DOTと並んで、デフォルトのフィー・トークンの一つとしてネイティブに統合されています。
-2.  RenBTCをミントする為の手数料はセキュリティを損なうことなく無料にすることができます。 We see this as essential to boost the usage of renBTC on Acala and within the wider Polkadot ecosystem.
+2.  RenBTCをミントする為の手数料はセキュリティを損なうことなく無料にすることができます。 AcalaやPolkadotのエコシステムの中でrenBTCの利用を促進するためには、これが不可欠だと考えています。
 
-Ren is a great example for DeFi projects entering the Polkadot multi-chain universe. Because Acala is a customizable and fully optimized finance platform, the upfront economic and technical costs involved in building a separate blockchain (aka parachain) are instantly removed.
+Renは、DeFiプロジェクトがPolkadotのマルチチェーンの世界に入るための素晴らしい例となります。 Acalaはカスタマイズ可能で、最適化されたファイナンスプラットフォームである為、別のブロックチェーン（通称パラチェーン）を構築する為の先行的な経済的・技術的コストは即座に取り除いていきます。
 
-Find out more on Acala cross-chain DeFi [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi).
+Acala クロスチェーンDeFiの詳細は[こちら](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)。
 
-## Mandala Fest #3: Something for Everyone
+## Mandala Fest #3: みんなで楽しむ
 
 As we continue to collaborate with projects across chains and reaching new audiences, we know that **building Acala is a community effort**. Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. We also believe that **web3 should be for everyone and we want Acala to be open to all builders: from crypto enthusiasts to node runners, developers, bloggers, economists, marketers, deep thinkers and the curious.**
 
