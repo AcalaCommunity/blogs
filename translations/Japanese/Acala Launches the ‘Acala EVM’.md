@@ -65,6 +65,6 @@ http://apps.acala.network
 
 # **Acalaについて**
 
-[Acala](http://acala.network/)は、Polkadotの分散型金融ハブおよびステーブルコインであり、金融アプリケーションの利用や構築を迅速かつ容易にし、取引の効率化と時間の節約を実現します。 The platform, operated by micro gas fees, offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acalaは、金融アプリケーションがスマートコントラクトや内蔵プロトコルを使用するための、事実上のオープンプラットフォームであり、すぐに使えるクロスチェーン機能と強固なセキュリティを備えています。
+[Acala](http://acala.network/)は、Polkadotの分散型金融ハブおよびステーブルコインであり、金融アプリケーションの利用や構築を迅速かつ容易にし、取引の効率化と時間の節約を実現します。 マイクロガスコストで運営されているこのプラットフォームは、一連の金融プリミティブを提供しています。これはビットコインのようなクロスチェーン資産に裏付けられたマルチ担保のステーブルコイン、信頼性の高いステーキングデリバティブ、そして分散型取引所で、流動性を解き放ち、金融イノベーションを実現していきます。 Acalaは、金融アプリケーションがスマートコントラクトや内蔵プロトコルを使用するための、事実上のオープンプラットフォームであり、すぐに使えるクロスチェーン機能と強固なセキュリティを備えています。
 
 [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [All Channels](https://linktr.ee/acalanetwork)
