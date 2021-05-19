@@ -1,56 +1,56 @@
-# What We Learned from Acala’s Extreme Testing Simulation
+# Acalaのエクストリーム・テスト・シミュレーションから学んだこと
 
-## Acala’s 3-week testnet campaign has concluded, highlighting the importance of a Canary Network and leading to several technical improvements to the network
+## Acalaによる3週間のテストネットキャンペーンが終了し、カナリア・ネットワークの重要性が浮き彫りになるとともに、ネットワークの技術的な改善にもつながりました
 
 ![Image for post](https://miro.medium.com/max/1600/1*lGVbzGOgp5M3DqCPtAds8A.jpeg)
 
 By: [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----5ef5769a0902--------------------------------)
 
-The Acala [Mandala Fest Season #3](https://medium.com/acalanetwork/acala-mandala-festival-season-3-d0a6f155c154), a 3-week testnet campaign, was successfully concluded on the 17th of August. It was a great way for us to demonstrate our development progress to the community by testing the system and protocols under heavy loads and extreme situations while providing rewards to participants.
+8月17日、3週間のテストネットキャンペーンであるAcala [Mandala Fest Season #3](https://medium.com/acalanetwork/acala-mandala-festival-season-3-d0a6f155c154)が無事終了しました。 参加者に報酬を提供しながら、高負荷や過酷な状況下でシステムやプロトコルをテストすることで、開発の進捗状況をコミュニティにアピールすることができました。
 
-We have been overwhelmed by the support, enthusiasm, and participation from the community. Here are some of the stats we have seen:
+コミュニティからのサポートと熱意には非常に圧倒されました。 統計データは以下の通りです：
 
-✅ 14,500 + new accounts
+✅ 14,500 + 新規アカウント
 
-⛓️ 140,000 + meaningful transactions
+⛓️ 140,000 + 意義のあるトランザクション
 
-💰 $52 million locked total value
+💰 5200万ドルのLTV
 
-💲 $25 million aUSD issued
+💲 2500万ドルのaUSD発行
 
-**Award highlights are as follows and full results published** [**here**](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#season-3-prize-giving)**.**
+**受賞のハイライトは以下の通りで全結果は[**こちら**](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#season-3-prize-giving)に掲載されています**。
 
-😎 Week 1 awards went to 2,105 users out of 10,525 qualified
+😎 第1週目の受賞者は10,525名の応募者の中から2,105名のユーザーが選ばれました
 
-[⌛](https://emojipedia.org/hourglass-done/) Week 2 awards went to top 10 traders with an average return of 24,200%
+[⌛](https://emojipedia.org/hourglass-done/) 第2週目の受賞者は平均リターン24,200%のトップ10トレーダーに贈られました
 
-🌋 Week 3 awards went to 200 users
+🌋第三週目の受賞者は200人に
 
-✍️ 10 bloggers/vloggers awarded
+✍️ 10人のブロガーが受賞
 
-🐞 45 bug hunters awarded
+🐞 45人のバグハンターが受賞
 
-🤖️ 1 code bounty awarded
+🤖️ 1人コードバウンティが受賞
 
-We have also learned some valuable lessons, some of which reaffirmed our preconceptions while others have led to improvements.
+また、システムや設定の再確認や改善につながったものなど、数多くの貴重な知見を得ることができました。
 
-# The Importance of a Canary Network
+# カナリアネットワークの重要性
 
-Traditional blockchain development consists of only testnets and full production environments. However, we believe a blockchain cannot be properly tested without real economic conditions. From the Mandala testnet campaign, it is evident that with sporadic rewards (mostly via lucky draws for participants), while functionalities and usability to a large extend can be tested, the economic dynamics, liquidity efficiencies, and risk tolerance cannot be fully explored in a no-value testnet like Mandala.
+従来のブロックチェーン開発は、テストネットとフルプロダクション環境のみで構成されていました。 しかしながら、その方法では私たちは経済状況が万全でない限り適切なテストできない事を意味します。 テストネット「Mandala」のキャンペーンによるインセンティブイベント（主に参加者のラッキードロー）においては、機能性や使い勝手を大々的にテストすることはできても、Mandalaのようなその状況で価値のないテストネットでは、経済的なダイナミクス、流動性の効率性、リスク許容度を十分に検討することができないことが明確になりました。
 
-Similar to Polkadot’s canary network [Kusama](http://kusama.network), Acala has implemented the [Karura](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started#acala-trilogy-networks) canary network. Both networks bear real economic value, but a lower than that of the primary network (Acala in our case). Karura Network has economic value represented as its [KAR](https://github.com/AcalaNetwork/Acala/wiki/V.-ACA-&-KAR) native network token; it will be launched as parachain on the Kusuma network and provide financial primitives to the Kusama ecosystem such as accepting KSM as collateral for stablecoin credit lines.
+Polkadotのカナリア・ネットワーク[Kusama](http://kusama.network)と同様に、Acalaは[Karura](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started#acala-trilogy-networks)のカナリアネットワークを実装しています。 どちらのネットワークも実質的な経済価値を有していますが、プライマリーネットワーク（ここではAcala）の経済価値よりも低いものとなります。 Karura Networkは、[KAR](https://github.com/AcalaNetwork/Acala/wiki/V.-ACA-&-KAR)ネイティブネットワークトークンを保有することで一定の経済的価値を表しています。このネットワークは、Kusumaネットワーク上でパラチェーンとしてローンチされ、KSMをステーブルコイン・クレジットラインの担保として受け入れるなど、Kusamaエコシステムに金融プリミティブを提供します。
 
-# Lessons from Black Thursday Simulation — Liquidity is King
+# ブラックサーズデー・シミュレーションの教訓 - 流動性の重要性
 
-We may now have come to the realization that the financial risk tolerance of a decentralized (blockchain-based) financial system is by and large determined by the capacity and technical constraints of the underlying ledger. We have outlined the fundamental issues that led to MakerDAO’s 12th March Black Thursday incident [here](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83):
+私たちは今、分散型（ブロックチェーンベース）の金融システムの金融リスクの許容範囲は、大部分が基礎となる台帳の容量と技術的制約によって決定されるという認識を持っています。 MakerDAOの3月12日の「ブラックサーズデー」事件を引き起こした根本的な問題については[こちら](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83)を参照してください。
 
-- The performance bottleneck of the underlying network
-- The ineffectiveness in liquidating risky collateralized loans or CDPs
-- The inefficiency of keepers & liquidity crunch
+- 基盤となるネットワークのパフォーマンスのボトルネック
+- リスクの高い担保付ローンやCDPの流動化の非効率性
+- キーパーの非効率性＆流動性の低下
 
-## We have implemented the following improvements:
+## 以下の改善を実施しました：
 
-- **Quality of Service for oracle operations:** oracle transactions are prioritized and are always included in the block so price feeds are up-to-date and not affected by network traffic
+- **オラクル・オペレーションのサービス品質：** オラクルのトランザクションは優先され、常にブロックに含まれる為に価格フィードは常に最新でネットワークトラフィックの影響を受けません
 - **Auto liquidator** using [Off-chain Workers](https://www.parity.io/substrate-off-chain-workers-secure-and-efficient-computing-intensive-tasks/): external actors like Keepers are required in protocols like Maker only because Ethereum or similar technology cannot provide a safe and secure auto-scheduler on a blockchain node. Acala implemented an auto-liquidator that can efficiently assess loan positions in every block.
 - **Hybrid liquidation mechanism with DEX and auction:** the system will automatically liquidate collaterals on the DEX if price and slippage are favorable, to avoid price inefficiencies on auctions.
 - **High throughput and specialization:** Acala has unoptimized throughput of 1000 tps; in Polkadot’s multi-chain universe, each shard/parachain is likely to be optimized for its use case. For example, Acala will be the financial shard optimized for DeFi operations, while another chain might specialize in gaming or breeding cats. The real throughput of Polkadot would be 1000 tps multiplied by the total number of shards/parachains connected.
