@@ -1,27 +1,27 @@
-# Acala Mandala Festival Season #4 Halloween Give-Back
+# Acala Mandala Festival Season #4 Возвращение Хэллоуина
 
 ![Image for post](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
 
-Ever since our inaugural edition back in March, **Mandala Festival** has been our way to showcase new developments, celebrate our progress, and share much joy with the community. We’ve been extremely grateful for your support, enthusiasm, engagement in network activities and discussions.
+С момента нашего первого выпуска в марте, **Mandala Festival** стал нашим способом продемонстрировать новые разработки, отметить наш прогресс и поделиться большой радостью с сообществом. Мы вам чрезвычайно благодарны за вашу поддержку, энтузиазм, участие в сетевых мероприятиях и обсуждениях.
 
-Last season was the hottest ever, with Ren and Laminar joining the party, and a considerable influx of new participants and a swirl of meaningful activities:
+Прошлый сезон был самым жарким за всю историю: к вечеринке присоединились Ren и Laminar, появился значительный приток новых участников и большое количество значимых мероприятий:
 
-👥 14,500 + new accounts  
-⛓️ 140,000 + meaningful transactions  
-💰 $52 million locked total value (testnet)  
-💲 $25 million aUSD issued (testnet)  
-🎉 Over 2,350 users received awards
+👥 14,500 + новых аккаунтов  
+⛓️ 140,000 + значимых транзакций  
+💰 $52 миллиона залоченных средств (тестнет)  
+💲 $25 миллионов aUSD отчеканено (тестнет)  
+🎉 Более 2,350 пользователей получили награды
 
-# Mandala TC5 Optimised for DeFi
+# Mandala TC5 оптимизирован для DeFi
 
-As we launch this fourth season of the festival on Halloween night Saturday 31st of October, it’s perhaps time to reiterate Acala’s mission, **as the decentralized financial (DeFi) hub of Polkadot**: to make it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. We have recently launched [Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a) network to extend our mission to serve the Kusama community as its primary DeFi hub. We have launched a new testnet candidate (TC5) alongside this festival with the following updates doubling down on our effort to accelerate DeFi innovations.
+Поскольку мы запускаем этот четвертый сезон фестиваля в ночь на Хэллоуин, в субботу 31 октября, возможно, пришло время повторить миссию Acala, **как децентрализованного финансового (DeFi) центра Polkadot**: для быстрого и лёгкого использования или создания финансовых приложений, повышая эффективность торговли и экономя драгоценное время. Мы недавно запустили сеть [Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a), чтобы расширить нашу миссию по обслуживанию сообщества Kusama в качестве его основного центра DeFi. Одновременно с этим фестивалем мы запустили нового кандидата в тестовую сеть (TC5), и следующие обновления удвоят наши усилия по ускорению инноваций DeFi.
 
-## The most recent updates in optimizing for DeFi a reality are as follows:
+## Последние обновления в оптимизации под DeFi в реальности следующие:
 
-- **Oracle Gateway:** this is an open, more decentralized, and DeFi optimized oracle infrastructure available to all DApps built on Acala. It allows multiple oracle service providers to provide price feeds, and DApps will enjoy Quality of Service regardless of how congested the network is and whichever provider they choose. See [orml-oracle](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
-- **Generic NFT support:** we deployed [orml-nft](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) to enable any NFT publishers to build and leverage Acala’s DeFi ecosystem (Kusama also adopted this module to support NFT natively). We’ve eaten our own dog food and deployed Acala’s [publisher NFT module](https://github.com/AcalaNetwork/Acala/blob/master/modules/nft/src/lib.rs) to **_issue collectibles for Mandala Festival participants_**.
-- **Tokenized DeX LP share:** Acala Swap is an automatic market maker type decentralized exchange. We have tokenized LP shares to support liquidity bootstrap.
-- **LDOT sub-staking accounts:** via Acala’s trustless staking facility, you can nominate more than the default 16 validators, and enjoy optimized returns and liquidity, while also have differentiated delegated voting rights on Polkadot. LDOT will be one of the base financial instruments powering new economic innovations based on PoS.
+- **Oracle Gateway**: это открытая, более децентрализованная и оптимизированная для DeFi инфраструктура оракулов, доступная для всех DApps, построенных на Acala. Это позволяет нескольким поставщикам услуг оракулов предоставлять информацию о ценах, а DApps будут пользоваться качеством обслуживания независимо от того, насколько перегружена сеть и какого поставщика они выберут. См. [orml-oracle](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
+- **Общая поддержка NFT: **мы развернули [orml-nft](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft), чтобы позволить любым издателям NFT создавать и использовать экосистему DeFi Acala (Kusama также приняла этот модуль для поддержки NFT изначально). We’ve eaten our own dog food and deployed Acala’s [publisher NFT module](https://github.com/AcalaNetwork/Acala/blob/master/modules/nft/src/lib.rs) to **_issue collectibles for Mandala Festival participants_**.
+- **Токенизированная акция DeX LP:** Acala Swap - это децентрализованная биржа автоматического маркет-мейкера. Мы токенизировали акции LP, чтобы поддержать рост ликвидности.
+- **Аккаунты подстейкинга LDOT:** с помощью надежного механизма стекинга Acala вы можете назначить более 16 валидаторов по умолчанию и наслаждаться оптимизированными доходами и ликвидностью, а также дифференцированно делегировать права голоса на Polkadot. LDOT станет одним из основных финансовых инструментов, обеспечивающих новые экономические инновации, основанные на PoS.
 
 # Mandala Fest #4: Halloween Give-Back
 
