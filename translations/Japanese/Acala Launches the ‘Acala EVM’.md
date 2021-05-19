@@ -1,30 +1,30 @@
-# **Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited Substrate Functionality**
+# **Acala、Polkadot上のDeFi用Acala EVMをローンチ｜Sabstrateの機能に制限のないEthereumとの互換性を実現**
 
-![Image for post](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
+![投稿画像](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
 
-## The Acala EVM leverages the best of Ethereum while unlocking Substrate’s full potential with a composable, single-wallet, Acala-EVM-Substrate-WASM experience with ‘bring your own gas’, on-chain auto-scheduling, and more.
+## Acala EVMはEthereumの長所を活かしつつ、Substrateの可能性を最大限に引き出し、Bring Your Own Gasやオンチェーンの自動スケジューリングなど、コンポーザブルでシングルウォレットのAcala-EVM-Substrate-WASMのエクスペリエンスを提供します。
 
-Acala’s engineering team has custom-built and launched the Acala EVM! This innovation, novel to the Polkadot ecosystem, enables Acala to provide Solidity, Substrate, and Web3 developers a complete full-stack (Acala+EVM+Substrate+WASM) experience seamlessly with a single wallet. Acala EVM also brings protocol composability for EVM and Substrate runtime (aka pallets) and enables developers to build and deploy DApps on Acala with exceptional tooling support.
+Acalaのエンジニアリングチームは、Acala EVMをカスタムメイドしてローンチしました！ Polkadotのエコシステムにとって斬新なこのイノベーションにより、AcalaはSolidity、Substrate、Web3の開発者に、単一のウォレットでシームレスに完全なフルスタック（Acala+EVM+Substrate+WASM）のエクスペリエンスを提供することができます。 また、Acala EVMは、EVMとSubstrateのランタイム（別名：パレット）にプロトコルのコンポーザビリティをもたらし、開発者は卓越したツールのサポートを受けて、Acala上でDAppsを構築・デプロイすることができます。
 
-Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
+イーサリアムがビットコインにはできないことを可能にし、それが多くの新しいイノベーションを生み出したように、SubstrateとPolkadotはイーサリアムとは決定的に異なり、EVMのサンドボックス外で多くの新しいチェーンレベルのイノベーションを生み出すでしょう。 私たちはSubstrateの力を確信しており、Polkadot上のEthereumを単に再配置するのではなく、Substrateの可能性と持続可能性を最大限に引き出すためにAcala EVMを構築しました。
 
 # **The Acala EVM**
 
-## **Composable DeFi Environment**
+## **コンポーザブルなDeFi環境**
 
-Smart Contract Dapps deployed in Acala EVM can directly use native and cross-chain assets such as DOT, ACA, aUSD, renBTC, XBTC, and more. ERC-20 tokens deployed in the EVM can also be made available at the runtime level, to be listed in the DEX, or (by governance approval) to be used as gas fee tokens. This means that, for example, our friends at Ampleforth can deploy AMPL contracts on Acala EVM to be made available as a native token, so it can be used to pay transaction fees and listed directly on our DEX.
+Acala EVMにデプロイされたスマートコントラクトDappsは、DOT、ACA、aUSD、renBTC、XBTCなどのネイティブおよびクロスチェーンのアセットを直接使用することができます。 EVMに配置されたERC-20トークンは、ランタイムレベルで利用可能にしたり、DEXにリストしたり、（ガバナンスの承認を得て）ガス料金トークンとして使用することもできます。 これは、例えば、AmpleforthがAcala EVM上にAMPLコントラクトを展開し、ネイティブトークンとして利用できるようにすることで、取引手数料の支払いに利用したり、当社のDEXに直接上場することができることを意味します。
 
-New to the concept of composability? A16z put it very well in their [4 Eras of Blockchain Computing: Degrees of Composability](https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=A%20platform%20is%20composable%20if,more%20rapid%20and%20compounding%20innovation.).
+コンポーザビリティの概念を初めて知った方 A16zは、[4 Eras of Blockchain Computing](https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=A%20platform%20is%20composable%20if,more%20rapid%20and%20compounding%20innovation.)で非常にうまく表現しています。Degrees of Composability</0>です。
 
-To make this a bit more ‘real’, watch below as Acala Co-Founder and CTO Bryan Chen recently demonstrates one use case of the Acala EVM when he deployed Uniswap onto Acala and executed a trade within 2 minutes:
+Acalaの共同設立者兼CTOブライアン・チェン氏が、AcalaにUniswapを導入して2分以内に取引を実行した際のAcala EVMの使用例を紹介していますので、ご覧ください。
 
-## **Other Fully Composable DeFi Primitives in the Acala EVM**
+## **Acala EVMの完全にコンポーザブルなDeFiプリミティブ**
 
-- **Bring your own gas**: Power transactions with virtually any token — The native and cross-chain tokens integrated with Acala will be able to be used for paying gas. When live it could look like this: _Are you sending wrapped ETH to Acala to start playing in DeFi? Send your ETH to Acala via the bridge, and start deploying your wrapped ETH immediately in the Acala DeFi apps using your wrapped ETH as the gas fee. No need to go out and find ACA._
-- **On-chain automatic scheduler** that enables use cases like subscriptions and recurring payments. Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-on-chain-scheduler) or watch the 6 min demo below.
+- **Bring your own gas**：ほぼ全てのトークンを使用可能に- Acalaに統合されたネイティブトークンとクロスチェーントークンはガスの支払いに使用できるようになります。 ライブでは以下のようになります：_DeFiで遊び始めるためにAcalaにラップETHを送ってみましょう ETHをブリッジ経由でAcalaに送り、ラップされたETHをガス料金として使用して、Acala DeFiアプリですぐにデプロイを開始することができます。 わざわざACAを探しに行く必要はありません_
+- サブスクリプションや定期的な支払いなどのユースケースを可能にする**オンチェーンの自動スケジューラー** お試しは[こちら](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-on-chain-scheduler)または以下の6分間のデモをご覧ください。
 
-- **Native and cross-chain tokens** available in ERC20: DOT, ACA, aUSD, XBTC (from ChainX), LDOT (liquid staking DOT), RENBTC, and more
-- Network of oracles to get price feeds. Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds).
+- **ネイティブトークンとクロスチェーントークン**がERC20で利用可能：DOT、ACA、aUSD、XBTC（ChainXから）、LDOT（リキッドステークDOT）、RENBTCなど
+- オラクルネットワークで、価格のフィードを取得する。 Try it [here](https://wiki.acala.network/build/development-guide/smart-contracts/advanced/use-oracle-feeds).
 - Protocols such as DEX, stablecoin lending, and liquid staking derivatives (e.g. liquid DOT for your staked DOT)
 
 ## **🐰🕳 For a deep dive on the Acala EVM, check out the** [**Acala Wiki’s in-depth EVM section**](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack)**.**
