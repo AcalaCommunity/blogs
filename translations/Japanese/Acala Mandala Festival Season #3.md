@@ -2,33 +2,33 @@
 
 🎉 7月27日から3週間のDeFiアクションに備えよう! 🎉
 
-![Image for post](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
+![投稿画像](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
 
-We can’t believe it’s already time for our third season of Mandala Festival, it seems like only yesterday we were announcing the inaugural edition back in March! We’ve been blown away by your support, enthusiasm and the wealth of activity we’ve had on the network ever since.
+3月に第1回目の開催を発表したのが昨日のことのように思えるほど、Mandala Festivalの第3シーズンがもう始まったことを信じられません。 皆様のご支援と熱意、そしてネットワーク上での豊富な活動に感銘を受けています。
 
-The first two seasons attracted a lot of attention, with a considerable influx of participants and a flurry of meaningful activity:
+最初の2シーズンは多くの注目を集め、参加者もかなり増え、有意義な活動が行われました。
 
-📈 1300+ node runners  
-👥 600 + app users  
-✍️ 30+ bloggers  
-🐞 30+ bug hunters  
-✅ 4000+ new accounts  
-⛓️ 40,000 + meaningful transactions
+📈 1300+ ノード稼働者  
+👥 600 + appユーザー  
+✍️ 30+ ブロガー  
+🐞 30+ バグハンター  
+✅ 4000+ 新たなアカウント  
+⛓️ 40,000 + 意義のあるトランザクション
 
-## Mandala TC4 Cross-Chain DeFi
+## Mandala TC4 クロスチェーンDeFi
 
-As **we launch this third season of the festival on Monday 27th of July**, it’s perhaps time to reiterate **Acala’s main mission: enable an interconnected, autonomous, efficient and sophisticated cross-blockchain finance ecosystem.** Because Acala is a finance hub on Polkadot, it provides a suite of financial primitives including multi-collateralized stablecoin, trustless staking derivative and a decentralized exchange. These primitives are offered via the Acala dApp, directly to end-users, and also as SDKs for other dApps to build on.
+7月27日（月）にフェスティバルの第3シーズンを開始するにあたり、**Acalaの主なミッションである「相互接続された、自律的で、効率的かつ洗練されたクロスブロックチェーンの金融エコシステムを実現する」に関して改めて説明します。** AcalaはPolkadot上の金融ハブであるため、マルチ担保のステーブルコイン、信頼性の高いステーキングデリバティブ、分散型取引所など、一連の金融プリミティブを提供します。 各プリミティブは、Acala dAppを介してエンドユーザーに直接提供されるほか、他のdAppが構築するためのSDKとしても提供されます。
 
-## The most recent updates in making cross chain DeFi a reality are as follows:
+## クロスチェーンDeFiを実現するための最新のアップデートは以下の通りです：
 
-- **_Acala’s full-fledged DeFi suite_** _is now open_: multi-collateralized stablecoin supporting DOT, LDOT, renBTC as collaterals, staking derivative and decentralized exchange
-- **_Laminar trading_**: aUSD can now be transferred to the Laminar Chain to create synthetic assets like synthetic fiat (e.g. EUR, USD), and for margin trading a variety of instruments e.g. forex, gold, stocks and synthetic crypto pairs
-- [**_Ren x Acala collaboration is live_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Reputable inter-blockchain asset bridge Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. The BTC gateway is provided by RenVM, while the minting and burning renBTC on Acala is provided by the gateway module.
+- **_Acalaの本格的なDeFiスイート_** _ニューリリース_：DOT、LDOT、renBTCを担保としてサポートするマルチ担保のステーブルコイン、ステーキングデリバティブ、分散型取引所
+- **_Laminar trading_**：aUSDをLaminar Chainに転送して、合成フィアット（EUR、USDなど）のような合成資産を作成したり、FX、金、株式、合成暗号ペアなどの様々な商品の証拠金取引を行うことができるようになりました。
+- [**_Ren x Acalaのコラボレーションはライブです_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa)。Reputable inter-blockchain asset bridge Ren [RenVM bridge module](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala)をAcala Networkに展開することで、Acala</a>との間で構築されます。 BTCゲートウェイはRenVMが提供しており、AcalaでのrenBTCのミントとバーンはゲートウェイモジュールが提供しています。
 
-**_Two upfront benefits that Ren users can instantly enjoy:_**
+**_Renユーザーがすぐに享受できる2つの先行したメリット：_**
 
-1.  A brand new account only holding freshly minted renBTC can perform any transaction on Acala without needing a fee token. Thanks to Acala’s FlexiFee feature, tokens like renBTC are integrated natively as one of the default fee tokens alongside with ACA, aUSD and DOT.
-2.  Fees for minting renBTC can be waived without compromising security. We see this as essential to boost the usage of renBTC on Acala and within the wider Polkadot ecosystem.
+1.  新規にミントされたrenBTCを保有するだけの新しいアカウントは、手数料トークンを必要とせずにAcalaであらゆる取引を行うことができます。 AcalaのFlexiFee機能のおかげで、renBTCなどのトークンは、ACA、aUSD、DOTと並んで、デフォルトのフィー・トークンの一つとしてネイティブに統合されています。
+2.  RenBTCをミントする為の手数料はセキュリティを損なうことなく無料にすることができます。 We see this as essential to boost the usage of renBTC on Acala and within the wider Polkadot ecosystem.
 
 Ren is a great example for DeFi projects entering the Polkadot multi-chain universe. Because Acala is a customizable and fully optimized finance platform, the upfront economic and technical costs involved in building a separate blockchain (aka parachain) are instantly removed.
 
