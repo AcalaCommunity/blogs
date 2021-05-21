@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/1600/1*XOEVr_D6cvZjXJpD19P1bQ.png)
 
-Kwiecień był miesiącem w którym zwrócono uwagę na kilka kluczowych wydarzeń, które pomogą w kształtowaniu kierunku rozwoju zarówno sieci Acala, jak i Karura - zwłaszcza uzyskanie dotacji z "Compound Grants", integracja z Chainlink oracles oraz partnerstwo z Gauntlet. Ukończyliśmy również nasze pierwsze wydarzenie Build Acala, które było wydarzeniem zorientowanym na społeczność, mającym na celu rozpoczęcie bootstrapowania Acala Treasury. Na koniec nasz zespół był w kryptosferze, rozmawiając o Acali, Karurze, Polkadot, Kusamie, pożyczkach społecznościowych i nie tylko, więc obejrzyj poniższe filmy.
+Kwiecień był miesiącem w którym zwrócono uwagę na kilka kluczowych wydarzeń, które pomogą w kształtowaniu kierunku rozwoju zarówno sieci Acala, jak i Karura - zwłaszcza uzyskanie dotacji z "Compound Grants", integracja z Chainlink oracles oraz partnerstwo z Gauntlet. Ukończyliśmy także nasze pierwsze wydarzenie Build Acala, które było wydarzeniem zorientowanym na społeczność i rozpoczęło rozdzielanie skarbu Acala. Wreszcie, nasz zespół był w kryptosferze rozmawiał o Acala, Karurze, Polkadot, Kusamie, pożyczkach publicznych "crowdloans" i nie tylko, sprawdź filmy poniżej.
 
-## **** Acala otrzymuje dotację do Starport ****
+## **Acala otrzymuje dotację Compound Grant dla Starport**
 
 Acala otrzymała jeden z pierwszych Compound Grants na naszą propozycję integracji z Compound Chain i implementacji jej cross-chain Grants, Starport.
 
