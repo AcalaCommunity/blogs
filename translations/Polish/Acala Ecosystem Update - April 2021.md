@@ -36,40 +36,40 @@ Integracja ta była możliwa dzięki ostatnio uruchomionej [ Chainlink oracle pa
 
 **Acala** i **Karura** zawarły partnerstwo strategiczne z [**Gauntlet**](http://gauntlet.network/). Przygotowując się do uruchomienia [Karura w sieci Kusama przez Acalę](http://acala.network/karura), Gauntlet będzie budował model finansowy dla Karury, ze szczególnym uwzględnieniem zagrożeń rynkowych, takich jak wypłacalność i efektywność kapitałowa. Ten model zostanie również udoskonalony i rozszerzony dla Acali na Polkadot w momencie jej uruchomienia.
 
-**Gauntlet** jest platformą symulacyjną do zarządzania ryzykiem w sieci "on-chain". Gauntlet przeprowadził oceny ryzyka rynkowego dla [Compound](https://gauntlet.network/reports/compound), [MakerDAO](https://maker-report.gauntlet.network/), [Liquidity](https://liquity-report.gauntlet.network/), [Notional](https://notional-report.gauntlet.network/), [Aave](https://www.google.com/url?q=https://gauntlet.network/reports/aave&sa=D&source=editors&ust=1620757829310000&usg=AOvVaw3y5W7MBStjIx2EO6Nq44UL) i innych. Są aktywnymi uczestnikami wielu społeczności i procesów zarządzania - w tym Uniswap i Compound, gdzie są głównymi delegatami. [Ocenę ryzyka](https://risk.gauntlet.network/) przeprowadzoną przez Gaunlet można znaleźć w DeFi Pulse, gdzie zapewniają ocenę bezpieczeństwa ekonomicznego dla protokołów kredytowych. Most recently, Gauntlet has partnered with [Balancer](https://medium.com/gauntlet-networks/balancer-v2-pools-trading-fee-methodology-7a65df671b8c) to dynamically set pool trading fees to maximize the returns of liquidity providers. Przeczytaj więcej w pełnym poście na blogu:
+**Gauntlet** jest platformą symulacyjną do zarządzania ryzykiem w sieci "on-chain". Gauntlet przeprowadził oceny ryzyka rynkowego dla [Compound](https://gauntlet.network/reports/compound), [MakerDAO](https://maker-report.gauntlet.network/), [Liquidity](https://liquity-report.gauntlet.network/), [Notional](https://notional-report.gauntlet.network/), [Aave](https://www.google.com/url?q=https://gauntlet.network/reports/aave&sa=D&source=editors&ust=1620757829310000&usg=AOvVaw3y5W7MBStjIx2EO6Nq44UL) i innych. Są aktywnymi uczestnikami wielu społeczności i procesów zarządzania - w tym Uniswap i Compound, gdzie są głównymi delegatami. [Ocenę ryzyka](https://risk.gauntlet.network/) przeprowadzoną przez Gaunlet można znaleźć w DeFi Pulse, gdzie zapewniają ocenę bezpieczeństwa ekonomicznego dla protokołów kredytowych. Ostatnio Gauntlet współpracuje z [Balancer](https://medium.com/gauntlet-networks/balancer-v2-pools-trading-fee-methodology-7a65df671b8c), aby dynamicznie ustawiać opłaty transakcyjne w celu maksymalizacji przychodów dla dostawców płynności. Przeczytaj więcej w pełnym poście na blogu:
 
-[\[Gauntlet to Provide Automated Financial Risk Management for Acala and Karura\] (https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)](https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)
+[Gauntlet zapewniania automatyczne zarządzanie ryzykiem finansowym dla Acala i Karury](https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)
 
-## **Karura Product Demos**
+## **Dema produktów Karury**
 
-W kwietniu \[Ruitao Su\] (https://twitter.com/ruitao_su) i Dan Reecer zorganizowali seminarium internetowe, aby zademonstrować trzy podstawowe produkty Karury: Karura DEX, pożyczki stablecoin kUSD i obstawianie w płynnym KSM (LKSM). Obejrzyj poniższe klipy z demonstracjami produktów!
+W kwietniu [Ruitao Su](https://twitter.com/ruitao_su) i Dan Reecer zorganizowali webinar pokazujący trzy podstawowe produkty Karury: Karura DEX, pożyczki stablecoin`ów kUSD oraz staking płynnego KSM (LKSM). Obejrzyj poniższe klipy z demonstracjami produktów!
 
-**_** _ Zachowaj płynność podczas tyczenia KSM z LKSM: _ **_**
+**_Zachowaj płynność podczas staking`u KSM z LKSM:_**
 
-**_** _ Wykonaj swapy z Karura DEX: _ **_**
+**_Wykonaj swapy z Karura DEX:_**
 
-**_** _ Pożycz kUSD na Karurę: _ **_**
+**_Pożycz kUSD na Karurze:_**
 
-## **** Dowiedz się, jak działają pożyczki społecznościowe i aukcje spadochronowe ****
+## **Dowiedz się, jak działają pożyczki publiczne "Crowdloan" i aukcje na Parachain**
 
-Pożyczki społecznościowe Kusama i aukcje spadochronów zbliżają się wielkimi krokami. Upewnij się, że jesteś na bieżąco z tym, jak przebiega ten proces, i bądź na bieżąco z kolejnymi filmami edukacyjnymi o szczegółach uczestnictwa w promocji społecznościowej Karura.
+Pożyczki społeczne "crowdloans" Kusamy i aukcje parachain`ów zbliżają się wielkimi krokami. Upewnij się, że jesteś na bieżąco z tym, jak przebiega ten proces, i bądź na bieżąco z kolejnymi filmami edukacyjnymi o szczegółach uczestnictwa w pożyczce publicznej "crowdloan" Karury.
 
-Miłego maja! Do następnego razu,
+Miej wspaniały miesiąc Maj! Do następnego razu,
 
 Zespół Acala
 
 ![](https://miro.medium.com/max/2402/0\*kyqlUg4IuiRNKR4P.png)
 
-# **About Acala**
+# **O Acala**
 
-\[Acala\] (http://acala.network) to zdecentralizowana sieć finansowa typu wszystko w jednym, oferująca platformę blockchain zabezpieczoną przez Polkadot, a także zestaw międzyłańcuchowych aplikacji finansowych, które umożliwiają użytkownikom handel, samodzielne wydawanie pożyczki, zostań dostawcami płynności, uzyskaj dostęp do obstawiania instrumentów pochodnych i zarabiaj RRSO o wysokim oprocentowaniu na swoich cyfrowych aktywach. Sieć jest skalowalna, kompatybilna z Ethereum i zoptymalizowana pod kątem DeFi.
+[Acala](http://acala.network) jest zdecentralizowaną siecią finansów, oferującą platformę blockchain zabezpieczoną przez Polkadot, a także zestaw międzyłańcuchowych "cross-chain" aplikacji finansowych, które umożliwiają użytkownikom handel, emitują pożyczki samoobsługowe, stają się dostawcami płynności, umożliwiają dostęp do instrumentów pochodnych staking`u i oferują wysokie APY na ich aktywach cyfrowych. Sieć jest skalowalna, kompatybilna z Ethereum i zoptymalizowana pod kątem DeFi.
 
-Acala została założona w październiku 2019 r., A dziś otrzymała pięć grantów Fundacji Web3, ma wsparcie od Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere i innych czołowych firm oraz ma rozproszony zespół w Nowej Zelandii, Chinach, Europie, Brazylii i Stany Zjednoczone.
+Acala została założona w październiku 2019 r., i dziś otrzymała pięć grantów Fundacji Web3, ma wsparcie od Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere i innych czołowych firm oraz ma rozproszony zespół w Nowej Zelandii, Chinach, Europie, Brazylii i Stanach Zjednoczonych.
 
-\[Linktree\] (https://linktr.ee/acalanetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Witryna internetowa\] (https://acala.network/) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | \[YouTube\] (http://youtube.com/c/acalanetwork)
+[Linktree](https://linktr.ee/acalanetwork) | [Discord](https://discord.gg/vdbFVCH) | [Strona internetowa](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
 
-# O Karurze
+# O Karura
 
-\[Karura\] (http://acala.network/karura) to kompleksowe centrum DeFi w Kusama. Założona przez Acala Foundation, Karura to skalowalna, kompatybilna z EVM sieć zoptymalizowana pod kątem DeFi. Platforma oferuje zestaw aplikacji finansowych, w tym: niezaufaną pochodną do obstawiania (płynny KSM), stablecoin z wieloma zabezpieczeniami zabezpieczony aktywami cross-chain (kUSD) oraz AMM DEX - wszystkie z opłatami za mikro-gaz, które można zapłacić w dowolnym znak.
+[Karura](http://acala.network/karura) to kompleksowe centrum DeFi w sieci Kusama. Założona przez Acala Foundation, Karura to skalowalna, kompatybilna z EVM sieć zoptymalizowana pod kątem DeFi. Platforma oferuje zestaw aplikacji finansowych, w tym: niezaufaną pochodną do obstawiania (płynny KSM), stablecoin z wieloma zabezpieczeniami zabezpieczony aktywami cross-chain (kUSD) oraz AMM DEX - wszystkie z opłatami za mikro-gaz, które można zapłacić w dowolnym znak.
 
 \[Linktree\] (http://linktr.ee/karuranetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Strona internetowa\] (http://acala.network/karura) | \[Twitter\] (https://twitter.com/KaruraNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | \[YouTube\] (http://youtube.com/c/acalanetwork)
