@@ -6,35 +6,35 @@ Ze względu na to, że Aukcja na Parachain w Karurze jest już coraz bliżej, pr
 
 > **TLDR:** Zostań wczesnym wspierającym uruchomienie Karury w Kusamie, biorąc udział w pożyczce publicznej "Crowdloan" Karury. Za każdy KSM zablokowany podczas pożyczki publicznej "crowdloan", uczestnicy otrzymają 12 lub więcej tokenów KAR, rodzimego tokenu Karury, zostanie on wybity w momencie uruchomienia sieci, ze stałą całkowitą podażą w wysokości 100 000 000 i modelem dystrybucji z pierwszeństwem dla społeczności. Przewidywany okres wynajęcia miejsca "slot`u" dla parachain`a Karury na Kusamie to 48 tygodni (łącznie osiem 6-tygodniowych przedziałów). Pod koniec 48-tygodniowego okresu, wszystkie KSM biorące udział w pożyczce publicznej "crowdloan" zostaną automatycznie zwrócone uczestnikom.
 
-_Czytaj dalej, aby uzyskać więcej informacji na temat naszego podejścia do uruchamiania krok po kroku ze społecznością i przejrzyj parametry aukcji spadochronów Karura oraz_ [_Karura Launch and Governance_ roadmap.] (Https://www.notion.so/acala/dcabf9ba7c6246c69b913d5972503227?v=4121894373fd43d98ff )
+_Przeczytaj informacje na temat naszego podejścia do uruchamiania wraz ze społecznością, i zapoznaj się z warunkami aukcji na parachain Karura oraz _ [_Uruchomienie i Zarządzanie Karura_ plan działania.](https://www.notion.so/acala/dcabf9ba7c6246c69b913d5972503227?v=4121894373fd43d98ffcac260803928d)
 
 # Dlaczego Karura?
 
-Choć baza kodów jest prawie identyczna, Kusuma i Polkadot są wyraźnie różnymi społecznościami, zarówno z dużym popytem na produkty DeFi, jak i stabilnymi aktywami.
+Choć mają prawie identyczny kod, Kusuma i Polkadot mają wyraźnie różne społeczności, obie ze znacznym zapotrzebowaniem na produkty DeFi, jak i stabilne aktywa.
 
-Przy obecnej kapitalizacji rynkowej wynoszącej 3,71 miliarda dolarów i ponad 900 walidatorach, Kusama przyciągnęła dobrze prosperujący ekosystem programistów, którzy mogą niezawodnie zabezpieczyć swoje sieci i szybko je budować (zwłaszcza, że ​​jego infrastrukturę można aktualizować w łańcuchu bez rozwidlania). Nie tylko to, ale Kusama oferuje możliwość skalowania z wysokimi prędkościami przetwarzania przekraczającymi 166 000 transakcji na sekundę, a także interoperacyjnością między wieloma spadochronami, ostatecznie połączonymi z Polkadot.
+Przy obecnej kapitalizacji rynkowej wynoszącej 3,71 miliarda dolarów i ponad 900 walidatorach, Kusama przyciągnęła dobrze prosperujący ekosystem programistów, którzy mogą niezawodnie zabezpieczyć, jak również zbudować swoje sieci (zwłaszcza, że ​​jego infrastrukturę można aktualizować w łańcuchu bez konieczności tworzenia nowych wersji "fork"). Co więcej, Kusama oferuje możliwość skalowania z wysokimi prędkościami przetwarzania przekraczającymi 166 000 transakcji na sekundę, a także interoperacyjnością między wieloma parachain`ami, ostatecznie połączonymi z Polkadot.
 
-To wszystko tworzy ekscytujące środowisko programistyczne - i idealne miejsce dla zespołu Acala do dopracowania swojej misji z Karurą i przygotowania się do przyszłego rozmieszczenia Acali na Polkadot.
+To wszystko tworzy ekscytujące środowisko programistyczne - i idealne miejsce dla zespołu Acala, aby dopracować jej misję z Karurą i przygotować się do przyszłego umieszczenia Acali w sieci Polkadot.
 
-> **_** _ Tak jak Acala będzie de facto centrum DeFi w Polkadot, tak Karura będzie de facto centrum DeFi w Kusama ._ **_**
+> **_Tak jak Acala w istocie będzie centrum DeFi w Polkadot, tak Karura będzie centrum DeFi w Kusama._**
 
-Dzięki tym dwóm siostrzanym sieciom innowacje DeFi nie będą już ograniczane wysokimi opłatami transakcyjnymi i izolacją sieci. Raczej Acala i Karura pomogą zapoczątkować nową erę DeFi, obsługując zestaw aplikacji finansowych, jednocześnie zapewniając możliwość komponowania dwóch unikalnych ekosystemów spadochronów, protokołów i dappów.
+Dzięki tym dwóm siostrzanym sieciom innowacje DeFi nie będą już ograniczane wysokimi opłatami transakcyjnymi i izolacją sieci. Raczej, Acala i Karura pomogą zapoczątkować nową erę DeFi, oferując zestaw aplikacji finansowych, jednocześnie zapewniając możliwość komponowania dwóch unikalnych ekosystemów parachain, protokołów oraz dapps.
 
-# Wszystko zaczyna się od aukcji Karura Crowdloan i Parachain.
+# Wszystko zaczyna się od pożyczki publicznej "Crowdloan" oraz aukcji na Parachain Karura.
 
 ![](https://miro.medium.com/max/2008/1\*CHTrJqD3RI7yvf8WzA9APQ.png)
 
-Podobnie jak Acala, sieć Karura będzie punktem kompleksowej obsługi zdecentralizowanych narzędzi finansowych, które obejmują niezaufaną pochodną obstawiania (płynny KSM), multi-zabezpieczony stablecoin wspierany przez aktywa międzyłańcuchowe (kUSD) oraz AMM DEX - wszystko z opłatami za mikro-gaz, które można uiścić dowolnym tokenem.
+Podobnie jak Acala, sieć Karura będzie miejscem skupiającym zestaw narzędzi finansowych, w tym: nie wymagającą zaufania pochodną staking`u (płynny KSM), stablecoin z wieloma zabezpieczeniami, zabezpieczony przez międzyłańcuchowe aktywa (kUSD) oraz AMM DEX - wszystko z mikro opłatami za gaz, które można uiścić dowolnym tokenem.
 
-** Aby jednak wystartować, Karura musi najpierw zapewnić sobie miejsce na spadochron na Kusamie, wygrywając aukcję. ** Ten proces wymaga odpowiedniego finansowania, aby strategicznie licytować w sieci aukcji świec. Chociaż niektóre projekty mogą polegać na dużych inwestorach w celu pozyskania tego finansowania, zespół Karara podchodzi do sprawy inaczej. Karura korzysta z pożyczki społecznościowej, aby załadować KSM od społeczności, aby wykorzystać te fundusze jako ofertę na aukcji spadochronowej. Wszyscy uczestnicy pożyczki społecznościowej otrzymają rodzimy token Karury, KAR, w proporcji do ich wkładu w KSM.
+**Jednak w celu uruchomienia, Karura najpierw musi uzyskać miejsce dla swojego parachain`a na Kusamie, poprzez wygranie aukcji.** Proces ten wymaga odpowiednich środków finansowych, aby móc strategicznie składać oferty w ramach aukcji świec. Chociaż niektóre projekty w celu pozyskania finansowania mogą polegać na dużych inwestorach, zespół Karara podchodzi do sprawy inaczej. Karura korzysta z pożyczki publicznej "crowdloan", aby uzyskać KSM od społeczności i wykorzystać je jako ofertę na aukcji na parachain. Wszyscy uczestnicy pożyczki publicznej "crowdloan" otrzymają rodzimy token Karury, KAR, w proporcji do ich wkładu KSM.
 
-[** Aukcja Crowdloan i Parachain Karury jest nieuchronna - oto, czego możesz się spodziewać **](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
+[Podejście Karura do nadchodzącej pożyczki publicznej "Crowdloan" i aukcji na Parachain na Kusama](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
 
-Aby uzyskać więcej informacji na temat aukcji Crowdloan i Parachain, możesz również obejrzeć ten 8-minutowy film wyjaśniający:
+Aby uzyskać więcej informacji na temat pożyczki publicznej "Crowdloan" oraz aukcji na Parachain, możesz również obejrzeć ten 8-minutowy film wyjaśniający:
 
 # Sprawiedliwa i etyczna dystrybucja tokenów
 
-Projektując tokenową ekonomię dla Karury, zespół starał się dostosować zachęty i uruchomić projekt z korzyścią dla swojej społeczności. W końcu Karura i Acala mają ponad 90 000 członków wraz z \[programem ambasadorów\] (https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), którzy będą służyć jako kręgosłup z projektu.
+Projektując ekonomię tokena dla Karury, zespół starał się dostosować zachęty i uruchomić projekt z korzyścią dla swojej społeczności. W końcu, Karura i Acala mają ponad 90 000 członków, wraz z [programem Ambasadora](https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), który będzie służył jako trzon projektu.
 
 Aby zapewnić tym społecznościom dostęp do narzędzi DeFi firmy Karura przez cały dzień, a także możliwość zdobycia nagród podczas wspierania uruchomienia sieci, zespół zdecydował się pozyskać fundusze na aukcję Kusama Parachain i nagrodzić uczestników społeczności karurą. token natywny (KAR).
 
