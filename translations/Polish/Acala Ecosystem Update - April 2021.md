@@ -2,17 +2,17 @@
 
 ![](https://miro.medium.com/max/1600/1*XOEVr_D6cvZjXJpD19P1bQ.png)
 
-Kwiecień był miesiącem w którym zwrócono uwagę na kilka kluczowych wydarzeń, które pomogą w kształtowaniu kierunku rozwoju zarówno sieci Acala, jak i Karura - zwłaszcza uzyskanie dotacji z "Compound Grants", integracja z Chainlink oracles oraz partnerstwo z Gauntlet. Ukończyliśmy także nasze pierwsze wydarzenie Build Acala, które było wydarzeniem zorientowanym na społeczność i rozpoczęło rozdzielanie skarbu Acala. Wreszcie, nasz zespół był w kryptosferze rozmawiał o Acala, Karurze, Polkadot, Kusamie, pożyczkach publicznych "crowdloans" i nie tylko, sprawdź filmy poniżej.
+Kwiecień był miesiącem w którym miało miejsce kilka kluczowych wydarzeń, które pomogą w kształtowaniu kierunku rozwoju zarówno sieci Acala, jak i Karura - zwłaszcza uzyskanie dotacji z "Compound Grants", integracja z Chainlink oracles oraz partnerstwo z Gauntlet. Ukończyliśmy także nasze pierwsze wydarzenie Build Acala, które było wydarzeniem dla społeczności i rozpoczęło rozdzielanie skarbu Acala. Wreszcie, nasz zespół w " cryptosphere" rozmawiał o Acali, Karurze, Polkadot, Kusamie, pożyczkach publicznych "crowdloans" i nie tylko, sprawdź filmy poniżej.
 
 ## **Acala otrzymuje dotację Compound Grant dla Starport**
 
-Acala otrzymała jeden z pierwszych Compound Grants dla propozycji integracji z Compound Chain i wdrożenia jego międzyłańcuchowego interfejsu Starport.
+Acala otrzymała jedą z pierwszych dotacji Compound Grants dla propozycji integracji z Compound Chain i wdrożenia jego międzyłańcuchowego interfejsu Starport.
 
-Compound, jeden z wiodących zespołów DeFi, początkowo zbudowany na Ethereum, ostatnio uruchomił sieć testową Compound Gateway – niezależny międzyłańcuchowy blockchain ryneku pieniężnego zbudowany na Substrate.
+Compound, jeden z wiodących zespołów DeFi, początkowo zbudowany na Ethereum, ostatnio uruchomił sieć testową Compound Gateway – niezależny międzyłańcuchowy blockchain rynku pieniężnego zbudowany na Substrate.
 
 Projekt Acala Starport umożliwi dostarczenie usług Compound i tokena CASH (oprocentowany token Compound) do Acala i Polkadot oraz wprowadzi DOT i płynny DOT (LDOT) jako nowe aktywa zabezpieczające do rynku pieniężnego Compound. Przeczytaj więcej w pełnym poście na blogu:
 
-[\[Acala otrzymuje dotację na połączenie Compound Chain i Polkadot przez Acala\] (https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a )](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a)
+[Acala otrzymuje dotację na połączenie sieci Compound i Polkadot za pośrednictwem Acala](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a)
 
 ## **Wydarzenie Build Acala**
 
@@ -70,6 +70,6 @@ Acala została założona w październiku 2019 r., i dziś otrzymała pięć gra
 
 # O Karura
 
-[Karura](http://acala.network/karura) to kompleksowe centrum DeFi w sieci Kusama. Założona przez Acala Foundation, Karura to skalowalna, kompatybilna z EVM sieć zoptymalizowana pod kątem DeFi. Platforma oferuje zestaw aplikacji finansowych, w tym: niezaufaną pochodną do obstawiania (płynny KSM), stablecoin z wieloma zabezpieczeniami zabezpieczony aktywami cross-chain (kUSD) oraz AMM DEX - wszystkie z opłatami za mikro-gaz, które można zapłacić w dowolnym znak.
+[Karura](http://acala.network/karura) to kompleksowe centrum DeFi w sieci Kusama. Założona przez Acala Foundation, Karura to skalowalna, kompatybilna z EVM sieć zoptymalizowana pod kątem DeFi. Platforma, oferuje zestaw aplikacji finansowych, w tym: nie wymagającą zaufania pochodną staking`u (płynny DOT), stablecoin z wieloma zabezpieczeniami wspierany przez aktywa cross-chain (kUSD) oraz AMM DEX - wszystko z mikro opłatami za gaz, które można płacić dowolnym tokenem.
 
-\[Linktree\] (http://linktr.ee/karuranetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Strona internetowa\] (http://acala.network/karura) | \[Twitter\] (https://twitter.com/KaruraNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | \[YouTube\] (http://youtube.com/c/acalanetwork)
+[Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Strona internetowa](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
