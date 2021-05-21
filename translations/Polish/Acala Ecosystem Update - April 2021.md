@@ -6,29 +6,29 @@ Kwiecień był miesiącem w którym zwrócono uwagę na kilka kluczowych wydarze
 
 ## **Acala otrzymuje dotację Compound Grant dla Starport**
 
-Acala otrzymała jeden z pierwszych Compound Grants na naszą propozycję integracji z Compound Chain i implementacji jej cross-chain Grants, Starport.
+Acala otrzymała jeden z pierwszych Compound Grants dla propozycji integracji z Compound Chain i wdrożenia jego międzyłańcuchowego interfejsu Starport.
 
-Jeden z wiodących zespołów DeFi, który po raz pierwszy zbudował na Ethereum, Compound niedawno uruchomił testową sieć Compound Gateway - niezależny, międzyłańcuchowy blockchain rynku pieniężnego zbudowany z Substrate.
+Compound, jeden z wiodących zespołów DeFi, początkowo zbudowany na Ethereum, ostatnio uruchomił sieć testową Compound Gateway – niezależny międzyłańcuchowy blockchain ryneku pieniężnego zbudowany na Substrate.
 
-Projekt Acala Starport umożliwi nam dostarczenie usług Compound i tokena CASH (oprocentowany token Compound) do Acala i Polkadot oraz wprowadzenie DOT i Liquid DOT (LDOT) jako nowych aktywów zabezpieczających na rynku złożonym. Przeczytaj więcej w pełnym poście na blogu:
+Projekt Acala Starport umożliwi dostarczenie usług Compound i tokena CASH (oprocentowany token Compound) do Acala i Polkadot oraz wprowadzi DOT i płynny DOT (LDOT) jako nowe aktywa zabezpieczające do rynku pieniężnego Compound. Przeczytaj więcej w pełnym poście na blogu:
 
 [\[Acala otrzymuje dotację na połączenie Compound Chain i Polkadot przez Acala\] (https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a )](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a)
 
-## **** Zbuduj wydarzenie Acala ****
+## **Wydarzenie Build Acala**
 
-W kwietniu Acala była gospodarzem pierwszego wydarzenia Build Acala, które rozpoczęło bootstrapowanie Acala Treasury. Chociaż udział w Build Acala był ograniczony, cieszymy się, że mogliśmy zaangażować tak wielu z was. Dla tych, którzy nie byli w stanie wziąć udziału, pamiętaj, że wszyscy rejestrujący ze statusem zweryfikowanym będą mieli szansę wziąć udział w przyszłych wydarzeniach, a dodatkowo wszyscy rejestrujący z niekompletnym statusem będą mieli możliwość uzupełnienia KYC i weryfikacji w późniejszym terminie. Zarejestruj się, aby otrzymywać \[** biuletyn Acala **\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc), aby otrzymywać informacje o przyszłych wydarzeniach. Przeczytaj więcej o Build Acala \[tutaj\] (https://info.acala.network/).
+W kwietniu Acala zorganizowała wydarzenie Build Acala, które rozpoczęło rozdzielanie Acala Treasury. Chociaż udział w Build Acala był ograniczony, cieszymy się, że mogliśmy zaangażować tak wielu z was. Ci, którzy nie byli w stanie wziąć udziału w wydarzeniu, a zostali zarejestrowani i ich status jest zweryfikowany, jeszcze będą mieli szansę, aby wziąć udział w przyszłych wydarzeniach, dodatkowo wszyscy zarejestrowani z niekompletnym statusem, będą mieli możliwość uzupełnienia KYC i weryfikacji w późniejszym terminie. Zarejestruj się do [**newslettera Acala**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) aby być na bierząco informowanym o przyszłych wydarzeniach. Dowiedz się więcej o wydarzeniu Build Acala [tutaj](https://info.acala.network/).
 
-## **** Acala & Karura Media ****
+## **Media Acala & Karura**
 
-\[** Dan Reecer **\] (https://twitter.com/danreecer_) omówił proces aukcji Crowdloan i parachain dla Kusamy i Polkadot na konferencji Blockdown:
+[**Dan Reecer**](https://twitter.com/danreecer_) omówił proces pożyczki publicznej "crowdloan" oraz aukcji na parachain dla Kusama i Polkadot podczas konferencji Blockdown:
 
-\[** Bette Chen **\] (https://twitter.com/bettechentt) w panelu Web 3.0 na konferencji Blockdown:
+[**Bette Chen**](https://twitter.com/bettechentt) w panelu Web 3.0 na konferencji Blockdown:
 
-## **** Integracja Karura + Chainlink ****
+## **Integracja Karura + Chainlink**
 
-\[Karura\] (https://acala.network/karura) zintegrowała \[Chainlink Price Feeds\] (https://data.chain.link/). Zdecentralizowane wyrocznie cenowe Chainlink zapewniają deweloperom inteligentnych kontraktów Karura odporne na manipulacje, hiper-niezawodne i precyzyjne dane z rynków finansowych bezpośrednio w łańcuchu. Programiści mogą wykorzystać te dane, aby szybko rozpocząć tworzenie bezpiecznych aplikacji i produktów DeFi w wielu przypadkach użycia, takich jak instrumenty pochodne, pożyczki, stablecoiny, zarządzanie aktywami i nie tylko.
+[Karura](https://acala.network/karura) zintegrowała [kanały cenowe Chainlink](https://data.chain.link/). Zdecentralizowane wyrocznie cenowe Chainlink zapewniają deweloperom inteligentnych kontraktów Karura odporne na manipulacje, hiper-niezawodne i precyzyjne dane z rynków finansowych bezpośrednio w sieci "on-chain". Deweloperzy mogą korzystać z tych danych do tworzenia bezpiecznych aplikacji i produktów DeFi mających wiele zastosowań, takich jak instrumenty pochodne, kredyty, stablecoin`y, zarządzanie aktywami i wiele innych.
 
-Integracja ta była możliwa dzięki niedawnemu uruchomieniu \[Chainlink oracle pallet\] (https://polkadot.network/chainlink-makes-oracle-pallet-available-to-all-substrate-polkadot-and-kusama-chains-2 /), co daje wszystkim projektom w ekosystemie Polkadot, w tym spadochrony, łańcuchy substratów i spadochrony Kusama, takie jak Karura, ustandaryzowany sposób natywnej integracji wyroczni Chainlink. Dzięki już gotowym kanałom cenowym Chainlink, odpornym na manipulacje (np. W celu ochrony przed atakami pożyczek błyskawicznych) i aktywnym zabezpieczaniu wartości miliardów dolarów w całym DeFi, uważamy, że deweloperzy Karury odniosą ogromne korzyści z integracji ich jako wyroczni cenowej. rozwiązanie. Przeczytaj więcej w pełnym poście na blogu:
+Integracja ta była możliwa dzięki ostatnio uruchomionej [ Chainlink oracle pallet ](https://polkadot.network/chainlink-makes-oracle-pallet-available-to-all-substrate-polkadot-and-kusama-chains-2/), która zapewnia znormalizowany sposób natywnej integracji z wyrocznią Chainlink dla wszystkich projektów w ekosystemie Polkadot, w tym dla parachain`ów, sieci zbudowanych na Substrate, oraz parachain`ów Kusamy, takich jak Karura. Dzięki już gotowym kanałom cenowym Chainlink, odpornym na manipulacje (np. W celu ochrony przed atakami pożyczek błyskawicznych) i aktywnym zabezpieczaniu wartości miliardów dolarów w całym DeFi, uważamy, że deweloperzy Karury odniosą ogromne korzyści z integracji ich jako wyroczni cenowej. rozwiązanie. Przeczytaj więcej w pełnym poście na blogu:
 
 [\[Karura integruje kanały cenowe Chainlink dla DeFi Hub w Acali w Kusamie\] (https://medium.com/acalanetwork/karura-chainlink-cddd5f23a93e)](https://medium.com/acalanetwork/karura-chainlink-cddd5f23a93e)
 
