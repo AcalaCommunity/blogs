@@ -1,93 +1,93 @@
-# **Karura’s Crowdloan & Parachain Auction Are Imminent — Here’s What To Expect**
+# **Pożyczka publiczna "Crowdloan" Karury & Aukcja na Parachain jest nieuchronna — Oto czego można oczekiwać**
 
-![](https://miro.medium.com/max/3200/1*RowOyUTI3zui9ZyOb0euPQ.png)Karura is the DeFi Hub of Kusama
+![](https://miro.medium.com/max/3200/1*RowOyUTI3zui9ZyOb0euPQ.png)Karura to Centrum DeFi w Kusamie
 
-As Karura’s Parachain Auction event draws near, we want to empower the community with the [resources](https://wiki.acala.network/karura/crowdloan) it needs to fully understand the [scope and vision of Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a), the DeFi Hub of Kusama and sister network of [Acala](http://acala.network). With a community-driven approach to the launch and a passionate ecosystem for development, we believe [Karura](http://acala.network/karura) will pave the way for a new era of DeFi on Kusama.
+Ze względu na to, że Aukcja na Parachain w Karurze jest już coraz bliżej, przedstawiamy społeczności [materiały](https://wiki.acala.network/karura/crowdloan), potrzebne do pełnego zrozumienia [zakresu i wizji Karury](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a), centrum DeFi w Kusama i siostrzanej sieci [Acala](http://acala.network). Wierzymy, że dzięki wsparciu społeczności podczas uruchomienia, jak i rozbudowy tego pasjonującego ekosystemu, [Karura](http://acala.network/karura) utoruje drogę do nowej ery DeFi na Kusamie.
 
-> **TLDR:** Become an early supporter of Karura’s launch on Kusama by participating in the Karura Crowdloan. For every KSM locked in the crowdloan, participants will receive 12 or more KAR, the native token of Karura, which will be minted at launch with a fixed total supply of 100,000,000 and a community-first distribution model. Karura’s intended parachain slot length on Kusama is 48 weeks (eight 6-week slots in total). At the end of the 48 week slot, all original KSM contributed to the crowdloan will be automatically released back to contributors.
+> **TLDR:** Zostań wczesnym wspierającym uruchomienie Karury w Kusamie, biorąc udział w pożyczce publicznej "Crowdloan" Karury. Za każdy KSM zablokowany podczas pożyczki publicznej "crowdloan", uczestnicy otrzymają 12 lub więcej tokenów KAR, rodzimego tokenu Karury, zostanie on wybity w momencie uruchomienia sieci, ze stałą całkowitą podażą w wysokości 100 000 000 i modelem dystrybucji z pierwszeństwem dla społeczności. Przewidywany okres wynajęcia miejsca "slot`u" dla parachain`a Karury na Kusamie to 48 tygodni (łącznie osiem 6-tygodniowych przedziałów). Pod koniec 48-tygodniowego okresu, wszystkie KSM biorące udział w pożyczce publicznej "crowdloan" zostaną automatycznie zwrócone uczestnikom.
 
-_Read on for more on our approach to launching in-step with the community, and review the Karura parachain auction parameters and_ [_Karura Launch and Governance_ roadmap.](https://www.notion.so/acala/dcabf9ba7c6246c69b913d5972503227?v=4121894373fd43d98ffcac260803928d)
+_Czytaj dalej, aby uzyskać więcej informacji na temat naszego podejścia do uruchamiania krok po kroku ze społecznością i przejrzyj parametry aukcji spadochronów Karura oraz_ [_Karura Launch and Governance_ roadmap.] (Https://www.notion.so/acala/dcabf9ba7c6246c69b913d5972503227?v=4121894373fd43d98ff )
 
-# Why Karura?
+# Dlaczego Karura?
 
-Though nearly identical in codebase, Kusuma and Polkadot are distinctly different communities, both with substantial demand for DeFi products and stable assets.
+Choć baza kodów jest prawie identyczna, Kusuma i Polkadot są wyraźnie różnymi społecznościami, zarówno z dużym popytem na produkty DeFi, jak i stabilnymi aktywami.
 
-With a current market cap value of $3.71 billion and 900+ validators, Kusama has attracted a thriving ecosystem of developers who can reliably secure their networks and build fast (especially since its infrastructure can be upgraded on-chain without forking). Not only that, but Kusama offers the opportunity to scale with high-capacity processing speeds exceeding 166,000 transactions per second along with interoperability between multiple parachains, ultimately bridged to Polkadot.
+Przy obecnej kapitalizacji rynkowej wynoszącej 3,71 miliarda dolarów i ponad 900 walidatorach, Kusama przyciągnęła dobrze prosperujący ekosystem programistów, którzy mogą niezawodnie zabezpieczyć swoje sieci i szybko je budować (zwłaszcza, że ​​jego infrastrukturę można aktualizować w łańcuchu bez rozwidlania). Nie tylko to, ale Kusama oferuje możliwość skalowania z wysokimi prędkościami przetwarzania przekraczającymi 166 000 transakcji na sekundę, a także interoperacyjnością między wieloma spadochronami, ostatecznie połączonymi z Polkadot.
 
-This all makes for an exciting development environment — and the perfect place for the Acala team to fine-tune its mission with Karura and prepare for the future deployment of Acala on Polkadot.
+To wszystko tworzy ekscytujące środowisko programistyczne - i idealne miejsce dla zespołu Acala do dopracowania swojej misji z Karurą i przygotowania się do przyszłego rozmieszczenia Acali na Polkadot.
 
-> **_Just as Acala will serve as the de-facto DeFi hub of Polkadot, Karura will serve as the de-facto DeFi hub of Kusama._**
+> **_** _ Tak jak Acala będzie de facto centrum DeFi w Polkadot, tak Karura będzie de facto centrum DeFi w Kusama ._ **_**
 
-With these two sister networks in place, DeFi innovation will no longer be limited by high-transaction fees and network isolation. Rather, Acala and Karura will help usher in a new era of DeFi, by powering a suite of financial applications while granting composability between two unique ecosystems of parachains, protocols, and dapps.
+Dzięki tym dwóm siostrzanym sieciom innowacje DeFi nie będą już ograniczane wysokimi opłatami transakcyjnymi i izolacją sieci. Raczej Acala i Karura pomogą zapoczątkować nową erę DeFi, obsługując zestaw aplikacji finansowych, jednocześnie zapewniając możliwość komponowania dwóch unikalnych ekosystemów spadochronów, protokołów i dappów.
 
-# It all starts with the Karura Crowdloan and Parachain Auction.
+# Wszystko zaczyna się od aukcji Karura Crowdloan i Parachain.
 
 ![](https://miro.medium.com/max/2008/1\*CHTrJqD3RI7yvf8WzA9APQ.png)
 
-Like Acala, the Karura network will be a one-stop shop for decentralized financial tools, which include a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Podobnie jak Acala, sieć Karura będzie punktem kompleksowej obsługi zdecentralizowanych narzędzi finansowych, które obejmują niezaufaną pochodną obstawiania (płynny KSM), multi-zabezpieczony stablecoin wspierany przez aktywa międzyłańcuchowe (kUSD) oraz AMM DEX - wszystko z opłatami za mikro-gaz, które można uiścić dowolnym tokenem.
 
-**But in order to launch, Karura must first secure a parachain slot on Kusama by winning an auction.** This process requires adequate funding to strategically bid in the network’s candle auction. Though some projects may rely on large investors to acquire this funding, the Karara team is approaching things differently. Karura is using the crowdloan to bootstrap KSM from the community to use these funds as the bid in the parachain auction. All contributors to the crowdloan will receive Karura’s native token, KAR, in a ratio to their KSM contribution.
+** Aby jednak wystartować, Karura musi najpierw zapewnić sobie miejsce na spadochron na Kusamie, wygrywając aukcję. ** Ten proces wymaga odpowiedniego finansowania, aby strategicznie licytować w sieci aukcji świec. Chociaż niektóre projekty mogą polegać na dużych inwestorach w celu pozyskania tego finansowania, zespół Karara podchodzi do sprawy inaczej. Karura korzysta z pożyczki społecznościowej, aby załadować KSM od społeczności, aby wykorzystać te fundusze jako ofertę na aukcji spadochronowej. Wszyscy uczestnicy pożyczki społecznościowej otrzymają rodzimy token Karury, KAR, w proporcji do ich wkładu w KSM.
 
-[Karura’s Approach to the Upcoming Crowdloan and Parachain Auction on Kusama](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
+[** Aukcja Crowdloan i Parachain Karury jest nieuchronna - oto, czego możesz się spodziewać **](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
 
-For more information on the Crowdloan and Parachain auction process, you can also check out this 8-minute explainer video:
+Aby uzyskać więcej informacji na temat aukcji Crowdloan i Parachain, możesz również obejrzeć ten 8-minutowy film wyjaśniający:
 
-# A fair and ethical token distribution
+# Sprawiedliwa i etyczna dystrybucja tokenów
 
-When designing the token economy for Karura, the team sought out to align incentives and bootstrap the project for the benefit of its community. After all, Karura and Acala have 90,000+ members, along with [an Ambassador program](https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), that will serve as the backbone of the project.
+Projektując tokenową ekonomię dla Karury, zespół starał się dostosować zachęty i uruchomić projekt z korzyścią dla swojej społeczności. W końcu Karura i Acala mają ponad 90 000 członków wraz z \[programem ambasadorów\] (https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), którzy będą służyć jako kręgosłup z projektu.
 
-In order to ensure that these communities have day-one access to Karura’s DeFi tools, along with the opportunity to earn rewards while supporting the network’s launch, the team has opted to crowdsource the funding for the Kusama Parachain Auction and to reward community participants with Karura’s native token (KAR).
+Aby zapewnić tym społecznościom dostęp do narzędzi DeFi firmy Karura przez cały dzień, a także możliwość zdobycia nagród podczas wspierania uruchomienia sieci, zespół zdecydował się pozyskać fundusze na aukcję Kusama Parachain i nagrodzić uczestników społeczności karurą. token natywny (KAR).
 
-## Here’s how it works.
+## Oto jak to działa.
 
 ![](https://miro.medium.com/max/2458/1\*JCsCYAjGjwjBmet8nKpVKg.png)
 
-## **1\. Prepare your KSM — Begin the Unbonding process**
+## **** 1 \. Przygotuj swój KSM - rozpocznij proces odłączania ****
 
-Only KSM holders can participate in the Crowdloan event, and the KSM must be unbonded and transferrable in a crowdloan-compatible wallet like Polkawallet or Polkadot.js.
+Tylko posiadacze KSM mogą uczestniczyć w wydarzeniu Crowdloan, a KSM musi być odłączony i możliwy do przeniesienia w portfelu kompatybilnym z pożyczkami publicznymi, takim jak Polkawallet lub Polkadot.js.
 
-For more information on setting up a compatible wallet, please review [this guide.](https://wiki.acala.network/karura/ksm-address/create-new-ksm-account) For info on unbonding KSM, refer to this [guide for on Polkawallet](https://wiki.acala.network/karura/ksm-address/unstake-polkawallet) and this [guide on Polkadot.js.](https://wiki.acala.network/karura/ksm-address/unstaking-your-ksm-tokens-on-polkadot.-js-extension)
+Aby uzyskać więcej informacji na temat konfigurowania zgodnego portfela, zapoznaj się z \[tym przewodnikiem\] (https://wiki.acala.network/karura/ksm-address/create-new-ksm-account). ten \[przewodnik po Polkawallet\] (https://wiki.acala.network/karura/ksm-address/unstake-polkawallet) i ten \[przewodnik po Polkadot.js.\] (https://wiki.acala.network/karura /ksm-address/unstaking-your-ksm-tokens-on-polkadot.-js-extension)
 
-## **2\. Lock your KSM**
+## **** 2 \. Zablokuj swój KSM ****
 
-Kusama will enable the Crowdloan module, a permissionless smart contract for our community to temporarily lock their KSM in support of Karura’s upcoming bid for a parachain slot. The module will receive KSM and lock these assets for a period of 48 weeks, after which participating users will automatically receive their full contribution back.
+Kusama umożliwi modułowi Crowdloan, inteligentnemu kontraktowi bez pozwolenia dla naszej społeczności, aby tymczasowo zablokować KSM w celu wsparcia nadchodzącej oferty Karury na miejsce na spadochron. Moduł otrzyma KSM i zablokuje te aktywa na okres 48 tygodni, po czym uczestniczący użytkownicy automatycznie otrzymają zwrot całego wkładu.
 
-## **3\. Receive KAR rewards**
+## **** 3 \. Otrzymuj nagrody KAR ****
 
-For their support, participants will receive [Karura’s native token KAR](https://acala.network/karura/token).
+W ramach wsparcia uczestnicy otrzymają \[natywny token Karury, KAR\] (https://acala.network/karura/token).
 
-**For each 1 KSM locked, a participant will be rewarded with a minimum of 12 KAR.** Though, the reward _could_ be higher. It all depends on the amount of support Karura receives.
+** Za każdy zablokowany 1 KSM uczestnik otrzyma minimum 12 KAR. ** Chociaż nagroda _może_ być wyższa. Wszystko zależy od tego, jakie wsparcie otrzyma Karura.
 
-Once Karura launches, any community member who had locked their KSM during the Crowdloan campaign will receive their reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the 48-week lease period.
+Po uruchomieniu Karury każdy członek społeczności, który zablokował KSM podczas kampanii Crowdloan, otrzyma nagrodę w KAR. Po otrzymaniu 30% tego KAR-u zostanie odblokowane, płynne i będzie dostępne do wykorzystania w ekosystemie Karura DeFi, podczas gdy pozostałe 70% zostanie przekazane i zwolnione stopniowo, aż do końca 48-tygodniowego okresu dzierżawy.
 
-## **Refer a friend and you’ll each receive 5% bonus rewards**
+## **** Poleć znajomego, a każdy z nich otrzyma 5% premii ****
 
-Savvy community members can also take advantage of our referral program to earn additional KAR rewards. For each successful referral to the Crowdloan module, we’ll send 5% additional bonus KAR to you and a friend.
+Doświadczeni członkowie społeczności mogą również skorzystać z naszego programu poleceń, aby zdobyć dodatkowe nagrody KAR. Za każde udane skierowanie do modułu Crowdloan wyślemy 5% dodatkowego KAR-a do Ciebie i znajomego.
 
-# A sustainable token economic model
+# Zrównoważony model ekonomiczny
 
 ![](https://miro.medium.com/max/3200/0\*VvGrUVcmSdtC9cQw)
 
-At genesis, the total supply of Karura’s native token will be 100,000,000 KAR, an amount that’s fixed and deflationary — a different approach from the many projects that rely on inflation mechanisms for sustainability. We’re confident in the security and scalability provided by Kusama’s relay chain, and have designed Karura’s total supply and token economics to ensure the project’s long-term success.
+W Genesis całkowita podaż rodzimego tokena Karury wyniesie 100 000 000 KAR, czyli kwotę stałą i deflacyjną - co jest innym podejściem niż wiele projektów, które w celu zapewnienia zrównoważonego rozwoju opierają się na mechanizmach inflacyjnych. Jesteśmy przekonani o bezpieczeństwie i skalowalności zapewnianej przez łańcuch przekaźników firmy Kusama i zaprojektowaliśmy całkowitą podaż firmy Karura oraz ekonomikę tokenów, aby zapewnić długoterminowy sukces projektu.
 
-Karura is built with decentralization at heart. 60.87% of KAR has been committed to the community, ecosystem and network operation through the “Auction Reward/Liquidity Program,” “Treasury/Reserve,” and “Ecosystem Program.”
+Karura jest zbudowana z myślą o decentralizacji. 60,87% KAR zostało zaangażowanych w działania społeczności, ekosystemu i sieci poprzez „Program aukcji nagród / płynności”, „Treasury / Reserve” i „Ecosystem Program”.
 
-# **Interested in participating in the Karura crowdloan?**
+# **** Zainteresowany udziałem w Crowdloan Karura?**
 
-[Subscribe to the newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) and be among the first to know when the crowdloan module is live.
+\[Zapisz się do newslettera\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) i bądź jedną z pierwszych osób, które dowiedzą się, kiedy moduł Crowdloan jest aktywny.
 
 ![](https://miro.medium.com/max/2402/1\*oac6FehxVOu8zmzUxj8EYw.png)
 
-# About Acala
+# O Acali
 
-[Acala](http://acala.network/) is an all-in-one decentralized finance network offering a blockchain platform secured by Polkadot, as well as a suite of cross-chain financial applications that let users trade, issue self-serviced loans, become liquidity providers, access staking derivatives, and earn high-interest APY on their digital assets. The network is scalable, Ethereum-compatible, and optimized for DeFi.
+\[Acala\] (http://acala.network/) to zdecentralizowana sieć finansowa typu wszystko w jednym, oferująca platformę blockchain zabezpieczoną przez Polkadot, a także zestaw międzyłańcuchowych aplikacji finansowych, które umożliwiają użytkownikom handel, samodzielne wydawanie pożyczki obsługiwane, stań się dostawcami płynności, uzyskaj dostęp do instrumentów pochodnych do obstawiania i zarabiaj RRSO o wysokim oprocentowaniu na swoich cyfrowych aktywach. Sieć jest skalowalna, kompatybilna z Ethereum i zoptymalizowana pod kątem DeFi.
 
-Acala was founded in Oct 2019, and today has received five Web3 Foundation grants, has backing from Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere and other top firms, and has a distributed team in New Zealand, China, Europe, Brazil, and the United States.
+Acala została założona w październiku 2019 r., A dziś otrzymała pięć grantów Fundacji Web3, ma wsparcie od Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere i innych czołowych firm oraz ma rozproszony zespół w Nowej Zelandii, Chinach, Europie, Brazylii i Stany Zjednoczone.
 
-[Linktree](https://linktr.ee/acalanetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
+\[Linktree\] (https://linktr.ee/acalanetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Witryna internetowa\] (https://acala.network/) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | \[YouTube\] (http://youtube.com/c/acalanetwork)
 
-# About Karura
+# O Karurze
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+\[Karura\] (http://acala.network/karura) to kompleksowe centrum DeFi w Kusama. Założona przez Acala Foundation, Karura to skalowalna, kompatybilna z EVM sieć zoptymalizowana pod kątem DeFi. Platforma oferuje zestaw aplikacji finansowych, w tym: niezaufaną pochodną do obstawiania (płynny KSM), stablecoin z wieloma zabezpieczeniami zabezpieczony aktywami cross-chain (kUSD) oraz AMM DEX - wszystkie z opłatami za mikro-gaz, które można zapłacić w dowolnym znak.
 
-[Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
+\[Linktree\] (http://linktr.ee/karuranetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Strona internetowa\] (http://acala.network/karura) | \[Twitter\] (https://twitter.com/KaruraNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | \[YouTube\] (http://youtube.com/c/acalanetwork)
