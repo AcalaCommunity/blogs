@@ -6,36 +6,36 @@
 
 Автор статьи: [Брайан Чен](https://medium.com/u/241f963260c9?source=post_page-----588b3891e53d--------------------------------)
 
-Polkadot разработан как для простой интеграции с другими блокчейнами, такими как Bitcoin и Ethereum (через мосты, такие как Interlay и RenVM), так и для размещения ряда разнородных (так называемых независимых и настраиваемых), но взаимосвязанных цеей, называемых парачейнами. Polkadot больше похож на цепь инфраструктуры уровня 0, обеспечивая базовый уровень доверия, который поставляется с общей безопасностью Proof of Stake (PoS) и межсетевым взаимодействием. Цепи парачейнов, скорее всего, будут цепями для конкретной предметной области, оптимизированными для их вариантов использования и решения конкретных проблем предметной области, где Acala занимает сферу децентрализованных финансов. Мы предлагаем набор готовых примитивов DeFi, таких как стейблкоин (aUSD), деривативы для стекинга (например, позволяющие выкупить токены (LDOT) на застеканном/залоченном DOT) и децентрализованный обмен, чтобы обеспечить больше инноваций DeFi. We’ve also open-sourced common utility modules such as an oracle, multi-currency, generic monitoring framework for teams to use.
+Polkadot разработан как для простой интеграции с другими блокчейнами, такими как Bitcoin и Ethereum (через мосты, такие как Interlay и RenVM), так и для размещения ряда разнородных (так называемых независимых и настраиваемых), но взаимосвязанных цеей, называемых парачейнами. Polkadot больше похож на цепь инфраструктуры уровня 0, обеспечивая базовый уровень доверия, который поставляется с общей безопасностью Proof of Stake (PoS) и межсетевым взаимодействием. Цепи парачейнов, скорее всего, будут цепями для конкретной предметной области, оптимизированными для их вариантов использования и решения конкретных проблем предметной области, где Acala занимает сферу децентрализованных финансов. Мы предлагаем набор готовых примитивов DeFi, таких как стейблкоин (aUSD), деривативы для стекинга (например, позволяющие выкупить токены (LDOT) на застеканном/залоченном DOT) и децентрализованный обмен, чтобы обеспечить больше инноваций DeFi. Мы также создали общие служебные модули с открытым исходным кодом, такие как оракул, мультивалютную, универсальную среду мониторинга, которую могут использовать команды.
 
-Substrate-based parachains like Acala will enjoy the full-tech-stack provided by this framework ranging from low-level technical infrastructure (RPC, web-assembly runtime, peer-2-peer communication etc.), to application-layer modules that enable EVM (Ethereum Virtual Machine) and Smart Contract capabilities. This means in the foreseeable future chain-level innovation and technological advancements will happen at an unprecedented speed with large scale; new capabilities will be plug-and-play via forkless upgrades across all Substrate-based chains easily and seamlessly (see examples on [Substrate marketplace](https://marketplace-staging.substrate.dev/)).
+Парачейны на основе Substrate, такие как Acala, будут пользоваться полным технологическим стеком, предоставляемым этой структурой, начиная от технической инфраструктуры низкого уровня (RPC, среда выполнения веб-сборки, одноранговая связь и т. д.), до модулей уровня приложения, которые позволяют EVM (виртуальная машина Ethereum) и возможности смарт-контрактов. Это означает, что в обозримом будущем инновации на уровне цепи и технологический прогресс будут происходить с беспрецедентной скоростью и в больших масштабах; новые возможности будут легко и беспрепятственно реализованы в режиме plug-and-play с помощью безфорковых обновлений для всех цепей на основе Substrate (см. примеры на [рынке Substrate](https://marketplace-staging.substrate.dev/)).
 
-That said, Acala has now enabled Smart Contract capabilities in the following fashions:
+Тем не менее, в Acala теперь доступны следующие возможности смарт-контрактов:
 
-1.  Acala supports the EVM pallet (aka runtime module), which is essentially an Ethereum Virtual Machine implementation on Substrate so that Solidity contracts can be deployed and run on Acala.
-2.  Acala also supports the ink! contract pallet, which enables Wasm (Web Assembly) based Substrate native Smart Contracts written in Rust.
+1.  Acala поддерживает паллет EVM (также известный как модуль времени выполнения), который, по сути, является реализацией виртуальной машины Ethereum на Substrate, так что контракты Solidity могут быть развернуты и запущены на Acala.
+2.  Acala также поддерживает ink! контракт паллеты, которые позволяют использовать собственные смарт-контракты Substrate на основе Wasm (Web Assembly), написанные на Rust.
 
-This update is driven by both technical progression and community interests. Acala is helping a number of protocols exploring cross-chain DeFi deployments on Polkadot, the mechanisms of which we will unpack in this article, and Smart Contracts is certainly one of the important avenues to explore. Hereafter Acala will be more actively collaborating with [Parity](https://www.parity.io/) and others in the ecosystem such as [Moonbeam](https://moonbeam.network/), [Plasm](https://www.plasmnet.io/) and [Edgeware](https://edgewa.re/), and contributing to the EVM and smart contract development.
+Это обновление обусловлено как техническим прогрессом, так и интересами сообщества. Acala помогает ряду протоколов, изучающих кросс-чейн развертывания DeFi на Polkadot, механизмы, о которых мы расскажем в этой статье, и смарт-контракты, безусловно, являются одним из важных направлений для изучения. В дальнейшем Acala будет более активно сотрудничать с [Parity](https://www.parity.io/) и другими участниками экосистемы, такими как [Moonbeam](https://moonbeam.network/), [Plasm](https://www.plasmnet.io/) и [Edgeware](https://edgewa.re/), и участие в разработке EVM и смарт-контрактов.
 
-# We will now go into depth on the following topics:
+# Сейчас мы рассмотрим следующие темы:
 
-1.  Cross-chain Liquidity via Bridges
-2.  Ways to deploy on Polkadot
-3.  Ways to deploy on Kusama
-4.  Ways to deploy on Acala
-5.  The current state of Smart Contracts on Polkadot
+1.  Кросс-чейн ликвидность через мосты
+2.  Способы развертывания на Polkadot
+3.  Способы развертывания на Kusama
+4.  Способы развертывания на Acala
+5.  Текущее состояние смарт-контрактов на Polkadot
 
-# Cross-chain Liquidity via Bridges
+# Кросс-чейн ликвидность через мосты
 
-Bridges are interoperable technology to cross assets and messages between two economically sovereign and technologically diverse chains e.g. between Polkadot and Ethereum or Bitcoin. There are different flavors of bridges ranging from centralized and trusted to more decentralized and trustless.
+Мосты - это интероперабельная технология для передачи активов и сообщений между двумя экономически суверенными и технологически разными цепями, например между Polkadot и Ethereum или Bitcoin. Существуют разные виды мостов: от централизованных и надежных до более децентрализованных и ненадежных.
 
-1.  **Custodial solutions**: using multi-sig or Proof of Authority (PoA) types of setup, they are relatively easier to implement and are available to use right now. [ChainX](https://chainx.org/) as Bitcoin bridge and [ChainSafe](https://chainsafe.io/) as Ethereum bridge are examples of this type, with roadmaps to become more decentralized over time.
-2.  **Trustless solutions**: using economic and/or cryptographic guarantees to transfer assets to/from two blockchains; they are trustless, but could be expensive to users, and also are still under research and development due to technical challenges of its trustless nature. [Interlay](https://medium.com/interlay/bitcoin-on-polkadot-proof-of-concept-for-trustless-bridge-shipped-6fb8e549bef0) as a Bitcoin bridge and [SnowFork](http://www.snowfork.com/) and [Darwinia](https://darwinia.network/) as an Ethereum bridge are examples of this type.
-3.  **Hybrid Custodial/Trustless solutions**: then there’s the [RenVM](https://renproject.io/) solution that is permissionless with great UX and popularity with a clear pathway towards decentralization, but right now much trust has been placed on the Ren team.
+1.  **Кастодиальные решения**: при использовании типов настройки с несколькими подписями или Proof of Authority (PoA) их относительно проще реализовать и они доступны для использования прямо сейчас. [ChainX](https://chainx.org/) как Bitcoin мост и [ChainSafe](https://chainsafe.io/) как мост Ethereum являются примерами этого типа, а дорожные карты со временем станут более децентрализованными.
+2.  **Решения без доверия**: использование экономических и/или криптографических гарантий для передачи активов в/из двух блокчейнов; они не вызывают доверия, но могут быть дорогостоящими для пользователей, а также все еще находятся в стадии исследований и разработок из-за технических проблем, связанных с ненадежной природой. [Interlay](https://medium.com/interlay/bitcoin-on-polkadot-proof-of-concept-for-trustless-bridge-shipped-6fb8e549bef0) как Bitcoin мост и [SnowFork](http://www.snowfork.com/) и [Darwinia](https://darwinia.network/) как мост Ethereum являются примерами этого типа.
+3.  **Гибридные кастодиальные/надежные решения**: тогда есть решение [RenVM](https://renproject.io/), которое не требует прав доступа, с отличным пользовательским интерфейсом и популярностью с четким путем к децентрализации, но сейчас больше доверие было возложено на Команду Ren.
 
-Acala is neutral with regards to approaches to bridge solutions, as different flavors of bridges may satisfy different user preferences of trustlessness, convenience and costs, and there are good reasons for various types of bridges to co-exist and serve various needs.
+Acala нейтральна в отношении подходов к решениям мостов, поскольку разные типы мостов могут удовлетворять разные предпочтения пользователей в отношении надежности, удобства и стоимости, и есть веские причины для того, чтобы различные типы мостов сосуществовали и удовлетворяли различные потребности.
 
-# Deploying on the Polkadot Relay Chain
+# Развертывание на релейной цепи Polkadot
 
 As mentioned, Polkadot is a Layer-0 cross-chain infrastructure chain (called the [Relay Chain](https://wiki.polkadot.network/docs/en/learn-architecture#relay-chain)). Applications and protocols hence cannot be deployed directly on the Relay Chain but rather via the following mechanisms provided as fabrics of the Polkadot network, each with its own trade-offs:
 
