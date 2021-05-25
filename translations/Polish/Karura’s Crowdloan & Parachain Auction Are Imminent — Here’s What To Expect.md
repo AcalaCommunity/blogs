@@ -34,9 +34,9 @@ Aby uzyskać więcej informacji na temat pożyczki publicznej "Crowdloan" oraz a
 
 # Sprawiedliwa i etyczna dystrybucja tokenów
 
-Projektując ekonomię tokena dla Karury, zespół starał się dostosować zachęty i uruchomić projekt z korzyścią dla swojej społeczności. W końcu, Karura i Acala mają ponad 90 000 członków, wraz z [programem Ambasadora](https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), który będzie służył jako trzon projektu.
+Projektując ekonomię tokena dla Karury, zespół starał się dostosować zachęty i uruchomić projekt z korzyścią dla swojej społeczności. W końcu, Karura i Acala mają ponad 90 000 członków, wraz z [programem Ambasadora](https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), który będzie służył jako wsparcie projektu.
 
-Aby zapewnić tym społecznościom dostęp do narzędzi DeFi firmy Karura przez cały dzień, a także możliwość zdobycia nagród podczas wspierania uruchomienia sieci, zespół zdecydował się pozyskać fundusze na aukcję Kusama Parachain i nagrodzić uczestników społeczności karurą. token natywny (KAR).
+In order to ensure that these communities have day-one access to Karura’s DeFi tools, along with the opportunity to earn rewards while supporting the network’s launch, the team has opted to crowdsource the funding for the Kusama Parachain Auction and to reward community participants with Karura’s native token (KAR).
 
 ## Oto jak to działa.
 
