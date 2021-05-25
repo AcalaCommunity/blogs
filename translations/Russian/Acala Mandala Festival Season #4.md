@@ -1,6 +1,6 @@
 # Acala Mandala Festival Season #4 Возвращение Хэллоуина
 
-![Image for post](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
+![Изображение для публикации](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
 
 С момента нашего первого выпуска в марте, **Mandala Festival** стал нашим способом продемонстрировать новые разработки, отметить наш прогресс и поделиться большой радостью с сообществом. Мы вам чрезвычайно благодарны за вашу поддержку, энтузиазм, участие в сетевых мероприятиях и обсуждениях.
 
@@ -25,95 +25,98 @@
 
 # Mandala Fest #4: Halloween Give-Back
 
-Building Acala is a community effort, and Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. **All past festival-goers would have a chance to claim Acala & Karura Halloween themed NFT badges.**
+Строительство Acala - это усилие сообщества, и Mandala Fest затем становится праздником этого растущего сообщества и огромных возможностей, которые ждут всех нас при создании web3. **Все посетители прошлых фестивалей будут иметь шанс заклеимить Хэллоуинские NFT Acala и Karura.**
 
-These collectibles don’t have a monetary value nor a market, they are our mere way of honoring our shared experience and saying THANK YOU. Newcomers to the community who complete required tasks would also have a chance to claim these collectibles.
+Эти предметы коллекционирования не имеют денежной ценности и не имеют рыночной стоимости, они - всего лишь способ отдать дань уважения нашему общему опыту и сказать СПАСИБО. Новички в сообществе, выполнившие необходимые задания, также смогут получить эти предметы коллекционирования.
 
-Here’s what the festival looks like and the rewards
+Вот как выглядит фестиваль и награды
 
-- **Part I** (31-October-2020 to 06-November-2020 | **Award Pool**: 2,000 ACA + 2,000 KAR): **Welcome Newcomers** — complete required transactions to qualify.
-- **Part II** (31-October-2020 to 13-November-2020 | **Award Pool ≈** 30,000 ACA + 30,000 KAR): **Thank You** — reward claim by qualified past festival participants
-- **Part III** (31-October-2020 to 13-November-2020 | **Award Pool**: 3,000 ACA + 3,000 KAR): **Bounties** — bugs, stickers, emojis or else
+- **Часть I** (с 31 октября 2020 г. по 6 ноября 2020 г. | **Фонд наград**: 2 000 ACA + 2 000 KAR): **Добро пожаловать, новобранцы** - завершены необходимые транзакции для квалификации.
+- **Часть II** (с 31 октября 2020 г. по 13 ноября 2020 г. | **Сумма вознаграждений ≈** 30 000 ACA + 30 000 KAR): **Спасибо** - награда, которую могут заклеимить квалифицированные участники прошлого фестиваля
+- **Часть III** (с 31 октября 2020 г. по 13 ноября 2020 г. | **Фонд наград**: 3 000 ACA + 3 000 KAR): **Награды** - баги, стикеры, смайлики или что-то еще
 
-# Get Started
+# Приступим
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- All rewards are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- Начните работу с Acala с создание кошелька и получения тестовых токенов [здесь](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
+- Ознакомьтесь с этими гайдами, чтобы использовать [стейблкоин Honzon](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX) и [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
+- Ознакомьтесь с гайдами по кросс-чейн торговле с Laminar и Ren [здесь](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
+- Ознакомьтесь со списком наград [здесь](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
 
-# Full Schedule and Rules
+# Полное расписание и правила
 
-## **Part 1: Welcome Newcomers**
+## **Часть 1: Добро пожаловать, новобранцы**
 
-**Duration**: 31-October-2020 to 06-November-2020 (week one)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**Продолжительность**: с 31 октября 2020 года по 6 ноября 2020 года (первая неделя)  
+**Призовой фонд**: 2 000 ACA + 2 000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
-- _Note these rewards are lucky draws, not guaranteed_
+- Все квалифицированные пользователи разделят пул вознаграждений
+- Все награды будут записаны и опубликованы
+- _Обратите внимание, что эти награды являются лотереей и не гарантированы_
 
-![Image for post](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
+![Изображение для публикации](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
 
-**Participation Rules:**
+**Правила участия:**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- Получите тестовые aUSD из "крана", сборы оплачиваются в aUSD
+- Пользователи, совершившие три значимых транзакции, будут вознаграждены
 
-**Meaningful transactions include:**
+**Значимые транзакции включают:**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity and transfer LP Tokens to another account
-- Use the Self Service Loan service to collateralize for Acala Dollar (aUSD)
-- Use Homa protocol to get staking derivative LDOT
-- Mint renBTC and use it in the above activities
+- Использование DEX для обмена токенов
+- Используйте DEX для обеспечения ликвидности и перевода токенов LP на другую учетную запись
+- Используйте Self Service Loan для обеспечения для Acala Dollar (aUSD)
+- Использование протокола Homa для получения производной LDOT для стейкинга
+- "Чеканка" renBTC и использование его в указанных выше операциях
 
-## **Part 2: Thank You**
+## **Часть 2: Благодарим вас**
 
-**Duration**: 31-October-2020 to 13-November-2020 (week one & two)  
-**Award Pool ≈** 30,000 ACA + 30,000 KAR
+**Продолжительность**: с 31 октября 2020 года по 13 ноября 2020 года (первая и вторая недели)  
+**Призовой фонд ≈** 30 000 ACA + 30 000 KAR
 
-**Participation Rules:**
+**Правила участия:**
 
-- Each account which participated Mandala TC2/TC3/TC4 can get 1 ACA + 1 KAR（If all testnet you participated, you will get 3 ACA + 3 KAR ）
-- The nonce of each Mandala TC2/TC3/TC4 account must greater than or equal to two
-- All rewards need be claimed in Acala Dapp
-- You can see the rewards in your wallet Airdrop account
+- Каждая учетная запись, которая участвовала в Mandala TC2/TC3/TC4, может получить 1 ACA + 1 KAR (если вы участвовали во всем тестнете, вы получите 3 ACA + 3 KAR)
+- Одноразовый номер каждой учетной записи Mandala TC2/TC3/TC4 должен быть больше или равен двум
+- Все награды нужно заклеимить в Acala Dapp
+- Вы можете увидеть награды в вашем аккаунте в графе Airdrop
 
-## **Part 3: Bounties for Bugs, Sticker & Emojis sets** (**Throughout the Festival**)
+## **Часть 3: Награды за баги, стикеры и наборы эмодзи** (**На протяжении всего фестиваля**)
 
-**Duration**: 31-October-2020 to 13-November-2020 (two weeks)  
-**Award Pool**: 3,000 ACA + 3,000 KAR
+**Продолжительность**: с 31 октября 2020 года по 13 ноября 2020 года (две недели)  
+**Призовой фонд**: 3 000 ACA + 3 000 KAR
 
-- Please allow one week from your submission for our review.
+- Пожалуйста, подождите одну неделю с момента вашей отправки для нашего рассмотрения.
 
-**Participation Rules:  
-Bug Bounties**
+**Правила участия: Bug Bounties (Награды за баги)**
 
-- Find bugs for the following repos:  
+- Найдите ошибки для следующих репозиториев:  
   [https://github.com/AcalaNetwork/Acala  
   ](https://github.com/AcalaNetwork/Acala)[https://github.com/AcalaNetwork/acala-dapp  
-  ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
-- Please **include your Acala Mandala Address in the Github issue** for easy prize distribution
+  ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (часть Acala)
+- Ошибки оцениваются по значимости и серьезности командой инженеров Acala и присуждаются примерно на основе уровней [здесь](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
+- Пожалуйста, **укажите свой Acala Mandala адрес в теме Github**, чтобы упростить выдачу наград
 
-**Stickers & Emojis sets**
+**Стикеры и наборы смайликов**
 
-- Rewards are not guaranteed for this category
-- Feel free to submit Acala/Karura themed Sticker & Emoji sets
-- Sticker & Emoji sets selected for our Discord channels will receive rewards
-- Please **include your Acala Mandala Address in the submission**
+- Награды в этой категории не гарантируются
+- Не стесняйтесь присылать тематические стикеры для Acala/Karura и наборы эмодзи
+- Стикеры и наборы эмодзи, выбранные для наших каналов Discord, получат награды
+- Пожалуйста, **укажите свой адрес Acala Mandala в заявке**
 
-# 🎉 Let the festivities begin
+# 🎉 Пусть праздник начнется
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+Мы рады отпраздновать Mandala Fest вместе со всеми вами! Мы надеемся, что щедрые награды, широкий спектр задач и знаменательные возможности кросс-чейн DeFi понравятся многим из вас. **Что касается тест драйва Polkadot, Acala дает вам поул-позицию и самый быстрый путь от "нуля до короля".** Как всегда, команда всегда готова ответить на любые вопросы и помочь вам максимально эффективно использовать Фестиваль. Присоединяйтесь к нашим каналам, чтобы получить VIP-доступ к поддержке и нашему сообществу 👇
 
-# Join Us
+# Присоединяйтесь к нам
 
 [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launches on Polkadot and Kusama, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Чтобы быть в курсе того, как запускаются парачейны Acala на Polkadot и Kusama, подпишитесь на новостную рассылку от
 
-# About Acala
+Acala.</p> 
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+
+
+# Об Acala
+
+[ Acala ](http://acala.network/) - это децентрализованный финансовый центр Polkadot, который позволяет быстро и легко использовать или создавать финансовые приложения, повышая эффективность торговли и экономя драгоценное время. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
