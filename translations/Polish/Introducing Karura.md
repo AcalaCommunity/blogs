@@ -1,38 +1,38 @@
-# **** Przedstawiamy Karurę: Acala's DeFi Parachain na Kusamie ****
+# **Wprowadzenie do Karura: DeFi Parachain Acali na Kusama**
 
-## Karura będzie zdecentralizowanym centrum finansowym Kusamy i planuje być jednym z pierwszych spadochronów, które zostaną uruchomione w sieci
+## Karura będzie zdecentralizowanym centrum finansowym na sieci Kusama i w planuje się, aby była jednym z pierwszych parachain`ów uruchomionych w sieci
 
 ![Image for post](https://miro.medium.com/max/1600/0*nr7tcscsg65Yy_zx)
 
-Feniks symbolizuje odrodzenie, odnowę i ponowne odkrycie jako powracający motyw w całej historii ludzkości. Ludzie od dawna szanują te opowieści o nadziei, pomagając uspokoić ich lęki i zapewniając im jaśniejszą, lepszą przyszłość. Przez wieki Feniks pojawiał się w starożytnych tekstach symbolizujących takie pojęcia jak odrodzenie, nieśmiertelność, łaska, zmartwychwstanie, moc i dobrobyt w kulturach od greckiej po perską i chińską. Feniks umocnił się w czasie jako symbol naszej zdolności do wznoszenia się raz po raz z popiołów.
+Feniks symbolizuje odrodzenie, odnowę i ponowne narodziny jako powracający motyw w całej historii ludzkości. Ludzie od dawna szanują te opowieści o nadziei, pomagając uspokoić ich lęki i zapewniając im jaśniejszą, lepszą przyszłość. Przez wieki Feniks pojawiał się w starożytnych tekstach symbolizując takie pojęcia jak odrodzenie, nieśmiertelność, łaska, zmartwychwstanie, moc i dobrobyt w kulturach od greckiej po perską i chińską. Feniks z czasem umocnił się jako symbol naszej zdolności do podnoszenia się z popiołów za każdym razem od nowa.
 
-Nazwa Karura pochodzi od boskiego stworzenia w języku japońskim, wywodzącego się z rasy gigantycznych ptaków w hinduizmie. Według mitologii japońskiej karura jest ogromnym, ziejącym ogniem ptakiem, który jest zgodny z odważnymi i potężnymi intencjami sieci Karura. Marka Karura reprezentuje Phoenix. Zbudowana jako siostrzana sieć Acali z praktycznie tym samym kodem, Karura będzie siecią stale odkrywającą się na nowo i ewoluującą w miarę wdrażania najnowszych technologii w ekosystemie Acala. Podobnie jak cel Acali na Polkadot, Karura będzie służyć społeczności \[Kusama\] (http://kusama.network) jako jej główne zdecentralizowane centrum finansowe (DeFi). W przyszłości Acala i Karura będą nadal działać równolegle i służyć użytkownikom społeczności Polkadot i Kusama. Kiedy Kusama zostanie połączona mostem z Polkadot, Karura i Acala również będą ze sobą współpracować.
+Nazwa Karura pochodzi od boskiego stworzenia w języku japońskim, wywodzącego się z rasy gigantycznych ptaków w Hinduizmie. Według mitologii japońskiej karura jest ogromnym, ziejącym ogniem ptakiem, który jest zgodny z odważnymi i potężnymi intencjami sieci Karura. Karurę reprezentuje Feniks. Zbudowana jako siostrzana sieć Acali z praktycznie tym samym kodem, Karura będzie siecią stale odnawiającą się i ewoluującą w miarę wdrażania najnowszych technologii w ekosystemie Acala. Podobnie jak przeznaczeniem Acali jest sieć Polkadot, Karura będzie służyć społeczności [ Kusama ](http://kusama.network) jako jej główne zdecentralizowane centrum finansowe (DeFi). W przyszłości Acala i Karura będą nadal działać równolegle i służyć użytkownikom społeczności Polkadot i Kusama. Kiedy Kusama zostanie połączona mostem z Polkadot, Karura i Acala również będą ze sobą współpracować.
 
-Teraz trochę o tym, dlaczego wybraliśmy Kusamę dla Karury. Kusama to wiodąca w branży, wielołańcuchowa sieć „warstwy zero”, w której zostanie zbudowanych wiele parachainów, w tym Karura, w celu odziedziczenia zabezpieczeń typu plug-and-play od walidatorów sieci i doświadczania interoperacyjności ze wszystkimi łańcuchami bloków na i mostem do Kusama. Użytkownicy i konstruktorzy szukają platformy DeFi, która pozwoli im rozpocząć tworzenie i używanie aplikacji DeFi, które można skalować, nie mają wygórowanych opłat transakcyjnych i mogą przekazywać dane i wartości między innymi sieciami zamiast działać w izolacji. Karura planuje przejąć tę rolę dla społeczności Kusama, ponieważ Acala przejmuje tę rolę dla społeczności Polkadot.
+Teraz trochę o tym, dlaczego wybraliśmy Kusamę dla Karury. Kusama to wiodąca w branży, wielołańcuchowa sieć „warstwy zero”, w której zostanie zbudowanych wiele parachainów, w tym Karura, w celu uzyskania zabezpieczeń typu plug-and-play od walidatorów sieci oraz możliwości interoperacyjności ze wszystkimi blockchain`ami na i mostem do Kusama. Użytkownicy i konstruktorzy szukają platformy DeFi, która pozwoli im rozpocząć tworzenie i używanie aplikacji DeFi, które można skalować, które nie mają wygórowanych opłat transakcyjnych i mogą przekazywać dane i wartości między innymi sieciami zamiast działać w izolacji. Karura planuje przejąć tę rolę dla społeczności Kusama, tak jak Acala przejmuje tę rolę dla społeczności Polkadot.
 
-Jeśli chodzi o możliwości, możliwości będą zależeć od społeczności konstruktorów, torując drogę nowym przypadkom użycia i aplikacjom w Karura i Acala. Karura zacznie od wielu gotowych do użycia aplikacji, a ponieważ Karura jest platformą blockchain, wielu programistów będzie również wdrażać aplikacje na infrastrukturze Karury. Karura rozpocznie swoje życie na Kusamie z poniższymi aplikacjami i przypadkami użycia. Możesz \[spróbować teraz\] (https://apps.acala.network/) w testnet Karura i Acala, zwany Mandala.
+Jeśli chodzi o możliwości, to możliwości będą zależeć od społeczności konstruktorów, torując drogę nowym zastosowaniom i aplikacjom w Karura i Acala. Karura zacznie od wielu gotowych do użycia aplikacji, a ponieważ Karura jest platformą blockchain, wielu programistów będzie również wdrażać swoje aplikacje na infrastrukturze Karury. Karura rozpocznie swoje życie na Kusamie z poniższymi aplikacjami i ich zastosowaniami. Możesz także [wypróbować to teraz](https://apps.acala.network/) w sieci testowej Karura i Acala o nazwie Mandala.
 
-1.  ** Obstawianie instrumentu pochodnego L-KSM ** (Płynny KSM w celu uwolnienia płynności z postawionego KSM dla przypadków użycia DeFi)
-2.  ** Kredyt Stablecoin ** (KSM i L-KSM używane jako główne zabezpieczenie)
-3.  **** Zarabianie na zyskach i odsetkach ****
-4.  **** Handel na zdecentralizowanej giełdzie ****
-5.  **** Zarządzanie w łańcuchu ****
-6.  **On-chain treasury**
-7.  **Native oracle price feed**
+1.  ** L-KSM pochodna staking`u ** (Płynny KSM, aby umożliwić płynność stak`owanych KSM do użytku w aplikacjach DeFi)
+2.  **Stablecoin na kredyt** (KSM i L-KSM użyty jako główny składnik zabezpieczenia)
+3.  **Zyski i odsetki**
+4.  **Handel na zdecentralizowanej giełdzie**
+5.  **Zarządzanie sieci "on-chain"**
+6.  **Skarbiec sieci "on-chain"**
+7.  **Natywny kanał wycen**
 
-Karura i Acala będą przynieść znaczącą zmianę w status quo, do którego społeczność DeFi została zmuszona do przyzwyczajenia. Karura zapewni użytkownikom możliwość:
+Karura i Acala przyniosą znaczną zmianę w status quo, do którego społeczność DeFi została przyzwyczajona. Karura umożliwi:
 
-- ** Odblokowanie płynności obstawiania: ** Bezfunkcyjne instrumenty pochodne do obstawiania umożliwią użytkownikom obstawiającym KSM możliwość wystawiania LKSM (płynnego KSM), którego można użyć w każdej z wymienionych aplikacji DeFi powyżej lub w innym miejscu w ekosystemie międzyłańcuchowym.
+- ** Odblokuj płynność staking`u: ** niewymagająca zaufania pochodna staking`u, daje możliwość wydawania LKSM (płynnego KSM), oraz użycia go w dowolnej aplikacji DeFi wspomnianej powyżej lub w innym miejscu ekosystem sieci.
 
-- ** Odblokuj płynność między łańcuchami **: Użytkownicy będą mogli wprowadzić BTC i ETH do Karury za pomocą rozwiązań pomostowych i uiszczać opłaty w tych opakowanych tokenach. Eliminuje to konieczność uiszczania opłat w starszych sieciach w natywnym tokenie sieci, takim jak ETH, zamiast pozwalać użytkownikom po prostu uiszczać opłaty za pomocą tokena, który przenoszą. Koniec z koniecznością korzystania z natywnego tokena sieci do pobierania opłat.
+- **Odblokuj międzyłańcuchową "cross-chain" płynność**: Użytkownicy będą mogli wprowadzić BTC i ETH do Karury poprzez rozwiązania pomostowe i uiszczać opłaty w tych zapakowanych "wrapped" tokenach. Eliminuje to konieczność uiszczania opłat w natywnym tokenie danej sieci, takim jak ETH, zamiast pozwalać użytkownikom po prostu uiszczać opłaty za pomocą tokena, który przenoszą. Nie ma więcej wymogu używania natywnego tokena sieci do uiszczania opłat.
 
-- ** Koniec z okresem odłączania **: Karura usunie potrzebę czekania przez użytkowników 7 dni na Kusama na odłączenie KSM, tak jak Acala zrobi to samo na Polkadot.
+- **Koniec z okresem odłączenia**: Karura usunie potrzebę oczekiwania 7 dni, aby odłączyć KSM w sieci Kusama, tak samo jak Acala zrobi to w sieci Polkadot.
 
-- ** Najnowsze wersje technologiczne **: Będąc odważną i ryzykowną siostrzaną siecią Acala, nowe technologie zawsze będą najpierw trafiać do Karury. Użytkownicy Karury zawsze będą otrzymywać najnowsze technologie z ekosystemów Karura i Acala.
+- **Najnowsze wersje technologiczne**: nowe wersje technologii zawsze będą najpierw trafiać do sieci Karura, siostrzanej sieci Acali, która podejmuje ryzyko. Użytkownicy Karury zawsze będą otrzymywać najnowsze technologie z ekosystemów Karura i Acala.
 
-## **Developing on Karura**
+## **Programowanie na Karura**
 
-Mówi się, że Kusama jest „cypherpunkowym niebem” dla programistów, którzy chcą działać szybko i przekraczać granice tego, co jest możliwe. Karura planuje zintegrować się z tą tętniącą życiem społecznością programistów, zapewniając programistom Kusama i Substrate światowej klasy narzędzia i platformy do aplikacji finansowych. Programiści znajdą wiele nowych funkcji, w tym kilka poniżej:
+Mówi się, że Kusama jest „cypherpunkowym niebem” dla programistów, którzy chcą działać szybko i wyjść poza granice tego, co jest możliwe. Karura planuje zintegrować się z tą tętniącą życiem społecznością programistów, zapewniając programistom Kusama i Substrate światowej klasy narzędzia i platformy do aplikacji finansowych. Programiści znajdą wiele nowych funkcji, w tym kilka niżej wymienionych:
 
 - ** Solid User Base i Building Blocks: ** Kurura oferuje multi-collateral stablecoin, płynną płynność KSM (LKSM) i DEX jako prymitywy (czyli bloki konstrukcyjne) do budować na wierzchu. Karura będzie miała również dostęp do Bitcoin, Ethereum i innych sieci poprzez mosty. Jako spadochron połączony z łańcuchem przekaźników Kusamy, Karura będzie miała możliwość korzystania z ekosystemu krzyżowego Kusamy.
 
