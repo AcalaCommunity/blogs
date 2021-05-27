@@ -1,42 +1,42 @@
-# Acala’s Decentralized Sovereign Wealth Fund — A Next-gen DAO & Unforkable AUM
+# Acala社の分散型ソブリン・ウェルス・ファンド - 次世代DAO & アンフォーク AUM
 
 By [Joe Petrowski](https://medium.com/u/9f4b86fbf09a?source=post_page-----80f8c23d8f27--------------------------------) & [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----80f8c23d8f27--------------------------------)
 
-**TLDR:** Acala is a next-generation DAO — DAO3.0 obtaining economic and political (decision making) sovereignty via its on-chain decentralized Sovereign Wealth Fund (dSWF) and governance. The assets in the dSWF are essentially Asset Under Management — while you can fork the code, the liquidity, and even the community, you cannot fork the AUM.
+**TLDR:** Acalaは、オンチェーンの分散型Sovereign Wealth Fund（dSWF）とガバナンスによって、経済的・統治的（意思決定）な主権を獲得する次世代DAO - DAO3.0です。 dSWFの資産は基本的には運用目的資産であり、コードや流動性、そしてコミュニティをフォークすることはできても、AUMをフォークすることはできません。
 
 ![Image for post](https://miro.medium.com/max/1600/1*tG3vPiETDyoJgt1aC_5ygg.jpeg)
 
-Polkadot and Substrate provide the basis for new forms of societal organization and decision making. Acala is harnessing Substrate’s governance and treasury management capabilities along with Polkadot’s cross-chain messaging to create a decentralized sovereign wealth fund. The fund will enable the Acala chain to secure a parachain slot and continue development well after any initial fundraising runs out.
+PolkadotとSubstrateは、社会の組織や意思決定の新しい形の基盤となります。 Acalaは、Substrateのガバナンスおよび財務管理機能と、Polkadotのクロスチェーンメッセージングを活用して、分散型のソブリンファンドを設立しています。 この基金により、Acalaチェーンはパラチェンスロットを確保し、最初の資金調達が終了した後も開発を続けることができます。
 
-Before going into the mechanics of a decentralized sovereign wealth fund, let’s first discuss the traditional meaning. Like many open finance components, the decentralized variant has its roots in traditional finance.
+分散型ソブリン・ウェルス・ファンドの仕組みを説明する前に、まず従来の意味を説明します。 多くのオープンファイナンスコンポーネントと同様に、分散型バリアントは伝統的な金融にそのルーツを持っています。
 
-High export countries often form sovereign wealth funds to manage their surplus and currency imbalances. When a country exports its goods, it receives foreign currency, like U.S. dollars, because the consumers purchase in their (the consumers’) local currency. But the exporting country needs to pay their own workers in their (the workers’) local currency. They typically have two options: sell USD and buy their own currency on the open market, or print more of their own currency. For central bankers and government officials, the former is not so desirable: It increases the value of their own currency relative to the currency it receives, therefore diminishing the value of future revenue. They may use a combination of both options, but will want to minimize the conversion of the foreign currency to their local currency. So what can they do with the excess? Sovereign wealth funds are state funds that often have a collection of foreign currencies as well as other assets like precious metals, equities, bonds, and real estate. Say what you will about Wall Street billions, even a mid-sized sovereign wealth fund makes the entire hedge fund industry look like a mom and pop shop.
+一般的に、輸出量の多い国は、黒字と通貨の不均衡を管理するためにソブリンファンドを設立することが多々あります。 国が商品を輸出すると、例えば米国ドルのような外国の通貨が入ってきます。 これは、消費者はそれぞれの現地通貨で購入するからです。 しかし、輸出国は自国の労働者に自国通貨で給与を支払う必要があります。 この場合、一般的には、米ドルを売って市場で自国通貨を買うか、自国の通貨を増刷するかの2つの選択肢があります。 中央銀行や政府関係者にとって、前者はあまり好ましいものではありません。自国通貨の価値を受け取る通貨よりも相対的に高めてしまうため、将来の収益の価値が下がってしまうからです。 両方のオプションを組み合わせて使用することもできますが、外貨から自国通貨への換算を最小限に抑えたいと考えるでしょう。 では、その資金をどう扱うべきなのでしょうか？ ソブリン・ウェルス・ファンドは、国家が運営するファンドであり、外貨や貴金属、株式、債券、不動産などの資産を保有しています 。
 
-A government run investment fund seems ripe for corruption and licentious lawmakers. That said, some sovereign wealth funds provide real value to their citizens; Norway’s, valued at over a trillion dollars, provides a pension for every citizen.
+政府が運営する投資ファンドには、汚職や放埓な議員が多いようです。 一方で、政府系ファンドの中には国民に真の価値を提供しているものもあります。1兆ドル以上の価値を持つノルウェーのファンドは、国民全員に年金を提供しています。
 
-A decentralized sovereign wealth fund would provide a vehicle to deliver value to its citizens, but with the transparency and strict adherence to formal logic that blockchain allows. It could even go further. A typical wealth fund only serves to increase in value, but in a network where many tokens have _utility_, it could also gain access to functionality in other blockchain networks based on its holdings.
+分散型のソブリン・ウェルス・ファンドは、国民に価値を提供する手段を提供しますが、ブロックチェーンが可能にする透明性と正式な論理への厳格な遵守を備えています。 さらにその先も考えられます。 一般的なウェルスファンドは価値を高めることのみを目的としていますが、多くのトークンが_utility_を持つネットワークでは、その保有量に応じて他のブロックチェーンネットワークの機能にアクセスすることも可能です。
 
-# Blockchains as Sovereign Entities
+# ソブリンエンティティとしてのブロックチェーン
 
-This topic all revolves around a central notion, that a blockchain can be a sovereign entity. Sovereignty implies a form of agency, decision making ability, and the power to exercise it. While sub-entities in blockchains like smart contracts have limited agency, a blockchain itself has not had agency or sovereignty. For example, with “Bitcoin on Ethereum”, a contract on Ethereum can own some Bitcoin, but Ethereum qua network cannot.
+この話題は、「ブロックチェーンは主権を持つことができる」という概念を中心に展開されます。 ソブリンは、代理権や意思決定能力、そしてそれを行使する力の形態を意味します スマートコントラクトのようなブロックチェーンのサブエンティティには限定的なエージェンシーがありますが、ブロックチェーン自体にはエージェンシーも主権もありません。 例えば、「Bitcoin on Ethereum」では、Ethereum上のコントラクトは一部のBitcoinを所有できますが、ネットワークとしてのEthereumは所有できません。
 
-Substrate’s governance primitives allow chain builders to make sophisticated governance systems that involve general token holder voting as well as on-chain collectives with special management privileges. Besides the abstract decision making capabilities, Substrate can autonomously execute the results of governance decisions — including the decision to upgrade the chain itself.
+Substrateのガバナンスプリミティブにより、チェーンビルダーは、一般的なトークン保有者の投票に加え、特別な管理権限を持つチェーン上の集合体を含む、高度なガバナンスシステムを構築することができます。 Substrateは、抽象的な意思決定機能に加えて、チェーン自体をアップグレードするという意思決定を含む、ガバナンスの意思決定の結果を自律的に実行することができます。
 
-The autonomous execution step is the fundamental element that allows Substrate-based chains to be sovereign. The chain enforces the will of its stakeholders and does not rely on miners, validators, etc. to participate in a hard fork. Polkadot allows its parachains to exercise full sovereignty and manage their governance independently. As such, every parachain in Polkadot, and the Relay Chain itself, can be considered sovereign entities with their own stakeholders.
+自律的な実行ステップは、Substrateベースのチェーンが主権を握るための基本的な要素です。 このチェーンは、ステークホルダーの意志を貫き、ハードフォークに参加するマイナーやバリデーターなどに依存するものではありません。 Polkadotでは、そのパラチェーンが完全な主権を行使し、独立してガバナンス面の管理を実行することができます。 このように、Polkadotの各パラチェーンやリレーチェーン自体が、それぞれのステークホルダーを持つ主権的な存在であると言えます。
 
-Acala actually uses several on-chain councils, like a general council, a technical council, and councils to govern its sub-protocols Homa and Honzon. The general council — completely elected by token holders — manages its decentralized sovereign wealth fund. Because all the management is on-chain, token holders will have full insight into the fund’s management and can vote to replace general councillors.
+Acalaは、一般評議会、技術評議会、サブプロトコルであるHomaとHonzonを管理する評議会など、複数のオンチェーン評議会を使用しています。 この中の、トークン保有者から完全に選出された一般評議会が、分散型のソブリン・ウェルス・ファンドを管理します。 運用はすべてオンチェーンで行われるため、トークン保有者はファンドの運用状況を完全に把握することができ、一般評議員の交代を投票で決めることができます。
 
-# Fund Operation
+# ファンドの運用
 
-The fund itself is represented by an on-chain account. This account does not have a private key associated with it. Instead, the general council and network governance have the capacity to manage the funds in the account.
+ファンド自体は、オンチェーンアカウントで表され、 このアカウントには、秘密鍵が関連付けられていません。 その代わりに、評議会とネットワークガバナンスがアカウントの資金を管理する能力を持っています。
 
-Funds go into the account in three ways. The first two come from Acala’s Honzon protocol, which works similar to Maker. Honzon provides a multi-collateral lending platform that accepts several forms of collateral in exchange for a loan of aUSD, Acala’s stablecoin that is pegged to the US dollar. Just like in Maker, borrowers need to pay a stability fee on their loan. Unlike in Maker, instead of burning the fee, Acala deposits the fees into its sovereign wealth fund.
+資金は3つの方法でアカウントに入ります。 最初の2つは、AcalaのHonzonプロトコルで、Makerと同じような仕組みです。 Honzonは、ドルにペッグされたAcalaのステーブルコインであるaUSDの融資と引き換えに、いくつかの形態の担保を受け入れるマルチ担保のレンディングプラットフォームを提供します。 Makerと同じように、借り手はローンの安定性手数料を支払う必要があります。 また、Makerとは異なり、Acalaは手数料をバーンするのではなく、ソブリン・ウェルス・ファンドに預けます。
 
-Second, the Acala network takes a penalty fee in case a loan’s collateral drops below some threshold. This fee prevents undercollateralized loans and only applies when the network needs to liquidate some collateral. Just like the stability fee, though, it goes into the wealth fund rather than being burned.
+第二に、Acalaネットワークは、ローンの担保がある閾値を下回った場合、ペナルティ・フィーを取ります。 この手数料は、担保不足のレンディングを防ぐためのもので、ネットワークが担保の一部を清算する必要がある場合にのみ適用されます。 しかし、安定性料金と同様にそれはバーンされる燃やされるのではなくウェルス・ファンドに入ります。
 
-Third, Acala also operates a liquid staking protocol called Homa. Homa deserves an entire article on its own, but like the lending platform it should be nutshelled here. Polkadot, like other Proof of Stake networks, locks tokens to back validators and secure the network. If all goes well, those tokens make some return, but if the chosen validators misbehave, the tokens are liable for slashing. This schema is very much aligned with network security, but very much at odds with Acala’s thesis that funds should be able to serve contemporaneous purposes. Homa reconciles this tension by creating a staking pool where users can deposit DOT in return for some freely transferable L-DOT (although not necessarily at a one-to-one ratio). The pool is managed by the Homa Council for decisions like a validator selection strategy (again, whole other article), and L-DOT holders can return their L-DOT to the network and reclaim the underlying DOT plus its share of the staking revenue from the pool and minus some fee that goes — you guessed it — into the sovereign wealth fund.
+第三に、AcalaはHomaというリキッドステーキングプロトコルも運営しています。 Homaは単独で記事を書く価値がありますが、レンディング・プラットフォームと同様にここではその概要を説明します。 Polkadotは、他のProof of Stakeネットワークと同様に、トークンをロックして認証者をバックアップし、ネットワークを保護します。 うまく機能した場合、これらのトークンはいくらかのリターンを得ることができますが、選ばれたバリデーターが不正をすれば、トークンはスラッシュされることになります。 このスキーマは、ネットワークセキュリティに非常に合致していますが、ファンドは同時期の目的を果たすことができるべきであるというAcalaのテーゼとは非常に矛盾しています。 Homaは、ユーザーがDOTを預けて自由に譲渡できるL-DOTと交換できるステークプールを作ることで、この関係性を調整しています（ただし、必ずしも1対1の比率ではありません）。 また、L-DOT保有者は、L-DOTをネットワークに返却することで、基本となるDOTに加え、プールからのステークス収入のシェアを取り戻し、さらに手数料を差し引いた金額がソブリンファンドに入ることになります。
 
-A large proportion of revenue comes from sources where other protocols would have burned tokens. Many protocols burn tokens as a mechanism of making everyone’s tokens more valuable by reducing the total issuance. Burning tokens, however, does not _create_ value, it only reallocates existing value. By moving the value into a collective fund, the network will use the funds to drive value creating relationships.
+収益の大部分は、他のプロトコルではトークンをバーンしてしまうようなソースから得ています。 多くのプロトコルでは、発行総数を減らすことでトークンの価値を高める仕組みとして、トークンをバーンしています。 しかし、トークンをバーンしても、価値は_創造_されず、既存の価値が再配分されるだけです。 その価値をコレクティブ・ファンドに移すことで、ネットワークはそのファンドを使って価値創造の関係を推進します。
 
 # Value Creation
 
