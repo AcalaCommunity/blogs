@@ -2,7 +2,7 @@
 
 ## Karura będzie zdecentralizowanym centrum finansowym na sieci Kusama i w planuje się, aby była jednym z pierwszych parachain`ów uruchomionych w sieci
 
-![Image for post](https://miro.medium.com/max/1600/0*nr7tcscsg65Yy_zx)
+![Obraz do wpisu](https://miro.medium.com/max/1600/0*nr7tcscsg65Yy_zx)
 
 Feniks symbolizuje odrodzenie, odnowę i ponowne narodziny jako powracający motyw w całej historii ludzkości. Ludzie od dawna szanują te opowieści o nadziei, pomagając uspokoić ich lęki i zapewniając im jaśniejszą, lepszą przyszłość. Przez wieki Feniks pojawiał się w starożytnych tekstach symbolizując takie pojęcia jak odrodzenie, nieśmiertelność, łaska, zmartwychwstanie, moc i dobrobyt w kulturach od greckiej po perską i chińską. Feniks z czasem umocnił się jako symbol naszej zdolności do podnoszenia się z popiołów za każdym razem od nowa.
 
@@ -37,19 +37,19 @@ Mówi się, że Kusama jest „cypherpunkowym niebem” dla programistów, któr
 - ** Solidna baza użytkowników i bloki konstrukcyjne: ** Kurura oferuje stablecoin z wieloma zabezpieczeniami, płynność płynnego KSM (LKSM) i DEX jako prymitywy (czyli bloki konstrukcyjne), na których można budować. Karura będzie miała również dostęp do Bitcoin, Ethereum i innych sieci poprzez mosty. Jako parachain połączony z łańcuchem Relay Chain Kusamy, Karura będzie miała możliwość korzystania z ekosystemu krzyżowego Kusamy.
 
 - ** Wyrafinowane dostosowywanie: ** Korzystając z Substrate, narzędzia do budowania sieci blockchain, za pomocą której zbudowano Karurę, programiści mogą budować niezależne modele ekonomiczne i włączać własny token jako token opłaty.
-- ** Zoptymalizowany dla DeFi: ** Programiści będą mieli jakość usług z natywnego źródła cen oracle wbudowaną w kod, mogą budować niezależne modele ekonomiczne za pomocą Substrate i mogą korzystać z możliwości elastycznej opłaty Karura, aby pobierać opłaty w dowolnym tokenie.
-- ** Skalowalna płynność międzyłańcuchowa: ** Karura oferuje wysoką przepustowość i przepustowość oraz płynność z dowolnego łańcucha połączonego z siecią. Spodziewamy się, że Karura zostanie początkowo połączona z Polkadot, Bitcoin i Ethereum.
+- ** Zoptymalizowany pod kątem DeFi: ** programiści będą mieli do dyspozycji wysokiej jakości usługę wycen z natywnego źródła wbudowaną w kod, dzięki której za pomocą Substrate mogą budować niezależne modele ekonomiczne i mogą korzystać z elastyczności Karury dokonując opłaty w dowolnym tokenie.
+- ** Skalowalna płynność międzyłańcuchowa: ** Karura oferuje wysoką wydajność i przepustowość oraz płynność z dowolnego łańcucha połączonego z siecią. Spodziewamy się, że Karura zostanie początkowo połączona z Polkadot, Bitcoin i Ethereum.
 
-## **** Co dalej z Karurą ****
+## **Co dalej z Karurą**
 
-Karura w najbliższej przyszłości uruchomi ** Crowdloan ** na Kusamie. Proces ten zostanie przeprowadzony za pomocą natywnego tokena Kusamy, KSM, w celu zebrania wsparcia posiadacza KSM w celu związania się ze slotem spadochronowym poprzez aukcję w sieci Kusama.
+Karura w najbliższej przyszłości rozpocznie **pożyczkę publiczną "Crowdloan"** na Kusamie. Aby uzyskać wsparcie posiadacza KSM w zablokowaniu tokenów dla miejsca "slot" parachain`a poprzez aukcję w sieci Kusama, proces ten zostanie przeprowadzony przy użyciu natywnego tokena Kusamy, KSM.
 
-**** Przeczytaj więcej o Crowdloan i procesie aukcyjnym tutaj: ****
+**Dowiedz się więcej na temat pożyczki publicznej "Crowdloan" i procesu aukcji tutaj:**
 
-[\[Karura's Approach to the Upcoming Parachain Lease Offering (PLO) on Kusama\] (https://medium.com/acalanetwork/karuras-approach-to-the-upcoming- parachain-lease-offers-plo-on-kusama-12fbf09ee463)](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
+[Podejście Karury do zbliżającej się licytacji najmu parachain`a " Parachain Lease Offering" (PLO) w Kusamie](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
 
-🔥 Chcielibyśmy Cię poznać! Przyjdź, przywitaj się i zadaj wszelkie pytania dotyczące przyszłości Karury, [** dołączając do kanału Karura Discord **] (https://discord.gg/HpsZx5r) i [** obserwując Karurę na Twitterze **] (https: //twitter.com/karuranetwork).
+🔥 Chcielibyśmy Cię poznać! Przyjdź, przywitać się i zadaj jakiekolwiek pytania dotyczące przyszłości Karura poprzez [**dołączenie do kanału Discord Karury**](https://discord.gg/HpsZx5r) i [**obserwowanie Karura na Twitterze**](https://twitter.com/karuranetwork).
 
-# **About Karura**
+# **O Karura**
 
-Karura jest zdecentralizowanym centrum finansowym Kusamy. Sieć jest zbudowana jako siostrzana sieć Acali z prawie taką samą bazą kodów, co umożliwia skalowalną, przyjazną dla użytkownika i szybką międzyłańcuchową platformę DeFi. Parachain Karury to szybko poruszająca się i potężna platforma, która umożliwia wydajne, niedrogie i wyrafinowane aplikacje finansowe, poprawiając efektywność handlu i oszczędzając czas. Platforma oferuje zestaw prymitywów finansowych: wielozabezpieczony stablecoin wspierany przez aktywa międzyłańcuchowe, takie jak Kusama i Bitcoin, pozbawiony zaufania instrument pochodny do obstawiania oraz zdecentralizowana giełda, aby uwolnić płynność i napędzać innowacje finansowe.
+Karura jest zdecentralizowanym centrum finansowym Kusamy. Sieć, została zbudowana jako siostrzana sieć Acali, z prawie tym samym kodem źródłowym - obie platformy zapewniają skalowalny, przyjazny dla użytkownika i szybki między-sieciowy "cross-chain" ekosystem DeFi dla Kusama i Polkadot. Parachain Karura to szybko rozwijająca się i potężna platforma, umożliwiająca wydajne, niedrogie i wysublimowane aplikacje finansowe, poprawiając efektywność handlu i oszczędzając czas. Platforma oferuje zestaw narzędzi finansowych: stablecoin z zabezpieczeniami w walorach wielu sieci ("cross-chain"), takich jak Bitcoin, nie wymagającą zaufania pochodną staking`u, oraz zdecentralizowaną giełdę, w celu zapewnienia płynności i wsparcia dla innowacji finansowych.
