@@ -4,7 +4,7 @@ By [Joe Petrowski](https://medium.com/u/9f4b86fbf09a?source=post_page-----80f8c2
 
 **TLDR:** Acalaは、オンチェーンの分散型Sovereign Wealth Fund（dSWF）とガバナンスによって、経済的・統治的（意思決定）な主権を獲得する次世代DAO - DAO3.0です。 dSWFの資産は基本的には運用目的資産であり、コードや流動性、そしてコミュニティをフォークすることはできても、AUMをフォークすることはできません。
 
-![Image for post](https://miro.medium.com/max/1600/1*tG3vPiETDyoJgt1aC_5ygg.jpeg)
+![投稿画像](https://miro.medium.com/max/1600/1*tG3vPiETDyoJgt1aC_5ygg.jpeg)
 
 PolkadotとSubstrateは、社会の組織や意思決定の新しい形の基盤となります。 Acalaは、Substrateのガバナンスおよび財務管理機能と、Polkadotのクロスチェーンメッセージングを活用して、分散型のソブリンファンドを設立しています。 この基金により、Acalaチェーンはパラチェンスロットを確保し、最初の資金調達が終了した後も開発を続けることができます。
 
@@ -42,28 +42,28 @@ Acalaは、一般評議会、技術評議会、サブプロトコルであるHom
 
 このファンドを作っただけでもすごいことなんです。 この単一のアカウントは、自分のブロックチェーン内だけでなく、他のブロックチェーンからも複数の通貨を所有します。 そして、このアカウントはコントラクトやユーザー、ビジネス、エンティティではなく、実際にはチェーン自体が所有しています。 ちょっと立ち止まって考えてみましょう。 このチェーンは、他のチェーン資産をユーザーやコントラクトに割り当てたものではなく、あるブロックチェーン（この場合はAcala）が別のブロックチェーンにステークするものです。
 
-通貨やトークンには様々な目的があり、Acalaのステークホルダーが資金の使い道を決めることになります。 Acalaはまず、この資金を使ってパラチェーンスロットを確保する予定です。 Polkadot has a limited number of parachain slots, and when a new one becomes available, an auction where teams bid to lock DOT determines who can use it. Most teams won’t have enough DOT on their own to secure a slot and will resort to crowdfunding by asking users to lock their DOT on behalf of the project. Acala will do the same for its first parachain auction.
+通貨やトークンには様々な目的があり、Acalaのステークホルダーが資金の使い道を決めることになります。 Acalaはまず、この資金を使ってパラチェーンスロットを確保する予定です。 Polkadotのパラチェーンスロットは限られており、新しいスロットができると、各チームはDOTにより入札するオークションに参加し、使用プロジェクトが決定します。 ほとんどのチームは、スロットを確保するのに十分なDOTを持っていないため、プロジェクトを代表してユーザーにDOTをロックしてもらうクラウドファンディングに頼ることになります。 Acalaは、最初のパラチェーンオークションでは同じことを行います。
 
-But crowdfunding the same project over multiple auctions is not sustainable. If the sovereign wealth fund can raise enough funds, the blockchain itself could secure its own parachain slot and return all previous crowdfunded DOT to the contributors.
+しかし、同一のプロジェクトにおいて複数回のオークションに対してその都度クラウドファンディングをおこなう事は持続性がありません。 ソブリン・ウェルス・ファンドにおいて十分な資金を集めることができれば、ブロックチェーン自体がパラチェーンスロット用の資金を確保し、過去にクラウドファンディングで調達したDOTをすべて出資者に還元することができます。
 
-When tokens enter this fund, Acala plans to convert them all to DOT and stake it behind validators in order to grow the fund from its three revenue streams by adding staking return on DOT. When its first parachain slot is up for its renewal auction, it will unstake the DOT and use it in its own crowdfunding. Eventually, it will have enough DOT to cover the parachain bond without resorting to crowdfunding.
+トークンがこのファンドに入ると、Acalaはそれらを全てDOTに変換し、バリデータにステークし、DOTへのステークリターンを追加することで、3つの収入源からファンドを成長させることを計画しています。 その最初のパラチェーンスロットオークションの際には、DOTをアンステークして自社のクラウドファンディングに使用します。 最終的には、クラウドファンディングに頼らなくても、パラチャーンスロットの入札資金をそれのみでカバーできるだけのDOTを確保していくのです。
 
-After Acala has its own parachain slot, it can continue the sovereign wealth fund in pursuit of other utility. Rather than accumulating DOT for the singular goal of obtaining a parachain slot, it can take positions in other parachains for access to their services or partnerships.
+Acalaが独自のパラチェーンスロットを保持した後は、他の実用性を追求してソブリン・ウェルス・ファンド継続することも可能になります。 パラチェーンスロットを獲得するという目的のためにDOTを蓄積するだけではなく、他のパラチェーンのポジションを獲得して、そのサービスやパートナーシップを利用することも想定されます。
 
-The effects of blockchain sovereignty extend well beyond a chain’s own governance. By combining new advances in blockchain governance, interoperability, and economics, Acala has created an innovative and sustainable funding model for their future that puts the stakeholders in control of the chain’s destiny.
+ブロックチェーンの主権のポジティブな影響は、チェーン自身のガバナンスにとどまりません。 Acalaは、ブロックチェーンのガバナンス、相互運用性、経済性の新しい進歩を組み合わせることで、チェーンの将来性をステークホルダーがコントロールできるような、彼らの将来のための革新的で持続可能な資金調達モデルを生み出します。
 
-# Looking Ahead
+# 未来へ向けて
 
-Through the dSWF and governance, Acala will become an economic and political (decision making and execution) sovereign entity. It will pioneer a new way of DAO — DAO 3.0. Just like Norway’s Sovereign Wealth Fund, Acala’s dSWF will reinvest its network surplus in foreign assets — starting with DOT and KSM and gradually diversify into other assets, for the purpose of gaining access to network security, long term wealth generation, and strategically holding stakes in valuable sovereign networks. ACA holders not only collectively own the dSWF, but also can collectively decide how to deploy the dSWF. The funds in the dSWF are essentially the Assets Under Management (AUM) of the Acala network. You can fork the code, the liquidity, and even the community, but you cannot fork AUM.
+dSWFとガバナンスを通じて、Acalaは経済的、政治性（意思決定と実行）に主権を持つ組織となるでしょう。 そして、DAO3.0という新しいDAOのあり方を開拓していきます。 ノルウェーのソブリン・ウェルス・ファンドのように、AcalaのdSWFは、ネットワークの余剰金をDOTやKSMをはじめとする他の資産に再投資し、徐々にポートフォリオを分散していきます。その目的は、ネットワークセキュリティへのアクセス、長期的な富の生成、そして貴重なソブリンネットワークの株式を戦略的に保有することです。 ACAホルダーは、dSWFを一括して所有するだけでなく、dSWFをどのように展開するかを一括して決定することができます。 dSWFのファンドは、基本的にAcalaネットワークのAUM（Asset Under Management）となります。 コードやリクイディティ、そしてコミュニティをフォークすることはできますが、AUMをフォークすることはできません。
 
-More details in the [dSWF Whitepaper](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf).
+詳細は[dSWF Whitepaper](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)をご覧ください。
 
-# Join Us
+# 参加しませんか
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Acalaのパラチェーンのローンチの進捗状況を知りたい方は、[Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)をご購読ください。
 
-# About Acala
+# Acalaについて
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot, making fast and easy to use financial applications available to everyone. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/)は、Polkadotの分散型金融ハブであり、高速で使いやすい金融アプリケーションを誰もが利用できるようにします。 このプラットフォームは、一連の金融プリミティブを提供しています。すなわちビットコインのようなクロスチェーン資産に裏付けられたマルチ担保のステーブルコインや信頼性の高いステーキングデリバティブ、そして分散型取引所により、流動性を解き放ち、金融イノベーションを実現します。 Acalaは、金融アプリケーションがスマートコントラクトや内蔵プロトコルを使用するためのオープンプラットフォームであり、利便性の高いクロスチェーン機能とセキュリティ、財務の最適化を備えています。
