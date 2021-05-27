@@ -1,4 +1,4 @@
-# **Acala’s aUSD Stablecoin to be Integrated on Injective’s Polkadot-based Derivative Products**
+# **AcalaのステーブルコインaUSDがInjectiveのPolkadotベースのデリバティブ商品に統合されることが決定**
 
 ## **Acala’s aUSD will provide a stable asset used to collateralize Polkadot-based derivative products on Injective, expanding opportunities to create even more derivative products and use cases for aUSD**
 
