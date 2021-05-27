@@ -2,7 +2,7 @@
 
 ## Trzytygodniowa kampania sieci testowej Acala dobiegła końca, podkreślając znaczenie sieci ostrzegawczej i prowadząc do kilku technicznych ulepszeń sieci
 
-![Image for post](https://miro.medium.com/max/1600/1*lGVbzGOgp5M3DqCPtAds8A.jpeg)
+![Obraz do wpisu](https://miro.medium.com/max/1600/1*lGVbzGOgp5M3DqCPtAds8A.jpeg)
 
 Autor: [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----5ef5769a0902--------------------------------)
 
@@ -53,30 +53,30 @@ Być może doszliśmy do wniosku, że tolerancja na ryzyko finansowe zdecentrali
 - **Jakość usług dla operacji na wyroczniach:** transakcje na wyroczniach są traktowane priorytetowo i zawsze są zawarte w bloku, więc kanały cen są aktualne i nie wpływają na ruch sieciowy
 - **Automatyczny likwidator** przy użyciu [Off-chain Workers](https://www.parity.io/substrate-off-chain-workers-secure-and-efficient-computing-intensive-tasks/): zewnętrzni gracze, tacy jak Keeperzy, są wymagani w protokołach takich jak Maker tylko dlatego, że Ethereum lub podobna technologia nie może zapewnić bezpiecznego automatycznego harmonogramu w węźle blockchain. Acala wdrożyła auto-likwidator, który może skutecznie oceniać pozycje kredytów w każdym bloku.
 - **Hybrydowy mechanizm likwidacji z DEX`em i aukcją:** system automatycznie zlikwiduje zabezpieczenia na DEX`ie, jeżeli cena i jej "slippage" są korzystne, aby unikanąć nieefektywności cenowej aukcji.
-- **Wysoka przepustowość i specjalizacja:** Acala posiada niezoptymalizowaną przepustowości 1000 tps; w wielołańcuchowym świecie Polkadot, każdy odłamek/parachain zostanie prawdopodobnie zoptymalizowany pod kątem jego zastosowań. Na przykład Acala będzie odłamkiem finansowym zoptymalizowanym pod kątem operacji DeFi, podczas gdy inna sieć może specjalizować się w grach lub hodowli kotów. Rzeczywista przepustowość Polkadot wyniosłaby 1000 tps pomnożone przez całkowitą liczbę połączonych odłamków / spadochronów.
+- **Wysoka przepustowość i specjalizacja:** Acala posiada niezoptymalizowaną przepustowości 1000 tps; w wielołańcuchowym świecie Polkadot, każda część/parachain zostanie prawdopodobnie zoptymalizowany pod kątem jego zastosowań. Na przykład Acala będzie częścią finansową zoptymalizowaną pod kątem operacji DeFi, podczas gdy inna sieć może się specjalizować w grach lub hodowli kotów. Rzeczywista przepustowość Polkadot mogłaby wynosić 1000 tps pomnożonych przez całkowitą liczbę połączonych części/parachain`ów.
 
-Podczas kampanii Acala przeprowadziła wiertło Czarny Czwartek, aby zasymulować silną zmienność cen skutkującą likwidacją ryzykownych pozycji kredytowych, a następnie awaryjnym wyłączeniem systemu. Pod dużym obciążeniem system działał zgodnie z oczekiwaniami i ostatecznie wszystkie pożyczki zostały przetworzone, a zabezpieczenia zwrócono użytkownikom.
+Podczas kampanii, Acala prowadziła ćwiczenia Czarnego Czwartku w celu symulacji silnej zmienności cen skutkującej likwidacją ryzykownych pozycji kredytowych, po której następuje awaryjne wyłączenie systemu. Pod dużym obciążeniem system działał zgodnie z oczekiwaniami i ostatecznie wszystkie pożyczki zostały przetworzone, a zabezpieczenia zwrócono użytkownikom.
 
-📉 14,400+ loans were liquidated
+📉 ponad 14400 pożyczek zostało zlikwidowanych
 
-📉 Ponad 14 400 pożyczek zostało zlikwidowanych
+⚡ zlikwidowano środki o wartości 1,37 miliona dolarów
 
-# Siła płynności
+# Siła płynności międzysieciowej
 
-międzyłańcuchowej Acala jest centrum finansowym wielobranżowego świata Polkadot. Zapewnia zestaw prymitywów finansowych, w tym multi-zabezpieczony stablecoin, bezzałogową pochodną do obstawiania i zdecentralizowaną giełdę. Te prymitywy są oferowane za pośrednictwem DApp firmy Acala bezpośrednio użytkownikom końcowym, a także jako zestawy SDK do tworzenia większej liczby DApps. Widzimy bardziej wzajemnie powiązany, autonomiczny, wyrafinowany ekosystem finansowy obejmujący wiele bloków blokowych na progu pojawienia się.
+Acala jest to centrum finansowe wielo-sieciowego świata Polkadot. Dostarcza zestawu narzędzi finansowych, w tym wielozabezpieczony stablecoin, instrument pochodny staking`u bez powiernictwa oraz zdecentralizowaną wymianę. Narzędzia te są oferowane za pośrednictwem DApp Acali bezpośrednio użytkownikom końcowym, a także jako zestawy SDK do tworzenia większej liczby DApps. Widzimy bardziej połączony, autonomiczny, wyrafinowany, międzyblokowy ekosystem finansowy, który jest bardziej zintegrowany w sytuacjach kryzysowych.
 
-We have integrated with Ren and Laminar and showcased the power of cross-chain liquidity:
+Zintegrowaliśmy się z Ren i Laminar i pokazaliśmy moc między-sieciowej płynności:
 
-Zintegrowaliśmy się z Renem i Laminarem i zaprezentowaliśmy potęgę płynności:
+₿ 1,403 renBTC zostało wybite
 
-międzyłańcuchowej₿ 1403 renBTC zostało wybite
+👨‍🌾 sprzedano renBTC o wartość 1,4 miliona USD na DeX`ie, a 5,5 miliona Usd zostało wykorzystanych do zawarcia pożyczek
 
-👨‍🌾 1,4 miliona dolarów renBTC w obrocie na DeX, 5,5 miliona dolarów wykorzystane w pożyczkach
+🌈 4,3 mln aUSD przesłano do Laminar jako depozyt zabezpieczający (forex, złoto, syntetyczny BTC & ETH) handel z dźwignią
 
-depozytemDowiedz się więcej na temat przypadków użycia cross-chain DeFi firmy Acala \[tutaj\] (https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi); przyjdź i stwórz kolejny zabójczy projekt DeFi, korzystając z naszego frameworka, prymitywów DeFi i SDK. Nasze oferty są przeznaczone do produkcji i gotowe do produkcji. Byliśmy również partnerem edukacyjnym podczas niedawnego wydarzenia Hackusama w Kusamie, a więcej o budowaniu z Acala możesz dowiedzieć się \[tutaj\] (https://medium.com/acalanetwork/hackusama-ea1ddf3e945a).
+Dowiedz się więcej o zastosowaniach Acala między-sieciowego DeFi [tutaj](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi); przyjdź i utwórz następny projekt DeFi za pomocą naszych frameworków, narzędzi DeFi oraz SDK. Nasze propozycje są jakości produkcyjnej i są gotowe do produkcji. Byliśmy również partnerem edukacyjnym w niedawnym wydarzeniu Hackusama w Kusamie i możesz dowiedzieć się więcej o budowaniu z Acalą [tutaj](https://medium.com/acalanetwork/hackusama-ea1ddf3e945a).
 
 # Dołącz do nas
 
-[Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
+[Strona internetowa](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-\[witryna internetowa\] (https://acala.network/) | \[Medium\] (https://medium.com/acalanetwork) | \[Twitter\] (https://twitter.com/AcalaNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Telegram\] (https://t.me/acalaofficial) | \[Riot Chat\] (https://riot.im/app/#/room/#acala:matrix.org)
+Aby być na bieżąco z postępami w uruchamianiu Acali, zasubskrybuj [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
