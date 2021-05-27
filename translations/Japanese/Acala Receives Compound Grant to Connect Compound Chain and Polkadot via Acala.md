@@ -1,25 +1,25 @@
-# **Acala Receives Compound Grant to Connect Compound Chain and Polkadot via Acala**
+# **AcalaがCompoundからの助成金を受け、Acalaを介してCompoundとPolkadotを結ぶ**
 
 ![](https://miro.medium.com/max/4800/1*3vdQ49AL1YacBOCxQRBH7A.png)
 
-Compound has recently launched the [Compound Gateway testnet](https://www.comp.xyz/t/compound-gateway-testnet/1302) — a cross-chain money market built with Substrate. Acala is a firm believer and a long-term builder for the multi-chain future. We believe in reducing liquidity fragmentation and increasing composability and DeFi accessibility to everyone. This is a vision we share with the [Compound Gateway](https://www.comp.xyz/t/compound-gateway-testnet/1302).
+Compoundは、Substrateで構築されたクロスチェーンのマネーマーケットである[Compound Gateway testnet](https://www.comp.xyz/t/compound-gateway-testnet/1302)を開始しました。 Acalaは、マルチチェーンの未来のために、確固たる信念を持ち、長期的な建設を行っています。 私たちは、流動性の断片化を減らし、コンポーザビリティを高め、誰もがDeFiにアクセスできるようにすることを信じています。 これは、[Compound Gateway](https://www.comp.xyz/t/compound-gateway-testnet/1302)との共通のビジョンです。
 
-[Polkadot](https://polkadot.network/) is a layer-0 protocol that merely provides shared PoS security and cross-chain communication for its connected parachains. Other chain-specific and application-specific logic, such as EVM and smart contracts, are implemented on parachains. Acala’s parachain plays the role of DeFi hub and a landing pad that aggregates assets and liquidity from a variety of blockchains.
+[Polkadot](https://polkadot.network/)は、レイヤー0のプロトコルであり、接続されたパラチェーンに共有PoSのセキュリティとクロスチェーンのコミュニケーションを提供します。 その他、EVMやスマートコントラクトなど、チェーンに特化したロジックやアプリケーションに特化したロジックがパラチェーンに実装されています。 Acalaのパラチェーンは、DeFiハブの役割を果たし、様々なブロックチェーンからの資産や流動性を集約するランディングパッドとして機能します。
 
 ![](https://miro.medium.com/max/1380/0\*M7wOJognbkTn85DF)
 
-We will integrate with Compound Chain and implement its cross-chain interface, Starport. [The proposal](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349) was first published on the Compound forum and has since gathered great community feedback. This proposal will enable us to bring Compound’s services and CASH token (Compound’s interest-bearing token) to Acala and Polkadot, and introduce DOT and Liquid DOT (LDOT) as new collateral assets to the Compound money market.
+私たちは、Compound Chainと統合し、そのクロスチェーンインターフェースであるStarportを導入します。 [提案](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349)はCompoundのフォーラムで公開され、その後コミュニティから大きなフィードバックを得ました。 この提案により，AcalaとPolkadotにCompoundのサービスとCASHトークン（Compoundの利付型トークン）を提供し，DOTとLiquid DOT（LDOT）をCompoundのマネーマーケットに新たな担保資産として導入することが可能になります。
 
-We are confident this contribution will be beneficial to the Compound community, to Acala, and to the Polkadot ecosystem, creating a win-win-win situation with a more evolved and cheaper money market service, more collateral asset variety, and much wider user adoption across multiple blockchains.
+この貢献は、Compoundコミュニティ、Acala、そしてPolkadotのエコシステムにとって有益であり、より進化した安価なマネーマーケットサービス、より多様な担保資産、そして複数のブロックチェーンにまたがる広範なユーザーの採用など、Win-Win-Winの状況を生み出すと確信しています。
 
-This proposal has now [received a grant of USD$35,000](https://compoundgrants.org/3-31-21-Batch-1-Funded-2355ec32682c4f8bb68956487bbc5261) from [the Compound Grants Program](https://compoundgrants.org/) as its first batch of funded initiatives. This proposal will partially be funded by this grant, and partially funded by Acala. The detailed implementation plan can be found [here](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349).
+この提案は今回、[the Compound Grants Program](https://compoundgrants.org/3-31-21-Batch-1-Funded-2355ec32682c4f8bb68956487bbc5261)の第一弾として、35,000ドルの助成金を獲得しました。 この提案の一部は本助成金で賄われ、一部はAcalaから提供されます。 詳細な実装計画はこちら [](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349) をご覧ください。
 
-This is our first public proposal to the Compound community. We have been pleased to receive warm welcomes and helpful feedback from various members of the community. We look forward to making the proposal a reality, and continuing to share more development progress as we proceed.
+これは、Compoundコミュニティへの私たちの最初の提案です。 私たちは、コミュニティの様々なメンバーから暖かい歓迎と有益なフィードバックを受けることを嬉しく思います。 この提案を実現するために、今後も開発の進捗状況をお伝えしていきたいと思います。
 
 ![](https://miro.medium.com/max/2402/1\*vtgTFpNWqwSNRChv3uQAWg.png)
 
-# About Acala
+# Acalaについて
 
-Acala is the all-in-one DeFi hub of Polkadot. Acala is an Ethereum-compatible platform for financial applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security. The platform also offers a suite of financial applications including: a trustless staking derivative (liquid DOT), a multi-collateralized stablecoin backed by cross-chain assets (aUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Acalaは、PolkadotのオールインワンDeFiハブです。 Acalaは、金融アプリケーションがスマートコントラクトや内蔵プロトコルを使用するためのEthereum互換のプラットフォームであり、利便性の高いクロスチェーン機能と堅牢なセキュリティを備えています。 また、このプラットフォームでは、信頼性の高いステーキングデリバティブ（liquid DOT）、クロスチェーン資産に裏付けられたマルチ担保のステーブルコイン（aUSD）、AMM DEXなどの一連の金融アプリケーションを提供しており、これらはすべて、任意のトークンで支払うことができるマイクロガス料金で提供されています。
 
 [Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
