@@ -1,144 +1,144 @@
-# **Countdown to Karura: A Deep Dive on the DeFi Hub of Kusama**
+# **Odliczanie do Karury: Głębokie spojrzenie na centrum DeFi w sieci Kusama**
 
-**Discover the new** [**Karura website**](https://acala.network/karura)**, explore the DApps, and learn how to support Karura in the upcoming Kusama Parachain Auction.**
+**Odkryj nową stronę** [**Karura**](https://acala.network/karura)**, przetestuj aplikacje i dowiedz się, jak wspierać Karurę w nadchodzącej aukcji na parachain Kusamy.**
 
 ![Image for post](https://miro.medium.com/max/6000/1\*L8SpBaVlHefw4De\_DsqT4g.png)
 
-Karura is the all-in-one DeFi Hub of Kusama
+Karura to kompleksowe centrum DeFi Kusamy
 
-After months of building and growing, the Acala team is almost ready to debut its EVM-compatible, layer-one blockchain: [**_Karura, the DeFi Hub of Kusama_.**](https://acala.network/karura)
+Po miesiącach budowania i rozwoju, zespół Acala jest prawie gotowy do debiutu kompatybilnego z EVM, warstwy pierwszej blockchain: [** _ Karura, Centrum DeFi Kusamy _. **](https://acala.network/karura)
 
-Read on to learn how you can support the upcoming launch and get ready for Karura’s all-in-one, cross-chain, DeFi platform to help you swap, borrow, lend, earn, and stake — all with micro gas fees.
+Czytaj dalej, aby dowiedzieć się, jak możesz wesprzeć nadchodzące uruchomienie Karury i być gotowym na wszechstronną, międzyłańcuchową platformę DeFi, która pomoże Ci wymieniać, pożyczać komuś, pożyczać od kogoś, zarabiać i stak`ować - wszystko z mikro opłatami za gaz.
 
-# **Building the next evolution of DeFi**
+# **Budowanie następnej ewolucji DeFi**
 
-It’s no secret that decentralized finance (DeFi) is changing everything. With blockchain technology innovating at a tremendous pace, and the total value locked in DeFi protocols growing from 1 Billion in February 2020 to over **41 Billion** in March 2021, it’s clear: users demand a better financial system — one that grants autonomy and unfettered access to the newest and most sophisticated of investment strategies.
+Nie jest tajemnicą, że zdecentralizowane finanse (DeFi) wszystko zmieniają. Dzięki postępującym w ogromnym tempie innowacjom w technologii blockchain, i wzrastającej całkowitej wartości zablokowanej w protokołach DeFi od 1 miliarda w lutym 2020 r. Do ponad **41 Miliardów** w marcu 2021 r., To jest jasne, że użytkownicy żądają lepszego systemu finansowego - takiego, który zapewnia autonomię i nieograniczony dostęp do najnowszych i najbardziej wyszukanych strategii inwestycyjnych.
 
-It’s time for DeFi to deliver on the promise of democratizing financial services — like payments, staking, lending, borrowing, and trading — without the pain points of juggling multiple protocols and staggering network fees. Savvy investors are ready for a power-house platform to serve its community with cutting-edge and composable financial apps that are fast, affordable, and rewarding. And they not only want to utilize this platform; they want to be a part of it — guiding its development and ensuring that its ecosystem continues to grow and lead the way in a multi-chain future. Thankfully, the wait is over.
+Nadszedł czas, aby DeFi spełniło obietnicę demokratyzacji usług finansowych - takich jak płatności, staking, pożyczanie, kredyty i handel - bez problemów związanych z żonglowaniem wieloma protokołami i oszałamiającymi opłatami sieciowymi. Doświadczeni inwestorzy są gotowi na potężną platformę, która będzie służyć swojej społeczności poprzez najnowocześniejsze i komponowalne aplikacje finansowe, które są szybkie, niedrogie i satysfakcjonujące. Oni nie tylko chcą korzystać z tej platformy; chcą być jej częścią - kierować jej rozwojem i upewnić się, że jego ekosystem nadal się rozrasta i wyznacza drogę w wielo-łańcuchowej przyszłości. Na szczęście czekanie dobiegło końca.
 
-# **Meet Karura, the all-in-one DeFi hub of Kusama.**
+# **Poznaj Karurę, kompleksowe centrum DeFi w Kusamie.**
 
 ![Image for post](https://miro.medium.com/max/2400/0\*8dXFxggFmDOEL74Z)
 
-Founded by the Acala Foundation, [Karura](https://acala.network/karura) is a scalable, EVM-compatible network optimized for DeFi, and built on Kusama. It’s an all-in-one DeFi platform that offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX (the Karura DEX) — all with micro gas fees that can be paid in any token.
+Założona przez fundację Acala, [ Karura ](https://acala.network/karura) to zbudowana na Kusamie skalowalna, kompatybilna z EVM sieć zoptymalizowana dla DeFi. Jest to kompleksowa platforma DeFi, oferująca zestaw aplikacji finansowych, w tym: nie wymagającą zaufania pochodną staking`u (płynny DOT), stablecoin z wieloma zabezpieczeniami wspierany przez międzyłańcuchowe aktywa (kUSD) oraz AMM DEX (DEX Karury) - wszystko z mikro opłatami za gaz, które można płacić dowolnym tokenem.
 
-Not only that, but Karura provides an ethical and sustainable token distribution model as well as an on-chain Treasury and [decentralized Sovereign Wealth Fund](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), both of which support its community and longevity. And because Karura leverages its novel [Acala EVM,](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4) which enables Ethereum compatibility with unlimited Substrate\* functionality, the network is primed to support the deployment of leading DeFi projects who aim to expand their services beyond Ethereum.
+Nie tylko to, ale Karura zapewnia etyczny i zrównoważony model dystrybucji tokenów, jak również skarbiec sieci oraz [ zdecentralizowany fundusz majątkowy ](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27) (dSWF), oba te elementy wspierają społeczność i jej długowieczność. Ponieważ Karura wykorzystuje swoją nową [Acala EVM,](https://medium.com/acalanetwork/acala-launches-the-acala-evm-for-defi-on-polkadot-ethereum-compatibility-with-unlimited-41aa893ca5a4) umożliwiającą kompatybilność z Ethereum wraz z nieograniczoną funkcjonalnością Substrate\*, sieć ma na celu wspieranie wdrażania wiodących projektów DeFi, których celem jest rozszerzenie usług poza Ethereum.
 
-_\*_[_Substrate_](http://substrate.io) _is the blockchain-building framework for building on Polkadot and Kusama.*
+_\ * _ [_ Substrate _](http://substrate.io) _ to narzędzie do budowy sieci blockchain na Polkadot i Kusama.*
 
-# **Why is Karura built on Kusama?**
+# **Dlaczego Karura jest zbudowana na Kusama?**
 
-Karura is built by Acala, a leading development team in the Polkadot ecosystem, which has received four Web3 Foundation grants, and founded the [Substrate Developer Academy](https://www.industryconnect.org/substrate-runtime-developer-academy/) (led by Karura/Acala CTO Bryan Chen). Both Karura, and its sister-network Acala are backed by Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere, among many other top firms.
+Karura została zbudowana przez Acalę, wiodącą grupę rozwijającą ekosystem Polkadot, która ostatnio otrzymała cztery dotacje Fundacji Web3, i założyła [Substrate Developer Academy](https://www.industryconnect.org/substrate-runtime-developer-academy/) (pod przewodnictwem Karura/Acala CTO Bryan Chen). Zarówno Karura, jak i jej sieć siostrzana Acala są wspierane przez Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere, pośród wielu innych najlepszych firm.
 
 ![Image for post](https://miro.medium.com/max/3200/0\*SyZWCt8qNFSvStX4)
 
-Backers of Karura and Acala include Coinbase Ventures, Pantera, Polychain Capital, and other top firms.
+Wśród wspierających Karurę i Acalę znajdują się Coinbase Ventures, Pantera, Polychain Capital oraz inne topowe firmy.
 
-But with all the Polkadot-ecosystem experience and support, why launch Karura on Kusama?
+Jednak z całym doświadczeniem i wsparciem ekosystemu Polkadot, po co uruchamiać Karurę na Kusamie?
 
-## **Kusama is the network for rapid progress and experimentation**
+## **Kusama to sieć szybkiego postępu i eksperymentów**
 
-Kusama is Polkadot’s faster-moving, wilder cousin — a multi-chain network for radical innovation. Though related by codebase, Kusama and Polkadot are independent, standalone networks with their own development communities and DeFi demands. But because Kusama has faster governance parameters and higher risk tolerance, projects like Karura can build big and move fast.
+Kusama to szybki, dziki kuzyn Polkadot – wielołańcuchowa sieć na rzecz radykalnych innowacji. Chociaż powiązane przez kod, Kusama i Polkadot są niezależnymi, samodzielnymi sieciami z własnymi społecznościami programistycznymi i wymaganiami DeFi. Ale ponieważ Kusama ma szybsze parametry zarządzania i wyższą tolerancję na ryzyko, projekty takie jak Karura mogą budować duże i szybko się rozwijać.
 
-By launching on Kusama, Karura can push the limits of what’s possible, giving the Acala team a place to launch bold new financial innovations without risking funds on the more robust Acala network. Karura will access Kusama’s plug-and-play security while enjoying high-capacity processing speeds, micro-gas fees, and interoperability between multiple networks, all ultimately bridged to Polkadot. By launching as a Kusama parachain, Karura will deliver decentralized financial products and stable assets to Kusama’s entire ecosystem of networks.
+Uruchamiając na Kusamie, Karura może przesuwać granice tego, co jest możliwe, dając zespołowi Acala miejsce do wprowadzania nowych, śmiałych innowacji finansowych bez ryzykowania funduszy w bardziej niezawodnej sieci Acala. Karura uzyska dostęp do zabezpieczeń typu plug-and-play firmy Kusama, jednocześnie ciesząc się wysokimi prędkościami przetwarzania, opłatami za mikro-gaz i interoperacyjnością między wieloma sieciami, a wszystko to ostatecznie połączone z Polkadot. Wystrzeliwując jako spadochron Kusama, Karura dostarczy zdecentralizowane produkty finansowe i stabilne aktywa do całego ekosystemu sieci Kusama.
 
-# **Introducing Karura’s DeFi DApps**
+# **** Przedstawiamy DeFi DApps firmy Karura ****
 
 ![Image for post](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
 
-With Karura, you can execute hundreds of DeFi strategies without ever leaving the platform. Utilize your cross-chain tokens like BTC or ETH to issue a self-serviced loan in kUSD. Provide liquidity to the Karura DEX to earn fees from trading volume. Stay liquid while staking KSM to earn rewards and amplify your potential gains with the unlocked, liquid KSM staking derivative. The possibilities are infinite thanks to Karura’s thoughtfully-designed financial apps.
+Dzięki Karurze możesz wykonywać setki strategii DeFi bez opuszczania platformy . Wykorzystaj swoje tokeny krzyżowe, takie jak BTC lub ETH, do udzielenia samoobsługowej pożyczki w tysiącach USD. Zapewnij płynność Karura DEX, aby zarabiać na prowizjach od wolumenu obrotu. Zachowaj płynność podczas obstawiania KSM, aby zdobywać nagrody i zwiększać swoje potencjalne zyski dzięki odblokowanej, płynnej pochodnej do obstawiania KSM. Możliwości są nieskończone dzięki przemyślanym aplikacjom finansowym Karury.
 
-# **Karura Dollar Stablecoin (kUSD)**
+# **** Karura Dollar Stablecoin (kUSD) ****
 
 ![Image for post](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
 
-Earn more with the Karura Dollar, kUSD stablecoin.
+Zarabiaj więcej dzięki Karura Dollar, kUSD stablecoin.
 
-As more users turn to crypto assets for their financial needs, it has become imperative to provide price-stable currencies to better enable the mainstream adoption of DeFi use cases such as payments, loans, tokenized securities, and more. Users often need to rely on an asset’s stability to: execute low-cost borderless value transfer, assess the risk of lending strategies, and to ensure that their transition to and from a digital financial environment is as approachable as it is predictable.
+Ponieważ coraz więcej użytkowników zwraca się do kryptowalut ze względu na swoje potrzeby finansowe, konieczne stało się zapewnienie stabilnych cenowo walut, aby lepiej umożliwić powszechne przyjęcie przypadków użycia DeFi, takich jak płatności, pożyczki, tokenizowane papiery wartościowe i inne. Użytkownicy często muszą polegać na stabilności aktywów, aby: przeprowadzać niedrogie transfery wartości bez granic, oceniać ryzyko strategii pożyczkowych oraz zapewniać, że ich przejście do i z cyfrowego środowiska finansowego jest tak przystępne, jak przewidywalne.
 
-**Enter the Karura Dollar (kUSD), a decentralized, multi-collateralized stablecoin backed by cross-chain assets.** Stable by design, and pegged to the U.S dollar, kUSD is the de facto stablecoin of Karura, Kusama, and beyond.
+** Wpisz dolara karura (kUSD), zdecentralizowany, multi-zabezpieczony stablecoin wspierany przez aktywa krzyżowe. ** Stabilny z założenia i powiązany z dolarem amerykańskim, kUSD jest de facto stablecoinem Karury, Kusamy i nie tylko .
 
-With the Karura Dollar Stablecoin protocol, anyone can issue a self-serviced loan in kUSD by locking valuable cross-chain crypto assets, including KSM, BTC, LKSM (Liquid KSM) or ETH, as collateral. While the user maintains the loan by paying interest, the protocol works to maintain kUSD’s stability while automatically managing the risk from any price fluctuations of the underlying collateral asset. In fact, the stablecoin’s liquidation process is jointly supported by Karura’s decentralized exchange and auction to achieve the best price optimization and efficiency..
+Dzięki protokołowi Karura Dollar Stablecoin każdy może udzielić samoobsługowej pożyczki w kUSD, blokując cenne aktywa kryptograficzne typu cross-chain, w tym KSM, BTC, LKSM (Liquid KSM) lub ETH, jako zabezpieczenie. Podczas gdy użytkownik utrzymuje pożyczkę, płacąc odsetki, protokół działa w celu utrzymania stabilności kUSD, jednocześnie automatycznie zarządzając ryzykiem związanym z wszelkimi wahaniami cen bazowego aktywa zabezpieczającego. W rzeczywistości proces likwidacji stablecoina jest wspólnie wspierany przez zdecentralizowaną giełdę i aukcję Karury, aby osiągnąć najlepszą optymalizację cen i wydajność.
 
-# **Karura DEX**
+# **** Karura DEX ****
 
 ![Image for post](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
 
-Perform instant cross-chain swaps on the Karura DEX.
+Wykonuj natychmiastowąkrzyżową na Karura DEX.
 
-At launch, the Karura DEX will provide users with a trustless, cross-chain AMM exchange powered by an automated liquidity provisioning protocol. Thanks to Kusama’s weight-based fee model, users can perform instant cross-chain swaps for a fraction of the gas required on other networks — and because Karura’s DEX is an underlying liquidity pool and settlement layer, it can accept fees in virtually any token.
+W momencie premiery Karura DEX zapewni użytkownikom pozbawioną zaufania, międzyłańcuchową giełdę AMM, opartą na automatycznym protokole dostarczania płynności. Dzięki modelowi opłat opartemu na wadze, użytkownicy mogą dokonywać natychmiastowych swapów międzyłańcuchowych za ułamek gazu wymaganego w innych sieciach - a ponieważ DEX Karury jest bazową pulą płynności i warstwą rozliczeniową, może przyjmować opłaty w praktycznie każdym tokenie.
 
-**This means you can utilize the Karura DEX on day one and expect to pay micro-gas fees with the tokens you already have, including KSM, LKSM, BTC, ETH, and more.**
+**** Oznacza to, że możesz korzystać z Karura DEX pierwszego dnia i spodziewać się opłat za mikro-gaz za pomocą tokenów, które już posiadasz, w tym KSM, LKSM, BTC, ETH i nie tylko.**
 
-With the Karura DEX, users can become a liquidity provider and earn in two ways: through exchange fees generated from Karura’s trading volume, and through stability-fee profit sharing from the kUSD stablecoin protocol. Because the Karura DEX serves as a unified provisioning mechanism, when liquidation occurs, the DEX automatically provides liquidity to the Karura Dollar stablecoin.
+Dzięki Karura DEX użytkownicy mogą stać się dostawcą płynności i zarabiać na dwa sposoby: poprzez opłaty giełdowe generowane z wolumenu handlowego Karury oraz poprzez podział zysków z opłaty za stabilność z protokołu kUSD stablecoin. Ponieważ Karura DEX służy jako ujednolicony mechanizm zasilania, w przypadku likwidacji DEX automatycznie dostarcza płynność do stablecoina Karura Dollar.
 
-# **Liquid KSM Staking**
+# **** Liquid KSM Staking ****
 
 ![Image for post](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
 
-Stake KSM for Liquid KSM on Karura
+Stawka KSM dla Liquid KSM na Karura
 
-Users in the Kusama ecosystem have been staking their KSM in a variety of ways from Polkadot.js to centralized services. Staking KSM generates favorable yield for holders; however, there have been several challenges up to this point:
+Użytkownicy w ekosystemie Kusama stawiają swoje KSM na różne sposoby, od Polkadot.js po usługi scentralizowane. Staking KSM generuje korzystny zysk dla posiadaczy; jednak do tej pory było kilka wyzwań:
 
-- Staked KSM is locked/bonded and has no utility beyond earning rewards.
-- Staking through Polkadot.js requires high staking minimums, and a seven-day unbonding period.
-- And the UX can be frustrating, with many users turning to centralized exchanges that offer a simplified experience while forcing the user to forgo the custody of their keys.
+- Staked KSM jest zablokowany / związany i nie ma żadnej użyteczności poza zdobywaniem nagród.
+- Obstawianie za pośrednictwem Polkadot.js wymaga wysokich minimów obstawiania i siedmiodniowego okresu bez wiązania.
+- A UX może być frustrujące, ponieważ wielu użytkowników zwraca się do scentralizowanych giełd, które oferują uproszczoną obsługę, jednocześnie zmuszając użytkownika do rezygnacji z opieki nad swoimi kluczami.
 
-Fortunately, a new staking experience is available with Karura’s Liquid KSM (LKSM) staking derivative.
+Na szczęście nowe doświadczenie stakingu jest dostępne z pochodną stakingu Liquid KSM (LKSM) firmy Karura.
 
-## **Stay liquid while staking with LKSM**
+## **** Zachowaj płynność podczas obstawiania za pomocą LKSM ****
 
-Liquid KSM (LKSM) allows users to stake their KSM while maintaining access to its liquidity. A game changer in the world of staking, when KSM is staked, users receive LKSM (a tokenized receipt for their stake) with the additional benefit of it being a yield-earning token.
+Płynny KSM (LKSM) umożliwia użytkownikom obstawianie KSM przy zachowaniu dostępu do jego płynności. Odmieniacz w świecie obstawiania, kiedy KSM jest obstawiany, użytkownicy otrzymują LKSM (tokenizowane pokwitowanie dla ich stawki), a dodatkową korzyścią jest to, że jest to token generujący zysk.
 
-With LKSM’s accessible liquidity, users can make additional use of their stake with Karura’s other financial products. For example, LKSM can be used as collateral for a stablecoin loan or for trading within the DEX. One can quickly see how this creates some interesting DeFi use cases.
+Dzięki dostępnej płynności LKSM użytkownicy mogą dodatkowo wykorzystać swój udział w innych produktach finansowych Karury. Na przykład LKSM może służyć jako zabezpieczenie pożyczki stablecoin lub do handlu w ramach DEX. Szybko można zobaczyć, jak tworzy to interesujące przypadki użycia DeFi.
 
-What’s more, Liquid KSM offers no staking minimums, and no unbonding period for the underlying KSM, since users can unbond anytime for a small fee.
+Co więcej, Liquid KSM nie oferuje żadnych minimalnych stawek ani okresu rozłączania dla podstawowego KSM, ponieważ użytkownicy mogą w każdej chwili usunąć wiązanie za niewielką opłatą.
 
-# **It’s all powered by KAR**
+# **** To wszystko jest obsługiwane przez KAR ****
 
 ![Image for post](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
 
-Karura is powered by KAR, its native utility and governance token.
+Karura jest zasilana przez KAR, jego natywne narzędzie i token zarządzania.
 
-KAR is the utility and governance token that powers Karura’s DeFi hub of Kusama. Generated at launch, Karura’s native token will have six distinct use cases. KAR tokens:
+KAR jest tokenem użyteczności i zarządzania, który zasila centrum DeFi Karury w Kusama. Wygenerowany przy uruchomieniu natywny token Karury będzie miał sześć różnych przypadków użycia. Tokeny KAR:
 
-- Power the micro gas fees and smart contract execution for transactions.
-- Incentivize network nodes to monitor and relay messages to Kusama.
-- Support Karura’s on-chain governance by empowering the community to vote, elect council members, and drive the development of Karura.
-- Enable algorithmic risk adjustment to automatically adjust risk parameters such as interest rates or collateral ratio.
-- Are staked by teams deploying new Substrate pallets on the Karura blockchain.
-- Are staked by teams deploying new DApps and smart contracts on Karura.
+- Zasilanie opłat za mikro-gaz i inteligentne zawieranie umów dla transakcji.
+- Zachęcaj węzły sieciowe do monitorowania i przekazywania wiadomości do firmy Kusama.
+- Wspieraj zarządzanie w łańcuchu Karury, umożliwiając społeczności głosowanie, wybieranie członków rady i napędzanie rozwoju Karury.
+- Włącz algorytmiczną korektę ryzyka, aby automatycznie dostosowywać parametry ryzyka, takie jak stopy procentowe lub współczynnik zabezpieczenia.
+- Są obstawiane przez zespoły wdrażające nowe palety substratu w łańcuchu blokowym Karura.
+- Są obstawiane przez zespoły wdrażające nowe DApps i inteligentne kontrakty na Karurze.
 
-With all of these incentives aligned, KAR ensures that Karura will be a fast-moving and powerful network that enables efficient and inexpensive transactions while offering the best and latest in DeFi innovations.
+Mając wszystkie te zachęty dostosowane, KAR zapewnia, że ​​Karura będzie szybko rozwijającą się i potężną siecią, która umożliwia wydajne i niedrogie transakcje, oferując jednocześnie najlepsze i najnowsze innowacje DeFi.
 
-But how does one get KAR?
+Ale jak zdobyć KAR?
 
-# **Karura’s Path to Launch**
+# **** Karura's Path to Launch ****
 
-With a vibrant community of 100,000+ members, it’s clear that users are excited to support the launch and try Karura’s DApps beyond the [Mandala testnet](https://apps.acala.network/). **But in order to launch, Karura must first secure a parachain slot on the Kusama network**, [a process](https://wiki.polkadot.network/docs/en/learn-auction) that requires adequate funding to strategically bid in the network’s candle auction alongside several other parachain teams.
+Dzięki tętniącej życiem społeczności liczącej ponad 100 000 członków wyraźnie widać, że użytkownicy są podekscytowani możliwością wsparcia uruchomienia i wypróbowania DApps Karury poza \[Mandala testnet\] (https://apps.acala.network/) . ** Aby jednak wystartować, Karura musi najpierw zabezpieczyć miejsce na spadochron w sieci Kusama **, \[proces\] (https://wiki.polkadot.network/docs/en/learn-auction), który wymaga odpowiedniego finansowania strategicznie licytuj w sieciowej aukcji świec wraz z kilkoma innymi zespołami spadochronowymi.
 
-Karura’s path to launch now includes three major milestones: Crowdsource KSM with the Crowdloan Module, Participate in the Parachain Auction, and Win! The process will kick off any day now — with adequate time for KSM stakers to unbond their KSM and prepare for the event.
+Droga Karury do premiery obejmuje teraz trzy główne kamienie milowe: Crowdsource KSM z modułem Crowdloan, udział w aukcji spadochronu i wygraj! Proces rozpocznie się lada dzień - z odpowiednią ilością czasu dla stakers KSM na odpięcie KSM i przygotowanie się do wydarzenia.
 
-Here’s what to expect:
+Oto, czegosię spodziewać:
 
-## **1.) Crowdsource KSM with the Crowdloan Module**
+## **możesz## ** 1.) Crowdsource KSM z modułem Crowdloan ****
 
-Soon Karura will hold a KSM crowdsourcing event to bootstrap the network’s bid for the Kusama parachain slot auction. The KSM will be used to participate in the auction in order to gain a slot on Kusama’s network for security and interoperability.
+Wkrótce Karura zorganizuje wydarzenie crowdsourcingowe KSM, aby uruchomić ofertę sieci na aukcję automatów spadochronowych Kusama. KSM zostanie wykorzystany do wzięcia udziału w aukcji w celu uzyskania miejsca w sieci Kusama pod kątem bezpieczeństwa i interoperacyjności.
 
-For their contribution, participants will receive Karura’s native token KAR. For each 1 KSM locked, users will be distributed a yet-to-be-determined amount of KAR upon Karura’s launch. The final KAR amount will depend on the amount of support Karura receives.
+Za swój wkład uczestnicy otrzymają rodzimy token Karury KAR. Za każdy zablokowany 1 KSM użytkownicy otrzymają jeszcze nieokreśloną ilość KAR po uruchomieniu Karury. Ostateczna kwota KAR będzie zależała od kwoty wsparcia, które otrzyma Karura.
 
-## **2.) Participate in Parachain Auction on Kusama**
+## **** 2.) Weź udział w aukcji spadochronów na Kusamie ****
 
-Next, Karura will participate in an unpermissioned candle auction to earn a slot on Kusama’s network. The opening bid will use the “crowdloan module” holding the KSM contributed during the crowdsourcing event. Community members can continue to contribute until the end of the parachain auction.
+Następnie Karura weźmie udział w niezatwierdzonej aukcji świec, aby zdobyć miejsce w sieci Kusama. W ofercie otwarcia wykorzystany zostanie „moduł crowdsourcingu” organizujący KSM, wniesiony podczas imprezy crowdsourcingowej. Członkowie społeczności mogą nadal wnosić wkład do końca aukcji spadochronów.
 
-## **3.) Win Auction and Launch Mainnet**
+## **** 3.) Wygraj aukcję i uruchom Mainnet ****
 
-After Karura wins a parachain auction, Karura mainnet will launch and KAR will be generated and distributed to supporters. Any supporter who had locked their KSM in the crowdloan module will receive a reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the parachain’s slot lease. As Karura DeFi applications go live, liquidity provider programs will begin, and DeFi will officially be available on Kusama!
+Po tym, jak Karura wygra aukcję spadochronową, zostanie uruchomiony mainnet Karury, a KAR zostanie wygenerowany i rozesłany do kibiców. Każdy kibic, który zablokował KSM w module pożyczki społecznościowej, otrzyma nagrodę w KAR. Po otrzymaniu 30% tego KAR-u zostanie odblokowane, płynne i dostępne do wykorzystania w ekosystemie DeFi Karury, podczas gdy pozostałe 70% zostanie przekazane i zwolnione stopniowo, aż do końca dzierżawy miejsca na spadochron. Wraz z uruchomieniem aplikacji Karura DeFi uruchomione zostaną programy zapewniające płynność, a DeFi będzie oficjalnie dostępne na Kusama!
 
-🚀 **_Interested in supporting Karura? Visit the_** [**_Karura website_**](https://acala.network/karura) **_for more info._**
+🚀 ** _ Chcesz wspierać Karurę? Odwiedź witrynę _ ** \[** _ Karura _ **\] (https://acala.network/karura) ** _, aby uzyskać więcej informacji
 
-🏘️ **_Connect with us on_** [**_Twitter_**](https://twitter.com/karuranetwork) **_and join the conversation on_** [**_Discord_**](https://discord.com/invite/HpsZx5r)**_._**
+Karurze ._\[Linktree\] (http: //linktr.ee/karuranetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Strona internetowa\] (http://acala.network/kar-crowdloan) | \[Twitter\] (https://twitter.com/KaruraNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-📬 **_Subscribe to our_** [**_newsletter_**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **_and be among the first to know when the Karura crowdsourcing event begins._**
+._ ** 🏘️ ** _ Połącz się z nami na _ ** [** _ Twitter _ **] (https : //twitter.com/karuranetwork) ** _ i dołącz do rozmowy na _ ** [** _ Discord _ **] (https://discord.com/invite/HpsZx5r) ** _._ **
 
-[Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/kar-crowdloan) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+📬 ** _ Subskrybuj nasz _ ** [** _ biuletyn _ **] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) ** _ i bądź jedną z pierwszych osób, które dowiedzą się o rozpoczęciu imprezy crowdsourcingowej w**
