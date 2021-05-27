@@ -2,7 +2,7 @@
 
 **Odkryj nową stronę** [**Karura**](https://acala.network/karura)**, przetestuj aplikacje i dowiedz się, jak wspierać Karurę w nadchodzącej aukcji na parachain Kusamy.**
 
-![Image for post](https://miro.medium.com/max/6000/1\*L8SpBaVlHefw4De\_DsqT4g.png)
+![Obraz do wpisu](https://miro.medium.com/max/6000/1\*L8SpBaVlHefw4De\_DsqT4g.png)
 
 Karura to kompleksowe centrum DeFi Kusamy
 
@@ -18,7 +18,7 @@ Nadszedł czas, aby DeFi spełniło obietnicę demokratyzacji usług finansowych
 
 # **Poznaj Karurę, kompleksowe centrum DeFi w Kusamie.**
 
-![Image for post](https://miro.medium.com/max/2400/0\*8dXFxggFmDOEL74Z)
+![Obraz do wpisu](https://miro.medium.com/max/2400/0\*8dXFxggFmDOEL74Z)
 
 Założona przez fundację Acala, [ Karura ](https://acala.network/karura) to zbudowana na Kusamie skalowalna, kompatybilna z EVM sieć zoptymalizowana dla DeFi. Jest to kompleksowa platforma DeFi, oferująca zestaw aplikacji finansowych, w tym: nie wymagającą zaufania pochodną staking`u (płynny DOT), stablecoin z wieloma zabezpieczeniami wspierany przez międzyłańcuchowe aktywa (kUSD) oraz AMM DEX (DEX Karury) - wszystko z mikro opłatami za gaz, które można płacić dowolnym tokenem.
 
@@ -30,7 +30,7 @@ _\ * _ [_ Substrate _](http://substrate.io) _ to narzędzie do budowy sieci bloc
 
 Karura została zbudowana przez Acalę, wiodącą grupę rozwijającą ekosystem Polkadot, która ostatnio otrzymała cztery dotacje Fundacji Web3, i założyła [Substrate Developer Academy](https://www.industryconnect.org/substrate-runtime-developer-academy/) (pod przewodnictwem Karura/Acala CTO Bryan Chen). Zarówno Karura, jak i jej sieć siostrzana Acala są wspierane przez Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere, pośród wielu innych najlepszych firm.
 
-![Image for post](https://miro.medium.com/max/3200/0\*SyZWCt8qNFSvStX4)
+![Obraz do wpisu](https://miro.medium.com/max/3200/0\*SyZWCt8qNFSvStX4)
 
 Wśród wspierających Karurę i Acalę znajdują się Coinbase Ventures, Pantera, Polychain Capital oraz inne topowe firmy.
 
@@ -44,13 +44,13 @@ Poprzez uruchomienie na Kusamie, Karura może przesuwać granice tego, co jest m
 
 # **Wprowadzenie do aplikacji DeFi Karury**
 
-![Image for post](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
+![Obraz do wpisu](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
 
 Dzięki Karurze możesz realizować setki strategii DeFi bez opuszczania platformy. Wykorzystaj swoje międzyłańcuchowe tokeny takie jak BTC lub ETH, aby uzyskać samoobsługową pożyczkę w kUSD. Dostarcz płynność do DEX`a Karury, aby zarabiać na opłatach z wolumenu transakcji. Zachowaj płynność podczas stak`owania KSM, aby zarabiać nagrody i zwiększać swoje potencjalne zyski dzięki odblokowanej, płynnej KSM pochodnej stakowania. Możliwości są nieskończone dzięki przemyślanym aplikacjom finansowym Karury.
 
 # **Stablecoin Karury - dolar (kUSD)**
 
-![Image for post](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
+![Obraz do wpisu](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
 
 Zarabiaj więcej z dolarem Karury, stablecoin`em kUSD.
 
@@ -62,7 +62,7 @@ Dzięki protokołowi Dolar Stablecoin Karury, każdy może udzielić sobie samoo
 
 # **DEX Karury**
 
-![Image for post](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
+![Obraz do wpisu](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
 
 Wykonaj natychmiastowe międzyłańcuchowe wymiany na DEXie Karury.
 
@@ -74,7 +74,7 @@ Dzięki DEX`owi Karury użytkownicy mogą zostać dostawcami płynności i zarab
 
 # **Staking płynnego KSM**
 
-![Image for post](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
+![Obraz do wpisu](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
 
 Stake KSM dla płynnego KSM na Karurze
 
@@ -88,57 +88,57 @@ Na szczęście, nowe możliwości staking`u są możliwe wraz z pochodną stakin
 
 ## **Zachowaj płynność podczas staking`u KSM z LKSM**
 
-Płynny KSM (LKSM) umożliwia stakowanie KSM przy jednoczesnym zachowaniu płynności. Odmieniacz w świecie obstawiania, kiedy KSM jest obstawiany, użytkownicy otrzymują LKSM (tokenizowane pokwitowanie dla ich stawki), a dodatkową korzyścią jest to, że jest to token generujący zysk.
+Płynny KSM (LKSM) umożliwia stakowanie KSM przy jednoczesnym zachowaniu płynności. Zmienia to zasady gry w świecie stakowania, gdy KSM jest stakowany, użytkownicy otrzymują LKSM (stokenizowane pokwitowanie ich staking`u), ma to dodatkową korzyść, jest to token generujący zysk.
 
-Dzięki dostępnej płynności LKSM użytkownicy mogą dodatkowo wykorzystać swój udział w innych produktach finansowych Karury. Na przykład LKSM może służyć jako zabezpieczenie pożyczki stablecoin lub do handlu w ramach DEX. Szybko można zobaczyć, jak tworzy to interesujące przypadki użycia DeFi.
+Wraz z dostępem do płynności dzięki LKSM, użytkownicy mogą dodatkowo wykorzystać ich staking w innych produktach finansowych Karury. Na przykład, LKSM może służyć jako zabezpieczenie pożyczki stablecoin lub może być handlowany w ramach DEX. Szybko można zobaczyć, że tworzy to interesujące możliwości zastosowania DeFi.
 
-Co więcej, Liquid KSM nie oferuje żadnych minimalnych stawek ani okresu rozłączania dla podstawowego KSM, ponieważ użytkownicy mogą w każdej chwili usunąć wiązanie za niewielką opłatą.
+Co więcej, Płynny KSM nie wymaga żadnych minimalnych ilości do staking`u, ani okresu odłączania dla podstawowego KSM, ponieważ użytkownicy mogą w każdej chwili usunąć związanie za niewielką opłatą.
 
-# **** To wszystko jest obsługiwane przez KAR ****
+# **To wszystko jest obsługiwane przez KAR**
 
-![Image for post](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
+![Obraz do wpisu](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
 
-Karura jest zasilana przez KAR, jego natywne narzędzie i token zarządzania.
+Karura jest zasilana przez KAR, jej natywny token użyteczności i zarządzania.
 
-KAR jest tokenem użyteczności i zarządzania, który zasila centrum DeFi Karury w Kusama. Wygenerowany przy uruchomieniu natywny token Karury będzie miał sześć różnych przypadków użycia. Tokeny KAR:
+KAR jest tokenem użyteczności i zarządzania, który zasila centrum DeFi Karury w Kusamie. Wygenerowany podczas uruchomienia, natywny token Karury będzie miał sześć różnych przypadków zastosowania. Tokeny KAR:
 
-- Zasilanie opłat za mikro-gaz i inteligentne zawieranie umów dla transakcji.
-- Zachęcaj węzły sieciowe do monitorowania i przekazywania wiadomości do firmy Kusama.
-- Wspieraj zarządzanie w łańcuchu Karury, umożliwiając społeczności głosowanie, wybieranie członków rady i napędzanie rozwoju Karury.
-- Włącz algorytmiczną korektę ryzyka, aby automatycznie dostosowywać parametry ryzyka, takie jak stopy procentowe lub współczynnik zabezpieczenia.
-- Są obstawiane przez zespoły wdrażające nowe palety substratu w łańcuchu blokowym Karura.
-- Są obstawiane przez zespoły wdrażające nowe DApps i inteligentne kontrakty na Karurze.
+- Dokonywanie mikro opłat za gaz oraz wykonanie smart kontraktów w przypadku transakcji.
+- Zachęca węzły sieciowe do monitorowania i przekazywania informacji do Kusamy.
+- Wspiera zarządzanie w sieci Karura, umożliwiając społeczności głosowanie, wybieranie członków rady i kierowanie rozwojem Karury.
+- Umożliwia algorytmiczną korektę ryzyka w celu automatycznego dostosowania parametrów ryzyka takich jak stopy procentowe lub współczynnik zabezpieczenia.
+- Jest stakowany przez zespoły wdrażające nowe palety Substrate w sieci Karura.
+- Jest stakowany przez zespoły wdrażające nowe DApps i inteligentne kontrakty w Karurze.
 
-Mając wszystkie te zachęty dostosowane, KAR zapewnia, że ​​Karura będzie szybko rozwijającą się i potężną siecią, która umożliwia wydajne i niedrogie transakcje, oferując jednocześnie najlepsze i najnowsze innowacje DeFi.
+Wraz z tymi wszystkimi zachętami dostosowanymi do potrzeb, KAR gwarantuje, że Karura będzie szybko rozwijającą się i potężną siecią, która umożliwi efektywne i niedrogie transakcje, oferując najlepsze i najnowsze innowacje w Defi.
 
-Ale jak zdobyć KAR?
+Ale w jaki sposób można zdobyć KAR?
 
-# **** Karura's Path to Launch ****
+# **Droga Karury do uruchomienia**
 
-Dzięki tętniącej życiem społeczności liczącej ponad 100 000 członków wyraźnie widać, że użytkownicy są podekscytowani możliwością wsparcia uruchomienia i wypróbowania DApps Karury poza \[Mandala testnet\] (https://apps.acala.network/) . ** Aby jednak wystartować, Karura musi najpierw zabezpieczyć miejsce na spadochron w sieci Kusama **, \[proces\] (https://wiki.polkadot.network/docs/en/learn-auction), który wymaga odpowiedniego finansowania strategicznie licytuj w sieciowej aukcji świec wraz z kilkoma innymi zespołami spadochronowymi.
+Dzięki tętniącej życiem społeczności liczącej ponad 100 000 członków wyraźnie widać, że użytkownicy są podekscytowani możliwością wsparcia uruchomienia i wypróbowania DApps Karury w [ sieci testowej Mandala ](https://apps.acala.network/). **Jednak w celu uruchomienia, Karura najpierw musi zapewnić miejsce dla swojego parachain`a w sieci Kusama**, [ proces ](https://wiki.polkadot.network/docs/en/learn-auction) ten wymaga odpowiednich środków finansowych, aby móc strategicznie składać oferty w ramach aukcji świec.
 
-Droga Karury do premiery obejmuje teraz trzy główne kamienie milowe: Crowdsource KSM z modułem Crowdloan, udział w aukcji spadochronu i wygraj! Proces rozpocznie się lada dzień - z odpowiednią ilością czasu dla stakers KSM na odpięcie KSM i przygotowanie się do wydarzenia.
+Droga Karury do uruchomienia, teraz obejmuje trzy główne kamienie milowe: Uzyskanie środków KSM od społeczności w procesie pożyczki publicznej "Crowdloan", Udział w aukcji parachain`a oraz Wygrana! Proces rozpocznie się lada dzień - z odpowiednią ilością czasu na odłączenie KSM dla osób stakujących KSM oraz przygotowanie się do wydarzenia.
 
-Oto, czegosię spodziewać:
+Oto czego należy się spodziewać:
 
-## **możesz## ** 1.) Crowdsource KSM z modułem Crowdloan ****
+## **1.) Uzyskanie środków KSM od społeczności w procesie pożyczki publicznej "Crowdloan"**
 
-Wkrótce Karura zorganizuje wydarzenie crowdsourcingowe KSM, aby uruchomić ofertę sieci na aukcję automatów spadochronowych Kusama. KSM zostanie wykorzystany do wzięcia udziału w aukcji w celu uzyskania miejsca w sieci Kusama pod kątem bezpieczeństwa i interoperacyjności.
+Wkrótce Karura zorganizuje wydarzenie "crowdsourcing" - uzyskania środków KSM od społeczności, aby uruchomić aukcję na parachain Kusamy. KSM zostanie wykorzystany do wzięcia udziału w aukcji w celu uzyskania miejsca w sieci Kusama dla bezpieczeństwa i interoperacyjności.
 
-Za swój wkład uczestnicy otrzymają rodzimy token Karury KAR. Za każdy zablokowany 1 KSM użytkownicy otrzymają jeszcze nieokreśloną ilość KAR po uruchomieniu Karury. Ostateczna kwota KAR będzie zależała od kwoty wsparcia, które otrzyma Karura.
+Za swój wkład uczestnicy otrzymają natywny token Karury KAR. Za każdy zablokowany 1 KSM użytkownicy otrzymają jeszcze nieokreśloną ilość KAR po uruchomieniu Karury. Ostateczna ilość KAR będzie zależała od kwoty wsparcia, które otrzyma Karura.
 
-## **** 2.) Weź udział w aukcji spadochronów na Kusamie ****
+## **2.) Weź udział w aukcji na parachain na Kusamie**
 
-Następnie Karura weźmie udział w niezatwierdzonej aukcji świec, aby zdobyć miejsce w sieci Kusama. W ofercie otwarcia wykorzystany zostanie „moduł crowdsourcingu” organizujący KSM, wniesiony podczas imprezy crowdsourcingowej. Członkowie społeczności mogą nadal wnosić wkład do końca aukcji spadochronów.
+Następnie, Karura weźmie udział w niezatwierdzonej aukcji świec, aby zdobyć miejsce w sieci Kusama. Podczas otwarcia licytacji wykorzystany zostanie „moduł crowdloan” trzymający KSM, uzyskane podczas wydarzenia crowdsourcingu. Członkowie społeczności mogą nadal wnosić swój wkład, aż do zakończenia aukcji na parachain.
 
-## **** 3.) Wygraj aukcję i uruchom Mainnet ****
+## **3.) Wygranie aukcji i uruchomienie sieci głównej**
 
-Po tym, jak Karura wygra aukcję spadochronową, zostanie uruchomiony mainnet Karury, a KAR zostanie wygenerowany i rozesłany do kibiców. Każdy kibic, który zablokował KSM w module pożyczki społecznościowej, otrzyma nagrodę w KAR. Po otrzymaniu 30% tego KAR-u zostanie odblokowane, płynne i dostępne do wykorzystania w ekosystemie DeFi Karury, podczas gdy pozostałe 70% zostanie przekazane i zwolnione stopniowo, aż do końca dzierżawy miejsca na spadochron. Wraz z uruchomieniem aplikacji Karura DeFi uruchomione zostaną programy zapewniające płynność, a DeFi będzie oficjalnie dostępne na Kusama!
+Po tym, jak Karura wygra aukcję na parachain, Karura uruchomi sieć główną "mainnet", token KAR zostanie wygenerowany i rozesłany do osób wspierających. Każdy donator, który zablokował swój KSM w module pożyczki publicznej "crowdloan" otrzyma nagrodę w postaci tokena KAR. Po otrzymaniu, 30% tego tokena KAR zostanie odblokowane, płynne i będzie dostępne do wykorzystania w ekosystemie Karura DeFi, podczas gdy pozostałe 70% będzie uwalniane stopniowo, aż do końca 48-tygodniowego okresu dzierżawy. Gdy Karura uruchomi aplikacje DeFi, programy dostarczające płynność zostaną uruchomione i DeFi będzie oficjalnie dostępne na Kusama!
 
-🚀 ** _ Chcesz wspierać Karurę? Odwiedź witrynę _ ** \[** _ Karura _ **\] (https://acala.network/karura) ** _, aby uzyskać więcej informacji
+🚀 **_Zainteresowany wspieraniem Karury? Odwiedź _** [**_stronę internetową Karury_**](https://acala.network/karura) **_po więcej informacji._**
 
-Karurze ._\[Linktree\] (http: //linktr.ee/karuranetwork) | \[Discord\] (https://discord.gg/vdbFVCH) | \[Strona internetowa\] (http://acala.network/kar-crowdloan) | \[Twitter\] (https://twitter.com/KaruraNetwork) | \[GitHub\] (https://github.com/AcalaNetwork/Acala) | \[Acala Wiki\] (https://github.com/AcalaNetwork/Acala/wiki) | \[Newsletter\] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+🏘️ **_Połącz się z nami na_** [**_Twitter_**](https://twitter.com/karuranetwork) **_i dołącz do rozmowy na_** [**_Discord_**](https://discord.com/invite/HpsZx5r)**__**
 
-._ ** 🏘️ ** _ Połącz się z nami na _ ** [** _ Twitter _ **] (https : //twitter.com/karuranetwork) ** _ i dołącz do rozmowy na _ ** [** _ Discord _ **] (https://discord.com/invite/HpsZx5r) ** _._ **
+📬 **_Zapisz się do naszego_** [**_newslettera_**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **_i bądź jednym z pierwszych, którzy wiedzą, kiedy rozpocznie się crowdsourcing w Karurze._**
 
-📬 ** _ Subskrybuj nasz _ ** [** _ biuletyn _ **] (https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) ** _ i bądź jedną z pierwszych osób, które dowiedzą się o rozpoczęciu imprezy crowdsourcingowej w**
+[Linktree](http://linktr.ee/karuranetwork)| [Discord](https://discord.gg/vdbFVCH) | [Strona internetowa](http://acala.network/kar-crowdloan) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
