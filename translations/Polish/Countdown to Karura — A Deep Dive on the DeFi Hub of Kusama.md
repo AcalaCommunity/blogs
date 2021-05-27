@@ -38,57 +38,57 @@ Jednak z całym doświadczeniem i wsparciem ekosystemu Polkadot, po co uruchamia
 
 ## **Kusama to sieć szybkiego postępu i eksperymentów**
 
-Kusama to szybki, dziki kuzyn Polkadot – wielołańcuchowa sieć na rzecz radykalnych innowacji. Chociaż powiązane przez kod, Kusama i Polkadot są niezależnymi, samodzielnymi sieciami z własnymi społecznościami programistycznymi i wymaganiami DeFi. Ale ponieważ Kusama ma szybsze parametry zarządzania i wyższą tolerancję na ryzyko, projekty takie jak Karura mogą budować duże i szybko się rozwijać.
+Kusama to szybki, dziki kuzyn Polkadot – wielołańcuchowa sieć na rzecz radykalnych innowacji. Pomimo, że powiązane ze sobą przez kod bazowy, Kusama i Polkadot są niezależnymi, samodzielnymi sieciami posiadającymi własne samodzielnie rozwijające się społeczności z własnymi potrzebami DeFi. Jednak, ze względu na to, że Kusama ma szybsze parametry zarządzania oraz większą tolerancję ryzyka, projekty takie jak Karura mogą się szybko rozwijać i rozrastać.
 
-Uruchamiając na Kusamie, Karura może przesuwać granice tego, co jest możliwe, dając zespołowi Acala miejsce do wprowadzania nowych, śmiałych innowacji finansowych bez ryzykowania funduszy w bardziej niezawodnej sieci Acala. Karura uzyska dostęp do zabezpieczeń typu plug-and-play firmy Kusama, jednocześnie ciesząc się wysokimi prędkościami przetwarzania, opłatami za mikro-gaz i interoperacyjnością między wieloma sieciami, a wszystko to ostatecznie połączone z Polkadot. Wystrzeliwując jako spadochron Kusama, Karura dostarczy zdecentralizowane produkty finansowe i stabilne aktywa do całego ekosystemu sieci Kusama.
+Poprzez uruchomienie na Kusamie, Karura może przesuwać granice tego, co jest możliwe, dając zespołowi Acala miejsce do wprowadzania nowych, śmiałych innowacji finansowych bez ryzykowania funduszy w bardziej niezawodnej sieci Acala. Karura uzyska dostęp do zabezpieczeń typu podłącz i używaj "plug-and-play" Kusamy, jednocześnie korzystając z jej wysokiej przepustowości przetwarzania, mikro opłat za gaz oraz interoperacyjności między wieloma sieciami, wszystko to ostatecznie zostanie połączone z Polkadot. Poprzez uruchomienie parachain`a w sieci Kusama, Karura dostarczy zdecentralizowane produkty finansowe i stabilne aktywa do całego ekosystemu sieci Kusama.
 
-# **** Przedstawiamy DeFi DApps firmy Karura ****
+# **Wprowadzenie do aplikacji DeFi Karury**
 
 ![Image for post](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
 
-Dzięki Karurze możesz wykonywać setki strategii DeFi bez opuszczania platformy . Wykorzystaj swoje tokeny krzyżowe, takie jak BTC lub ETH, do udzielenia samoobsługowej pożyczki w tysiącach USD. Zapewnij płynność Karura DEX, aby zarabiać na prowizjach od wolumenu obrotu. Zachowaj płynność podczas obstawiania KSM, aby zdobywać nagrody i zwiększać swoje potencjalne zyski dzięki odblokowanej, płynnej pochodnej do obstawiania KSM. Możliwości są nieskończone dzięki przemyślanym aplikacjom finansowym Karury.
+Dzięki Karurze możesz realizować setki strategii DeFi bez opuszczania platformy. Wykorzystaj swoje międzyłańcuchowe tokeny takie jak BTC lub ETH, aby uzyskać samoobsługową pożyczkę w kUSD. Dostarcz płynność do DEX`a Karury, aby zarabiać na opłatach z wolumenu transakcji. Zachowaj płynność podczas stak`owania KSM, aby zarabiać nagrody i zwiększać swoje potencjalne zyski dzięki odblokowanej, płynnej KSM pochodnej stakowania. Możliwości są nieskończone dzięki przemyślanym aplikacjom finansowym Karury.
 
-# **** Karura Dollar Stablecoin (kUSD) ****
+# **Stablecoin Karury - dolar (kUSD)**
 
 ![Image for post](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
 
-Zarabiaj więcej dzięki Karura Dollar, kUSD stablecoin.
+Zarabiaj więcej z dolarem Karury, stablecoin`em kUSD.
 
-Ponieważ coraz więcej użytkowników zwraca się do kryptowalut ze względu na swoje potrzeby finansowe, konieczne stało się zapewnienie stabilnych cenowo walut, aby lepiej umożliwić powszechne przyjęcie przypadków użycia DeFi, takich jak płatności, pożyczki, tokenizowane papiery wartościowe i inne. Użytkownicy często muszą polegać na stabilności aktywów, aby: przeprowadzać niedrogie transfery wartości bez granic, oceniać ryzyko strategii pożyczkowych oraz zapewniać, że ich przejście do i z cyfrowego środowiska finansowego jest tak przystępne, jak przewidywalne.
+Ponieważ ze względu na swoje potrzeby finansowe coraz więcej użytkowników kieruje się w stronę kryptowalut, konieczne stało się zapewnienie stabilnych cenowo walut, które umożliwią powszechne zastosowania DeFi, takie jak płatności, pożyczki, tokenizowane papiery wartościowe i inne. Użytkownicy często muszą polegać na stabilności aktywów, aby: przeprowadzać niedrogie transfery wartości nie mające granic, oceniać ryzyko strategii pożyczkowych oraz zapewniać, że ich przejście do i z cyfrowego środowiska finansowego jest tak przystępne, jak i przewidywalne.
 
-** Wpisz dolara karura (kUSD), zdecentralizowany, multi-zabezpieczony stablecoin wspierany przez aktywa krzyżowe. ** Stabilny z założenia i powiązany z dolarem amerykańskim, kUSD jest de facto stablecoinem Karury, Kusamy i nie tylko .
+**Zajrzyj do Dolara Karury (kUSD), zdecentralizowanego, wielozabezpieczonego stablecoin`a zabezpieczonego aktywami międzyłańcuchowymi.** kUSD został zaprojektowany jako stabilny i powiązany z dolarem amerykańskim, statablecoin Karury, Kusamy oraz poza nią.
 
-Dzięki protokołowi Karura Dollar Stablecoin każdy może udzielić samoobsługowej pożyczki w kUSD, blokując cenne aktywa kryptograficzne typu cross-chain, w tym KSM, BTC, LKSM (Liquid KSM) lub ETH, jako zabezpieczenie. Podczas gdy użytkownik utrzymuje pożyczkę, płacąc odsetki, protokół działa w celu utrzymania stabilności kUSD, jednocześnie automatycznie zarządzając ryzykiem związanym z wszelkimi wahaniami cen bazowego aktywa zabezpieczającego. W rzeczywistości proces likwidacji stablecoina jest wspólnie wspierany przez zdecentralizowaną giełdę i aukcję Karury, aby osiągnąć najlepszą optymalizację cen i wydajność.
+Dzięki protokołowi Dolar Stablecoin Karury, każdy może udzielić sobie samoobsługowej pożyczki w kUSD poprzez zablokowanie cennych międzyłańcuchowych aktywów kryptowalut, w tym KSM, BTC, LKSM (płynny KSM) lub ETH jako zabezpieczenie. Podczas gdy użytkownik utrzymuje pożyczkę płacąc odsetki, protokół ma na celu utrzymanie stabilności kUSD przy jednoczesnym automatycznym zarządzaniu ryzykiem wynikającym z wahań cen bazowego składnika zabezpieczenia. W rzeczywistości proces likwidacji stablecoina jest wspólnie wspierany przez zdecentralizowaną giełdę Karury i aukcję, aby osiągnąć najlepszą optymalizację cen i wydajność..
 
-# **** Karura DEX ****
+# **DEX Karury**
 
 ![Image for post](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
 
-Wykonuj natychmiastowąkrzyżową na Karura DEX.
+Wykonaj natychmiastowe międzyłańcuchowe wymiany na DEXie Karury.
 
-W momencie premiery Karura DEX zapewni użytkownikom pozbawioną zaufania, międzyłańcuchową giełdę AMM, opartą na automatycznym protokole dostarczania płynności. Dzięki modelowi opłat opartemu na wadze, użytkownicy mogą dokonywać natychmiastowych swapów międzyłańcuchowych za ułamek gazu wymaganego w innych sieciach - a ponieważ DEX Karury jest bazową pulą płynności i warstwą rozliczeniową, może przyjmować opłaty w praktycznie każdym tokenie.
+W momencie uruchomienia DEX Karury zapewni użytkownikom niezawodną, międzyłańcuchową AMM wymianę opartą na zautomatyzowanym protokole rezerwacji płynności. Dzięki modelowi opłat Kusamy zależnemu od wagi, użytkownicy mogą dokonywać natychmiastowych swapów międzyłańcuchowych za ułamek gazu wymaganego w innych sieciach - a ze względu na to, że DEX Karury jest bazową pulą płynności i warstwą rozliczeniową, może przyjmować opłaty w praktycznie każdym tokenie.
 
-**** Oznacza to, że możesz korzystać z Karura DEX pierwszego dnia i spodziewać się opłat za mikro-gaz za pomocą tokenów, które już posiadasz, w tym KSM, LKSM, BTC, ETH i nie tylko.**
+**Oznacza to, że możesz wykorzystać DEX Karury od pierwszego dnia i możesz oczekiwać, że zapłacisz mikro opłaty za gaz tokenami, które już posiadasz, w tym KSM, LKSM, BTC, ETH i innymi.**
 
-Dzięki Karura DEX użytkownicy mogą stać się dostawcą płynności i zarabiać na dwa sposoby: poprzez opłaty giełdowe generowane z wolumenu handlowego Karury oraz poprzez podział zysków z opłaty za stabilność z protokołu kUSD stablecoin. Ponieważ Karura DEX służy jako ujednolicony mechanizm zasilania, w przypadku likwidacji DEX automatycznie dostarcza płynność do stablecoina Karura Dollar.
+Dzięki DEX`owi Karury użytkownicy mogą zostać dostawcami płynności i zarabiać na dwa sposoby: poprzez opłaty giełdowe generowane z wolumenu handlowego Karury oraz poprzez podział zysków z opłat za stabilność z protokołu stablecoin`a kUSD. Ponieważ DEX Karury służy jako ujednolicony mechanizm rezerw, gdy dochodzi do likwidacji, DEX automatycznie dostarcza płynność statablecoinowi dolara Karury.
 
-# **** Liquid KSM Staking ****
+# **Staking płynnego KSM**
 
 ![Image for post](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
 
-Stawka KSM dla Liquid KSM na Karura
+Stake KSM dla płynnego KSM na Karurze
 
-Użytkownicy w ekosystemie Kusama stawiają swoje KSM na różne sposoby, od Polkadot.js po usługi scentralizowane. Staking KSM generuje korzystny zysk dla posiadaczy; jednak do tej pory było kilka wyzwań:
+Użytkownicy ekosystemu Kusama stakują swoje KSM na różne sposoby, od Polkadot.js po usługi scentralizowane. Staking KSM generuje korzystny zysk dla hodlerów; jednak do tej pory pojawiło się kilka wyzwań:
 
-- Staked KSM jest zablokowany / związany i nie ma żadnej użyteczności poza zdobywaniem nagród.
-- Obstawianie za pośrednictwem Polkadot.js wymaga wysokich minimów obstawiania i siedmiodniowego okresu bez wiązania.
-- A UX może być frustrujące, ponieważ wielu użytkowników zwraca się do scentralizowanych giełd, które oferują uproszczoną obsługę, jednocześnie zmuszając użytkownika do rezygnacji z opieki nad swoimi kluczami.
+- Stak`owany KSM jest zablokowany / związany i nie ma żadnej użyteczności poza zdobywaniem nagród.
+- Staking za pośrednictwem Polkadot.js ma wysokie minimum stakowanych tokenów, oraz siedmiodniowy okres odłączania.
+- Również Interfejs Użytkownika może być frustrujący, dlatego wielu użytkowników zwraca się do scentralizowanych giełd oferujących uproszczoną obsługę, ale jednocześnie zmuszających użytkownika do rezygnacji z posiadania kluczy prywatnych.
 
-Na szczęście nowe doświadczenie stakingu jest dostępne z pochodną stakingu Liquid KSM (LKSM) firmy Karura.
+Na szczęście, nowe możliwości staking`u są możliwe wraz z pochodną staking`u płynnym KSM Karury (LKSM).
 
-## **** Zachowaj płynność podczas obstawiania za pomocą LKSM ****
+## **Zachowaj płynność podczas staking`u KSM z LKSM**
 
-Płynny KSM (LKSM) umożliwia użytkownikom obstawianie KSM przy zachowaniu dostępu do jego płynności. Odmieniacz w świecie obstawiania, kiedy KSM jest obstawiany, użytkownicy otrzymują LKSM (tokenizowane pokwitowanie dla ich stawki), a dodatkową korzyścią jest to, że jest to token generujący zysk.
+Płynny KSM (LKSM) umożliwia stakowanie KSM przy jednoczesnym zachowaniu płynności. Odmieniacz w świecie obstawiania, kiedy KSM jest obstawiany, użytkownicy otrzymują LKSM (tokenizowane pokwitowanie dla ich stawki), a dodatkową korzyścią jest to, że jest to token generujący zysk.
 
 Dzięki dostępnej płynności LKSM użytkownicy mogą dodatkowo wykorzystać swój udział w innych produktach finansowych Karury. Na przykład LKSM może służyć jako zabezpieczenie pożyczki stablecoin lub do handlu w ramach DEX. Szybko można zobaczyć, jak tworzy to interesujące przypadki użycia DeFi.
 
