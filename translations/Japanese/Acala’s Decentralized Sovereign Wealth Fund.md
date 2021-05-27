@@ -38,11 +38,11 @@ Acalaは、一般評議会、技術評議会、サブプロトコルであるHom
 
 収益の大部分は、他のプロトコルではトークンをバーンしてしまうようなソースから得ています。 多くのプロトコルでは、発行総数を減らすことでトークンの価値を高める仕組みとして、トークンをバーンしています。 しかし、トークンをバーンしても、価値は_創造_されず、既存の価値が再配分されるだけです。 その価値をコレクティブ・ファンドに移すことで、ネットワークはそのファンドを使って価値創造の関係を推進します。
 
-# Value Creation
+# 価値の創造
 
-Just creating this fund is amazing in its own right. This single account actually owns multiple currencies not just from within its own blockchain, but from other blockchains as well. And this account doesn’t represent a contract or any user or business or entity: it is actually owned by the chain itself. Pause and think about that for a moment. The chain didn’t assign a foreign chain asset to a user or contract; rather, one blockchain (Acala, in this case) has a stake in another blockchain.
+このファンドを作っただけでもすごいことなんです。 この単一のアカウントは、自分のブロックチェーン内だけでなく、他のブロックチェーンからも複数の通貨を所有します。 そして、このアカウントはコントラクトやユーザー、ビジネス、エンティティではなく、実際にはチェーン自体が所有しています。 ちょっと立ち止まって考えてみましょう。 このチェーンは、他のチェーン資産をユーザーやコントラクトに割り当てたものではなく、あるブロックチェーン（この場合はAcala）が別のブロックチェーンにステークするものです。
 
-Currencies and tokens can serve many purposes, so the Acala stakeholders will decide how to use their funds. Acala first plans to use these funds to secure a parachain slot. Polkadot has a limited number of parachain slots, and when a new one becomes available, an auction where teams bid to lock DOT determines who can use it. Most teams won’t have enough DOT on their own to secure a slot and will resort to crowdfunding by asking users to lock their DOT on behalf of the project. Acala will do the same for its first parachain auction.
+通貨やトークンには様々な目的があり、Acalaのステークホルダーが資金の使い道を決めることになります。 Acalaはまず、この資金を使ってパラチェーンスロットを確保する予定です。 Polkadot has a limited number of parachain slots, and when a new one becomes available, an auction where teams bid to lock DOT determines who can use it. Most teams won’t have enough DOT on their own to secure a slot and will resort to crowdfunding by asking users to lock their DOT on behalf of the project. Acala will do the same for its first parachain auction.
 
 But crowdfunding the same project over multiple auctions is not sustainable. If the sovereign wealth fund can raise enough funds, the blockchain itself could secure its own parachain slot and return all previous crowdfunded DOT to the contributors.
 
