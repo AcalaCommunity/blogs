@@ -2,9 +2,9 @@
 
 ![](https://miro.medium.com/max/2800/1*QL98Lx2R1D7e10smue8TVA.png)
 
-今月も目まぐるしい一か月となり、Acalaチームはまた新たなマイルストーン達成を喜んでいます。 Between Coinbase Ventures [announcing](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) its backing of Acala and Karura, to Compound awarding us with a grant to build a Starport gateway to Polkadot, Acala shows no signs of slowing down. In fact, the team just launched the [new Karura website](https://acala.network/karura) and is intensely preparing for the upcoming Kusama Parachain Auction.
+今月も目まぐるしい一か月となり、Acalaチームはまた新たなマイルストーンの達成を喜んでいます。 Coinbase VenturesがAcalaとKaruraを支援すると[発表](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) したこと、また、CompoundがStarportゲートウェイを構築するために奨金を与えたことを見るだけでも、Acalaは今後もペースを落とさないことが分かります。 それどころか、Acalaチームは[新しいKauraウェブサイト](https://acala.network/karura)をローンチし、来たるKusamaパラチェーンオークションに備えています。
 
-Here’s a look back at our achievements from March.
+では、3月の達成実績を振り返ってみましょう。
 
 ## Acala previews cross-chain functionality at DeFi Demo Day
 
