@@ -1,27 +1,27 @@
 # Acala、PolkadotのDeFiハブとしてのパラチェーンのローンチに向けてシリーズAの追加調達を実施
 
-![Image for post](https://miro.medium.com/max/8000/1*uA0ZCvV875YUCWsrK2dAvA.jpeg)
+![投稿画像](https://miro.medium.com/max/8000/1*uA0ZCvV875YUCWsrK2dAvA.jpeg)
 
 Acalaは、Polkadotのマルチチェーン・エコシステムのためのDeFiインフラストラクチャを構築するために、1年弱前に設立されました。 Acalaは、分散型ステーブルコイン、ステーキングデリバティブ、分散型取引所といった一連の金融プリミティブを提供しており、PolkadotのDeFiハブとして、金融イノベーションの新しい波をバックアップする態勢を整えています。
 
-Now Acala is one of the most prominent and active platforms in Polkadot ecosystem, with approximately 14,500 new accounts, 142,000 meaningful transactions, and $52 million locked total value during a 3-week testnet campaign, and 30 ecosystem collaborators integrating and building with Acala. While this indicates product-market fit and community engagement, we’re more thrilled with what comes next after launching Acala mainnet on Kusama and Polkadot.
+現在、Acalaは、Polkadotエコシステム内で最も活発なプラットフォームの一つとなっており、3週間のテストネットキャンペーンでは、約14,500の新規アカウント、142,000の有意義なトランザクション、5,200万ドルのTVLを記録し、30のエコシステム協力者がAcalaと統合して構築しています。 これは製品と市場の適合性とコミュニティの関与を示すものであり、私たちは、AcalaのメインネットをKusamaとPolkadotでのローンチ後の次の展開に期待しています。
 
-Today we are delighted to announce a new round of backers led by Pantera, with 1confirmation, Arrington XRP Capital, ParaFi Capital, CoinFund, DCG, Spartan Group, Zee Prime Capital and Divergence Ventures, new strategic partners Altonomy and CMS Holdings, and with Hypersphere, Polychain, KR1 and SNZ reinforcing their previous support.
+本日、Panteraを筆頭に、1confirmation社、Arrington XRP Capital、ParaFi Capital、CoinFund、DCG、Spartan Group、Zee Prime Capital、Divergence Ventures、また、新たな戦略的パートナーとしてAltonomy、CMS Holdings、Hypersphere、Polychain、KR1、SNZによってサポートが更に強化されていくことを嬉しく思います。
 
-_“Pantera is really excited to be backing Acala and to support them through their next chapter of development and growth. We have been early and large investors in Polkadot and are confident that Acala will become the DeFi hub for the entire ecosystem. The company will bring financial stability, liquidity, and accessibility, enabling a mainstream audience for financial freedom.” — Paul Veradittakit, Partner at Pantera Capital_
+_"Panteraは、Acalaを支援し、プロジェクトの発展と成長に関する今後の取り組みをサポートできることに、非常に興奮しています。 我々は、Polkadotの初期からの投資家であり、Acalaがエコシステム全体のDeFiハブになると確信しています。 このプロジェクトは、金融の安定性、流動性、アクセス性をもたらし、経済的自由を求める主流の人々が求める世界を実現するものと確信しています。" — Pantera Capital  Paul Veradittakit_
 
-_“At ParaFi, we envision a constellation of DeFi ecosystems spanning multiple chains and believe that would be a win-win for the broader crypto industry. Acala is our first DeFi investment in Polkadot, and one of our first outside Ethereum. We are encouraged by the pace of development and innovation by Acala and are excited to join the team in their journey to become the primary DeFi hub of the Polkadot ecosystem.” — Santiago Roel Santos, Partner at ParaFi Capital_
+_"ParaFiでは、複数のチェーンにまたがるDeFiエコシステムのコンステレーションを想定しており、それが広く暗号業界にとってWin-Winになると信じています。 Acalaは、Polkadotを対象とした初のDeFi投資であり、Ethereum以外では初の投資の一つです。 Acalaの開発と革新のペースが加速していき、Polkadotエコシステムの主要なDeFiハブになるための旅に参加できることを嬉しく思います。”と述べています。 — ParaFi Capital  Santiago Roel Santos_
 
-_“Acala’s team executes at a breakneck pace, innovating on the learnings of decentralized finance. Acala is built from the ground up for open finance, making core building blocks like exchange, derivatives and stable coins first-class citizens in their layer one blockchain. Hypersphere couldn’t be happier to follow-on in Acala’s Series A and continue to support the team as ACA prepares for their first initial parachain offering.” — Jack Platts, Partner, Hypersphere Ventures_
+_"Acalaチームは、分散型金融の知見に基づいて革新的に、猛烈なスピードで実行しています。 Acalaは、オープンファイナンスのためにゼロから構築されており、取引所、デリバティブ、ステーブルコインなどのコアビルディングブロックをレイヤーワンブロックチェーンとしての最優先事項としています。 Hypersphereは、AcalaのシリーズAに参加することができ、ACAが最初のイニシャルパラチェーン・オファリングの準備をしている間にチームをサポートし続けることができることに喜びを感じています。" — Hypersphere Ventures  Jack Platts_
 
-This round of backers and strategic partners will help Acala’s next chapter of development and growth: launching the Acala parachain as a DeFi hub on Kusama and Polkadot, solidifying adoption of the core protocols, and empowering more DeFi Dapps to deploy on Acala. Together we can deliver financial stability, liquidity, and accessibility to more people around the world.
+このラウンドの支援者と戦略的パートナーは、Acalaの開発と成長を長期的にサポートしていきます。AcalaのパラチェーンをKusamaとPolkadotのDeFiハブとしてローンチし、コアプロトコルの採用を強固にし、より多くのDeFi DappsがAcalaにデプロイできるようにします。 私たちが協力すれば、世界中のより多くの人々に金融の安定性、流動性、およびアクセス性を提供することができます。
 
-Acala will soon be launching a parachain campaign on Kusama and Polkadot! [**Subscribe here**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **to receive updates on Acala’s parachain launch.**
+Acalaは近々、KusamaとPolkadotでパラチェーン・キャンペーンを行います！ [**登録はこちら**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **Acalaのパラチェーン・ローンチに関する最新情報をお届けします**。
 
-# About Acala
+# Acalaについて
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance platform with a vision to bring financial stability, liquidity and accessibility to the mainstream. The Acala Network is a cross-chain finance hub for the Polkadot ecosystem and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/)は、金融の安定性、流動性、アクセス性をメインストリームにもたらすというビジョンを持つ、世界初の分散型金融コンソーシアムです。 Acala Networkは、Polkadotのエコシステムとその先を見据えたクロスチェーンファイナンスのハブとして機能します。 ビットコインのようなクロスチェーン資産に裏付けられたマルチ担保のステーブルコイン、信頼性の高いステーキングデリバティブ、分散型取引所など、一連の金融プリミティブを提供し、流動性を解き放ち、金融イノベーションを実現します。 金融系のdAppsがスマートコントラクトや内蔵プロトコルを使ってデプロイするためのオープンプラットフォームであり、クロスチェーン機能、セキュリティ、金融の最適化が可能となります。
 
-**Join Us**
+**参加しませんか**
 
 [Twitter](https://twitter.com/AcalaNetwork) | [Telegram](https://t.me/acalaofficial) | [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
