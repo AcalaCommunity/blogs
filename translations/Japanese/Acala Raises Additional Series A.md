@@ -1,8 +1,8 @@
-# Acala Raises Additional Series A for Polkadot DeFi Hub Ahead of Upcoming Parachain Launch
+# Acala、PolkadotのDeFiハブとしてのパラチェーンのローンチに向けてシリーズAの追加調達を実施
 
 ![Image for post](https://miro.medium.com/max/8000/1*uA0ZCvV875YUCWsrK2dAvA.jpeg)
 
-Just under a year ago, Acala was founded to build a DeFi infrastructure for Polkadot’s multi-chain ecosystem. Acala has delivered a suite of financial primitives — a decentralized stablecoin, a staking derivative, and a decentralized exchange — poised to be the DeFi hub of Polkadot to power a new wave of financial innovation.
+Acalaは、Polkadotのマルチチェーン・エコシステムのためのDeFiインフラストラクチャを構築するために、1年弱前に設立されました。 Acalaは、分散型ステーブルコイン、ステーキングデリバティブ、分散型取引所といった一連の金融プリミティブを提供しており、PolkadotのDeFiハブとして、金融イノベーションの新しい波をバックアップする態勢を整えています。
 
 Now Acala is one of the most prominent and active platforms in Polkadot ecosystem, with approximately 14,500 new accounts, 142,000 meaningful transactions, and $52 million locked total value during a 3-week testnet campaign, and 30 ecosystem collaborators integrating and building with Acala. While this indicates product-market fit and community engagement, we’re more thrilled with what comes next after launching Acala mainnet on Kusama and Polkadot.
 
