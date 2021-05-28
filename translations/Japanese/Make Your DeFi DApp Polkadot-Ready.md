@@ -2,7 +2,7 @@
 
 ## _バウンティを獲得し、チームと出会い、イーサリアムとPolkadot/Substrateによる最高の機能を持つAcalaのEVMにアクセスすることができます_
 
-![Image for post](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
+![投稿画像](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
 
 Move over PegaBufficorn! 今年はスポークマーモットの年です。 ETHDenver #BUIDLathonが公式開催されています。Acalaはプレゼンティングスポンサーとして参加し、エキサイティングなバウンティ、ハンズオントレーニング、Acala EVMの初公開を行います。
 
@@ -50,10 +50,10 @@ Web3のエコシステムに貢献しながら、創造性と技術力を発揮�
 
 ここでは止まりません。 新しいDeFiエコシステムへの移行を促進するためのサポートやリソースをご利用ください。 私たちのチームは、あなたのプロジェクトをより多くの人に伝え、[Acala](https://acala.network)やPolkadotでのローンチをサポートすることを楽しみにしています。 詳細については、公式の [Acala Discord](https://discord.gg/WZFZkqSzYa) をご覧ください。
 
-![Image for post](https://miro.medium.com/max/2402/1*xKdKCXlMPnyTQqZT5XlD_Q.png)
+![投稿画像](https://miro.medium.com/max/2402/1*xKdKCXlMPnyTQqZT5XlD_Q.png)
 
 # Acalaについて
 
-[Acala](http://acala.network/)は、Polkadotの分散型金融ハブおよびステーブルコインであり、金融アプリケーションの利用や構築を迅速かつ容易にし、取引の効率化と時間の節約を実現します。 このプラットフォームは、一連の金融プリミティブを提供しており、ビットコインなどのクロスチェーン資産に裏付けられたマルチ担保のステーブルコイン、信頼性の高いステーキングデリバティブ、そして分散型取引所によって、流動性を解き放ち、金融イノベーションを実現します。 Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+[Acala](http://acala.network/)は、Polkadotの分散型金融ハブおよびステーブルコインであり、金融アプリケーションの利用や構築を迅速かつ容易にし、取引の効率化と時間の節約を実現します。 このプラットフォームは、一連の金融プリミティブを提供しており、ビットコインなどのクロスチェーン資産に裏付けられたマルチ担保のステーブルコイン、信頼性の高いステーキングデリバティブ、そして分散型取引所によって、流動性を解き放ち、金融イノベーションを実現します。 Acalaは、金融アプリケーションがスマートコントラクトや内蔵プロトコルを使用するための、事実上のオープンプラットフォームであり、利便性の高いクロスチェーン機能と強固なセキュリティを備えています。
 
 [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
