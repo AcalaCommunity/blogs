@@ -12,14 +12,14 @@ Acala Foundationは、Polkadotネットワーク上のオープンファイナ�
 
 ## ロードマップ & ウェブサイト更新
 
-私たちは、ParityやPolkadotのエンジニアと緊密に連携して、パラチェーンの準備とPolkadotのメインネットローンチに合わせて、ロードマップを常時更新しており、その中のいくつかをご紹介致します。
+私たちは、ParityやPolkadotのエンジニアと緊密に連携して、パラチェーンの準備とPolkadotのメインネットローンチに合わせて、ロードマップを常時更新しており、その中のいくつかが以下の通りです。
 
-- Kusamaパラチェーンの準備が整い次第、Acara・Karuraのカナリアネットワークをローンチします。
-- Acalaのセキュリティ監査を開始します。
-- Acalaメインネット (プレーンネットワーク) をローンチし、Polkadotの準備ができ次第、パラチェーンオークションに参加します。
-- 次の段階として、ネットワークの安定稼働が確認でき次第、ステーブルコインを有効化します。
+- Kusamaパラチェーンの準備が整い次第、Acala・Karuraのカナリアネットワークをローンチします。
+- Acalaのセキュリティ監査を開始
+- Acalaメインネット (プレーンネットワーク) をローンチし、Polkadotの準備ができ次第、パラチェーンオークションに参加
+- 次の段階として、ネットワークの安定稼働が確認でき次第、ステーブルコインを有効化
 
-改訂されたウェブサイト [acala.network](https://acala.network/) をご覧ください。
+さらなる情報については、改訂されたウェブサイト [acala.network](https://acala.network/) をご覧ください。
 
 ![投稿画像](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
@@ -30,7 +30,7 @@ Acala Foundationは、Polkadotネットワーク上のオープンファイナ�
 - **ネットワークの混雑について** Polkadotのシャード設計では最低200TPSが想定されていますが、Substrateを使用したAcalaにおいては、この問題に効果的に対処するために、オラクル操作などの重要なトランザクションを優先させるQuality of Serviceタイプのトランザクション分類を設計しています。
 - **清算プロセスにおける脆弱性** Acalaは堅牢性や流動性、最適な価格設定を確保する為に、担保オークションを補完するビルトインDeXを備えたハイブリッドメカニズムを実装しています。
 - **資本準備金** Acalaは、ネットワークの価値を確保するために、3つの資本準備システムを設計しています。緊急資金としての暗号資産の準備金（[分散型Sovereign Wealth Fund](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)経由）、パッシブ・リザーバーとしての流動性集約型DeX、そして最後の手段としてのACAオークションです。
-- 原則としてシステムやプロトコルは、**more truth and less trust**を継続的に維持する様に分散化に努めるべきであると考えます。 しかしながら、信頼が必要な場合（一部のコンポーネントはまだ完全には分散化・自動化されていません）にリスクに対抗するためには、中央集権的な現在の金融企業に劣らない努力、資本、規制、保険が必要となります。
+- 原則として、システムやプロトコルは、**more truth and less trust**を継続的に維持する様に分散化に努めるべきであると考えます。 しかしながら、信頼が必要な場合（一部のコンポーネントはまだ完全には分散化・自動化されていません）、リスクに対抗するためには、中央集権的な現在の金融企業に劣らない努力、資本、規制、保険が必要となります。
 
 この問題と潜在的な解決策に関する議論は、[Regain Confidence in Decentralised Stablecoin](https://medium.com/acalanetwork/regaining-confidence-in-decentralized-stablecoins-bd98ba8e3c83)と[a recent AMA｜Acala Network: PoS時代のクロスチェーン・ファイナンス](https://polkabase.com/blog/1217) をお読みください。
 
