@@ -1,12 +1,12 @@
 # Ampleforth, a DeFi Building Block, Brings Rebasing Currency and Elastic Finance to Acala and Polkadot
 
-## Ampleforth will likely launch on Acala (Polkadot) early next year
+## Ampleforth, вероятно, будет запущен на Acala (Polkadot) в начале следующего года
 
 ![Image for post](https://miro.medium.com/max/1600/0*u9U9isEmIWMS9LJl)
 
-# The Independent, Multichain Money
+# Независимые мультичейн деньги
 
-AMPL by the [Ampleforth](https://www.ampleforth.org/) team is a truly independent cryptocurrency that brings chain-agnostic, non-dilutive money to decentralized finance. Soon it will be available across the Acala network.
+AMPL от команды [Ampleforth](https://www.ampleforth.org/) - это действительно независимая криптовалюта, которая приносит независимые от цепи, неразводняющие деньги в децентрализованное финансирование. Soon it will be available across the Acala network.
 
 Ampleforth introduced the world to the rebase, a unique mechanism which ensures price-supply equilibrium. Ampleforth is like Bitcoin, except it can be used to denominate stable contracts. Like Bitcoin, AMPL is uncollateralized. Unlike Bitcoin, AMPL has an elastic supply policy. The Ampleforth currency automatically ‘rebases’ its supply in a proportional and non-dilutive way in response to price volatility. This approach is key to realizing stable contracts, a critical hedge against the price volatility associated with smart contracts today. This capability makes AMPL a key building block for DeFi ecosystems.
 
