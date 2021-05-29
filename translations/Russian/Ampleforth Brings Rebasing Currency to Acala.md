@@ -2,58 +2,58 @@
 
 ## Ampleforth, вероятно, будет запущен на Acala (Polkadot) в начале следующего года
 
-![Image for post](https://miro.medium.com/max/1600/0*u9U9isEmIWMS9LJl)
+![Изображение для публикации](https://miro.medium.com/max/1600/0*u9U9isEmIWMS9LJl)
 
 # Независимые мультичейн деньги
 
-AMPL от команды [Ampleforth](https://www.ampleforth.org/) - это действительно независимая криптовалюта, которая приносит независимые от цепи, неразводняющие деньги в децентрализованное финансирование. Soon it will be available across the Acala network.
+AMPL от команды [Ampleforth](https://www.ampleforth.org/) - это действительно независимая криптовалюта, которая приносит независимые от цепи, неразводняющие деньги в децентрализованное финансирование. Скоро она будет доступен в сети Acala.
 
-Ampleforth introduced the world to the rebase, a unique mechanism which ensures price-supply equilibrium. Ampleforth is like Bitcoin, except it can be used to denominate stable contracts. Like Bitcoin, AMPL is uncollateralized. Unlike Bitcoin, AMPL has an elastic supply policy. The Ampleforth currency automatically ‘rebases’ its supply in a proportional and non-dilutive way in response to price volatility. This approach is key to realizing stable contracts, a critical hedge against the price volatility associated with smart contracts today. This capability makes AMPL a key building block for DeFi ecosystems.
+Ampleforth представил миру перебазирование, уникальный механизм, обеспечивающий равновесие цены и предложения. Ampleforth похож на Bitcoin, за исключением того, что его можно использовать для обозначения стабильных контрактов. Как и Bitcoin, AMPL не имеет обеспечения. В отличие от Bitcoin, AMPL имеет гибкую политику предложения. Валюта Ampleforth автоматически "перебазирует" предложение пропорционально и без разводнения в ответ на волатильность цен. Этот подход является ключом к реализации стабильных контрактов, критически важным средством защиты от волатильности цен, связанной с сегодняшними смарт-контрактами. Эта возможность делает AMPL ключевым строительным блоком для экосистем DeFi.
 
-[Ampleforth Everywhere](https://medium.com/ampleforth/independent-currency-in-a-multi-chain-world-67032dce8296) has been a long term vision of the Ampleforth team to bring AMPL to multiple blockchains and execute its monetary policy to regulate its supply with market demand.
+[Ampleforth Everywhere](https://medium.com/ampleforth/independent-currency-in-a-multi-chain-world-67032dce8296) был долгосрочным видением команды Ampleforth по внедрению AMPL в несколько блокчейнов и реализации своей денежно-кредитной политики для регулирования предложения в соответствии с рыночным спросом.
 
-[Ampleforth will likely launch on Acala (Polkadot)](https://www.ampltalk.org/app/forum/announcements-22/topic/multichain-ampleforth-231/?utm_source=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_medium=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_campaign=AMPLTwtr_Announce_multichain_3chains_12_2_20) early next year, making it the first multichain independent money to serve the wider cross-chain crypto and DeFi community.
+[Вероятно, Ampleforth будет запущен на Acala (Polkadot)](https://www.ampltalk.org/app/forum/announcements-22/topic/multichain-ampleforth-231/?utm_source=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_medium=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_campaign=AMPLTwtr_Announce_multichain_3chains_12_2_20) в начале следующего года, что сделает его первым мультичейн-независимым капиталом, который будет обслуживать более широкое кросс-чейн сообщество криптографии и DeFi.
 
-Polkadot enables a network of interconnected blockchains, offers inter-chain communication and shared security to bridge existing chains like Ethereum and Bitcoin with many parachains that are connected to it. Polkadot has a hub-and-spoke architecture, where its current live network is the hub aka the Relay Chain that offers Proof-of-Stake network security and will be an anchor for cross-chain communication. However, it does not have any application-level implementations, nor smart contract capability, which is realized by individual parachains and parathreads.
+Polkadot включает сеть взаимосвязанных блокчейнов, предлагает межцепочечную связь и общую безопасность для соединения существующих цепей, таких как Ethereum и Bitcoin, с множеством подключенных к нему парачейнов. Polkadot имеет архитектуру «hub-and-spoke», где его текущая действующая сеть является концентратором, также известным как Relay Chain, который обеспечивает безопасность сети Proof-of-Stake и будет якорем для межсетевого взаимодействия. Однако у него нет ни реализаций на уровне приложений, ни возможностей смарт-контрактов, которые реализуются отдельными парачейнами и паранитями.
 
-Acala is one of the leading parachains in the Polkadot ecosystem that is optimized for DeFi, often serves as a landing pad and DeFi hub of Polkadot. DApps deploying on Acala not only gain immediate access to Polkadot’s multi-chain ecosystem via cross-chain message passing mechanism ([XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)), but also have full access to Acala’s existing DeFi primitives such as DeX, user base, and liquidity.
+Acala - один из ведущих парачейнов в экосистеме Polkadot, который оптимизирован для DeFi, часто служит площадкой для посадки и центром DeFi для Polkadot. DApps, развертываемые на Acala, не только получают немедленный доступ к многоцепочечной экосистеме Polkadot через механизм передачи сообщений между цепями ([XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)), но также имеют полный доступ к существующим примитивам DeFi Acala, таким как DEX, пользовательская база, и ликвидность.
 
-# AMPL on Acala (Polkadot)
+# AMPL на Acala (Polkadot)
 
-We’re pleased to welcome Ampleforth to Acala’s Ecosystem Program, as well as the ever-growing Polkadot ecosystem.
+Мы рады приветствовать Ampleforth в экосистемной программе Acala, а также в постоянно растущей экосистеме Polkadot.
 
-Ampleforth Everywhere will have a single monetary policy that automatically adjusts supply based on demand (called ‘rebase’) on multiple blockchains. The user flow looks like this:
+Ampleforth Everywhere будет иметь единую денежно-кредитную политику, которая автоматически регулирует предложение в зависимости от спроса (так называемое «перебазирование») на нескольких блокчейнах. Пользовательский поток выглядит так:
 
-- Value-transfer: A user is able to transfer AMPLs from their wallet on one chain to another wallet on a different chain.
-- State Transfer: The monetary policy is able to call rebase() on the token contract of a different chain, or otherwise sync its state to the other chain to adjust supply.
+- Перенос ценности: пользователь может передавать AMPL со своего кошелька в одной цепи на другой кошелек в другой цепи.
+- Передача состояния: денежно-кредитная политика может вызывать перебазирование в контракте токена другой цепи или иным образом синхронизировать его состояние с другой цепью для корректировки предложения.
 
-Specifically, Ampleforth’s deployment on Acala will bring these benefits to the users
+В частности, развертывание Ampleforths на Acala принесет следующие преимущества пользователям:
 
-1.  Enable Ample money on Polkadot via Acala network
-2.  Ample will become a 1st-class fee token on Acala, meaning users can pay AMPLs as fees when transferring AMPLs
-3.  Ampleforth contracts will be deployed on Acala’s EVM with minimal changes while enjoying seamless integration with Acala’s DeFi primitives e.g. list directly on Acala Swap DeX.
-4.  Transfer AMPL between Ethereum and Acala/Polkadot: RenVM will initially provide an Ethereum to Acala (Polkadot) bridge that will be used for value transfer and state transfer. Meanwhile, ChainBridge is considered as an alternative solution, while Snowfork’s trustless Ethereum bridge is also considered as a fully decentralized bridge option once it becomes available.
+1.  Включение Ample Money на Polkadot через сеть Acala
+2.  Ample станет токеном комиссии 1-го класса на Acala, что означает, что пользователи могут оплачивать AMPL в качестве комиссии при передаче AMPL
+3.  Контракты Ampleforth будут развернуты в EVM Acala с минимальными изменениями, при этом будет обеспечена бесшовная интеграция с примитивами DeFi Acala, например прямо на Acala Swap DEX.
+4.  Передача AMPL между Ethereum и Acala/Polkadot: RenVM изначально предоставит мост Ethereum-Acala (Polkadot), который будет использоваться для передачи значений и передачи состояния. Между тем, ChainBridge рассматривается как альтернативное решение, в то время как trustless мост Ethereum Snowfork также рассматривается как полностью децентрализованный мост, когда он станет доступным.
 
-Technically Acala EVM is powered by [Project Bodhi](https://github.com/w3f/Open-Grants-Program/blob/master/applications/project_bodhi.md) — a composable and innovative EVM stack on [Substrate](https://www.substrate.io/) — a customizable blockchain framework used for building Polkadot, Kusama, Acala, and various types of blockchains. Project Bodhi has recently been awarded Web3 Foundation Open Grant to deliver full-stack composability between EVM and runtimes for developers, and a single-wallet cross-chain experience for users. More details will be revealed in an upcoming post.
+Технически Acala EVM поддерживается [Project Bodhi](https://github.com/w3f/Open-Grants-Program/blob/master/applications/project_bodhi.md) - компонуемым и инновационным стеком EVM на [Substrate](https://www.substrate.io/) - настраиваемой структуре блокчейнов, используемой для создания Polkadot, Kusama, Acala и различных типов блокчейнов. Project Bodhi недавно получил грант Web3 Foundation Open Grant за обеспечение возможности компоновки полного стека между EVM и средами выполнения для разработчиков, а также возможность кросс-цепи с одним кошельком для пользователей. Более подробная информация будет представлена в следующей статье.
 
-# What’s Next
+# Что будет дальше
 
-We are also collaborating with Ren to make RenVM Ethereum to Acala (Polkadot) bridge available in early 2021. Then Ampleforth contracts can be deployed on Acala mainnet, making AMPLs one of the first cross-chain assets available on Polkadot, and help realize the vision of Ampleforth Everywhere. Together with Polkadot and other ecosystem collaborators, Acala is poised to bring the cross-chain DeFi ecosystem and liquidity together, and empower more open finance innovations.
+Мы также сотрудничаем с Ren, чтобы сделать мост между RenVM Ethereum и Acala (Polkadot) доступным в начале 2021 года. Затем контракты Ampleforth могут быть развернуты в основной сети Acala, что сделает AMPL одним из первых кросс-чейн активов, доступных на Polkadot, и поможет реализовать видение Ampleforth Everywhere. Вместе с Polkadot и другими участниками экосистемы Acala готова объединить межсетевую экосистему DeFi и ликвидность, а также предоставить больше возможностей для инноваций в области открытого финансирования.
 
-_Click here to_ [_learn more about Ampleforth_](https://www.ampleforth.org/quickstart/)_._
+_Нажмите здесь_, чтобы [_узнать больше о Ampleforth_](https://www.ampleforth.org/quickstart/)
 
-_Interested in a career in decentralized finance? If you enjoy working on high-impact, web3 and DeFi challenges, check out_ [_our open positions_](https://jobs.lever.co/acala/) _here. We’d love to hear from you._
+Интересуетесь карьерой в области DeFi? Если вам нравится работать над задачами, требующими высокой отдачи, Web3 и DeFi, ознакомьтесь с нашими открытыми вакансиями здесь. С нетерпением ждём ваших резюме.</em>
 
-**Join Acala**
+**Присоединяйтесь к Acala**
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki)
 
-To keep up to date with progress on the Acala parachain launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+А также не забудьте подписаться на новостную рассылку от Acala, чтобы не пропустить детали предстоящего аукциона и запуска парачейна.
 
-# About Ampleforth
+# Об Ampleforth
 
-Ample is a new base-money cryptocurrency with elastic supply and rules-based governance. Ample naturally adapts to changes in demand by universally expanding or contracting supply, these changes affect all wallets equally, ensuring AMPL remains non-dilutive like Bitcoin. Ample supply expands or contracts by smart contract according to a rules-based monetary policy. Ample is not correlated with or derived from any other asset. Ample is a new base-money primitive for building the future of decentralized finance.
+Ample - это новая криптовалюта с базовыми деньгами, с эластичным предложением и управлением на основе правил. Ample естественным образом адаптируется к изменениям спроса, повсеместно расширяя или сокращая предложение, эти изменения в равной степени влияют на все кошельки, гарантируя, что AMPL не "разведён", как Bitcoin. Обильное предложение расширяется или сокращается за счет смарт-контракта в соответствии с денежно-кредитной политикой, основанной на правилах. Ample не коррелирует и не выводится из любого другого актива. Ample - это новый примитив базовых денег для построения будущего децентрализованных финансов.
 
-# About Acala
+# Об Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot, making it fast and easy to use financial applications available to everyone. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+Acala - это децентрализованный финансовый центр Polkadot, позволяющий быстро и легко использовать финансовые приложения, доступные каждому. Платформа предлагает набор финансовых примитивов: стейблкоин с множественным обеспечением, поддерживаемый кросс-чейновыми активами, такими как Bitcoin, децентрализованная биржа и финансовых инноваций. Acala - это, де-факто, открытая платформа для финансовых приложений, использующая смарт-контракты или встроенные протоколы с готовыми возможностями кросс-чейна, безопасностью и финансовой оптимизацией.
