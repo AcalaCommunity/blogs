@@ -47,7 +47,7 @@ Mandala Test Networkは、[Acalaの3部作ネットワーク](https://medium.com
 私たちは [Mandala Festival](https://medium.com/acalanetwork/mandala-festival-prize-drops-3ae68df0dfa6) を開催し、サポーターやフェスティバル参加者に報酬を与えました。 現在既に三週間が経過し、私たちはその終盤近くに存在しています。 多くの参加機会と賞品は、非常に魅力的であり、やりがいを生じさせます。
 
 - 24都市で260以上のノードが稼働（3月27日現在 [Polkadot Telemetry](https://telemetry.polkadot.io/#list/Acala%20Mandala%20Testnet)で2位）
-- 350人以上のユーザーがトランザクションを実行しラッキードロー対象に
+- 350人以上のユーザーがトランザクションを実行しラッキードロー（抽選）対象に
 - 20以上の高品質の記事が提出
 
 賞金ボード [はこちら](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards) をご覧ください。 コーディングチャレンジとバグバウンティは次のとおりです🚀
@@ -64,6 +64,6 @@ Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/
 
 [Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. Acala Networkは、分散型クロスチェーン対応のマルチ担保型ステーブルコインプロトコルを備えたデュアルプロトコルネットワーク — Honzon. 信頼のないトークン化された投資流動性プロトコル — Homa からなるプロジェクトです Acalaは、暗号分野に安定性と流動性をもたらすことを目指しています。
 
-Acala ステーブルコインプロジェトは [Web3 Foundation](https://web3.foundation/) によりサポートされています
+Acala ステーブルコインプロジェク トは [Web3 Foundation](https://web3.foundation/) によりサポートされています
 
 ![投稿画像](https://miro.medium.com/max/1500/0*xDQHH-Y6U1avx7lm.jpg)
