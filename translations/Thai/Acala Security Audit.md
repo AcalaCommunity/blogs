@@ -2,23 +2,23 @@
 
 ![Image for post](https://miro.medium.com/max/8000/1*yhydywHe1k2421hd6xqhFQ.jpeg)
 
-ที่ acala เราเชื่อว่า ผู้ใช้แต่ละคน ไม่ใช่องค์กร ควรเป็นคนบริหารเงินของตัวเอง Our mission is to support and nurture financial applications of Web 3.0 — the truly decentralized and “trustless” web. A more open and fair financial future is what we hope to enable through our DeFi-optimized Smart Contract platform and our protocols — decentralized stablecoin, trustless liquid staking and decentralized exchange.
+ที่ acala เราเชื่อว่า ผู้ใช้แต่ละคน ไม่ใช่องค์กร ควรเป็นคนบริหารเงินของตัวเอง ภารกิจของเราคือการสนับสนุนและดูแล แอปพลิเคชั่นทางการเงินของ Web 3.0 -- เว็บที่มีการกระจายอำนาจอย่างแท้จริง และ "trustless" (ไม่จำเป็นต้องเชื่อถือ) อนาคตทางการเงินที่แฟร์และเปิดกว้างมากขึ้นคือสิ่งที่เราหวังที่จะเปิดผ่านแพลตฟอร์ม smart contract และ โปรโตคอลของเรา -- Stablecoin แบบกระจายอำนาจ, การ staking สภาพคล่อง และ การแลกเปลี่ยนแบบกระจายอำนาจ
 
-That said, the security of Acala’s blockchain and protocols is our highest priority. We have invested considerable efforts to develop a platform and associated protocols that we believe are safe and reliable; we have also engaged the best in the business to help audit our codebase — amongst them are [SRLabs](https://srlabs.de/), [Trail of Bits](https://www.trailofbits.com/) and [Slow Mist](https://www.slowmist.com/en/).
+นั่นหมายถึง ระบบรักษาความปลอดภัยของ blockchain และ โปรโตคอลของ Acala คือสิ่งที่เราให้ความสำคัญสูงสุด เราได้ทุ่มเทความพยายามอย่างมากในการพัฒนาแพลตฟอร์มและโปรโตคอลที่เกี่ยวข้องซึ่งเราเชื่อว่าปลอดภัยและเชื่อถือได้ เรายังได้ทุ่มเทสิ่งที่ดีที่สุดในธุรกิจเพื่อช่วยตรวจสอบ โค้ดของเรา ซึ่งได้แก่ [SRLabs](https://srlabs.de/), [Trail of Bits](https://www.trailofbits.com/) และ [Slow Mist](https://www.slowmist.com/en/)
 
 ![Image for post](https://miro.medium.com/max/1730/1*hKvzkJVXDmSA9OU7NhFLuA.jpeg)
 
-The scope of the audit included all runtime implementations of Acala including ecosystem module RenVM, the community maintained ORML modules that Acala depends on, as well as the front-end interface for Acala’s DApp. So far SRLabs and Slow Mist have completed their audits, and the Trail of Bits audit is scheduled to commence in Jan 2021.
+ขอบเขตของการ audit รวมถึงการใช้งานรันไทม์ทั้งหมดของ Acala รวมทั้งโมดูล ecosystem ของ RenVM, community ที่ดูแลโมดูล ORML ที่ Acala พึ่งพาตลอดจนถึงอินเทอร์เฟซ front-end สำหรับ DApp ของ Acala ซึ่งปัจจุบัน SRLabs และ Slow Mist ได้ audit เรียบร้อยแล้ว และการตรวจสอบ Trail of Bits มีกำหนดจะเริ่มในเดือนมกราคม 2021
 
 # The Report & Fixes
 
-The SRLabs audit found 0 Critical, 1 High, 7 Medium and 2 Low-level issues.
+การตรวจสอบ SRLabs พบปัญหาที่สำคัญ 0 รายการ, สูง 1 รายการ, ปานกลาง 7 รายการ และระดับต่ำ 2 รายการ
 
-The SlowMist audit found 0 Critical, 0 High, 1 Medium and 1 Low-level issue.
+การตรวจสอบ SlowMist พบปัญหาที่สำคัญ 0 รายการ, สูง 0 รายการ, ปานกลาง 1 รายการ และระดับต่ำ 1 รายการ
 
-The one high-level issue regarding weight assignment was a planned task yet to be implemented at the time of the audit. We have now completed benchmarking and finalized appropriate weights for all [extrinsic](https://substrate.dev/docs/en/knowledgebase/learn-substrate/extrinsics) (aka signed/unsigned transactions, and inherits — info included in a block but not gossiped).
+โดยปัญหาระดับสูงรายการหนึ่งนั้นเกี่ยวกับการกำหนดน้ำหนักที่มอบหมายที่ได้วางแผนไว้นั้นยังไม่ได้ดำเนินการ ในขณะที่ทำการตรวจสอบ ตอนนี้เราได้ทำการเปรียบเทียบและสรุปการให้น้ำหนักที่เหมาะสมสำหรับ [extrinsic](https://substrate.dev/docs/en/knowledgebase/learn-substrate/extrinsics) ทั้งหมดแล้ว (ธุรกรรมที่ลงชื่อ/ไม่ได้ลงชื่อ และการรับช่วงต่อ — ข้อมูลถูกรวมอยู่ในบล็อกแต่ไม่ถูกพบ)
 
-All other network security related issues have been addressed and reviewed by the auditors. There are two application-related issues (#5 and #8 in SRLabs report) are general DeFi issues such as DeX front-running, which yet to have a satisfactory solution. We are addressing it from a risk management perspective by setting safe parameters. Beyond that, we are seeking further economic audits that use simulation-based market stress testing so that we can evaluate vulnerabilities and market risks at a scaled volume and value.
+ปัญหาด้านความปลอดภัยของ network อื่นๆ ทั้งหมดได้รับการแก้ไขและตรวจสอบโดยผู้ตรวจสอบแล้ว There are two application-related issues (#5 and #8 in SRLabs report) are general DeFi issues such as DeX front-running, which yet to have a satisfactory solution. We are addressing it from a risk management perspective by setting safe parameters. Beyond that, we are seeking further economic audits that use simulation-based market stress testing so that we can evaluate vulnerabilities and market risks at a scaled volume and value.
 
 The full report from SRLabs and SlowMist are [here](https://github.com/AcalaNetwork/Acala/tree/master/audit)
 
