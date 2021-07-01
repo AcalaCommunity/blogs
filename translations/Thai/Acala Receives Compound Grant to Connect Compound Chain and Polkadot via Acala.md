@@ -14,12 +14,12 @@ Compound เพิ่งเปิดตัว [Compound Gateway testnet](https:/
 
 ข้อเสนอนี้ [ได้รับเงินทุนจำนวน $35,000](https://compoundgrants.org/3-31-21-Batch-1-Funded-2355ec32682c4f8bb68956487bbc5261) จาก [โครงการ Compound Grants](https://compoundgrants.org/) เป็นโครงการริเริ่มที่ได้รับทุนสนับสนุนชุดแรก ข้อเสนอนี้จะได้รับทุนบางส่วนจากทุนสนับสนุนนี้ และได้รับทุนบางส่วนจาก Acala ดูแผนการดำเนินงานโดยละเอียดได้ [ที่นี่](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349)
 
-นี่เป็นข้อเสนอสาธารณะครั้งแรกของเราต่อ Compound Community We have been pleased to receive warm welcomes and helpful feedback from various members of the community. We look forward to making the proposal a reality, and continuing to share more development progress as we proceed.
+นี่เป็นข้อเสนอสาธารณะครั้งแรกของเราต่อ Compound Community เรารู้สึกยินดีเป็นอย่างยิ่งที่ได้รับการต้อนรับอย่างอบอุ่นและข้อเสนอแนะที่เป็นประโยชน์จากสมาชิกใน community เราตั้งตารอที่จะทำให้ข้อเสนอเป็นจริง และแชร์ความคืบหน้าในการพัฒนาต่อไป
 
 ![](https://miro.medium.com/max/2402/1\*vtgTFpNWqwSNRChv3uQAWg.png)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-Acala is the all-in-one DeFi hub of Polkadot. Acala is an Ethereum-compatible platform for financial applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security. The platform also offers a suite of financial applications including: a trustless staking derivative (liquid DOT), a multi-collateralized stablecoin backed by cross-chain assets (aUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Acala เป็นศูนย์กลาง DeFi แบบครบวงจรของ Polkadot Acala เป็นแพลตฟอร์มที่เข้ากันได้กับ Ethereum สำหรับแอปพลิเคชันทางการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวพร้อมความสามารถ cross-chain ที่พร้อมใช้งานทันทีและการรักษาความปลอดภัยที่แข็งแกร่ง แพลตฟอร์มดังกล่าวยังมีชุดแอพพลิเคชั่นทางการเงิน ได้แก่ อนุพันธ์ trustless staking (liquid DOT) เหรียญ stablecoin ที่มีการค้ำประกันแบบหลากหลายที่ได้รับการสนับสนุนจากทรัพย์สิน cross-chain (aUSD) และ AMM DEX ซึ่งทั้งหมดนี้มีค่าธรรมเนียม gas เพียงเล็กน้อยที่สามารถชำระได้ด้วยโทเค็นไหนก็ได้
 
 [Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
