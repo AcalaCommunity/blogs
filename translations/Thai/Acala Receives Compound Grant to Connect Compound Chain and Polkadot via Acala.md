@@ -1,4 +1,4 @@
-# **Acala Receives Compound Grant to Connect Compound Chain and Polkadot via Acala**
+# **Acala ได้รับทุนจาก Compound เพื่อเชื่อมต่อ Compound Chain กับ Polkadot ผ่านทาง Acala**
 
 ![](https://miro.medium.com/max/4800/1*3vdQ49AL1YacBOCxQRBH7A.png)
 
