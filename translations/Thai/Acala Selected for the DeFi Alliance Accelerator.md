@@ -1,10 +1,10 @@
-# **Acala Selected for the DeFi Alliance Accelerator to Help Build, Deploy, and Grow the DeFi Hub of Polkadot**
+# **Acala ได้รับเลือกให้เป็น DeFi Alliance Accelerator เพื่อช่วยสร้าง ปรับใช้ และขยาย DeFi Hub ของ Polkadot**
 
 ![Image for post](https://miro.medium.com/max/3200/0*7SxlrlyVQIduIxF5)
 
-Written by [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----c1526008963e--------------------------------)
+เขียนโดย [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----c1526008963e--------------------------------)
 
-Acala is honored and thrilled to be one of twelve teams selected for [the second cohort of the DeFi Alliance accelerator program](https://medium.com/@lmrankhan/defi-alliance-announces-cohort-2-liquidity-launchpad-5bbaf76cde32), out of more than 100 applications. We are joined by the following teams innovating in the decentralized finance space: [_Pods_](http://pods.finance/)_,_ [_Paraswap_](https://paraswap.io/#/)_, Saddle,_ [_Notional_](http://notional.finance/)_,_ [_Tokenlon_](http://tokenlon.im/)_,_ [_Vega_](http://vega.xyz/)_,_ [_Derivadex_](https://derivadex.com/)_,_ [_Perpetual,_](http://perp.fi/) [_Loopring_](https://loopring.org/#/)_,_ [_Deversifi_](http://deversifi.com/)_, and_ [_Mcdex_](https://mcdex.io/)_._
+Acala รู้สึกเป็นเกียรติและตื่นเต้นที่ได้เป็นหนึ่งในสิบสองทีมที่ได้รับเลือกให้เป็น [กลุ่มที่สองของโปรแกรม DeFi Alliance accelerator](https://medium.com/@lmrankhan/defi-alliance-announces-cohort-2-liquidity-launchpad-5bbaf76cde32) จากมากกว่า 100 แอปพลิเคชัน เราได้เข้าร่วมกับทีมที่กำลังสร้างพื้นที่การเงินแบบกระจายอำนาจดังต่อไปนี้: [_Pods_](http://pods.finance/)_,_ [_Paraswap_](https://paraswap.io/#/)_, Saddle,_ [_Notional_](http://notional.finance/)_,_ [_Tokenlon_](http://tokenlon.im/)_,_ [_Vega_](http://vega.xyz/)_,_ [_Derivadex_](https://derivadex.com/)_,_ [_Perpetual,_](http://perp.fi/) [_Loopring_](https://loopring.org/#/)_,_ [_Deversifi_](http://deversifi.com/)_, and_ [_Mcdex_](https://mcdex.io/)_._
 
 The [DeFi Alliance](https://defialliance.co)’s inaugural cohort hosted some of the top DeFi teams including 0x, dYdX, Kyber Network, IDEX, Opyn, Set Protocol, and Synthetix. The program helps connect the cohort participants with a network of experts and resources, with a particular focus on designing liquidity mining programs and onboarding liquidity providers to bootstrap liquidity.
 
