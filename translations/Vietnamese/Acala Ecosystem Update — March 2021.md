@@ -30,47 +30,47 @@ Nhóm của chúng tôi rất vui mừng được chào đón Coinbase Ventures 
 
 Acala là người nhận được khoản tài trợ tổng hợp để xây dựng Starport tới Polkadot.
 
-Chúng tôi cũng rất vinh dự khi Acala trở thành người nhận được [ Chương trình tài trợ tổng hợp ](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a). Khoản tài trợ này sẽ tài trợ cho đề xuất của Acala nhằm xây dựng Starport, một cổng cho phép thị trường tiền tệ xuyên chuỗi cho Compound Chain và hệ sinh thái Polkadot. The proposal, which incorporated feedback from the Compound community and grants team, enables DOT and the staking derivative Liquid DOT (LDOT) as new collaterals on Compound Chain, while bringing Compound’s CASH token to the Polkadot ecosystem, as well as integrating it into Acala DApps. For more details, see our [proposal](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349/10) on the Compound forum.
+Chúng tôi cũng rất vinh dự khi Acala trở thành người nhận được [ Chương trình tài trợ tổng hợp ](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a). Khoản tài trợ này sẽ tài trợ cho đề xuất của Acala nhằm xây dựng Starport, một cổng cho phép thị trường tiền tệ xuyên chuỗi cho Compound Chain và hệ sinh thái Polkadot. Đề xuất, kết hợp phản hồi từ cộng đồng Compound và nhóm tài trợ, cho phép DOT và chuỗi dẫn xuất Liquid DOT (LDOT) làm tài sản thế chấp mới trên Compound Chain, đồng thời mang mã thông báo CASH của Compound vào hệ sinh thái Polkadot, cũng như tích hợp nó vào Acala DApps. Để biết thêm chi tiết, hãy xem [ đề xuất ](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349/10) của chúng tôi trên diễn đàn Compound.
 
-## SubQuery integrates Acala to aggregate and report on DeFi Data
+## SubQuery tích hợp Acala để tổng hợp và báo cáo về Dữ liệu DeFi
 
 ![](https://miro.medium.com/max/2048/0\*mZSC0lvmD90nqFlz)
 
-In mid March, Acala and [SubQuery](https://www.subquery.network/) finalized an integration to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost. The achievement comes on the heels of SubQuery’s project, [SubQuery Explorer](https://explorer.subquery.network/), which aggregates and organizes blockchain data to provide well-structured information for developers. SubQuery’s data aggregation layer will operate between the layer-1 blockchain (Acala) and DApp layer. With this integration in place, our two projects ensure increased composability for a multi-chain future.
+Vào giữa tháng 3, Acala và [ SubQuery ](https://www.subquery.network/) đã hoàn tất quá trình tích hợp để cho phép người dùng và nhà phát triển truy vấn và trích xuất dữ liệu từ trung tâm Acala’s DeFi cho Polkadot chỉ trong vài phút và miễn phí. Thành tựu đạt được nhờ dự án của SubQuery, [ SubQuery Explorer ](https://explorer.subquery.network/), tổng hợp và tổ chức dữ liệu blockchain để cung cấp thông tin có cấu trúc tốt cho các nhà phát triển. Lớp tổng hợp dữ liệu của SubQuery sẽ hoạt động giữa blockchain lớp 1 (Acala) và lớp DApp. Với sự tích hợp này, hai dự án của chúng tôi đảm bảo tăng khả năng tổng hợp cho một tương lai đa chuỗi.
 
-## Acala wins first parachain slot auction on Polkadot’s Testnet
+## Acala thắng cuộc đấu giá vị trí parachain đầu tiên trên Polkadot’s Testnet
 
 ![](https://miro.medium.com/max/1528/0\*EzkXYOY9GjXZ3oiK)
 
-Acala secured the first public parachain slot on Rococo.
+Acala đã giành được vị trí parachain công khai đầu tiên trên Rococo.
 
-In anticipation of the upcoming parachain auctions, Acala has secured the first Rococo parachain slot. Though entirely on testnet, the process was an important step for Polkadot and its ecosystem of prospect parachain networks. By testing inter-shard communication protocols, Polkadot is preparing for projects like Acala and Karura to bid in the upcoming parachain auctions to deploy on Polkadot’s sister-network Kusama, and eventually Polkadot mainnet. It’s exciting for Acala to occupy the first public parachain slot on Rococo, and we aim to achieve our goal of securing the first public parachain slot on Kusama.
+Với dự đoán về các cuộc đấu giá parachain sắp tới, Acala đã giành được vị trí Rococo parachain đầu tiên. Mặc dù hoàn toàn trên testnet, quy trình này là một bước quan trọng đối với Polkadot và hệ sinh thái của các mạng parachain khách hàng tiềm năng. Bằng cách thử nghiệm các giao thức liên lạc giữa các phân đoạn, Polkadot đang chuẩn bị cho các dự án như Acala và Karura đấu thầu trong các cuộc đấu giá parachain sắp tới để triển khai trên mạng chị em của Polkadot là Kusama và cuối cùng là mạng chính Polkadot. Thật thú vị khi Acala chiếm được vị trí parachain công khai đầu tiên trên Rococo và chúng tôi mong muốn đạt được mục tiêu đảm bảo vị trí parachain công khai đầu tiên trên Kusama.
 
-## Discover the new Karura website
+## Khám phá trang web Karura mới
 
 ![](https://miro.medium.com/max/2816/0\*KVAVAiFZUNF\_fi\_K)
 
-Reimagine DeFi Possibilities with Karura’s all-on-one DeFi platform.
+Hãy tưởng tượng lại các khả năng của DeFi với nền tảng DeFi tất cả trên một của Karura.
 
-The countdown is on! As our team works to prepare for the upcoming Karura Crowdloan Event and subsequent Kusama Parachain Auctions, we’re pleased to launch the [Karura website](https://acala.network/karura). The site offers a look at Karura’s user interface, as well as an overview of its DeFi products and its native utility token KAR. Karura is a scalable, EVM-compatible DeFi network with a suite of financial applications, including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Đếm ngược đang bật! Khi nhóm của chúng tôi làm việc để chuẩn bị cho sự kiện Karura Crowdloan sắp tới và các phiên đấu giá Kusama Parachain tiếp theo, chúng tôi rất vui mừng ra mắt [ trang web Karura ](https://acala.network/karura). Trang web cung cấp cái nhìn về giao diện người dùng của Karura, cũng như tổng quan về các sản phẩm DeFi và mã thông báo tiện ích gốc KAR của nó. Karura là một mạng DeFi có thể mở rộng, tương thích với EVM với một bộ ứng dụng tài chính, bao gồm: một dẫn xuất đặt cược không tin cậy (KSM lỏng), một stablecoin đa thế chấp được hỗ trợ bởi tài sản chuỗi chéo (kUSD) và AMM DEX - tất cả đều có phí gas vi mô có thể được thanh toán bằng bất kỳ mã thông báo nào.
 
-For more information on Karura’s DeFi DApps and its path to launch, check out our recent [deep dive](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f) or watch our [presentation on the upcoming Polkadot and Kusama Crowdloans.](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
+Để biết thêm thông tin về Karura’s DeFi DApps và lộ trình ra mắt của nó, hãy xem [ tìm hiểu sâu ](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f) gần đây của chúng tôi hoặc xem [ bài thuyết trình của chúng tôi về Polkadot và Kusama Crowdloans sắp tới. ](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
 
-# Acala unveils new logo
+# Acala công bố logo mới
 
 ![](https://miro.medium.com/max/2072/0\*IGwkNLwEePOYWKrw)
 
-We’re pleased to introduce a new logo on all Acala community channels. With this vibrant and more balanced design — which features our Acala “A” and its components fully and fluidly reinforcing itself within a three-dimensional form — we hope for this new logo to exhibit the support and sustainability so prevalent within the Acala ecosystem and its community. In addition, Acala is centered by two circles, representing the platform’s security and stability, two core tenets that we intend to uphold. Expect to see more of our brand refresh in the coming weeks.
+Chúng tôi vui mừng giới thiệu biểu trưng mới trên tất cả các kênh cộng đồng Acala. Với thiết kế sống động và cân bằng hơn này - có đặc điểm Acala “A” của chúng tôi và các thành phần của nó tự củng cố đầy đủ và linh hoạt trong một hình thức ba chiều - chúng tôi hy vọng logo mới này sẽ thể hiện sự hỗ trợ và tính bền vững rất phổ biến trong hệ sinh thái Acala và cộng đồng. Ngoài ra, Acala được căn giữa bởi hai vòng tròn, đại diện cho tính bảo mật và ổn định của nền tảng, hai nguyên lý cốt lõi mà chúng tôi dự định duy trì. Mong đợi sẽ thấy nhiều sự làm mới thương hiệu của chúng tôi trong những tuần tới.
 
-## Upcoming Events
+## Sự kiện sắp tới
 
-- [What is Karura](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) — Curious about Acala’s sister-network Karura. Join our team for a presentation on Karura and get ready for the DeFi Hub of Kusama. [Register here!](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
-- [Chainlink Hackathon](https://chain.link/hackathon) — Acala is excited to support Chainlink 2021 with two Acala EVM Challenges. Join us and other sponsors for the closing ceremonies on April 16.
+- [ Karura là gì ](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) - Tò mò về mạng chị em của Acala, Karura. Tham gia nhóm của chúng tôi để thuyết trình về Karura và sẵn sàng cho Trung tâm DeFi của Kusama. [ Đăng ký tại đây! ](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
+- [ Chainlink Hackathon ](https://chain.link/hackathon) - Acala rất vui được hỗ trợ Chainlink 2021 với hai Thử thách Acala EVM. Tham gia cùng chúng tôi và các nhà tài trợ khác cho lễ bế mạc vào ngày 16 tháng 4.
 
 ![](https://miro.medium.com/max/2402/0\*vfld\_ERpJGvSAJnD.png)
 
-# About Acala
+# Về Acala
 
-Acala is the all-in-one DeFi hub of Polkadot. Acala is an Ethereum-compatible platform for financial applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security. The platform also offers a suite of financial applications including: a trustless staking derivative (liquid DOT), a multi-collateralized stablecoin backed by cross-chain assets (aUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Acala là trung tâm DeFi tất cả trong một của Polkadot. Acala là một nền tảng tương thích với Ethereum dành cho các ứng dụng tài chính để sử dụng các hợp đồng thông minh hoặc các giao thức tích hợp với các khả năng xuyên chuỗi độc lập và bảo mật mạnh mẽ. Nền tảng này cũng cung cấp một bộ ứng dụng tài chính bao gồm: một phái sinh đặt cược không tin cậy (DOT lỏng), một stablecoin đa thế chấp được hỗ trợ bởi các tài sản chuỗi chéo (aUSD) và AMM DEX - tất cả đều có phí gas nhỏ có thể được thanh toán bất kỳ mã thông báo nào.
 
-[Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
+[ Linktree ](https://linktr.ee/acalanetwork) | [ Discord ](https://discord.gg/vdbFVCH) | [ Trang web ](https://acala.network/) | [ Twitter ](https://twitter.com/AcalaNetwork) | [ GitHub ](https://github.com/AcalaNetwork/Acala) | [ Wiki Acala ](https://github.com/AcalaNetwork/Acala/wiki) | [ Bản tin ](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
