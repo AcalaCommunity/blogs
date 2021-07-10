@@ -1,29 +1,29 @@
-# Acala Announcing New Partners & Updates
+# Acala thông báo quan hệ đối tác mới và cập nhật thông tin
 
-By [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c--------------------------------)
+Bởi [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34844b5c--------------------------------)
 
 ![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
-# New Partners
+# Đối tác mới
 
-Acala Foundation is pleased to announce new partners joining the effort in building a cross-blockchain decentralized stablecoin and staking liquidity platform to power open finance applications on the Polkadot network. We believe these partners — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — are our long term allies in our quest in building a sustainable, resilient and solid open finance infrastructure.
+Acala Foundation vui mừng thông báo các đối tác mới tham gia nỗ lực xây dựng một nền tảng stablecoin phi tập trung đa blockchain và nền tảng thanh khoản để cung cấp năng lượng cho các ứng dụng tài chính mở trên mạng Polkadot. Chúng tôi tin rằng những đối tác — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — là những đồng minh lâu dài của chúng tôi trong nhiệm vụ xây dựng một cơ sở hạ tầng tài chính mở bền vững, linh hoạt và vững chắc.
 
-# Updates
+# Cập nhật
 
-## Roadmap & Website Revamped
+## Lộ trình và trang web được tân trang
 
-We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
+Chúng tôi hợp tác chặt chẽ với các kỹ sư từ Parity và Polkadot, đồng thời liên tục cập nhật lộ trình của chúng tôi để phù hợp hơn với sự sẵn sàng của parachain và khởi chạy mạng chính Polkadot, một số điểm nổi bật như sau:
 
-- Launch Acala Karura canary network as soon as Kusama parachain bonding is ready
-- We are starting security audits for the Acala Network
-- Launch Acala mainnet (a plain network) and participate in parachain auction as soon as Polkadot is ready
-- Then enable stablecoin and other features once the network runs steadily
+- Khởi chạy mạng Acala Karura ngay khi liên kết Kusama parachain sẵn sàng
+- Chúng tôi đang bắt đầu kiểm tra bảo mật cho mạng Acala
+- Khởi chạy Acala mainnet (một mạng đơn giản) và tham gia đấu giá parachain ngay khi Polkadot sẵn sàng
+- Sau đó, kích hoạt stablecoin và các tính năng khác khi mạng chạy ổn định
 
-Check out our revamped website [acala.network](https://acala.network/) for more details.
+Hãy xem trang web đã tân trang [acala.network](https://acala.network/) để biết thêm nhiều chi tiết.
 
 ![Image for post](https://miro.medium.com/max/2800/0*cfF4u6DYuXgCRRWi.jpg)
 
-## Responding to Recent DeFi Black Swan Event
+## Hưởng ứng sự kiện DeFi Black Swan gần đây
 
 Recent DeFi Black Swan event specifically re [MakerDAO multi-million dollar incident](https://medium.com/@whiterabbit_hq/black-thursday-for-makerdao-8-32-million-was-liquidated-for-0-dai-36b83cac56b6) has brought several network and market structural issues to light — some are known but unsolvable at the protocol level, some are ignored or overlooked. Nevertheless, there are invaluable lessons learned from Acala’s perspective:
 
