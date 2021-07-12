@@ -2,11 +2,11 @@
 
 ## Plasm Network & Acala ได้ทำธุรกรรม XCMP ครั้งแรกบนเครือข่าย testnet Rococo ของ Polkadot แล้ว
 
-![Image for post](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
 
 ในช่วงกลางคืน เราได้เป็นพยานพิเศษของประวัติศาสตร์คริปโตใน Polkadot.js และ telegram ระหว่างผู้พัฒนา Plasm Network และ Acala ทั้งสองทีมซึ่งวางแผนที่จะเป็น Parachain Polkadot และ Kusama ในอนาคตอันใกล้ ได้เชื่อมต่อผ่านเครือข่าย testnet Parachain ของ Polkadot และโอน cross-chain ของ Plasm's token (PLM) โดยใช้ฟังก์ชัน [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (การส่งข้อความ cross-chain) .
 
-![Image for post](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
 
 ## **เรามาที่นี่ได้อย่างไร **
 
@@ -18,22 +18,22 @@ Acala สร้างพาเลท xtoken ([github](https://github.com/open-we
 
 ## **ขั้นตอนต่อไปสำหรับการประมูล parachain Acala & Karura และการเปิดตัว **
 
-Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, Acala’s Karura network (the DeFi hub of Kusama) will begin it’s process to host a KSM [crowdsourcing event](http://acala.network/karura-crowdloan) to bootstrap the network for the parachain slot auction. After the crowdsousrcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet. **To join the 19,000 other people on Karura Parachain Auction Waitlist and be eligible for a 10% KAR bonus split between you and your referee,** [**sign up here**](https://forms.gle/Qj8i2RxG3fHyg8DA8)**.**
+ตอนนี้เรามีการโอนย้ายโทเค็นแบบ cross-chain แล้ว เราเข้าใกล้ Kusama parachains ที่เริ่มใช้งานจริงอีกขั้น  เมื่อทีม Kusama ประกาศการเริ่มต้นของ crowdloans เครือข่าย Karura ของ Acala (ศูนย์กลาง DeFi ของ Kusama) จะเริ่มดำเนินการเพื่อโฮสต์ KSM [งาน Crowdsourcing](http://acala.network/karura-crowdloan) เพื่อเริ่มต้นเครือข่ายสำหรับการประมูลสล็อต Parachain  หลังจากงาน crowdsousrcing Karura จะเข้าร่วมการประมูลสล็อต Parachain  เมื่อชนะการประมูลครั้งนี้ Karura จะเปิดตัว mainnet 175 / 5000 ผลลัพธ์การแปล **ในการเข้าร่วมกับคนอื่นๆ อีก 19,000 คนในการประมูลของ Karura Parachain และมีสิทธิ์ได้รับโบนัส KAR 10% แบ่งระหว่างคุณและกรรมการของคุณ** [**ลงทะเบียนที่นี่**](https://forms.gle/Qj8i2RxG3fHyg8DA8)30>.</strong> 0>
 
-How does the parachain auction process work? Watch here:
+กระบวนการประมูลของ Parachain ทำงานอย่างไร?  ดูที่นี่:
 
-After Karura’s parachain auction, Polkadot-based crowdloans and parachain auctions will begin to happen. Acala will host another crowdsourcing event, this time for DOT, and will then use this pot of DOT to participate in the first Polkadot parachain auction. After winning an auction, Acala will then launch its mainnet.
+หลังจากการประมูล Parachain ของ Karura การประมูล crowdloan จาก Polkadot และการประมูล Parachain จะเริ่มเกิดขึ้น  Acala จะจัดงาน Crowdsourcing อีกครั้ง คราวนี้สำหรับ DOT และจากนั้นจะใช้ภาชนะ DOT นี้เพื่อเข้าร่วมในการประมูล Parachain Polkadot ครั้งแรก  หลังจากชนะการประมูล Acala จะเปิดตัว mainnet
 
-![Image for post](https://miro.medium.com/max/2402/0*4QUW9GSAV2UxUI6E.png)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2402/0*4QUW9GSAV2UxUI6E.png)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มที่เข้ากันได้กับ Ethereum สำหรับแอปพลิเคชันทางการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวพร้อมความสามารถ cross-chain ที่พร้อมใช้งานทันทีและการรักษาความปลอดภัยที่แข็งแกร่ง
 
 [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki)
 
-# About Plasm
+# เกี่ยวกับ Plasm
 
-Plasm Network is a scalable smart contract platform on Polkadot supporting cutting edge layer 2 solutions and Ethereum Virtual Machine. It is built on Substrate and designed to be a Polkadot Parachain. Plasm Network focuses on making a great smart contract platform so that dApps developers on Polkadot do not need to pay much attention to infrastructure and can focus more on their dApps. Ideally, the developers can build whatever applications on Plasm Network without having to consider its scalability.
+Plasm Network เป็นแพลตฟอร์มสัญญาอัจฉริยะที่ปรับขนาดได้บน Polkadot ซึ่งสนับสนุนโซลูชันเลเยอร์ 2 ที่ทันสมัยและ Ethereum Virtual Machine  ผลลัพธ์การแปล มันถูกสร้างขึ้นบน Substrate และได้รับการออกแบบให้เป็น Polkadot Parachain  Plasm Network มุ่งเน้นไปที่การสร้างแพลตฟอร์ม smart contract ที่ยอดเยี่ยม เพื่อให้นักพัฒนา dApps บน Polkadot ไม่จำเป็นต้องให้ความสนใจกับโครงสร้างพื้นฐานมากนัก และสามารถมุ่งเน้นไปที่ dApps ของตนได้มากขึ้น ตามหลักการแล้ว นักพัฒนาสามารถสร้างแอพพลิเคชั่นอะไรก็ได้บน Plasm Network โดยไม่ต้องคำนึงถึงความสามารถในการปรับขนาดของมัน
 
 [Website](https://www.plasmnet.io/) | [Twitter](https://twitter.com/Plasm_Network) | [Telegram](https://t.me/PlasmOfficial) | [Discord](https://discord.gg/Z3nC9U4) | [GitHub](https://github.com/PlasmNetwork/Plasm)
