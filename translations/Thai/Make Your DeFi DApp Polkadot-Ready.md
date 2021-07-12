@@ -1,59 +1,59 @@
-# Make Your DeFi DApp Polkadot-Ready with Acala’s EVM at ETHDenver 2021
+# สร้าง DeFi DApp Polkadot ของคุณพร้อมด้วย EVM ของ Acala ที่ EHDenver 2021
 
-## _Earn bounties, meet the team, and access Acala’s EVM for the best of Ethereum and Polkadot/Substrate capabilities_
+## _รับเงินรางวัล พบกับทีม และเข้าถึง EVM ของ Acala สำหรับความสามารถที่ดีที่สุดของ Ethereum และ Polkadot/Substrate _
 
-![Image for post](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2560/1*OKzZKcRtTyzG9XexXTWwNw.png)
 
-Move over PegaBufficorn! It’s the year of the Spork Marmot. The ETHDenver #BUIDLathon is officially underway — and Acala is thrilled to attend as a presenting sponsor with exciting bounties, hands-on training, and a first look at the Acala EVM.
+ก้าวข้าม PegaBufficorn!  It’s the year of the Spork Marmot. ETHDenver #BUIDLathon กำลังดำเนินการอย่างเป็นทางการ — และ Acala รู้สึกตื่นเต้นที่จะเข้าร่วมเป็นผู้สนับสนุนการนำเสนอด้วยเงินรางวัลอันน่าตื่นเต้น การฝึกอบรมภาคปฏิบัติ และการเปิดตัว Acala EVM เป็นครั้งแรก
 
-_Read on to make your Ethereum DApp compatible with Polkadot and beyond._
+_อ่านต่อเพื่อทำให้ Ethereum DApp ของคุณเข้ากันได้กับ Polkadot และอื่นๆ _
 
-# All-in-One DeFi
+# ออล-อิน-วัน DeFi
 
-Acala is the EVM-compatible DeFi Hub and stablecoin platform of Polkadot. It’s a special economic zone and landing pad for DeFi DApps to get access to the multi-chain Polkadot ecosystem. With a suite of DeFi protocols including a multi-collateralized stablecoin backed by cross-chain liquidity such as Bitcoin and DOT, a liquid staking derivative (LDOT) that allows users to stake and earn DeFi yield at the same time, and a decentralized exchange with flexible fee settlements, Acala is a one-stop shop for multi-chain DeFi primitives.
+Acala เป็น DeFi Hub ที่เข้ากันได้กับ EVM และแพลตฟอร์ม Stablecoin ของ Polkadot  เป็นเขตเศรษฐกิจพิเศษและ landing pad สำหรับ DeFi DApps เพื่อเข้าถึงระบบนิเวศ Polkadot แบบ mult-chain ด้วยชุดโปรโตคอล DeFi ซึ่งรวมถึงเหรียญ stablecoin แบบหลายหลักประกันที่ได้รับการสนับสนุนจากสภาพคล่อง cross-chain เช่น Bitcoin และ DOT อนุพันธ์การถือหุ้นสภาพคล่อง (LDOT) ที่อนุญาตให้ผู้ใช้เดิมพันและรับผลตอบแทน DeFi ในเวลาเดียวกัน และการแลกเปลี่ยนแบบกระจายอำนาจกับ การชำระค่าธรรมเนียมที่ยืดหยุ่น Acala เป็นร้านค้าแบบครบวงจรสำหรับ DeFi ดั้งเดิมแบบ multi-chain
 
-# Introducing the Acala EVM
+# ขอแนะนำ Acala EVM
 
-With the [Acala EVM](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack), developers can enable Solidity contracts to be deployed on Acala and Polkadot with minimal changes. What’s more, the EVM offers distinct features in addition to being faster and cheaper, such as aggregated cross-chain liquidity, paying fees in any token, and an on-chain automatic scheduler that enables use cases like subscriptions and recurring payments.
+ด้วย [Acala EVM](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack) นักพัฒนาสามารถเปิดใช้งานสัญญา Solidity เพื่อปรับใช้บน Acala และ Polkadot โดยมีการเปลี่ยนแปลงเพียงเล็กน้อย  ยิ่งไปกว่านั้น EVM ยังนำเสนอคุณสมบัติที่แตกต่างออกไป นอกจากจะเร็วและถูกกว่าแล้ว เช่น การรวมสภาพคล่อง cross-chain การชำระค่าธรรมเนียมในโทเค็นใดๆ และตัวจัดกำหนดการอัตโนมัติบนเครือข่ายที่เปิดใช้งานกรณีการใช้งาน เช่น การสมัครรับข้อมูลและการชำระเงินแบบประจำ
 
-# Leverage EVM on Your Build
+# ใช้ประโยชน์จาก EVM บนสิ่งที่คนสร้าง
 
-We’re excited to share our knowledge and experience while supporting Ethereum DApps to open shop on Polkadot and beyond. Whether you’re familiar with Solidity, Rust or Substrate — or you’re just getting started — our team is here to help you extend your project’s reach with an Acala’s EVM deployment. Ready to #BUIDL?
+เรารู้สึกตื่นเต้นที่จะแบ่งปันความรู้และประสบการณ์ของเราในขณะที่สนับสนุน Ethereum DApps เพื่อเปิดร้านค้าบน Polkadot และอื่น ๆ  ไม่ว่าคุณจะคุ้นเคยกับ Solidity, Rust หรือ Substrate — หรือคุณเพิ่งเริ่มต้น — ทีมของเราพร้อมช่วยคุณขยายขอบเขตการเข้าถึงโปรเจ็กต์ของคุณด้วยการปรับใช้ EVM ของ Acala  พร้อมที่จะ #BUIDL?
 
-- Visit Acala’s [**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**.**
-- Check out [**ETHDenver’s Bounty Hub**](https://www.ethdenver.com/post/acala) and [**Team Guidelines**](https://www.ethdenver.com/judging)**.**
-- Read the in-depth Acala EVM section of the [**Acala wiki**](https://wiki.acala.network/learn/basics/acala-evm)**.**
-- Visit our **virtual booth** in the ETHDenver Moon Shill Zone.
-- Watch our [kick-off **webinar**](https://www.crowdcast.io/e/acala-ethdenver-2021) to make your DApp Polkadot-ready.
+- ไปที่ [**คู่มือแฮ็กเกอร์ EHDenver**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)** ของ Acala**
+- ดู [**ETHDenver's Bounty Hub**](https://www.ethdenver.com/post/acala) และ [**แนวทางของทีม**](https://www.ethdenver.com/judging)****
+- อ่านภาคส่วนของ Acala EVM เชิงลึกของ [**Acala wiki**](https://wiki.acala.network/learn/basics/acala-evm)****
+- เยี่ยมชม **บูธเสมือนจริง** ของเราในโซน EHDenver Moon Shill
+- ดู [การเริ่มต้น **การสัมมนาผ่านเว็บ**](https://www.crowdcast.io/e/acala-ethdenver-2021) เพื่อให้ DApp Polkadot ของคุณพร้อม
 
-[ETHDenver Kickoff - Deploying your Ethereum Project on Acala & Polkadot - Crowdcast](https://www.crowdcast.io/e/acala-ethdenver-2021)
+[EHDenver Kickoff - การปรับใช้โครงการ Ethereum ของคุณบน Acala & Polkadot - Crowdcast ](https://www.crowdcast.io/e/acala-ethdenver-2021)
 
-# Bounties
+# เงินรางวัล
 
-We’re offering two rewards for teams that demonstrate their creativity and technical expertise while contributing to the Web3 ecosystem. BUIDLers can compete for one or both bounties for a reward pool totaling $3000. We’re especially excited to see utilization of any special features and/or tech from other ETHDenver sponsors.
+เรามอบรางวัลสองรางวัลให้กับทีมที่แสดงความคิดสร้างสรรค์และความเชี่ยวชาญด้านเทคนิคในขณะที่มีส่วนร่วมในระบบนิเวศของ Web3  BUIDLer สามารถแข่งขันเพื่อรับรางวัลหนึ่งหรือทั้งสองเพื่อรับรางวัลรวมมูลค่า $3,000  เรารู้สึกตื่นเต้นเป็นพิเศษที่ได้เห็นการใช้งานฟีเจอร์พิเศษและ/หรือเทคโนโลยีจากผู้สนับสนุน EHDenver รายอื่นๆ
 
-## **Deploy a DApp on Polkadot Using the Acala EVM**
+## **ปรับใช้ DApp บน Polkadot โดยใช้ Acala EVM **
 
-**Reward: $1000**
+**รางวัล: $1,000 **
 
-For this bounty, teams are asked to deploy Solidity contracts on the Rust-based Polkadot chain, tapping into cross-chain liquidity in the Polkadot ecosystem. We’re keen to see what’s possible. The main judging criteria is the completeness of code and a working DApp. We’ll happily accept contracts you’ve built for other bounties and prizes.
+สำหรับเงินรางวัลนี้ ทีมงานต้องการปรับใช้สัญญา Solidity บนเครือข่าย Polkadot แบบ Rust-based โดยใช้ประโยชน์จากสภาพคล่องแบบข้ามสายในระบบนิเวศของ Polkadot  เรากระตือรือร้นที่จะเห็นสิ่งนี้เป็นไปได้ เกณฑ์การตัดสินหลักคือความสมบูรณ์ของโค้ดและ DApp ที่ใช้งานได้  เรายินดีรับสัญญาที่คุณสร้างขึ้นเพื่อเงินรางวัลและรางวัลอื่นๆ
 
-## **Build a DApp Using the Acala EVM with the On-Chain Automatic Scheduler Function**
+## **สร้าง DApp โดยใช้ Acala EVM ด้วยฟังก์ชัน On-Chain Automatic Scheduler **
 
-**Reward: $2000**
+**รางวัล: $2000**
 
-Imagine what you can do with the on-chain automatic scheduler. You can now build a Charity DAO to accept automatic recurring donations; deploy a web3 version of Stripe for subscription and payment services, or simply incorporate subscription in your current DApp; certainly, you can up level your DeFi DApp and automatically take and distribute profit, re-invest, and/or liquidate risky positions etc. There’re so many possibilities.
+ลองนึกภาพว่าคุณสามารถทำอะไรกับตัวจัดกำหนดการอัตโนมัติบนเครือข่าย ตอนนี้คุณสามารถสร้าง Charity DAO เพื่อรับการบริจาคที่เกิดซ้ำโดยอัตโนมัติได้แล้ว ปรับใช้ Stripe เวอร์ชัน web3 สำหรับการสมัครรับข้อมูลและบริการชำระเงิน หรือเพียงแค่รวมการสมัครรับข้อมูลใน DApp ปัจจุบันของคุณ แน่นอน คุณสามารถเพิ่มระดับ DeFi DApp ของคุณและรับและกระจายผลกำไร ลงทุนซ้ำ และ/หรือชำระสถานะที่มีความเสี่ยงเป็นต้น  มีความเป็นไปได้มากมาย
 
-We’ll happily accept DApps built for other bounties or any of the three track prizes that incorporate this Automatic Scheduler Function. We’re here to help you succeed and build a winning DApp at ETHDenver.
+เรายินดีรับ DApps ที่สร้างขึ้นสำหรับรางวัลอื่น ๆ หรือรางวัลใด ๆ จากสามแทร็กที่รวมฟังก์ชันตัวกำหนดเวลาอัตโนมัตินี้  เราอยู่ที่นี่เพื่อช่วยให้คุณประสบความสำเร็จและสร้าง DApp ที่ชนะที่ EHDenver
 
-# Level Up Your Project
+# เลเวลอัพโปรเจ็คของคุณ
 
-It doesn’t stop here. Take advantage of additional support and resources to facilitate your journey into a new DeFi ecosystem. Our team looks forward to sharing your project to a much wider audience and supporting your launch on [Acala](https://acala.network) and Polkadot. For more info, reach out on the official [Acala Discord](https://discord.gg/WZFZkqSzYa).
+มันไม่ได้หยุดที่นี่  ใช้ประโยชน์จากการสนับสนุนและทรัพยากรเพิ่มเติมเพื่ออำนวยความสะดวกในการเดินทางสู่ระบบนิเวศ DeFi ใหม่ของคุณ  ทีมของเราตั้งตารอที่จะแบ่งปันโครงการของคุณกับผู้ชมที่กว้างขึ้นและสนับสนุนการเปิดตัวของคุณใน [Acala](https://acala.network) และ Polkadot  สำหรับข้อมูลเพิ่มเติม โปรดติดต่อ [Acala Discord](https://discord.gg/WZFZkqSzYa) อย่างเป็นทางการ
 
-![Image for post](https://miro.medium.com/max/2402/1*xKdKCXlMPnyTQqZT5XlD_Q.png)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2402/1*xKdKCXlMPnyTQqZT5XlD_Q.png)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มที่เข้ากันได้กับ Ethereum สำหรับแอปพลิเคชันทางการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวพร้อมความสามารถ cross-chain ที่พร้อมใช้งานทันทีและการรักษาความปลอดภัยที่แข็งแกร่ง
 
 [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
