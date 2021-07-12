@@ -1,45 +1,45 @@
-# **SubQuery Integrates Acala to Aggregate and Serve DeFi Data to Polkadot and Kusama Builders**
+# **SubQuery รวม Acala เพื่อรวบรวมและให้บริการข้อมูล DeFi ไปยัง Polkadot และ Kusama Builders**
 
 ![](https://miro.medium.com/max/2048/1*cg4kJs0WEcyPP73EAtHomA.png)
 
-Last week [SubQuery](https://www.subquery.network/) released the next stage of their project, the [SubQuery Explorer](https://explorer.subquery.network/). This week, Acala and SubQuery have finalized an integration to allow users and developers to query and extract data from Acala’s DeFi hub for Polkadot in only minutes and at no cost.
+เมื่อสัปดาห์ที่แล้ว [SubQuery](https://www.subquery.network/) ได้เผยแพร่ขั้นตอนถัดไปของโครงการ นั่นคือ [SubQuery Explorer](https://explorer.subquery.network/)  ในสัปดาห์นี้ Acala และ SubQuery ได้สรุปการรวมเพื่อให้ผู้ใช้และนักพัฒนาสามารถสืบค้นและดึงข้อมูลจากฮับ DeFi ของ Acala สำหรับ Polkadot ได้ในเวลาเพียงไม่กี่นาทีและไม่มีค่าใช้จ่าย
 
-SubQuery is a data aggregation layer that will operate between the layer-1 blockchain (Acala) and DApp layer. The solution aggregates and organizes data from Acala and other blockchains, serving up well-structured data for developers to use for a wide array of projects. This service allows DApp developers to focus on their core use case and front-end, without needing to waste time on building a custom backend for data processing.
+SubQuery เป็นเลเยอร์การรวมข้อมูลที่จะทำงานระหว่างเลเยอร์-1 blockchain (Acala) และเลเยอร์ DApp  โซลูชันนี้รวบรวมและจัดระเบียบข้อมูลจาก Acala และบล็อคเชนอื่น ๆ ให้บริการข้อมูลที่มีโครงสร้างอย่างดีสำหรับนักพัฒนาเพื่อใช้สำหรับโปรเจ็คที่หลากหลาย  บริการนี้ช่วยให้นักพัฒนา DApp สามารถมุ่งเน้นไปที่ use case ส่วนหลักและ front-end โดยไม่ต้องเสียเวลาไปกับการสร้างแบ็กเอนด์แบบกำหนดเองสำหรับการประมวลผลข้อมูล
 
-Acala is a firm believer and a long-term builder for the multi-chain future — reducing liquidity fragmentation, increasing composability, and enabling DeFi accessibility to everyone. Acala is a specialized blockchain focusing on decentralized finance (DeFi), and created multiple DeFi primitives that became a DeFi hub and infrastructure serving the Polkadot and Kusama ecosystems. The team has built products including a multi-collateralized stablecoin (aUSD — The Acala Dollar), an automated market maker (AMM) DEX, a tokenized staked asset called Liquid DOT (LDOT), and implemented a bring-your-own-gas feature allowing gas fees to be payable in any supported assets such as stablecoins. Acala’s parachain plans to play the role of DeFi hub for Polkadot and a landing pad that aggregates assets and liquidity from a variety of blockchains.
+Acala เป็นผู้เชื่อมั่นอย่างแรงกล้าและเป็นผู้สร้าง long-term สำหรับอนาคตแบบมัลติเชน — ลดการกระจายตัวของสภาพคล่อง เพิ่มความสามารถในการเข้าถึงง่าย และทำให้ทุกคนสามารถเข้าถึง DeFi  Acala เป็นบล็อกเชนเฉพาะทางที่มุ่งเน้นไปที่การเงินแบบกระจายศูนย์ (DeFi) และสร้าง DeFi ดั้งเดิมหลายตัวที่กลายเป็นฮับ DeFi และโครงสร้างพื้นฐานที่ให้บริการระบบนิเวศ Polkadot และ Kusama  ทีมงานได้สร้างผลิตภัณฑ์ต่างๆ ซึ่งรวมถึงเหรียญ stablecoin หลายหลักประกัน (aUSD - The Acala Dollar) ผู้ดูแลสภาพคล่องอัตโนมัติ (AMM) DEX สินทรัพย์ที่ใช้โทเค็นที่เรียกว่า Liquid DOT (LDOT) และฟีเจอร์ bring-your-own-gas อนุญาตให้ชำระค่าธรรมเนียมก๊าซในสินทรัพย์ที่รองรับ เช่น เหรียญ stablecoin Parachain ของ Acala วางแผนที่จะเล่นบทบาทเป็น DeFi Hub ให้ Polkadot และ Landing Pad ที่รวบรวมสินทรัพย์และสภาพคล่องจากบล็อกเชนที่หลากหลาย
 
-Today when you access the [SubQuery Explorer](https://explorer.subquery.network/) you’ll be welcomed with a new Acala SubQuery Project. This SubQuery dynamically tracks all the extrinsic data created on Acala and can quickly show derived aggregated stats for the following:
+วันนี้ เมื่อคุณเข้าสู่ [SubQuery Explorer](https://explorer.subquery.network/) คุณจะได้รับการต้อนรับด้วยโปรเจ็ค Acala SubQuery ใหม่  SubQuery นี้จะติดตามข้อมูลภายนอกทั้งหมดที่สร้างบน Acala แบบไดนามิกและสามารถแสดงสถิติรวมที่ได้รับได้อย่างรวดเร็วสำหรับสิ่งต่อไปนี้:
 
-- Historical Data on liquidity changes (broken down by providers)
-- Historical Data on all cross chain asset swaps
-- Transfer history
+- ข้อมูลย้อนหลังเกี่ยวกับการเปลี่ยนแปลงสภาพคล่อง (แยกตามผู้ให้บริการ)
+- ข้อมูลย้อนหลังของการแลกเปลี่ยนสินทรัพย์ cross-chain ทั้งหมด
+- ประวัติการโอน
 
-![Image for post](https://miro.medium.com/max/3200/0\*u-9ATQbxUEyfHN70)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/3200/0\*u-9ATQbxUEyfHN70)
 
-You can play around with the Acala SubQuery Graph using the [Explorer](https://explorer.subquery.network/) without implementing anything in code. Additionally, we’ve documented the types that you can specify in each GraphQL request when analysing Acala’s data.
+คุณสามารถทดลองใช้ Acala SubQuery Graph โดยใช้ [Explorer](https://explorer.subquery.network/) โดยไม่ต้องติดตั้งอะไรในโค้ด  นอกจากนี้ เราได้จัดทำเอกสารประเภทที่คุณสามารถระบุได้ในคำขอ GraphQL แต่ละรายการเมื่อวิเคราะห์ข้อมูลของ Acala
 
-**A future with a live Acala SubQuery Graph**
+**อนาคตเมื่อ Acala SubQuery Graph เปิดใช้งาน**
 
-Below is a simple example of how a user can quickly and easily see the previous 5 transfer events using the ACA token over the Acala Mandala network. You can see here that we use simple GraphQL language to sort and retrieve this data to any client. DApps can use this to monitor loan positions, and jump on auctions etc to help liquidate collaterals.
+ด้านล่างนี้คือตัวอย่างง่ายๆ ที่แสดงให้เห็นว่าผู้ใช้สามารถดูเหตุการณ์การโอน 5 ครั้งก่อนหน้าได้อย่างรวดเร็วและง่ายดายโดยใช้โทเค็น ACA ผ่านเครือข่าย Acala Mandala  คุณสามารถดูได้ที่นี่ว่าเราใช้ภาษา GraphQL อย่างง่ายในการจัดเรียงและดึงข้อมูลนี้ไปยังไคลเอนต์ใดๆ  แปลด้วยเสียง 101 / 5000 ผลลัพธ์การแปล DApps สามารถใช้สิ่งนี้เพื่อติดตามสถานะสินเชื่อและเข้าร่วมการประมูล ฯลฯ เพื่อช่วยเรื่อง liquidate หลักประกัน
 
-![Image for post](https://miro.medium.com/max/2492/0\*X0kS4uS4PipqsmQQ)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2492/0\*X0kS4uS4PipqsmQQ)
 
-A slightly more complex example follows, where we inspect a single account and retrieve all token swap events made by it. A portfolio DApp might use this data to create an overview of the holder’s account and token performance, revenue from staking, liquidity provisioning, and expenses on borrowing.
+ตัวอย่างที่ซับซ้อนกว่าเล็กน้อย เราตรวจสอบบัญชีเดี่ยวๆและดึงข้อมูลเหตุการณ์การแลกเปลี่ยนโทเค็นทั้งหมดที่สร้างขึ้นโดยบัญชีนั้น  พอร์ตโฟลิโอ DApp อาจใช้ข้อมูลนี้เพื่อสร้างภาพรวมของบัญชีของผู้ถือและประสิทธิภาพของโทเค็น รายได้จากการ staking การจัดเตรียมสภาพคล่อง และค่าใช้จ่ายในการยืม
 
-![Image for post](https://miro.medium.com/max/2500/0\*R6CBoBkWRtcWpG4i)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2500/0\*R6CBoBkWRtcWpG4i)
 
-![Image for post](https://miro.medium.com/max/2402/0\*3By-wOEsXARygX2V.png)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2402/0\*3By-wOEsXARygX2V.png)
 
-**SubQuery — Transform and Query the World’s Data for a Web3 future.**
+**SubQuery — แปลงและค้นหา ข้อมูลของโลกสำหรับอนาคต Web3 **
 
-[SubQuery Explorer](https://explorer.subquery.network/) is an online hosted service that provides access to published SubQuery projects made by contributors around the world and managed by the SubQuery team. It’s mission is to ease access to Polkadot network data by providing infrastructure services to help developers achieve more.
+[SubQuery Explorer](https://explorer.subquery.network/) เป็นบริการโฮสต์ออนไลน์ที่ให้การเข้าถึงโครงการ SubQuery ที่เผยแพร่โดยผู้ร่วมให้ข้อมูลทั่วโลกและจัดการโดยทีม SubQuery  ภารกิจคือทำให้การเข้าถึงข้อมูลเครือข่าย Polkadot ง่ายขึ้นโดยการให้บริการโครงสร้างพื้นฐานเพื่อช่วยให้นักพัฒนาประสบความสำเร็จมากขึ้น
 
-[SubQuery](https://www.subquery.network/) allows every Substrate/Polkadot team to process and query their data. The project is inspired by the growth of data protocols serving the application layer and its aim is to help Polkadot/Substrate projects build better dApps by allowing anyone to reliably find and consume data faster. Today, anyone can query and extract Polkadot network data in only minutes and at no cost.
+[SubQuery](https://www.subquery.network/) ช่วยให้ทุกทีม Substrate/Polkadot สามารถประมวลผลและสืบค้นข้อมูลของพวกเขาได้ โปรเจ็กต์นี้ได้รับแรงบันดาลใจจากการเติบโตของโปรโตคอลข้อมูลที่ให้บริการเลเยอร์แอปพลิเคชัน และมีเป้าหมายเพื่อช่วยให้โปรเจ็กต์ Polkadot/Substrate สร้าง dApps ที่ดีขึ้นโดยอนุญาตให้ทุกคนค้นหาและใช้ข้อมูลได้เร็วขึ้นอย่างน่าเชื่อถือ  วันนี้ ใครๆ ก็ค้นหาและดึงข้อมูลเครือข่าย Polkadot ได้ในเวลาเพียงไม่กี่นาทีโดยไม่มีค่าใช้จ่าย
 
 [Email](mailto:hello@subquery.network) | [Discord](https://discord.com/invite/78zg8aBSMG) | [Telegram](https://t.me/subquerynetwork) | [Twitter](https://twitter.com/subquerynetwork) | [Matrix](https://matrix.to/#/#subquery:matrix.org) | [LinkedIn](https://www.linkedin.com/company/subquery)
 
-**About Acala**
+**เกี่ยวกับ Acala**
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มที่เข้ากันได้กับ Ethereum สำหรับแอปพลิเคชันทางการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวพร้อมความสามารถ cross-chain ที่พร้อมใช้งานทันทีและการรักษาความปลอดภัยที่แข็งแกร่ง
 
 [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
