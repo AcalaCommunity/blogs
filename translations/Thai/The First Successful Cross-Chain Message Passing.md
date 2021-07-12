@@ -1,22 +1,22 @@
-# The First Successful Cross-Chain Message Passing (XCMP) Transaction on Polkadot Testnet
+# ธุรกรรมการส่งข้อความ cross-chain (XCMP) ที่ประสบความสำเร็จครั้งแรกบน Polkadot Testnet
 
-## Plasm Network & Acala have completed the first XCMP transaction on Polkadot’s testnet Rococo
+## Plasm Network & Acala ได้ทำธุรกรรม XCMP ครั้งแรกบนเครือข่าย testnet Rococo ของ Polkadot แล้ว
 
 ![Image for post](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
 
-During the night, we witnessed a special piece of crypto history inside Polkadot.js and a telegram chat amongst the developers of Plasm Network and Acala. The two teams, planning to become Polkadot and Kusama parachains in the near future, have successfully connected through Polkadot’s parachain testnet and transferred Plasm’s token (PLM) cross-chain using [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (cross-chain message passing) functionality.
+ในช่วงกลางคืน เราได้เป็นพยานพิเศษของประวัติศาสตร์คริปโตใน Polkadot.js และ telegram ระหว่างผู้พัฒนา Plasm Network และ Acala ทั้งสองทีมซึ่งวางแผนที่จะเป็น Parachain Polkadot และ Kusama ในอนาคตอันใกล้ ได้เชื่อมต่อผ่านเครือข่าย testnet Parachain ของ Polkadot และโอน cross-chain ของ Plasm's token (PLM) โดยใช้ฟังก์ชัน [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (การส่งข้อความ cross-chain) .
 
 ![Image for post](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
 
-## **How We Got Here**
+## **เรามาที่นี่ได้อย่างไร **
 
-Acala built the xtoken ([github](https://github.com/open-web3-stack/open-runtime-module-library/tree/sw/rococo-v1/xtokens)) Substrate pallet, made for cross-chain token transfers within the Polkadot and Kusama ecosystem. We since open-sourced this pallet and made it a ‘common good’ for any parachain to integrate into their project. We also recently completed a cross-chain token transfer between the Acala testnet and Laminar testnet with cross-chain messages.
+Acala สร้างพาเลท xtoken ([github](https://github.com/open-web3-stack/open-runtime-module-library/tree/sw/rococo-v1/xtokens)) Substrate ซึ่งสร้างขึ้นสำหรับการถ่ายโอนโทเค็นข้ามสายโซ่ภายในระบบนิเวศ Polkadot และ Kusama ตั้งแต่นั้นเป็นต้นมา เราได้เปิดแหล่งที่มาของพาเลทนี้ และทำให้มันเป็น 'สินค้าทั่วไป' สำหรับ Parachain ใด ๆ ที่จะรวมเข้ากับโครงการของพวกเขา นอกจากนี้เรายังสร้างการถ่ายโอนโทเค็น cross-chain ระหว่าง Acala testnet และ Laminar testnet ด้วยข้อความ cross-chain ได้สำเร็จ
 
-During testing, Plasm Network lead engineer, [Aleksandr Krupenkin](https://github.com/akru), found some issues with using XCM on Rococo. Aleksandr fixed the problem and his [pull request was merged by Parity](https://github.com/paritytech/cumulus/pull/309).
+116 / 5000 ผลลัพธ์การแปล ระหว่างการทดสอบ [Aleksandr Krupenkin](https://github.com/akru) หัวหน้าวิศวกรของ Plasm Network พบปัญหาบางอย่างเกี่ยวกับการใช้ XCM บน Rococo  Aleksandr แก้ไขปัญหาและ [pull request ของเขาถูกรวมโดย Parity](https://github.com/paritytech/cumulus/pull/309)
 
-Finally, after the changes were accepted and XCM working properly, the two parachains completed the successful cross-chain token transfer that you can see in this video:
+สุดท้าย หลังจากที่การเปลี่ยนแปลงได้รับการยอมรับและ XCM ทำงานอย่างถูกต้อง Parachains ทั้งสองได้เสร็จสิ้นการถ่ายโอนโทเค็น cross-chain ที่ประสบความสำเร็จ ซึ่งคุณสามารถดูได้ในวิดีโอนี้:
 
-## **Next Steps for Acala & Karura Parachain Auctions and Launches**
+## **ขั้นตอนต่อไปสำหรับการประมูล parachain Acala & Karura และการเปิดตัว **
 
 Now that we have completed a cross-chain token transfer, we are one step closer to Kusama parachains starting to go live. Once the Kusama team announces the beginning of crowdloans, Acala’s Karura network (the DeFi hub of Kusama) will begin it’s process to host a KSM [crowdsourcing event](http://acala.network/karura-crowdloan) to bootstrap the network for the parachain slot auction. After the crowdsousrcing event, Karura will participate in the parachain slot auction. Upon winning this auction, Karura will then launch its mainnet. **To join the 19,000 other people on Karura Parachain Auction Waitlist and be eligible for a 10% KAR bonus split between you and your referee,** [**sign up here**](https://forms.gle/Qj8i2RxG3fHyg8DA8)**.**
 
