@@ -1,8 +1,8 @@
-# **Karura’s Crowdloan & Parachain Auction Are Imminent — Here’s What To Expect**
+# **Crowdloan ของ Karura & การประมูล Parachain ใกล้เข้ามาแล้ว — นี่คือสิ่งที่จะเกิดขึ้น **
 
-![](https://miro.medium.com/max/3200/1*RowOyUTI3zui9ZyOb0euPQ.png)Karura is the DeFi Hub of Kusama
+![](https://miro.medium.com/max/3200/1*RowOyUTI3zui9ZyOb0euPQ.png)Karura เป็นศูนย์กลาง DeFi ของ Kusama
 
-As Karura’s Parachain Auction event draws near, we want to empower the community with the [resources](https://wiki.acala.network/karura/crowdloan) it needs to fully understand the [scope and vision of Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a), the DeFi Hub of Kusama and sister network of [Acala](http://acala.network). With a community-driven approach to the launch and a passionate ecosystem for development, we believe [Karura](http://acala.network/karura) will pave the way for a new era of DeFi on Kusama.
+ในขณะที่งานประมูล Parachain ของ Karura ใกล้เข้ามาแล้ว เราต้องการส่งเสริมชุมชนด้วย[ทรัพยากร](https://wiki.acala.network/karura/crowdloan)ที่จำเป็นต้องเข้าใจอย่างถ่องแท้ถึง[ขอบเขตและวิสัยทัศน์ของ Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a) DeFi Hub ของ Kusama และเป็นเครือข่ายน้องสาวของ [Acala](http://acala.network)  ด้วยแนวทางที่ขับเคลื่อนโดยชุมชนในการเปิดตัวและระบบนิเวศที่มุ่งมั่นเพื่อการพัฒนา เราเชื่อว่า [Karura](http://acala.network/karura) จะปูทางสู่ยุคใหม่ของ DeFi บน Kusama
 
 > **TLDR:** Become an early supporter of Karura’s launch on Kusama by participating in the Karura Crowdloan. For every KSM locked in the crowdloan, participants will receive 12 or more KAR, the native token of Karura, which will be minted at launch with a fixed total supply of 100,000,000 and a community-first distribution model. Karura’s intended parachain slot length on Kusama is 48 weeks (eight 6-week slots in total). At the end of the 48 week slot, all original KSM contributed to the crowdloan will be automatically released back to contributors.
 
