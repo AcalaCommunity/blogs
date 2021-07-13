@@ -2,7 +2,7 @@
 
 ## Karura เครือข่ายน้องสาวของ Acala และศูนย์กลาง DeFi ของ Kusama จะเริ่ม Crowdloan ในไม่ช้าเพื่อรับการสนับสนุนจากชุมชนสำหรับการประมูล Kusama Parachain ครั้งแรก
 
-![Image for post](https://miro.medium.com/max/1600/0*1XypG_FOdz_or1ro)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/1600/0*1XypG_FOdz_or1ro)
 
 Karura สร้างขึ้นในฐานะเครือข่ายน้องสาวของ Acala ด้วยโค้ดเดียวกัน เป็นเครือข่ายบล็อคเชนใหม่ที่ทุ่มเทเพื่อให้บริการชุมชน Kusama ในฐานะศูนย์กลางการเงินแบบกระจายอำนาจ (DeFi) หลัก ฮับ DeFi แบบข้ามสายของ Karura จะมอบเหรียญที่มีเสถียรภาพ (kUSD) สภาพคล่องสำหรับ KSM ที่เรียกว่า L-KSM, ความสามารถของ DEX, การยืม , การให้ยืม รวมถึงแอปพลิเคชันอื่นๆ
 
@@ -32,16 +32,16 @@ KSM ใด ๆ ที่ผูกมัดกับ Kusama เพื่อสน
 
 ผู้เข้าร่วมชุมชน Kusama จะมีตัวเลือกในการล็อคโทเค็นของพวกเขาบน Kusama เป็นระยะเวลาหนึ่ง (6, 12 หรือ 24 เดือน TBD) ทีมงาน Karura จะพิจารณาความชอบของชุมชน Kusama เมื่อตัดสินใจเกี่ยวกับระยะเวลาของสัญญาเช่า parachain ที่จะเสนอราคา **เตรียมพบกับแบบฟอร์มลงทะเบียนในอีกไม่กี่วันข้างหน้า โดยเราจะเริ่มประเมินความชอบของชุมชนในการตัดสินใจเหล่านี้**
 
-**จำนวน KAR Paradrop ไม่สามารถคาดเดาได้:** ระดับการสนับสนุนที่แน่นอนที่ Karura จะต้องปรากฏเป็นผู้ชนะการประมูลท่ามกลางผู้เสนอราคาที่แข่งขันกันอื่นๆ ไม่เป็นที่รู้จัก และระยะเวลาของการเช่า parachain ที่ Karura จะเสนอราคานั้นยังไม่เป็นที่แน่ชัดในปัจจุบัน . With this said, the exact amount of KAR that will be subject to Paradrop to Karura supporters in recognition of their support for the upcoming Crowdloan will be unknown till the end of the auction. However, Karura will soon provide estimates for your reference. In a completely hypothetical example, a Karura supporter bonding X amount of KSM for Karura’s successful bid for a 6-months parachain lease would be recognized by a Paradrop of 5 KAR for her support; the same amount of KSM bonded in support of a successful bid for a 12-month parachain lease would be recognised with a Paradrop of 10 KAR given the extended duration of support.
+**จำนวน KAR Paradrop ไม่สามารถคาดเดาได้:** ระดับการสนับสนุนที่แน่นอนที่ Karura จะต้องปรากฏเป็นผู้ชนะการประมูลท่ามกลางผู้เสนอราคาที่แข่งขันกันอื่นๆ ไม่เป็นที่รู้จัก และระยะเวลาของการเช่า parachain ที่ Karura จะเสนอราคานั้นยังไม่เป็นที่แน่ชัดในปัจจุบัน . ด้วยสิ่งนี้กล่าวว่าจำนวน KAR ที่แน่นอนที่จะอยู่ภายใต้ Paradrop แก่ผู้สนับสนุน Karura เพื่อรับรู้ถึงการสนับสนุนของพวกเขาสำหรับ Crowdloan ที่จะเกิดขึ้นจะไม่เป็นที่รู้จักจนกว่าจะสิ้นสุดการประมูล อย่างไรก็ตาม Karura จะให้ค่าประมาณสำหรับการอ้างอิงของคุณในไม่ช้า ในตัวอย่างสมมติ ผู้สนับสนุน Karura ผูกมัด X จำนวนของ KSM สำหรับการเสนอราคาที่ประสบความสำเร็จของ Karura สำหรับการเช่า parachain 6 เดือนจะได้รับการยอมรับจาก Paradrop ของ 5 KAR สำหรับการสนับสนุนของเธอ จำนวนที่เท่ากันของ KSM ที่ผูกมัดเพื่อสนับสนุนการประมูลที่ประสบความสำเร็จสำหรับการเช่า parachain 12 เดือนจะรับรู้ด้วย Paradrop ที่ 10 KAR หากมีการขยายระยะเวลาการสนับสนุน
 
-**An _Actual_ ‘Fair’ Launch:** KAR will be Paradropped to Karura supporters in recognition of their support for Karura’s Crowdloan upon Karura network genesis on Kusama, but will be unlocked over time for transfer throughout the parachain lease period. However the full amount of the KAR Paradrop can be used for governance and other non-transfer functions to allow participation by Karura supporters in such functions from the outset of Paradrop to encourage participation and building of a strong and well-intentioned community from the ground up.
+**การเปิดตัว _อย่างยุติธรรม_ 'ที่เกิดขึ้นจริง':** KAR จะถูกนำไปยังผู้สนับสนุน Karura เพื่อรับทราบถึงการสนับสนุน Crowdloan ของ Karura เมื่อกำเนิดเครือข่าย Karura บน Kusama แต่จะถูกปลดล็อกเมื่อเวลาผ่านไป โอนตลอดอายุการเช่าพาราเชน อย่างไรก็ตาม สามารถใช้ KAR Paradrop ได้เต็มจำนวนสำหรับการกำกับดูแลและฟังก์ชั่นอื่น ๆ ที่ไม่ใช่การ transfer เพื่อให้ผู้สนับสนุน Karura มีส่วนร่วมในการทำงานดังกล่าวตั้งแต่เริ่ม Paradrop เพื่อส่งเสริมการมีส่วนร่วมและสร้างชุมชนที่เข้มแข็งและมีเจตนาดีจากพื้นฐาน .
 
-## **Next Steps and Getting Involved**
+## **ขั้นตอนต่อไปและการมีส่วนร่วม**
 
-The Karura Crowdload and auction are rapidly approaching. We will soon be launching the Karura Crowdloan website, the Crowdloan registration and preferences-gathering process, and rolling out more details as they come.
+Karura Crowdload และการประมูลกำลังใกล้เข้ามาอย่างรวดเร็ว เร็วๆ นี้เราจะเปิดตัวเว็บไซต์ Karura Crowdloan การลงทะเบียน Crowdloan และกระบวนการรวบรวมการตั้งค่า และจะเปิดตัวรายละเอียดเพิ่มเติมเมื่อเร็วๆ นี้
 
-The best way to stay in the loop is to join the [**Acala/Karura Discord**](https://discord.gg/HpsZx5r)**,** follow [**Karura on Twitter**](https://twitter.com/KaruraNetwork)**,** and follow [**Acala on Twitter**](https://twitter.com/AcalaNetwork).
+วิธีที่ดีที่สุดในการติดตามความเคลื่อนไหวคือการเข้าร่วม [**Acala/Karura Discord**](https://discord.gg/HpsZx5r)**,** ติดตาม [**Karura บน Twitter**](https://twitter.com/KaruraNetwork)**,** และติดตาม [**Acala บน Twitter**](https://twitter.com/AcalaNetwork)
 
 # **เกี่ยวกับ Karura**
 
-Karura is the decentralized financial hub of Kusama. The network is built as Acala’s sister network with nearly the same codebase — the two platforms enable a scalable, user-friendly, and fast cross-chain DeFi ecosystem for Kusama and Polkadot. Karura’s parachain is a fast-moving and powerful platform that enables efficient, inexpensive, and sophisticated financial applications, improving trading effectiveness and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Kusama and Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations.
+Karura เป็นศูนย์กลางทางการเงินที่กระจายอำนาจของ Kusama เครือข่ายนี้สร้างขึ้นในฐานะเครือข่ายน้องสาวของ Acala ที่มีพื้นฐานโค้ดเกือบเหมือนกัน — ทั้งสองแพลตฟอร์มช่วยให้ระบบนิเวศ DeFi cross-chain ปรับขนาดได้ ใช้งานง่าย และรวดเร็วสำหรับ Kusama และ Polkadot Parachain ของ Karura เป็นแพลตฟอร์มที่เคลื่อนไหวรวดเร็วและทรงพลังที่ช่วยให้แอปพลิเคชันทางการเงินมีประสิทธิภาพ ราคาไม่แพง และซับซ้อน, ปรับปรุงประสิทธิภาพการซื้อขายและประหยัดเวลา แพลตฟอร์มดังกล่าวนำเสนอชุดของพื้นฐานทางการเงิน: เหรียญ stablecoin แบบหลายหลักประกันที่ได้รับการสนับสนุนจากสินทรัพย์ cross-chain เช่น Kusama และ Bitcoin อนุพันธ์การ Stake แบบ trustless และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินด้านอำนาจ
