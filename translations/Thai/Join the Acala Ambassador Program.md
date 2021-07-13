@@ -2,30 +2,30 @@
 
 ![Image for post](https://miro.medium.com/max/3200/0*X-e7lkvJHnabKk4k)
 
-Acala เป็นศูนย์กลาง DeFi ของ Polkadot ที่ขับเคลื่อนแอปพลิเคชันการเงินแบบเปิดและขจัดความจำเป็นในการเป็นตัวกลางทางการเงิน  The mission of the Acala project is to support and nurture the financial applications of the true decentralized web. The drivers of this mission are delivering financial stability, liquidity and accessibility for all. A more open and fairer future is what we hope to enable through our protocol and stablecoin.
+Acala เป็นศูนย์กลาง DeFi ของ Polkadot ที่ขับเคลื่อนแอปพลิเคชันการเงินแบบเปิดและขจัดความจำเป็นในการเป็นตัวกลางทางการเงิน  ภารกิจของโครงการ Acala คือการสนับสนุนและดูแลแอปพลิเคชันทางการเงินของเว็บกระจายอำนาจที่แท้จริง  แรงขับเคลื่อนของภารกิจนี้คือการสร้างความมั่นคงทางการเงิน สภาพคล่อง และการเข้าถึงสำหรับทุกคน  อนาคตที่เปิดกว้างและยุติธรรมยิ่งขึ้นคือสิ่งที่เราหวังว่าจะเปิดใช้งานผ่านโปรโตคอลและเหรียญ stablecoin ของเรา
 
-We would like to invite you to become part of this mission through the Acala Ambassador Program. Below we explain Acala, our values, and what you can expect from being an Ambassador. If you’d like, you can skip ahead and [**Apply Here**](http://acala.hubspotpagebuilder.com/acala-ambassador-program).
+เราอยากเชิญคุณมาเป็นส่วนหนึ่งของภารกิจนี้ผ่านโปรแกรม Acala Ambassador  ด้านล่างนี้เราจะอธิบาย Acala, ค่านิยมของเรา และสิ่งที่คุณคาดหวังได้จากการเป็น Ambassador  หากต้องการ คุณสามารถข้ามไปข้างหน้าและ[**สมัครที่นี่**](http://acala.hubspotpagebuilder.com/acala-ambassador-program)ได้
 
-# Our Values
+# ค่านิยมของเรา
 
-As a close knit team of engineers working remotely from Auckland (New Zealand), Tirana (Albania), Shanghai (China), and Los Angeles (USA), we are building Acala based on a core set of values we believe are in line with the tenets of web3:
+ในฐานะทีมวิศวกรที่แน่นแฟ้นซึ่งทำงานจากระยะไกลจากโอ๊คแลนด์ (นิวซีแลนด์) ติรานา (แอลเบเนีย) เซี่ยงไฮ้ (จีน) และลอสแองเจลิส (สหรัฐอเมริกา) เรากำลังสร้าง Acala ตามชุดค่านิยมหลักที่เราเชื่อว่าสอดคล้องกับ หลักการของ web3:
 
-- True decentralization
-- Less Trust, More Truth
-- Empowering individuals with more autonomy
-- Integrity
-- Accountability
+- การกระจายอำนาจที่แท้จริง
+- ลดความเชื่่อใจ, เพิ่มความจริง
+- เพิ่มขีดความสามารถให้กับบุคคลเพื่อให้มีอิสระมากขึ้น
+- ความซื่อสัตย์
+- ความรับผิดชอบ
 
-Our team came together because of a deep desire to build the foundations for a new, inclusive financial system, in direct contrast to the clear shortcomings and challenges of the current system and institutions across geographies. Our team includes some of the leading blockchain innovators, Substrate and Rust developers, full-stack dApp developers and economists.
+ทีมงานของเรามารวมตัวกันเพราะความปรารถนาอย่างแรงกล้าที่จะสร้างรากฐานสำหรับระบบการเงินแบบใหม่ที่ครอบคลุม ตรงกันข้ามกับข้อบกพร่องและความท้าทายที่ชัดเจนของระบบปัจจุบันและสถาบันทั่วทั้งภูมิภาค  ทีมงานของเราประกอบด้วยนักประดิษฐ์บล็อคเชนชั้นนำ ผู้พัฒนา Substrate และ Rust นักพัฒนา dApp แบบฟูลสแตก และนักเศรษฐศาสตร์
 
-The community we are building is therefore shaped by these values and the Acala mission. It is also fuelled by the wants and needs of the people building web3, which includes the basic needs of all humans:
+ชุมชนที่เรากำลังสร้างจึงถูกกำหนดโดยค่านิยมและภารกิจของ Acala เหล่านี้ นอกจากนี้ยังได้รับแรงกระตุ้นจากความอยากและความต้องการของผู้คนที่สร้าง web3 ซึ่งรวมถึงความต้องการขั้นพื้นฐานของมนุษย์ทุกคน:
 
-- **Inclusion, Care, Trust, & Respect**
-- **Guidance and Support**
-- **Friendship, Community, Real Relationships**
-- **Empowerment**
+- **การรวม ดูแล ไว้วางใจ & เคารพ **
+- **คำแนะนำและการสนับสนุน**
+- **มิตรภาพ ชุมชน ความสัมพันธ์ที่แท้จริง**
+- **เสริมพลัง **
 
-Being part of building Web 3.0 means impacting true, meaningful change on the world. It puts people in the driving seat, after decades of passive participation. We want our community to know their work can make a difference in moving society and the human race forward, so we decided to launch our very own **Acala Ambassador Program**. [**Apply Here**](http://acala.hubspotpagebuilder.com/acala-ambassador-program)
+การเป็นส่วนหนึ่งของการสร้าง Web 3.0 หมายถึงการเปลี่ยนแปลงที่แท้จริงและมีความหมายต่อโลก มันทำให้ผู้คนนั่งอยู่ในที่นั่งคนขับหลังจากมีส่วนร่วมเฉยๆมานานหลายทศวรรษ  We want our community to know their work can make a difference in moving society and the human race forward, so we decided to launch our very own **Acala Ambassador Program**. [**Apply Here**](http://acala.hubspotpagebuilder.com/acala-ambassador-program)
 
 # **Our Ambassadors**
 
