@@ -14,27 +14,27 @@ _แผนงานของ Karura Launch and Governance_</1 > </p>
 
 # ทำไมต้อง Karura
 
-Though nearly identical in codebase, Kusuma and Polkadot are distinctly different communities, both with substantial demand for DeFi products and stable assets.
+แม้ว่าพื้นฐานเกือบจะเหมือนกัน แต่ Kusuma และ Polkadot เป็นชุมชนที่แตกต่างกันอย่างชัดเจน ทั้งคู่มีความต้องการผลิตภัณฑ์ DeFi และสินทรัพย์ที่เสถียรอย่างมาก
 
-With a current market cap value of $3.71 billion and 900+ validators, Kusama has attracted a thriving ecosystem of developers who can reliably secure their networks and build fast (especially since its infrastructure can be upgraded on-chain without forking). Not only that, but Kusama offers the opportunity to scale with high-capacity processing speeds exceeding 166,000 transactions per second along with interoperability between multiple parachains, ultimately bridged to Polkadot.
+ด้วยมูลค่าตามราคาตลาดในปัจจุบันที่ 3.71 พันล้านดอลลาร์และผู้ตรวจสอบความถูกต้องมากกว่า 900 ราย Kusama ได้ดึงดูดระบบนิเวศที่เจริญรุ่งเรืองของนักพัฒนาที่สามารถรักษาความปลอดภัยเครือข่ายของตนได้อย่างน่าเชื่อถือและสร้างได้อย่างรวดเร็ว (โดยเฉพาะอย่างยิ่งเนื่องจากโครงสร้างพื้นฐานสามารถอัพเกรดแบบ on-chain ได้โดยไม่ต้องฟอร์ก)  ไม่เพียงเท่านั้น Kusama ยังเสนอโอกาสในการปรับขนาดด้วยความเร็วการประมวลผลที่มีความจุสูงเกิน 166,000 รายการต่อวินาที พร้อมกับความสามารถในการทำงานร่วมกันระหว่าง Parachains หลายตัว ซึ่งท้ายที่สุดแล้วจะเชื่อมต่อกับ Polkadot 
 
-This all makes for an exciting development environment — and the perfect place for the Acala team to fine-tune its mission with Karura and prepare for the future deployment of Acala on Polkadot.
-
-
-
-> **_Just as Acala will serve as the de-facto DeFi hub of Polkadot, Karura will serve as the de-facto DeFi hub of Kusama._**
-
-With these two sister networks in place, DeFi innovation will no longer be limited by high-transaction fees and network isolation. Rather, Acala and Karura will help usher in a new era of DeFi, by powering a suite of financial applications while granting composability between two unique ecosystems of parachains, protocols, and dapps.
+ทั้งหมดนี้ทำให้เกิดสภาพแวดล้อมการพัฒนาที่น่าตื่นเต้น และเป็นสถานที่ที่สมบูรณ์แบบสำหรับทีม Acala ในการปรับแต่งภารกิจกับ Karura และเตรียมพร้อมสำหรับการใช้งาน Acala บน Polkadot ในอนาคต 
 
 
 
-# It all starts with the Karura Crowdloan and Parachain Auction.
+> **_เช่นเดียวกับ Acala จะทำหน้าที่เป็นศูนย์กลาง DeFi ของ Polkadot โดยแท้ Karura จะทำหน้าที่เป็นศูนย์กลาง DeFi ของ Kusama  อย่างแท้จริง_**
+
+ด้วยเครือข่ายสองพี่น้องนี้ นวัตกรรม DeFi จะไม่ถูกจำกัดด้วยค่าธรรมเนียมการทำธุรกรรมสูงที่สูงเเกินและการแยกเครือข่ายเดี่ยวๆอีกต่อไป  แต่ Acala และ Karura จะช่วยเปิดศักราชใหม่ของ DeFi ด้วยขุมพลังของแอพพลิเคชั่นทางการเงินในขณะที่ให้ความสามารถในการแยกย่อยระหว่างสองระบบนิเวศที่เป็นเอกลักษณ์ของ parachains, protocols และ dapps 
+
+
+
+# ทุกอย่างเริ่มต้นด้วย Karura Crowdloan และการประมูล Parachain 
 
 ![](https://miro.medium.com/max/2008/1\*CHTrJqD3RI7yvf8WzA9APQ.png)
 
-Like Acala, the Karura network will be a one-stop shop for decentralized financial tools, which include a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+เช่นเดียวกับ Acala เครือข่าย Karura จะเป็นร้านค้าแบบครบวงจรสำหรับเครื่องมือทางการเงินแบบกระจายอำนาจ ซึ่งรวมถึงการ staking อนุพันธ์ แบบ trustless (liquid KSM) เหรียญ stablecoin แบบหลายหลักประกันที่ได้รับการสนับสนุนจากสินทรัพย์ cross-chain (kUSD) และ AMM DEX — ทั้งหมด ด้วยค่าธรรมเนียมไมโครแก๊สที่สามารถชำระเป็นโทเค็นใดก็ได้ 
 
-**But in order to launch, Karura must first secure a parachain slot on Kusama by winning an auction.** This process requires adequate funding to strategically bid in the network’s candle auction. Though some projects may rely on large investors to acquire this funding, the Karara team is approaching things differently. Karura is using the crowdloan to bootstrap KSM from the community to use these funds as the bid in the parachain auction. All contributors to the crowdloan will receive Karura’s native token, KAR, in a ratio to their KSM contribution.
+**แต่ก่อนเปิดตัว Karura จะต้องได้ slot Parachain บน Kusama ก่อนด้วยการชนะการประมูล** กระบวนการนี้ต้องการเงินทุนที่เพียงพอในการเสนอราคาอย่างมีกลยุทธ์ในการประมูลแบบแท่งเทียนของเครือข่าย  แม้ว่าบางโครงการอาจต้องอาศัยนักลงทุนรายใหญ่ในการจัดหาเงินทุนนี้ ทีมงานของ Karara ก็กำลังดำเนินการต่างจากเดิม  Karura กำลังใช้ crowdloan เพื่อเริ่มต้น KSM จากชุมชนเพื่อใช้เงินเหล่านี้เป็นการเสนอราคาในการประมูล Parachain  ผู้ร่วมให้ข้อมูลทุกคนใน crowdloan จะได้รับ KAR ซึ่งเป็นโทเค็นดั้งเดิมของ Karura ในอัตราส่วนต่อการเข้าร่วม KSM ของพวกเขา 
 
 [Karura’s Approach to the Upcoming Crowdloan and Parachain Auction on Kusama](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
 
