@@ -90,32 +90,32 @@ Kusama จะเปิดใช้งานโมดูล Crowdloan ซึ่�
 
 ![](https://miro.medium.com/max/3200/0\*VvGrUVcmSdtC9cQw)
 
-ช่วงเริ่มต้น supply ทั้งหมดของโทเค็นดั้งเดิมของ Karura จะเท่ากับ 100,000,000 KAR ซึ่งเป็นจำนวนเงินคงที่และเงินฝืด ซึ่งเป็นแนวทางที่แตกต่างจากหลายโครงการที่อาศัยกลไกอัตราเงินเฟ้อเพื่อความยั่งยืน We’re confident in the security and scalability provided by Kusama’s relay chain, and have designed Karura’s total supply and token economics to ensure the project’s long-term success.
+ช่วงเริ่มต้น supply ทั้งหมดของโทเค็นดั้งเดิมของ Karura จะเท่ากับ 100,000,000 KAR ซึ่งเป็นจำนวนเงินคงที่และเงินฝืด ซึ่งเป็นแนวทางที่แตกต่างจากหลายโครงการที่อาศัยกลไกอัตราเงินเฟ้อเพื่อความยั่งยืน เรามั่นใจในความปลอดภัยและความสามารถในการปรับขยายจาก Kusama relay chain และได้ออกแบบ supply รวมและเศรษฐศาสตร์โทเค็นของ Karura เพื่อให้มั่นใจว่าโครงการจะประสบความสำเร็จในระยะยาว 
 
-Karura is built with decentralization at heart. 60.87% of KAR has been committed to the community, ecosystem and network operation through the “Auction Reward/Liquidity Program,” “Treasury/Reserve,” and “Ecosystem Program.”
+Karura สร้างขึ้นด้วยหัวใจของการกระจายอำนาจ 60.87% ของ KAR ทุ่มเทให้กับชุมชน ระบบนิเวศ และการดำเนินงานเครือข่ายผ่าน "รางวัลการประมูล/โครงการสภาพคล่อง" "คลัง/สำรอง" และ "โครงการระบบนิเวศ" 
 
 
 
-# **Interested in participating in the Karura crowdloan?**
+# **สนใจเข้าร่วมทุน Karura หรือไม่? **
 
-[Subscribe to the newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) and be among the first to know when the crowdloan module is live.
+[สมัครรับจดหมายข่าว](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)และเป็นคนแรกที่รู้ว่าโมดูล crowdloan จะเผยแพร่เมื่อใด 
 
 ![](https://miro.medium.com/max/2402/1\*oac6FehxVOu8zmzUxj8EYw.png)
 
 
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is an all-in-one decentralized finance network offering a blockchain platform secured by Polkadot, as well as a suite of cross-chain financial applications that let users trade, issue self-serviced loans, become liquidity providers, access staking derivatives, and earn high-interest APY on their digital assets. The network is scalable, Ethereum-compatible, and optimized for DeFi.
+[Acala](http://acala.network/) เป็นเครือข่ายการเงินแบบกระจายอำนาจแบบ all-in-one ที่นำเสนอแพลตฟอร์มบล็อกเชนที่มีความปลอดภัยโดย Polkadot ตลอดจนชุดแอปพลิเคชันทางการเงินแบบ cross-chain ที่อนุญาตให้ผู้ใช้ซื้อขาย ออกสินเชื่อแบบบริการตนเอง กลายเป็นสภาพคล่อง ผู้ให้บริการ เข้าถึงอนุพันธ์ Stake และรับ APY ดอกเบี้ยสูงจากสินทรัพย์ดิจิทัลของพวกเขา เครือข่ายสามารถปรับขนาดได้ รองรับ Ethereum และปรับให้เหมาะสมสำหรับ DeFi 
 
-Acala was founded in Oct 2019, and today has received five Web3 Foundation grants, has backing from Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere and other top firms, and has a distributed team in New Zealand, China, Europe, Brazil, and the United States.
+Acala ก่อตั้งขึ้นในเดือนตุลาคม 2019 และวันนี้ได้รับทุนสนับสนุนจาก Web3 Foundation ห้าทุน โดยได้รับการสนับสนุนจาก Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere และบริษัทชั้นนำอื่นๆ และมีทีมกระจายอยู่ในนิวซีแลนด์ จีน ยุโรป บราซิล และ สหรัฐ. 
 
 [Linktree](https://linktr.ee/acalanetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
 
 
 
-# About Karura
+# เกี่ยวกับ Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+[Karura](http://acala.network/karura) เป็นศูนย์กลาง DeFi แบบครบวงจรของ Kusama  Karura ก่อตั้งโดย Acala Foundation เป็นเครือข่ายที่รองรับการปรับขนาดและรองรับ EVM ซึ่งได้รับการปรับแต่งมาเพื่อ DeFi  แพลตฟอร์มดังกล่าวนำเสนอชุดแอพพลิเคชั่นทางการเงิน ได้แก่ อนุพันธ์การ stake แบบ trustless (liquid KSM) เหรียญ stablecoin ที่มีหลักประกันหลายสกุลซึ่งได้รับการสนับสนุนจากสินทรัพย์ cross-chain (kUSD) และ AMM DEX ทั้งหมดนี้มีค่าธรรมเนียมก๊าซขนาดเล็กที่สามารถชำระได้ด้วยโทเค็นใดก็ได้
 
 [Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
