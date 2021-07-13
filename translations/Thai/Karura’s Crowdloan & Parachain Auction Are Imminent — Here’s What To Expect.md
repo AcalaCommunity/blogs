@@ -36,61 +36,61 @@ _แผนงานของ Karura Launch and Governance_</1 > </p>
 
 **แต่ก่อนเปิดตัว Karura จะต้องได้ slot Parachain บน Kusama ก่อนด้วยการชนะการประมูล** กระบวนการนี้ต้องการเงินทุนที่เพียงพอในการเสนอราคาอย่างมีกลยุทธ์ในการประมูลแบบแท่งเทียนของเครือข่าย  แม้ว่าบางโครงการอาจต้องอาศัยนักลงทุนรายใหญ่ในการจัดหาเงินทุนนี้ ทีมงานของ Karara ก็กำลังดำเนินการต่างจากเดิม  Karura กำลังใช้ crowdloan เพื่อเริ่มต้น KSM จากชุมชนเพื่อใช้เงินเหล่านี้เป็นการเสนอราคาในการประมูล Parachain  ผู้ร่วมให้ข้อมูลทุกคนใน crowdloan จะได้รับ KAR ซึ่งเป็นโทเค็นดั้งเดิมของ Karura ในอัตราส่วนต่อการเข้าร่วม KSM ของพวกเขา 
 
-[Karura’s Approach to the Upcoming Crowdloan and Parachain Auction on Kusama](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
+[แนวทางของ Karura ต่อการประมูล Crowdloan และ Parachain ที่จะเกิดขึ้นบน Kusama ](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463)
 
-For more information on the Crowdloan and Parachain auction process, you can also check out this 8-minute explainer video:
-
-
-
-# A fair and ethical token distribution
-
-When designing the token economy for Karura, the team sought out to align incentives and bootstrap the project for the benefit of its community. After all, Karura and Acala have 90,000+ members, along with [an Ambassador program](https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0), that will serve as the backbone of the project.
-
-In order to ensure that these communities have day-one access to Karura’s DeFi tools, along with the opportunity to earn rewards while supporting the network’s launch, the team has opted to crowdsource the funding for the Kusama Parachain Auction and to reward community participants with Karura’s native token (KAR).
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับขั้นตอนการประมูล Crowdloan และ Parachain คุณยังสามารถดูวิดีโออธิบาย 8 นาทีนี้: 
 
 
 
-## Here’s how it works.
+# การกระจายโทเค็นที่ยุติธรรมและมีจริยธรรม
+
+เมื่อออกแบบเศรษฐกิจโทเค็นสำหรับ Karura ทีมงานพยายามที่จะจัดสิ่งจูงใจและเริ่มต้นโครงการเพื่อประโยชน์ของชุมชน  ท้ายที่สุด Karura และ Acala ก็มีสมาชิกมากกว่า 90,000 คน พร้อมด้วย [โปรแกรม Ambassador](https://medium.com/acalanetwork/join-the-acala-aces-ambassador-program-9829642680d0) ซึ่งจะทำหน้าที่เป็นกระดูกสันหลังของโครงการ 
+
+เพื่อให้แน่ใจว่าชุมชนเหล่านี้สามารถเข้าถึงเครื่องมือ DeFi ของ Karura ได้ตั้งแต่วันแรก พร้อมกับโอกาสในการได้รับรางวัลในขณะที่สนับสนุนการเปิดตัวของเครือข่าย ทีมงานได้เลือกที่จะระดมเงินทุนสำหรับการประมูล Kusama Parachain และให้รางวัลแก่ผู้เข้าร่วมในชุมชนด้วย Karura โทเค็นดั้งเดิม (KAR) 
+
+
+
+## นี่คือวิธีการทำงาน
 
 ![](https://miro.medium.com/max/2458/1\*JCsCYAjGjwjBmet8nKpVKg.png)
 
 
 
-## **1\. Prepare your KSM — Begin the Unbonding process**
+## **1\. เตรียม KSM ของคุณ — เริ่มกระบวนการเลิกผูกมัด**
 
-Only KSM holders can participate in the Crowdloan event, and the KSM must be unbonded and transferrable in a crowdloan-compatible wallet like Polkawallet or Polkadot.js.
+เฉพาะผู้ถือ KSM เท่านั้นที่สามารถเข้าร่วมในกิจกรรม Crowdloan และ KSM จะต้องไม่ถูกผูกมัดและสามารถโอนได้ในกระเป๋าเงินที่เข้ากันได้กับ crowdloan เช่น Polkawallet หรือ Polkadot.js 
 
-For more information on setting up a compatible wallet, please review [this guide.](https://wiki.acala.network/karura/ksm-address/create-new-ksm-account) For info on unbonding KSM, refer to this [guide for on Polkawallet](https://wiki.acala.network/karura/ksm-address/unstake-polkawallet) and this [guide on Polkadot.js.](https://wiki.acala.network/karura/ksm-address/unstaking-your-ksm-tokens-on-polkadot.-js-extension)
-
-
-
-## **2\. Lock your KSM**
-
-Kusama will enable the Crowdloan module, a permissionless smart contract for our community to temporarily lock their KSM in support of Karura’s upcoming bid for a parachain slot. The module will receive KSM and lock these assets for a period of 48 weeks, after which participating users will automatically receive their full contribution back.
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการตั้งค่ากระเป๋าเงินที่เข้ากันได้ โปรดอ่าน [คู่มือนี้](https://wiki.acala.network/karura/ksm-address/create-new-ksm-account) สำหรับข้อมูลเกี่ยวกับการเลิกผูกมัด KSM โปรดดู[คำแนะนำเกี่ยวกับ Polkawallet](https://wiki.acala.network/karura/ksm-address/unstake-polkawallet) และ [คู่มือเกี่ยวกับ Polkadot นี้ .js.](https://wiki.acala.network/karura/ksm-address/unstaking-your-ksm-tokens-on-polkadot.-js-extension) 
 
 
 
-## **3\. Receive KAR rewards**
+## **2\. ล็อค KSM ของคุณ **
 
-For their support, participants will receive [Karura’s native token KAR](https://acala.network/karura/token).
-
-**For each 1 KSM locked, a participant will be rewarded with a minimum of 12 KAR.** Though, the reward _could_ be higher. It all depends on the amount of support Karura receives.
-
-Once Karura launches, any community member who had locked their KSM during the Crowdloan campaign will receive their reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the 48-week lease period.
+Kusama จะเปิดใช้งานโมดูล Crowdloan ซึ่งเป็น smart contract ที่ไม่ได้รับอนุญาตสำหรับชุมชนของเราสามารถล็อค KSM ของพวกเขาชั่วคราวเพื่อสนับสนุนการเสนอราคาที่จะเกิดขึ้นของ Karura สำหรับสล็อต parachain  โมดูลจะได้รับ KSM และล็อคทรัพย์สินเหล่านี้เป็นระยะเวลา 48 สัปดาห์ หลังจากนั้นผู้ใช้ที่เข้าร่วมจะได้รับเงินช่วยเหลือเต็มจำนวนโดยอัตโนมัติ 
 
 
 
-## **Refer a friend and you’ll each receive 5% bonus rewards**
+## **3\. รับรางวัลเหรียญ KAR **
 
-Savvy community members can also take advantage of our referral program to earn additional KAR rewards. For each successful referral to the Crowdloan module, we’ll send 5% additional bonus KAR to you and a friend.
+สำหรับการสนับสนุน ผู้เข้าร่วมจะได้รับ [โทเค็นดั้งเดิมของ KAR](https://acala.network/karura/token) ของ Karura 
+
+**สำหรับการล็อก KSM 1 เหรียญ ผู้เข้าร่วมจะได้รับรางวัลขั้นต่ำ 12 KAR** แม้ว่ารางวัล _อาจ_ จะสูงกว่าก็ตาม  ทั้งหมดขึ้นอยู่กับปริมาณการสนับสนุนที่ Karura ได้รับ 
+
+เมื่อ Karura เปิดตัว สมาชิกชุมชนที่ล็อค KSM ของพวกเขาระหว่างแคมเปญ Crowdloan จะได้รับรางวัลใน KAR  เมื่อได้รับแล้ว 30% ของ KAR นี้จะถูกปลดล็อก เป็นสภาพคล่อง และพร้อมให้ใช้งานภายในระบบนิเวศ DeFi ของ Karura ในขณะที่อีก 70% ที่เหลือจะตกเป็นกรรมสิทธิ์และปล่อยทีละน้อยจนกว่าจะสิ้นสุดระยะเวลาเช่า 48 สัปดาห์ 
 
 
 
-# A sustainable token economic model
+## **แนะนำเพื่อนแล้วคุณจะได้รับรางวัลโบนัส 5% **
+
+สมาชิกชุมชนตำแหน่งสูงยังสามารถใช้ประโยชน์จากโปรแกรมการแนะนำของเราเพื่อรับรางวัล KAR เพิ่มเติม  สำหรับการแนะนำโมดูล Crowdloan ที่ประสบความสำเร็จแต่ละครั้ง เราจะส่ง KAR โบนัสเพิ่มเติม 5% ให้กับคุณและเพื่อน 
+
+
+
+# โมเดลเศรษฐกิจโทเค็นที่ยั่งยืน 
 
 ![](https://miro.medium.com/max/3200/0\*VvGrUVcmSdtC9cQw)
 
-At genesis, the total supply of Karura’s native token will be 100,000,000 KAR, an amount that’s fixed and deflationary — a different approach from the many projects that rely on inflation mechanisms for sustainability. We’re confident in the security and scalability provided by Kusama’s relay chain, and have designed Karura’s total supply and token economics to ensure the project’s long-term success.
+ช่วงเริ่มต้น supply ทั้งหมดของโทเค็นดั้งเดิมของ Karura จะเท่ากับ 100,000,000 KAR ซึ่งเป็นจำนวนเงินคงที่และเงินฝืด ซึ่งเป็นแนวทางที่แตกต่างจากหลายโครงการที่อาศัยกลไกอัตราเงินเฟ้อเพื่อความยั่งยืน We’re confident in the security and scalability provided by Kusama’s relay chain, and have designed Karura’s total supply and token economics to ensure the project’s long-term success.
 
 Karura is built with decentralization at heart. 60.87% of KAR has been committed to the community, ecosystem and network operation through the “Auction Reward/Liquidity Program,” “Treasury/Reserve,” and “Ecosystem Program.”
 
