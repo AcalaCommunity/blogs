@@ -1,4 +1,4 @@
-# Introducing the Open Oracle Gateway for Polkadot
+# ขอแนะนำ Open Oracle Gateway สำหรับ Polkadot
 
 ## The Open Oracle Gateway provides open, inclusive and progressively decentralized price oracle services to the ecosystem in Acala, Karura, Polkadot, Kusama and beyond.
 
