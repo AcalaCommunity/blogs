@@ -1,34 +1,34 @@
 # ขอแนะนำ Open Oracle Gateway สำหรับ Polkadot
 
-## The Open Oracle Gateway provides open, inclusive and progressively decentralized price oracle services to the ecosystem in Acala, Karura, Polkadot, Kusama and beyond.
+## Open Oracle Gateway ให้บริการราคา Oracle แบบเปิด, ครอบคลุม และกระจายอำนาจแบบก้าวหน้าไปยังระบบนิเวศใน Acala, Karura, Polkadot, Kusama และอื่นๆ
 
-By [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----3554f7a4254e--------------------------------) and [Bryan Chen](https://medium.com/u/241f963260c9?source=post_page-----3554f7a4254e--------------------------------)
+โดย [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----3554f7a4254e--------------------------------) and [Bryan Chen](https://medium.com/u/241f963260c9?source=post_page-----3554f7a4254e--------------------------------)
 
 ![Image for post](https://miro.medium.com/max/1600/0*oEYR17rjpn2J6bQN)
 
-# Acala’s Previous Approach to Oracles
+# แนวทางก่อนหน้าของ Acala สำหรับ Oracles
 
-Up until now, Acala previously ran its own oracle network with multiple operator nodes sourcing off-chain data for on-chain operations such as evaluating borrowing capacity and liquidation risks. The Acala team has designed this infrastructure to meet the specific demands of DeFi applications through the following features:
+จนถึงปัจจุบัน Acala เคยรันเครือข่าย oracle ของตัวเองด้วยโหนด operator ที่จัดหาข้อมูลนอกเครือข่ายสำหรับการดำเนินการบนเครือข่าย เช่น การประเมินความสามารถในการยืมและความเสี่ยงในการชำระบัญชี ทีมงาน Acala ได้ออกแบบโครงสร้างพื้นฐานนี้เพื่อตอบสนองความต้องการเฉพาะของแอปพลิเคชัน DeFi ผ่านคุณสมบัติดังต่อไปนี้:
 
-- **Multiple Operators**: the Acala oracle provider network accepts data feeds from multiple nodes, and the aggregator combines the data to a single price to reduce attack factors.
+- **Operator หลายตัว**: เครือข่ายผู้ให้บริการ Acala oracle ยอมรับฟีดข้อมูลจากหลายโหนด และผู้รวบรวมจะรวมข้อมูลเป็นราคาเดียวเพื่อลดปัจจัยการโจมตี
 
-- **Quality of Service**: Oracle operations are classified as high-priority transactions that will be included in a block regardless of network state (e.g. congested), so that price feeds are more reliable with minimum delay.
+- **คุณภาพของบริการ**: การดำเนินการของ Oracle ถูกจัดประเภทเป็นธุรกรรมที่มีลำดับความสำคัญสูงซึ่งจะรวมอยู่ในบล็อกโดยไม่คำนึงถึงสถานะเครือข่าย (เช่น แออัด) เพื่อให้การป้อนราคามีความน่าเชื่อถือมากขึ้นโดยมีความล่าช้าน้อยที่สุด
 
-- **Customizable Fees**: the team implemented a favorable fee schedule (e.g. price feeds can be free) and DDoS attack protection, e.g. to allow 1 call per block from each authorized provider to ensure security and maintain cost-efficiency.
+- **ค่าธรรมเนียมที่ปรับแต่งได้**: ทีมงานดำเนินการกำหนดค่าธรรมเนียมที่เหมาะสม (เช่น ฟีดราคาสามารถฟรีได้) และการป้องกันการโจมตี DDoS เช่น ค่าธรรมเนียมที่ปรับแต่งได้ เพื่ออนุญาต 1 การโทรต่อบล็อกจากผู้ให้บริการที่ได้รับอนุญาตแต่ละรายเพื่อให้มั่นใจในความปลอดภัยและประหยัดต้นทุน
 
-- **Progressive Decentralization**: Initially, oracle providers will be authorized and whitelisted to maximize security and predictability, while gradually shifting to be more permissionless and trustless over time.
+- **การกระจายอำนาจที่ดีขึ้น**: ในขั้นต้น ผู้ให้บริการ oracle จะได้รับอนุญาตและอยู่ในรายการที่อนุญาตพิเศษเพื่อเพิ่มความปลอดภัยและความสามารถในการคาดการณ์สูงสุด ในขณะที่ค่อยๆ เปลี่ยนไปเป็นแบบไม่มีสิทธิ์และเชื่อถือได้มากขึ้นเมื่อเวลาผ่านไป
 
-With the current setup, other oracle providers can provide independent price feeds by running an operator node; however, it only supports one oracle network. The challenge of providing reliable, accurate and decentralized oracles cannot be solved by Acala alone. When taking into account that Acala is the DeFi hub and platform powering more cross-chain DeFi DApps on Polkadot, Kusama and beyond, creating a more open, inclusive, and decentralized oracle infrastructure with other leading projects in the industry becomes critical.
+ด้วยเซ็ทอัพปัจจุบัน ผู้ให้บริการ oracle รายอื่นสามารถให้ฟีดราคาอิสระได้โดยการรันโหนด operator อย่างไรก็ตาม รองรับเพียงแค่หนึ่งเครือข่าย oracle เท่านั้น ความท้าทายในการจัดหาออราเคิลที่เชื่อถือได้ แม่นยำ และกระจายอำนาจทำให้ไม่สามารถแก้ไขได้โดย Acala เพียงอย่างเดียว เมื่อพิจารณาว่า Acala เป็นฮับ DeFi และแพลตฟอร์มที่ขับเคลื่อน DeFi DApps cross-chain มากขึ้นบน Polkadot, Kusama และอื่นๆ การสร้างโครงสร้างพื้นฐาน oracle ที่เปิดกว้าง ครอบคลุม และกระจายอำนาจมากขึ้นด้วยกันกับโครงการชั้นนำอื่นๆ ในอุตสาหกรรมจะกลายเป็นเรื่องสำคัญ
 
-# Moving Forward — The Open Oracle Gateway
+# ก้าวไปข้างหน้า — Open Oracle Gateway
 
-Today the Open Oracle Gateway, a technical collaboration between the Acala, Laminar and Band Protocol teams, is a significant step towards the vision of creating an open, inclusive, and decentralized oracle network for the Polkadot ecosystem. The Gateway offers the following:
+วันนี้ Open Oracle Gateway ซึ่งเป็นความร่วมมือทางเทคนิคระหว่างทีม Acala, Laminar และ Band Protocol เป็นก้าวสำคัญสู่วิสัยทัศน์ในการสร้างเครือข่าย oracle ที่เปิดกว้าง ครอบคลุม และกระจายอำนาจสำหรับระบบนิเวศ Polkadot The Gateway เสนอสิ่งต่อไปนี้:
 
 # Multiple Oracle Networks
 
-The Gateway allows multiple parties in addition to Acala to operate their own oracle networks and provide price feed services. Essentially any oracle service provider can set up a new Network Provider, and through governance approval, it would be enacted through runtime upgrade. Node Operators can then be set up for this new network and start posting off-chain data to Acala. These data feeds are aggregated into a single price feed available to consumption via the Gateway.
+The Gateway ช่วยให้หลายฝ่ายนอกเหนือจาก Acala สามารถดำเนินการเครือข่าย oracle ของตนเองและให้บริการฟีดราคา โดยพื้นฐานแล้ว ผู้ให้บริการ Oracle ทุกรายสามารถตั้งค่าผู้ให้บริการเครือข่ายใหม่ได้ และผ่านการอนุมัติการกำกับดูแล ผู้ให้บริการจะมีผลบังคับใช้ผ่านการอัปเกรดรันไทม์ จากนั้น โหนด operator สามารถตั้งค่าสำหรับเครือข่ายใหม่นี้ และเริ่มโพสต์ข้อมูลนอกเครือข่ายไปยัง Acala ฟีดข้อมูลเหล่านี้รวมอยู่ในฟีดราคาเดียวที่มีให้สำหรับการบริโภคผ่านเกตเวย์
 
-View the default oracle pallet (the Provider) [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
+ดูออราเคิลพาเลทเริ่มต้น (ผู้ให้บริการ) [ที่นี่](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle)
 
 An oracle Network Provider can implement their own oracle pallets (based on the default oracle pallet) to meet their specific requirements such as validating cross-chain data feeds. We can also easily integrate with existing signed oracle APIs such as [Coinbase price oracle](https://blog.coinbase.com/introducing-the-coinbase-price-oracle-6d1ee22c7068) by simply adding a Coinbase Provider pallet and validate their signature.
 
