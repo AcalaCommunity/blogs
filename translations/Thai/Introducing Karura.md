@@ -1,10 +1,10 @@
-# **Introducing Karura: Acala’s DeFi Parachain on Kusama**
+# **ขอแนะนำ Karura: DeFi Parachain ของ Acala บน Kusama**
 
-## Karura will be the decentralized financial hub of Kusama and plans to be one of the first parachains to launch on the network
+## Karura จะเป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Kusama และวางแผนที่จะเป็นหนึ่งใน Parachains กลุ่มแรกที่เปิดตัวบนเครือข่าย
 
 ![Image for post](https://miro.medium.com/max/1600/0*nr7tcscsg65Yy_zx)
 
-The Phoenix has symbolized rebirth, renewal, and reinvention as a recurring theme throughout human history. Humans have long revered these stories of hope, helping calm their fears and assuring them of a brighter, better future. Over centuries of time, the Phoenix has emerged in ancient texts symbolizing concepts like rebirth, immortality, grace, resurrection, power, and prosperity in cultures ranging from Greek to Persian to Chinese. The Phoenix has solidified herself in time as a symbol of our ability to rise from the ashes time and time again.
+ฟีนิกซ์เป็นสัญลักษณ์ของการเกิดใหม่ การสร้างใหม่ และการประดิษฐ์ขึ้นใหม่ในรูปแบบที่เกิดซ้ำตลอดประวัติศาสตร์ของมนุษย์ Humans have long revered these stories of hope, helping calm their fears and assuring them of a brighter, better future. Over centuries of time, the Phoenix has emerged in ancient texts symbolizing concepts like rebirth, immortality, grace, resurrection, power, and prosperity in cultures ranging from Greek to Persian to Chinese. The Phoenix has solidified herself in time as a symbol of our ability to rise from the ashes time and time again.
 
 The origins of the name Karura comes from a divine creature in Japanese, stemming from a race of gigantic birds in Hinduism. According to Japanese mythology, the karura is said to be an enormous, fire-breathing bird which aligns with the Karura network’s bold and powerful intentions. Representing the Karura brand is the Phoenix. Built as a sister network to Acala with virtually the same code, Karura will be a network constantly reinventing itself and evolving as the latest technologies are deployed in the Acala ecosystem. Just like Acala’s purpose on Polkadot, Karura will serve the [Kusama](http://kusama.network) community as its primary decentralized finance (DeFi) hub. Going forward, Acala and Karura will continue to operate in parallel and serve the users of the Polkadot and Kusama communities. Once Kusama is bridged to Polkadot, Karura and Acala will also be interoperable with each other.
 
