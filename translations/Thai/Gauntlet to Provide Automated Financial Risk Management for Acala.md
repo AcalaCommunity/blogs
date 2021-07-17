@@ -1,6 +1,6 @@
-# Gauntlet to Provide Automated Financial Risk Management for Acala and Karura
+# Gauntlet จัดหาการจัดการความเสี่ยงทางการเงินอัตโนมัติสำหรับ Acala และ Karura
 
-## Gauntlet will contribute to optimizing solvency and capital efficiency for DeFi on Polkadot and Kusama
+## Gauntlet จะช่วยเพิ่มประสิทธิภาพการชำระหนี้สินและเพิ่มประสิทธิภาพเงินทุนสำหรับ DeFi บน Polkadot และ Kusama
 
 ![](https://miro.medium.com/max/3200/0*VViyzkyMgzCyfRUc)
 
