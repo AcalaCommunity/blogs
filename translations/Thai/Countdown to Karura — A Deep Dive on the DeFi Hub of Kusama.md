@@ -40,25 +40,25 @@ Karura สร้างขึ้นโดย Acala ทีมพัฒนาชั
 
 Kusama เป็นลูกพี่ลูกน้องที่เคลื่อนไหวเร็วกว่าและดุร้ายของ Polkadot ซึ่งเป็นเครือข่าย multi-chain สำหรับนวัตกรรมที่สุดโต่ง แม้ว่าจะเกี่ยวข้องกันโดยพื้นฐานโค้ด แต่ Kusama และ Polkadot เป็นเครือข่ายอิสระแบบสแตนด์อโลนที่มีชุมชนการพัฒนาของตนเองและความต้องการ DeFi แต่เนื่องจาก Kusama มีพารามิเตอร์การกำกับดูแลที่เร็วกว่าและยอมรับความเสี่ยงได้สูงกว่า โครงการอย่าง Karura จึงสามารถสร้างให้ใหญ่และดำเนินการได้อย่างรวดเร็ว
 
-By launching on Kusama, Karura can push the limits of what’s possible, giving the Acala team a place to launch bold new financial innovations without risking funds on the more robust Acala network. Karura will access Kusama’s plug-and-play security while enjoying high-capacity processing speeds, micro-gas fees, and interoperability between multiple networks, all ultimately bridged to Polkadot. By launching as a Kusama parachain, Karura will deliver decentralized financial products and stable assets to Kusama’s entire ecosystem of networks.
+ด้วยการเปิดตัวบน Kusama Karura สามารถก้าวข้ามขีดจำกัดจากสิ่งที่มีได้ ทำให้ทีม Acala มีพื้นที่ในการเปิดตัวนวัตกรรมทางการเงินใหม่ๆ ที่โดดเด่นโดยไม่ต้องเสี่ยงกับเงินทุนบนเครือข่าย Acala ที่แข็งแกร่งกว่า Karura จะเข้าถึงการรักษาความปลอดภัยแบบ plug-and-play ของ Kusama ในขณะที่เพลิดเพลินกับความเร็วในการประมวลผลที่มีความจุสูง ค่าธรรมเนียมไมโครแก๊ส และความสามารถในการทำงานร่วมกันระหว่างหลายเครือข่าย ทั้งหมดนี้เชื่อมโยงกับ Polkadot ด้วยการเปิดตัวเป็น Kusama Parachain Karura จะส่งมอบผลิตภัณฑ์ทางการเงินแบบกระจายอำนาจและสินทรัพย์ที่มีเสถียรภาพไปยังระบบนิเวศทั้งหมดของเครือข่าย Kusama
 
-# **Introducing Karura’s DeFi DApps**
+# **ขอแนะนำ DeFi DApps ของ Karura**
 
 ![Image for post](https://miro.medium.com/max/2796/0\*tO8cT37Qzn6hnztE)
 
-With Karura, you can execute hundreds of DeFi strategies without ever leaving the platform. Utilize your cross-chain tokens like BTC or ETH to issue a self-serviced loan in kUSD. Provide liquidity to the Karura DEX to earn fees from trading volume. Stay liquid while staking KSM to earn rewards and amplify your potential gains with the unlocked, liquid KSM staking derivative. The possibilities are infinite thanks to Karura’s thoughtfully-designed financial apps.
+ด้วย Karura คุณสามารถดำเนินกลยุทธ์ DeFi ได้หลายร้อยรายการโดยไม่ต้องออกจากแพลตฟอร์ม ใช้โทเค็น cross-chain ของคุณ เช่น BTC หรือ ETH เพื่อออกเงินกู้แบบบริการตนเองเป็น kUSD จัดหาสภาพคล่องให้กับ Karura DEX เพื่อรับค่าธรรมเนียมจากปริมาณการซื้อขาย รักษาสภาพคล่องในขณะที่ staking KSM เพื่อรับรางวัลและขยายผลกำไรที่เป็นไปได้ของคุณด้วยการปลดอนุพันธ์การ staking liquid KSM ความเป็นไปได้นั้นไม่มีที่สิ้นสุดด้วยแอพทางการเงินที่ออกแบบอย่างพิถีพิถันของ Karura
 
 # **Karura Dollar Stablecoin (kUSD)**
 
 ![Image for post](https://miro.medium.com/max/3200/0\*pliM8ldWpTnmM9FC)
 
-Earn more with the Karura Dollar, kUSD stablecoin.
+รับเงินมากขึ้นด้วย Karura Dollar, kUSD stablecoin
 
-As more users turn to crypto assets for their financial needs, it has become imperative to provide price-stable currencies to better enable the mainstream adoption of DeFi use cases such as payments, loans, tokenized securities, and more. Users often need to rely on an asset’s stability to: execute low-cost borderless value transfer, assess the risk of lending strategies, and to ensure that their transition to and from a digital financial environment is as approachable as it is predictable.
+เนื่องจากผู้ใช้จำนวนมากขึ้นหันไปใช้สินทรัพย์คริปโตสำหรับความต้องการทางการเงินของพวกเขา จำเป็นต้องจัดหาสกุลเงินที่มีเสถียรภาพด้านราคาเพื่อให้สามารถใช้กรณีการใช้งาน DeFi กระแสหลักได้ดีขึ้น เช่น การชำระเงิน สินเชื่อ หลักทรัพย์โทเค็นและอื่น ๆ ผู้ใช้มักต้องพึ่งพาความเสถียรของสินทรัพย์เพื่อ: ดำเนินการโอนมูลค่าแบบไร้พรมแดนด้วยต้นทุนต่ำ ประเมินความเสี่ยงของกลยุทธ์การให้กู้ยืม และเพื่อให้แน่ใจว่าการเปลี่ยนผ่านไปสู่และจากสภาพแวดล้อมทางการเงินดิจิทัลนั้นเข้าถึงได้ง่ายตามที่คาดการณ์ได้
 
-**Enter the Karura Dollar (kUSD), a decentralized, multi-collateralized stablecoin backed by cross-chain assets.** Stable by design, and pegged to the U.S dollar, kUSD is the de facto stablecoin of Karura, Kusama, and beyond.
+**ป้อน Karura Dollar (kUSD) ซึ่งเป็นเหรียญ stablecoin แบบกระจายอำนาจที่มีหลายหลักประกันซึ่งได้รับการสนับสนุนจากสินทรัพย์ cross-chain** เสถียรภาพโดยการออกแบบและเชื่อมโยงกับดอลลาร์สหรัฐฯ kUSD เป็นเหรียญที่มีเสถียรภาพโดยแท้จริงของ Karura, Kusama และเป็นมากกว่านั้น
 
-With the Karura Dollar Stablecoin protocol, anyone can issue a self-serviced loan in kUSD by locking valuable cross-chain crypto assets, including KSM, BTC, LKSM (Liquid KSM) or ETH, as collateral. While the user maintains the loan by paying interest, the protocol works to maintain kUSD’s stability while automatically managing the risk from any price fluctuations of the underlying collateral asset. In fact, the stablecoin’s liquidation process is jointly supported by Karura’s decentralized exchange and auction to achieve the best price optimization and efficiency..
+ด้วยโปรโตคอล Karura Dollar Stablecoin ทุกคนสามารถออกเงินกู้แบบบริการตนเองเป็น kUSD ได้โดยการล็อกสินทรัพย์คริปโต cross-chain อันมีค่า รวมถึง KSM, BTC, LKSM (Liquid KSM) หรือ ETH เป็นหลักประกัน ในขณะที่ผู้ใช้รักษาเงินกู้โดยจ่ายดอกเบี้ย โปรโตคอลทำงานเพื่อรักษาเสถียรภาพของ kUSD ระหว่างที่จัดการความเสี่ยงจากความผันผวนของราคาของสินทรัพย์หลักประกันโดยอัตโนมัติ อันที่จริง กระบวนการชำระบัญชีของ Stablecoin ได้รับการสนับสนุนร่วมกันโดยการแลกเปลี่ยนและการประมูลแบบกระจายอำนาจของ Karura เพื่อให้ได้ราคาและประสิทธิภาพที่ดีที่สุด
 
 # **Karura DEX**
 
