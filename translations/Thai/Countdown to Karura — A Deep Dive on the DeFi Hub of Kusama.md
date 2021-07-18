@@ -1,12 +1,12 @@
-# **Countdown to Karura: A Deep Dive on the DeFi Hub of Kusama**
+# **นับถอยหลังสู่ Karura: ดำดิ่งสู่ DeFi Hub of Kusama**
 
-**Discover the new** [**Karura website**](https://acala.network/karura)**, explore the DApps, and learn how to support Karura in the upcoming Kusama Parachain Auction.**
+**ค้นพบ** [**เว็บไซต์ Karura**](https://acala.network/karura)** ใหม่ สำรวจ DApps และเรียนรู้วิธีสนับสนุน Karura ในการประมูล Kusama Parachain ที่กำลังจะมีขึ้น**
 
 ![Image for post](https://miro.medium.com/max/6000/1\*L8SpBaVlHefw4De\_DsqT4g.png)
 
-Karura is the all-in-one DeFi Hub of Kusama
+Karura เป็นศูนย์รวม DeFi แบบครบวงจรของKusama
 
-After months of building and growing, the Acala team is almost ready to debut its EVM-compatible, layer-one blockchain: [**_Karura, the DeFi Hub of Kusama_.**](https://acala.network/karura)
+หลังจากสร้างและเติบโตมาหลายเดือน ทีม Acala ใกล้พร้อมที่จะเปิดตัวบล็อกเชนแบบเลเยอร์เดียวที่เข้ากันได้กับ EVM: [**_Karura ศูนย์กลาง DeFi แห่ง Kusama_.**](https://acala.network/karura)
 
 Read on to learn how you can support the upcoming launch and get ready for Karura’s all-in-one, cross-chain, DeFi platform to help you swap, borrow, lend, earn, and stake — all with micro gas fees.
 
