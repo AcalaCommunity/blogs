@@ -82,63 +82,63 @@ stake KSM สำหรับ Liquid KSM บน Karura
 
 - Staked KSM ถูกล็อค/ผูกมัด และไม่มียูทิลิตี้อื่นใดนอกเหนือจากการรับรางวัล
 - การ staking Polkadot.js จำเป็นต้องมีการ staking ขั้นต่ำที่สูง และระยะเวลายกเลิกการผูกมัดเจ็ดวัน
-- And the UX can be frustrating, with many users turning to centralized exchanges that offer a simplified experience while forcing the user to forgo the custody of their keys.
+- และ UX ก็น่าหงุดหงิด เพราะผู้ใช้จำนวนมากหันไปใช้การแลกเปลี่ยนแบบ centralized ที่มอบประสบการณ์ง่ายกว่า ในขณะเดียวกันก็บังคับให้ผู้ใช้ละเลยการดูแลรหัสของตัวเอง
 
-Fortunately, a new staking experience is available with Karura’s Liquid KSM (LKSM) staking derivative.
+โชคดีที่มีประสบการณ์การ staking แบบใหม่กับอนุพันธ์การ staking Liquid KSM (LKSM) ของ Karura
 
-## **Stay liquid while staking with LKSM**
+## **ยังคงเป็นสภาพคล่องระหว่างที่ staking LKSM**
 
-Liquid KSM (LKSM) allows users to stake their KSM while maintaining access to its liquidity. A game changer in the world of staking, when KSM is staked, users receive LKSM (a tokenized receipt for their stake) with the additional benefit of it being a yield-earning token.
+Liquid KSM (LKSM) อนุญาตให้ผู้ใช้ stake KSM ในขณะที่ยังคงเข้าถึงสภาพคล่องได้ ตัวเปลี่ยนเกมในโลกของการstaking, เมื่อ KSM ถูกstake, ผู้ใช้จะได้รับ LKSM (ใบเสร็จที่เป็นโทเค็นสำหรับเงินเดิมพันของพวกเขา) พร้อมสิทธิประโยชน์เพิ่มเติมจากการเป็นโทเค็น yield-earning
 
-With LKSM’s accessible liquidity, users can make additional use of their stake with Karura’s other financial products. For example, LKSM can be used as collateral for a stablecoin loan or for trading within the DEX. One can quickly see how this creates some interesting DeFi use cases.
+ด้วยสภาพคล่องที่เข้าถึงได้ของ LKSM ผู้ใช้สามารถใช้การ stake เพิ่มเติมกับผลิตภัณฑ์ทางการเงินอื่นๆ ของ Karura ตัวอย่างเช่น LKSM สามารถใช้เป็นหลักประกันเงินกู้ stablecoin หรือเพื่อเทรดภายใน DEX คุณสามารถดูได้อย่างรวดเร็วว่าสิ่งนี้สร้าง use case DeFi ที่น่าสนใจได้อย่างไร
 
-What’s more, Liquid KSM offers no staking minimums, and no unbonding period for the underlying KSM, since users can unbond anytime for a small fee.
+ยิ่งไปกว่านั้น Liquid KSM ยังเสนอไม่มีขั้นต่ำในการ staking และไม่มีระยะเวลายกเลิกการผูกมัดสำหรับ KSM พื้นฐาน เนื่องจากผู้ใช้สามารถยกเลิกการผูกมัดได้ทุกเมื่อโดยมีค่าธรรมเนียมเล็กน้อย
 
-# **It’s all powered by KAR**
+# **ทั้งหมดนี้ขับเคลื่อนโดย KAR**
 
 ![Image for post](https://miro.medium.com/max/1526/0\*AflgWKKoHd3ueP1j)
 
-Karura is powered by KAR, its native utility and governance token.
+Karura ขับเคลื่อนโดย KAR ซึ่งเป็นยูทิลิตี้ดั้งเดิมและโทเค็นการกำกับดูแล
 
-KAR is the utility and governance token that powers Karura’s DeFi hub of Kusama. Generated at launch, Karura’s native token will have six distinct use cases. KAR tokens:
+KAR เป็นโทเค็นยูทิลิตี้และการกำกับดูแลที่ขับเคลื่อนศูนย์กลาง DeFi ของ Karura ใน Kusama ซึ่งสร้างขึ้นเมื่อเปิดตัว โทเค็นดั้งเดิมของ Karura จะมีกรณีการใช้งานที่แตกต่างกันหกกรณี KAR tokens:
 
-- Power the micro gas fees and smart contract execution for transactions.
-- Incentivize network nodes to monitor and relay messages to Kusama.
-- Support Karura’s on-chain governance by empowering the community to vote, elect council members, and drive the development of Karura.
-- Enable algorithmic risk adjustment to automatically adjust risk parameters such as interest rates or collateral ratio.
-- Are staked by teams deploying new Substrate pallets on the Karura blockchain.
-- Are staked by teams deploying new DApps and smart contracts on Karura.
+- จ่ายค่าธรรมเนียมก๊าซขนาดเล็กและการดำเนินการตาม smart contract สำหรับธุรกรรม
+- สร้างแรงจูงใจให้โหนดเครือข่ายเพื่อตรวจสอบและส่งต่อข้อความไปยัง Kusama
+- สนับสนุนการกำกับดูแลแบบ on-chain ของ Karura โดยให้อำนาจชุมชนในการลงคะแนนเสียง เลือกสมาชิกสภา และขับเคลื่อนการพัฒนา Karura
+- เปิดใช้งานการปรับความเสี่ยงอัลกอริธึมเพื่อปรับพารามิเตอร์ความเสี่ยงโดยอัตโนมัติ เช่น อัตราดอกเบี้ยหรืออัตราส่วนหลักประกัน
+- ถูก stake โดยทีมที่ปรับใช้ Substrate พาเลทใหม่บน Karura blockchain
+- ถูก stake โดยทีมที่ปรับใช้ DApps ใหม่และ smart contract บน Karura
 
-With all of these incentives aligned, KAR ensures that Karura will be a fast-moving and powerful network that enables efficient and inexpensive transactions while offering the best and latest in DeFi innovations.
+ด้วยสิ่งจูงใจเหล่านี้ที่สอดคล้อง KAR รับรองว่า Karura จะเป็นเครือข่ายที่เคลื่อนไหวรวดเร็วและทรงพลังที่ช่วยให้การทำธุรกรรมมีประสิทธิภาพและราคาไม่แพง ในขณะที่นำเสนอนวัตกรรม DeFi ล่าสุดที่ดีที่สุด
 
-But how does one get KAR?
+แต่จะรับ KAR ได้อย่างไร?
 
-# **Karura’s Path to Launch**
+# **เส้นทางสู่การเปิดตัวของ Karura**
 
-With a vibrant community of 100,000+ members, it’s clear that users are excited to support the launch and try Karura’s DApps beyond the [Mandala testnet](https://apps.acala.network/). **But in order to launch, Karura must first secure a parachain slot on the Kusama network**, [a process](https://wiki.polkadot.network/docs/en/learn-auction) that requires adequate funding to strategically bid in the network’s candle auction alongside several other parachain teams.
+ด้วยชุมชนที่มีชีวิตชีวาของสมาชิกกว่า 100,000 คน เป็นที่ชัดเจนว่าผู้ใช้รู้สึกตื่นเต้นที่จะสนับสนุนการเปิดตัวและลองใช้ DApps ของ Karura นอกเหนือจาก [Mandala testnet](https://apps.acala.network/) **แต่ก่อนเปิดตัว Karura จะต้องได้ slot ของ Parachain บนเครือข่าย Kusama ก่อน** [กระบวนการ](https://wiki.polkadot.network/docs/en/learn-auction)ต้องใช้เงินทุนที่เพียงพอในการเสนอราคาอย่างมีกลยุทธ์ในการประมูลแบบแท่งเทียนของเครือข่ายควบคู่ไปกับ ทีม Parachain อื่นๆ
 
-Karura’s path to launch now includes three major milestones: Crowdsource KSM with the Crowdloan Module, Participate in the Parachain Auction, and Win! The process will kick off any day now — with adequate time for KSM stakers to unbond their KSM and prepare for the event.
+เส้นทางการเปิดตัวของ Karura ในตอนนี้ประกอบด้วยหลักสำคัญสามประการ: Crowdsource KSM พร้อมโมดูล Crowdloan, เข้าร่วมการประมูล Parachain และชนะ! กระบวนการนี้จะเริ่มต้นขึ้นในวันใดวันหนึ่ง โดยมีเวลาเพียงพอสำหรับผู้เดิมพัน KSM เพื่อปลดผูกมัด KSM ของพวกเขาและเตรียมพร้อมสำหรับกิจกรรม
 
-Here’s what to expect:
+นี่คือสิ่งที่คาดหวัง:
 
-## **1.) Crowdsource KSM with the Crowdloan Module**
+## **1.) Crowdsource KSM ด้วย Crowdloan Module**
 
-Soon Karura will hold a KSM crowdsourcing event to bootstrap the network’s bid for the Kusama parachain slot auction. The KSM will be used to participate in the auction in order to gain a slot on Kusama’s network for security and interoperability.
+ในไม่ช้า Karura จะจัดงาน Crowdsourcing ของ KSM เพื่อเริ่มต้นการประมูลของเครือข่ายสำหรับการประมูลสล็อต Kusama parachain KSM จะถูกใช้เพื่อเข้าร่วมการประมูลเพื่อให้ได้ slot บนเครือข่ายของ Kusama เพื่อความปลอดภัยและการทำงานร่วมกัน
 
-For their contribution, participants will receive Karura’s native token KAR. For each 1 KSM locked, users will be distributed a yet-to-be-determined amount of KAR upon Karura’s launch. The final KAR amount will depend on the amount of support Karura receives.
+ผู้เข้าร่วมจะได้รับ KAR โทเค็นดั้งเดิมของ Karura สำหรับแต่ละ 1 KSM ที่ถูกล็อค ผู้ใช้จะได้รับ KAR ที่ยังไม่ได้กำหนดเมื่อเปิดตัว Karura จำนวน KAR สุดท้ายจะขึ้นอยู่กับจำนวนการสนับสนุนที่ Karura ได้รับ
 
-## **2.) Participate in Parachain Auction on Kusama**
+## **2.) เข้าร่วมการประมูล Parachain บน Kusama**
 
-Next, Karura will participate in an unpermissioned candle auction to earn a slot on Kusama’s network. The opening bid will use the “crowdloan module” holding the KSM contributed during the crowdsourcing event. Community members can continue to contribute until the end of the parachain auction.
+ต่อไป Karura จะเข้าร่วมการประมูลเพื่อรับ slot บนเครือข่ายของ Kusama การเสนอราคาเปิดจะใช้ "โมดูลคราวด์โลน" ที่ถือ KSM ที่มีส่วนร่วมระหว่างงานคราวด์ซอร์สซิ่ง สมาชิกชุมชนสามารถสนับสนุนต่อไปได้จนกว่าจะสิ้นสุดการประมูล Parachain
 
-## **3.) Win Auction and Launch Mainnet**
+## **3.) ชนะการประมูลและเปิดตัว Mainnet**
 
-After Karura wins a parachain auction, Karura mainnet will launch and KAR will be generated and distributed to supporters. Any supporter who had locked their KSM in the crowdloan module will receive a reward in KAR. Upon receipt, 30% of this KAR will be unlocked, liquid, and available to utilize within Karura’s DeFi ecosystem, while the remaining 70% will be vested and released gradually until the end of the parachain’s slot lease. As Karura DeFi applications go live, liquidity provider programs will begin, and DeFi will officially be available on Kusama!
+หลังจากที่ Karura ชนะการประมูล Parachain แล้ว Karura mainnet จะเปิดตัวและ KAR จะถูกสร้างขึ้นและแจกจ่ายให้กับผู้สนับสนุน ผู้สนับสนุนที่ล็อค KSM ของตนไว้ในโมดูลคราวด์โลนจะได้รับรางวัลเป็น KAR เมื่อได้รับแล้ว 30% ของ KAR นี้จะถูกปลดล็อก เป็นสภาพคล่อง และพร้อมใช้งานภายในระบบนิเวศ DeFi ของ Karura ในขณะที่อีก 70% ที่เหลือจะถูกเก็บและค่อยๆ ปล่อยจนกว่าจะสิ้นสุดการเช่าสล็อตของ Parachain เมื่อแอปพลิเคชัน Karura DeFi ใช้งานได้ โปรแกรมผู้ให้บริการสภาพคล่องจะเริ่มขึ้น และ DeFi จะพร้อมให้ใช้งานอย่างเป็นทางการบน Kusama!
 
-🚀 **_Interested in supporting Karura? Visit the_** [**_Karura website_**](https://acala.network/karura) **_for more info._**
+🚀 **_สนใจสนับสนุน Karura ไหม? ไปที่_** [**_เว็บไซต์ Karura_**](https://acala.network/karura) **_สำหรับข้อมูลเพิ่มเติม_**
 
-🏘️ **_Connect with us on_** [**_Twitter_**](https://twitter.com/karuranetwork) **_and join the conversation on_** [**_Discord_**](https://discord.com/invite/HpsZx5r)**_._**
+🏘️ **_เชื่อมต่อกับเราบน_** [**_Twitter_**](https://twitter.com/karuranetwork) **_และเข้าร่วมการสนทนาบน_** [**_Discord_**](https://discord.com/invite/HpsZx5r)**_._**
 
-📬 **_Subscribe to our_** [**_newsletter_**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **_and be among the first to know when the Karura crowdsourcing event begins._**
+📬 **_สมัครรับจดหมายข่าว_** [**_จดหมายข่าว_**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **_และเป็นคนแรกที่รู้ว่างานระดมทุนของ Karura เริ่มต้นเมื่อใด_**
 
 [Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/kar-crowdloan) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
