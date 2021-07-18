@@ -64,24 +64,24 @@ Kusama เป็นลูกพี่ลูกน้องที่เคลื�
 
 ![Image for post](https://miro.medium.com/max/3200/0\*z38E3-biWEu2g4Ui)
 
-Perform instant cross-chain swaps on the Karura DEX.
+ดำเนินการแลกเปลี่ยน cross-chain ทันทีบน Karura DEX
 
-At launch, the Karura DEX will provide users with a trustless, cross-chain AMM exchange powered by an automated liquidity provisioning protocol. Thanks to Kusama’s weight-based fee model, users can perform instant cross-chain swaps for a fraction of the gas required on other networks — and because Karura’s DEX is an underlying liquidity pool and settlement layer, it can accept fees in virtually any token.
+เมื่อเปิดตัว, Karura DEX จะมอบการแลกเปลี่ยน AMM แบบ cross-chain ที่เชื่อถือได้ซึ่งขับเคลื่อนโดยโปรโตคอลการจัดสรรสภาพคล่องอัตโนมัติ ด้วยรูปแบบค่าธรรมเนียม weight-based ของ Kusama ผู้ใช้สามารถทำการแลกเปลี่ยน cross-chain ได้ทันทีโดยใช้เพียงเศษเสี้ยวของก๊าซที่จำเป็นในเครือข่ายอื่น — และเนื่องจาก DEX ของ Karura เป็น pool สภาพคล่องพื้นฐานและ layer เริ่มต้น จึงสามารถรับค่าธรรมเนียมในแทบทุกโทเค็น
 
-**This means you can utilize the Karura DEX on day one and expect to pay micro-gas fees with the tokens you already have, including KSM, LKSM, BTC, ETH, and more.**
+**ซึ่งหมายความว่าคุณสามารถใช้ Karura DEX ได้ในวันแรกและคาดว่าจะจ่ายค่าธรรมเนียมไมโครแก๊สด้วยโทเค็นที่คุณมีอยู่แล้ว รวมถึง KSM, LKSM, BTC, ETH และอื่นๆ**
 
-With the Karura DEX, users can become a liquidity provider and earn in two ways: through exchange fees generated from Karura’s trading volume, and through stability-fee profit sharing from the kUSD stablecoin protocol. Because the Karura DEX serves as a unified provisioning mechanism, when liquidation occurs, the DEX automatically provides liquidity to the Karura Dollar stablecoin.
+ด้วย Karura DEX ผู้ใช้สามารถเป็นผู้ให้บริการสภาพคล่องและสร้างรายได้ในสองวิธี: ผ่านค่าธรรมเนียมการแลกเปลี่ยนที่เกิดจากปริมาณการซื้อขายของ Karura และผ่านการแบ่งปันผลกำไรจากค่าธรรมเนียมความมั่นคงจากโปรโตคอล kUSD stablecoin เนื่องจาก Karura DEX ทำหน้าที่เป็นกลไกการจัดเตรียมแบบรวม เมื่อเกิดการชำระบัญชี DEX จะมอบสภาพคล่องให้กับ Karura Dollar Stablecoin โดยอัตโนมัติ
 
-# **Liquid KSM Staking**
+# **การ Staking สภาพคล่อง KSM**
 
 ![Image for post](https://miro.medium.com/max/3200/0\*V1nplyVyRbtM1ygr)
 
-Stake KSM for Liquid KSM on Karura
+stake KSM สำหรับ Liquid KSM บน Karura
 
-Users in the Kusama ecosystem have been staking their KSM in a variety of ways from Polkadot.js to centralized services. Staking KSM generates favorable yield for holders; however, there have been several challenges up to this point:
+ผู้ใช้ในระบบนิเวศ Kusama ได้ใช้ KSM ของพวกเขาในหลากหลายวิธีตั้งแต่ Polkadot.js ไปจนถึงบริการแบบ centralized Stake KSM สร้างผลตอบแทนที่ดีให้กับผู้ถือ; อย่างไรก็ตาม มีความท้าทายหลายประการจนถึงจุดนี้:
 
-- Staked KSM is locked/bonded and has no utility beyond earning rewards.
-- Staking through Polkadot.js requires high staking minimums, and a seven-day unbonding period.
+- Staked KSM ถูกล็อค/ผูกมัด และไม่มียูทิลิตี้อื่นใดนอกเหนือจากการรับรางวัล
+- การ staking Polkadot.js จำเป็นต้องมีการ staking ขั้นต่ำที่สูง และระยะเวลายกเลิกการผูกมัดเจ็ดวัน
 - And the UX can be frustrating, with many users turning to centralized exchanges that offer a simplified experience while forcing the user to forgo the custody of their keys.
 
 Fortunately, a new staking experience is available with Karura’s Liquid KSM (LKSM) staking derivative.
