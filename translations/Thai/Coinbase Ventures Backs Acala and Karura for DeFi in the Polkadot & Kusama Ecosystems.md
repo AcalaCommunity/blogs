@@ -4,38 +4,38 @@
 
 ทีมงานของเรารู้สึกตื่นเต้นที่ได้ต้อนรับ Coinbase Ventures สู่ระบบนิเวศของ Acala ในสัปดาห์นี้ หน่วยงานด้านการลงทุนของ Coinbase ได้ประกาศสนับสนุน [Acala](http://acala.network) ซึ่งเป็นฮับ DeFi แบบครบวงจรของ Polkadot การลงทุนนี้ยังสนับสนุน [Karura](http://acala.network/karura) ศูนย์รวม DeFi ของ Kusama ที่ทีม Acala สร้างขึ้น
 
-Acala เป็นบล็อกเชนเลเยอร์ 1 ที่เข้ากันได้กับ EVM ซึ่งปรับให้เหมาะสมสำหรับ DeFi The Acala team has also built a full suite of DeFi applications on top of the blockchain platform, enabling four core products: Liquid DOT staking (LDOT), the multi-collateralized stablecoin, Acala Dollar (aUSD), an AMM decentralized exchange called the Acala DEX, and Acala’s decentralized sovereign wealth fund (dSWF), which enables network controlled value on Acala.
+Acala เป็นบล็อกเชนเลเยอร์ 1 ที่เข้ากันได้กับ EVM ซึ่งปรับให้เหมาะสมสำหรับ DeFi ทีมงานของ Acala ได้สร้างชุดแอพพลิเคชั่น DeFi เต็มรูปแบบบนแพลตฟอร์มบล็อคเชน ซึ่งช่วยให้ผลิตภัณฑ์หลักสี่อย่าง: Liquid DOT staking (LDOT), stablecoin หลายหลักประกัน, Acala Dollar (aUSD), AMM Decentralized exchange ที่เรียกว่า Acala DEX และกองทุนความมั่งคั่งแบบกระจายอำนาจของ Acala (dSWF) ซึ่งช่วยให้เครือข่ายสามารถควบคุมมูลค่าบน Acala
 
-## **Acala and Karura’s Path to Launch — Crowdsourcing Community Support**
+## **เส้นทางสู่การเปิดตัวของ Acala และ Karura — การสนับสนุนของชุมชน Crowdsourcing**
 
-As Kusama and Polkadot are nearing the auctions of their first parachain slots, the Acala team is deep in preparation of its two blockchain networks, Acala and Karura. The Acala team’s path to launch is multi-fold and incorporates the support of its community. The team will first need to win a parachain slot auction on Kusama to launch Karura, then will need to win a parachain slot auction on Polkadot to gain a slot for Acala to launch. Both of these parachain slot auctions will be bootstrapped by the Karura and Acala communities. This will enable the networks to be supported by a wide distribution of backers. Check out our [post](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) on Karura’s approach to parachain auctions for more information.
+เนื่องจาก Kusama และ Polkadot กำลังใกล้จะถึงการประมูลสล็อต parachain แรกของพวกเขา ทีมงาน Acala นั้นกำลังเตรียมเครือข่ายบล็อคเชนสองเครือข่ายอย่าง Acala และ Karura เส้นทางสู่การเปิดตัวของทีม Acala นั้นมีหลายส่วนและรวมถึงการสนับสนุนจากชุมชน ทีมจะต้องชนะการประมูลสล็อต parachain บน Kusama เพื่อเปิดตัว Karura ก่อน จากนั้นจะต้องชนะการประมูลสล็อต Parachain บน Polkadot เพื่อให้ได้สล็อตสำหรับเปิดตัว Acala การประมูลสล็อต parachain ทั้งสองนี้จะถูกบูตโดยชุมชน Karura และ Acala ซึ่งจะช่วยให้เครือข่ายได้รับการสนับสนุนจากผู้สนับสนุนในวงกว้าง ดู [โพสต์](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) ของเราเกี่ยวกับแนวทางการประมูล Parachain ของ Karura สำหรับข้อมูลเพิ่มเติม
 
-The team has chosen to launch Karura on Kusama in order to provide DeFi products to the Kusama community. Karura will bring the Karura Dollar (kUSD), Karura’s AMM-style DEX, and liquid KSM staking (LKSM) to the Kusama ecosystem, in addition to being an EVM-compatible layer-1 chain on which teams will build. The aim is to win the very first slot on Kusama’s network for Karura, in order to provide essential, foundational financial products that can be leveraged by all other parachains and DApps that will launch on the network.
+ทีมงานได้เลือกที่จะเปิดตัว Karura บน Kusama เพื่อมอบผลิตภัณฑ์ DeFi ให้กับชุมชน Kusama Karura จะนำ Karura Dollar (kUSD), DEX แบบ AMM ของ Karura และการ stake liquild KSM(LKSM) มาสู่ระบบนิเวศ Kusama นอกเหนือจากการเป็นเชนเลเยอร์ 1 ที่เข้ากันได้กับ EVM ที่ทีมกำลังจะสร้าง เป้าหมายคือการชนะสล็อตแรกบนเครือข่ายของ Kusama สำหรับ Karura เพื่อจัดหาผลิตภัณฑ์ทางการเงินที่จำเป็นและเป็นพื้นฐานที่สามารถใช้ประโยชน์จาก parachains และ DApps อื่น ๆ ทั้งหมดที่จะเปิดตัวบนเครือข่าย
 
-## **The all-in-one DeFi Hub**
+## **DeFi Hub ที่รวมทุกอย่างไว้ในที่เดียว**
 
-Acala and Karura’s suite of DeFi applications are built and ready to launch, and these applications will be available to users on day one. Below you can see the UI for Karura including the kUSD borrowing, swaps using the DEX, liquid KSM staking, and more. If you’re interested in trying Acala and Karura’s DeFi applications, you can use the [Getting Started guide](https://wiki.acala.network/learn/get-started) to get testnet tokens to try the live testnet at [apps.acala.network](http://apps.acala.network).
+ชุดแอปพลิเคชัน DeFi ของ Acala และ Karura สร้างขึ้นและพร้อมที่จะเปิดตัว แอปพลิเคชันเหล่านี้จะพร้อมใช้งานสำหรับผู้ใช้ในวันแรก ด้านล่างนี้ คุณสามารถดู UI สำหรับ Karura รวมถึงการยืม kUSD, สวอปโดยใช้ DEX, การ stake liquid KSM และอื่นๆ หากคุณสนใจที่จะลองใช้แอปพลิเคชัน DeFi ของ Acala และ Karura คุณสามารถใช้ [คู่มือการเริ่มต้นใช้งาน](https://wiki.acala.network/learn/get-started) เพื่อรับโทเค็น testnet เพื่อลองใช้ testnet ที่กำลัง live อยู่ได้ที่ [apps.acala.network](http://apps.acala.network)
 
-![Image for post](https://miro.medium.com/max/2796/0\*PbSvsr\_K0Wso2FiY)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2796/0\*PbSvsr\_K0Wso2FiY)
 
-## **Supporting Acala and Karura**
+## **การสนับสนุน Acala และ Karura**
 
-You can support Karura and Acala in a variety of ways. Follow all of our social channels to stay up to date on the latest, and be sure to subscribe to our [newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) for updates on parachain auctions, bonuses, and exclusive announcements.
+คุณสามารถสนับสนุน Karura และ Acala ได้หลายวิธี ติดตามทุกช่องทางโซเชียลของเราเพื่อติดตามข่าวสารล่าสุด และอย่าลืมสมัครรับจดหมายข่าว [จดหมายข่าว](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) ของเราเพื่อรับข้อมูลอัปเดตเกี่ยวกับการประมูล Parachain โบนัส และประกาศพิเศษ
 
-![Image for post](https://miro.medium.com/max/2402/0\*RE4psgKd7Cb5Zp4T.png)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2402/0\*RE4psgKd7Cb5Zp4T.png)
 
-# About Coinbase Ventures
+# เกี่ยวกับ Coinbase Ventures
 
-[Coinbase Ventures](https://ventures.coinbase.com/) invests in companies building the open financial system. We provide financing to promising early stage companies that have the teams and ideas that can move the space forward in a positive, meaningful way. We’re taking a long term view of the space, and we believe that multiple approaches are healthy and good. Our goal is simply to help the most compelling companies in the space flourish. Learn more in the [Introducing Coinbase Ventures](https://blog.coinbase.com/introducing-coinbase-ventures-c67865a1d2fe) blog post.
+[Coinbase Ventures](https://ventures.coinbase.com/) ลงทุนในบริษัทที่สร้างระบบการเงินแบบเปิด เราจัดหาเงินทุนให้กับบริษัทในระยะเริ่มต้นที่มีแนวโน้มที่จะมีทีมงานและแนวคิดที่สามารถขับเคลื่อนพื้นที่ไปข้างหน้าในทางบวกและมีความหมาย เรากำลังพิจารณาพื้นที่ในระยะยาวและเราเชื่อว่าแนวทางที่หลากหลายนั้นมีประโยชน์และดี เป้าหมายของเราคือช่วยให้บริษัทที่น่าสนใจที่สุดในพื้นที่มีความเจริญรุ่งเรือง เรียนรู้เพิ่มเติมในบล็อกโพสต์ [แนะนำ Coinbase Ventures](https://blog.coinbase.com/introducing-coinbase-ventures-c67865a1d2fe)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub and stablecoin of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มที่เข้ากันได้กับ Ethereum สำหรับแอปพลิเคชันทางการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวพร้อมความสามารถ cross-chain ที่พร้อมใช้งานทันทีและการรักษาความปลอดภัยที่แข็งแกร่ง
 
 [Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-# About Karura
+# เกี่ยวกับ Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+[Karura](http://acala.network/karura) เป็นศูนย์กลาง DeFi แบบครบวงจรของ Kusama  Karura ก่อตั้งโดย Acala Foundation เป็นเครือข่ายที่รองรับการปรับขนาดและรองรับ EVM ซึ่งได้รับการปรับแต่งมาเพื่อ DeFi  แพลตฟอร์มดังกล่าวนำเสนอชุดแอพพลิเคชั่นทางการเงิน ได้แก่ อนุพันธ์การ stake แบบ trustless (liquid KSM) เหรียญ stablecoin ที่มีหลักประกันหลายสกุลซึ่งได้รับการสนับสนุนจากสินทรัพย์ cross-chain (kUSD) และ AMM DEX ทั้งหมดนี้มีค่าธรรมเนียมก๊าซขนาดเล็กที่สามารถชำระได้ด้วยโทเค็นใดก็ได้
 
 [Linktree](http://linktr.ee/karuranetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) (**new**)| [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
