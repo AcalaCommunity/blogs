@@ -1,10 +1,10 @@
-# **Coinbase Ventures Backs Acala and Karura for DeFi in the Polkadot & Kusama Ecosystems**
+# **Coinbase Ventures สนับสนุน Acala และ Karura สำหรับ DeFi ใน Polkadot & ระบบนิเวศ Kusama**
 
 ![](https://miro.medium.com/max/3200/0*kqFdvBZH24EWIjQb)
 
-Our team is thrilled to welcome Coinbase Ventures to the Acala ecosystem. This week, the investment arm of Coinbase has announced their support for [Acala](http://acala.network), the all-in-one DeFi hub of Polkadot. This investment also supports [Karura](http://acala.network/karura), the DeFi hub of Kusama being built by the Acala team.
+ทีมงานของเรารู้สึกตื่นเต้นที่ได้ต้อนรับ Coinbase Ventures สู่ระบบนิเวศของ Acala ในสัปดาห์นี้ หน่วยงานด้านการลงทุนของ Coinbase ได้ประกาศสนับสนุน [Acala](http://acala.network) ซึ่งเป็นฮับ DeFi แบบครบวงจรของ Polkadot การลงทุนนี้ยังสนับสนุน [Karura](http://acala.network/karura) ศูนย์รวม DeFi ของ Kusama ที่ทีม Acala สร้างขึ้น
 
-Acala is an EVM-compatible layer-1 blockchain optimized for DeFi. The Acala team has also built a full suite of DeFi applications on top of the blockchain platform, enabling four core products: Liquid DOT staking (LDOT), the multi-collateralized stablecoin, Acala Dollar (aUSD), an AMM decentralized exchange called the Acala DEX, and Acala’s decentralized sovereign wealth fund (dSWF), which enables network controlled value on Acala.
+Acala เป็นบล็อกเชนเลเยอร์ 1 ที่เข้ากันได้กับ EVM ซึ่งปรับให้เหมาะสมสำหรับ DeFi The Acala team has also built a full suite of DeFi applications on top of the blockchain platform, enabling four core products: Liquid DOT staking (LDOT), the multi-collateralized stablecoin, Acala Dollar (aUSD), an AMM decentralized exchange called the Acala DEX, and Acala’s decentralized sovereign wealth fund (dSWF), which enables network controlled value on Acala.
 
 ## **Acala and Karura’s Path to Launch — Crowdsourcing Community Support**
 
