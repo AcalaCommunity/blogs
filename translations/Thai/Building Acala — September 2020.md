@@ -1,24 +1,24 @@
-# Building Acala — September 2020 | Acala’s Testnet Parachain, New Funding Round, Smart Contracts and Ethereum-Compatibility
+# การสร้าง Acala — กันยายน 2020 | Testnet Parachain ของ Acala รอบการระดมทุนใหม่ smart contract และความเข้ากันได้ของ Ethereum
 
 ![Image for post](https://miro.medium.com/max/1600/0*rPcIWxu2NiMMUEpU)
 
-It’s time for the September 2020 version of **Building Acala**, and if you’re new to Acala, welcome! [Acala](http://acala.network) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. Looking back on August, it was a month highlighted by major milestones with the Acala parachain beginning to function and successfully complete token transfers on the Polkadot testnet, a new round of investors and strategic partners, and the unveiling of smart contracts and Ethereum-compatibility on Acala. Continue below for all the happenings around the Acala ecosystem, and afterward, we invite you to come join us on [Twitter](https://twitter.com/acalanetwork) and [Telegram](https://t.me/AcalaOfficial).
+ถึงเวลาสำหรับ **Building Acala** เวอร์ชันเดือนกันยายน 2020 และหากคุณเพิ่งเริ่มใช้ Acala เรายินดีต้อนรับ! [Acala](http://acala.network) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา เมื่อมองย้อนกลับไปในเดือนสิงหาคม เป็นเดือนที่เน้นย้ำด้วยเหตุการณ์สำคัญที่ Acala Parachain เริ่มทำงานและถ่ายโอนโทเค็นได้สำเร็จบน Polkadot testnet นักลงทุนรอบใหม่ พันธมิตรเชิงกลยุทธ์ การเปิดตัว smart contract และความเข้ากันได้ของ Ethereum บน Acala อ่านต่อด้านล่างสำหรับเหตุการณ์ทั้งหมดเกี่ยวกับระบบนิเวศ Acala และหลังจากนั้น เราขอเชิญคุณมาร่วมกับเราทาง [Twitter](https://twitter.com/acalanetwork) และ [Telegram](https://t.me/AcalaOfficial)
 
-# **Development Updates**
+# **อัพเดทการพัฒนา**
 
-- **Acala Unveils Smart Contracts and Ethereum Compatibility for Polkadot DeFi** [**(Medium)**](https://medium.com/acalanetwork/acala-unveils-smart-contracts-and-ethereum-compatibility-for-polkadot-defi-588b3891e53d)**:** Acala now supports the EVM and ink! pallets on Substrate, enabling Solidity and Wasm-based Smart Contracts for developers.
+- **Acala เปิดตัว Smart Contracts และความเข้ากันได้ของ Ethereum สำหรับ Polkadot DeFi** [**(Medium)**](https://medium.com/acalanetwork/acala-unveils-smart-contracts-and-ethereum-compatibility-for-polkadot-defi-588b3891e53d)**:** Acala รองรับ EVM และ ink แล้ว! พาเลทบน Substrate เปิดใช้งาน Smart Contracts แบบ Solidity และ Wasm สำหรับนักพัฒนา
 
-- **Acala Launched First Parachain on Polkadot Testnet** [(**Medium**)](https://medium.com/acalanetwork/acala-launches-the-1st-parachain-on-polkadot-testnet-682c02bad08b): Acala has launched its parachain on Polkadot’s testnet in preparation for mainnet deployments on Kusama and Polkadot.
+- **Acala เปิดตัว Parachain ตัวแรกบน Polkadot Testnet** [(**Medium**)](https://medium.com/acalanetwork/acala-launches-the-1st-parachain-on-polkadot-testnet-682c02bad08b): Acala ได้เปิดตัว Parachain บน testnet ของ Polkadot เพื่อเตรียมพร้อมสำหรับการปรับใช้ mainnet บน Kusama และ Polkadot
 
-- **First successful cross-chain token transfer and trade in Acala DEX** [(**Twitter**)](https://twitter.com/AcalaNetwork/status/1297851737525481473?s=20): Acala has enabled a full DeFi suite on a testnet parachain: test DOT can be transferred to the Acala parachain trustlessly, used as the underlying fee token, and used to participate in DeFi e.g. use DeX to trade, or collateralize for USD credits.
+- **การถ่ายโอนและแลกเปลี่ยนโทเค็น cross-chain ที่ประสบความสำเร็จครั้งแรกใน Acala DEX** [(**Twitter**)](https://twitter.com/AcalaNetwork/status/1297851737525481473?s=20): Acala ได้เปิดใช้งานชุด DeFi เต็มรูปแบบบน testnet parachain: ทดสอบว่า DOT สามารถโอนไปยัง Acala Parachain ได้อย่างน่าเชื่อถือ ใช้เป็นโทเค็นค่าธรรมเนียมพื้นฐาน และใช้เพื่อเข้าร่วมใน DeFi เช่น ใช้ DeX เพื่อแลกเปลี่ยนหรือค้ำประกันเครดิต USD
 
-- **First successful cross-chain stablecoin transfer from Acala to Laminar on testnet** [(**Twitter**)](https://twitter.com/bettechentt/status/1298768242333237248?s=20): Acala has been integrated with the [Laminar](https://www.laminar.one/) parachain testnet for trustless cross-chain token transfers and DeFi functionality. Demo video:
+- **การโอน Stablecoin cross-chain ที่ประสบความสำเร็จครั้งแรกจาก Acala ไปยัง Laminar บน testnet** [(**Twitter**)](https://twitter.com/bettechentt/status/1298768242333237248?s=20): Acala ได้รับการรวมเข้ากับ [Laminar](https://www.laminar.one/) 2> parachain testnet สำหรับการถ่ายโอนโทเค็น cross-chain และการใช้ฟังก์ชัน DeFi ตัวอย่างวิดิโอ:
 
-- **Acala built and released the _xtoken_ pallet for token transfers in the Polkadot ecosystem** [(**Github**)](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens): Any parachain using the xtoken pallet, built by Acala, can now integrate with Acala for token transfers. Xtoken was released as a common good library for any parachain to use.
+- **Acala สร้างและเปิดตัวพาเลท _xtoken_ สำหรับการโอนโทเค็นในระบบนิเวศ Polkadot** [(**Github**)](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens): Parachain ใด ๆ ที่ใช้ พาเลท xtoken ที่สร้างโดย Acala สามารถรวมเข้ากับ Acala สำหรับการโอนโทเค็นได้แล้ว Xtoken ได้รับการเผยแพร่เป็น library ที่ดีสำหรับ Parachain ใด ๆ ที่จะใช้
 
-- **Acala built and released code to help any Substrate-based chain to become a parachain on Polkadot or Kusama** [(**Github**)](https://github.com/AcalaNetwork/Acala/pull/362): Check out this PR above along with an ongoing refactoring effort ([**Github**](https://github.com/AcalaNetwork/Acala/compare/rococo-rc6)) to support chains running as independent Substrate chains or parachains.
+- **Acala สร้างและเผยแพร่โค้ดเพื่อช่วยให้เชนที่อยู่บน Substrate กลายเป็น Parachain บน Polkadot หรือ Kusama** [(**Github**)](https://github.com/AcalaNetwork/Acala/pull/362): ลองดู PR ด้านบนนี้ พร้อมกับความพยายามในการ refactoring อย่างต่อเนื่อง ([**Github**](https://github.com/AcalaNetwork/Acala/compare/rococo-rc6)) เพื่อสนับสนุน chains ที่ทำงานเป็น Substrate chains หรือ parachains ที่เป็นอิสระ
 
-**Other upcoming development updates:**
+**การอัปเดตการพัฒนาอื่น ๆ ที่จะเกิดขึ้น:**
 
 - Acala’s next testnet release will enable smart contract capability on Acala with guidelines on the production readiness process
 - Watch for more cross-parachain and cross-blockchain integration coming up soon
