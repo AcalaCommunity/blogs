@@ -1,6 +1,6 @@
 # Building Acala — ต.ค. 2020 | บทนำสู่ Karura — ศูนย์กลาง DeFi ของ Kusama, Parachain Lease Offer (PLO) & การบูรณาการ EVM
 
-![Image for post](https://miro.medium.com/max/1600/0*hmK9ex3hJqibgvrl)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/1600/0*hmK9ex3hJqibgvrl)
 
 ถึงเวลาสำหรับ **Building Acala** เวอร์ชันเดือนตุลาคม 2020 และหากคุณเพิ่งเริ่มใช้ Acala เรายินดีต้อนรับ! [Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา
 
@@ -22,7 +22,7 @@
 
 **Tweet< เป็นครั้งแรก /2>**)**— เรานำคำว่า PLO มาใช้เพื่อหลีกเลี่ยงความสับสนที่เกี่ยวข้องกับคำในตลาดหุ้นแบบดั้งเดิม 'IPO' Karura จะใช้การสนับสนุนจาก KSM จากชุมชนเพื่อเข้าร่วมการประมูล Parachain KSM เหล่านี้จะถูกล็อคไว้ที่ Kusama และจะถูกส่งคืนให้กับผู้เข้าร่วมเมื่อสิ้นสุดการเช่าสล็อต parachain Karura จะ Paradrop โทเค็น KAR ดั้งเดิมให้กับผู้เข้าร่วม เป็นวิธีการกระจายโทเค็นไปยังผู้สนับสนุน Kusama & Karura ที่แท้จริง</p> 
   
-  ![Image for post](https://miro.medium.com/max/1600/1*EtNqbSOXqs4ZkljaR0Db7Q.jpeg)</li> </ul> 
+  ![รูปสำหรับโพสต์](https://miro.medium.com/max/1600/1*EtNqbSOXqs4ZkljaR0Db7Q.jpeg)</li> </ul> 
   
   
 
@@ -34,38 +34,38 @@
 
 - Acala ได้ช่วยเปิดตัว [Substrate/Polkadot Developer Academy](http://.guru/polkadot-substrate) ([**tweet**](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) **&** [**website**](http://ic.guru/polkadot-substrate))— หลักสูตร 6 สัปดาห์ + โครงการภาคปฏิบัติเพื่อเตรียม devs ที่มีประสบการณ์สำหรับอาชีพ Substrate / Polkadot หรือสตาร์ทอัพ โปรแกรมนี้พัฒนาโดยองค์กรฝึกอบรมด้านการพัฒนา MVP Studio ซึ่งเปิดตัวพร้อมกับ Parity และ Polkadot สอนโดย Bryan Chen ผู้ร่วมก่อตั้ง Acala/Laminar และรับรองโดย Dr. Gavin Wood ใครก็ตามที่จริงจังกับการสร้างบนสเปซของ Polkadot/Kusama/Substrate จะต้องตรวจสอบ [สิ่งนี้](http://ic.guru/polkadot-substrate) และ [tweet](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) นี้ด้วย
   
-  ![Image for post](https://miro.medium.com/max/5760/1*FajicLqehWMEzaUPx7ujjw.png)
+  ![รูปสำหรับโพสต์](https://miro.medium.com/max/5760/1*FajicLqehWMEzaUPx7ujjw.png)
 
 
 
 # **อีเวนท์**
 
-- At **Sub0 — Substrate Developer Conference**: Bryan Chen Co-Founder of Acala and Dan Forbes Dev Advocate at Parity showcased building a custom blockchain in under an hour. Watch the replay [here](https://t.co/XTLRKg8nZM?amp=1).
+- ที่ **Sub0 — Substrate Developer Conference**: Bryan Chen ผู้ร่วมก่อตั้ง Acala และ Dan Forbes Dev Advocate ที่ Parity จัดแสดงการสร้างบล็อกเชนแบบคัสตอมเองภายในเวลาไม่ถึงชั่วโมง ดูซ้ำ[ที่นี่](https://t.co/XTLRKg8nZM?amp=1)
 
-- **Polkadot’ Hello World! Gitcoin Challenge** is happening, check out the Acala Challenge [here](https://t.co/tzL4gpN5FJ?amp=1)
+- **Polkadot’ Hello World! Gitcoin Challenge** กำลังเกิดขึ้น ลองดู Acala Challenge [ที่นี่](https://t.co/tzL4gpN5FJ?amp=1)
 
-- Bette Chen, Co-Founder of Acala was on Outlier Venture’s Founders of Web3 Podcast — **Creating the DeFi Substrate for Polkadot**. Watch replay [here](https://www.youtube.com/watch?v=aueB19YH19g&list=UUd_K-AgiS2XV8_iuRQ7JyNQ).
+- Bette Chen ผู้ร่วมก่อตั้ง Acala เป็นผู้ก่อตั้ง Outlier Venture ของ Web3 Podcast — **การสร้าง DeFi Substrate สำหรับ Polkadot** ดูซ้ำ [ที่นี่](https://www.youtube.com/watch?v=aueB19YH19g&list=UUd_K-AgiS2XV8_iuRQ7JyNQ).
 
-- Ruitao Su, Co-Founder of Acala was on the **Crypto Tonight ‘Yes, Polkadot!’** panel alongside with Fabian Gompf from parity, Jack Platts from Hypersphere, Shiliang Tang from Ledger Prime. Watch replay [here](https://www.youtube.com/watch?v=xXgtpcf9NVE&feature=youtu.be).
+- Ruitao Su ผู้ร่วมก่อตั้ง Acala ซึ่งอยู่ในคณะ **Crypto Tonight 'Yes, Polkadot!'** ร่วมกับ Fabian Gompf จาก Parity, Jack Platts จาก Hypersphere, Shiliang Tang จาก Ledger Prime. ดูซ้ำ [ที่นี่](https://www.youtube.com/watch?v=xXgtpcf9NVE&feature=youtu.be).
 
-- Acala is partaking in the 2020 Shanghai Blockchain Week as Hackathon sponsor and guest speaker. Register [here](https://www.eventbrite.com/e/the-6th-global-blockchain-summit-tickets-115473469255).
+- Acala เข้าร่วมงาน Shanghai Blockchain Week ปี 2020 ในฐานะสปอนเซอร์และวิทยากรรับเชิญของ Hackathon สมัคร [ที่นี่](https://www.eventbrite.com/e/the-6th-global-blockchain-summit-tickets-115473469255).
 
-- Ruitao Su will speak at **Polkadot Decoded — the Polkadot Community Conference** **on Dec 3rd**, alongside with Dr Gavin Wood, Jutta Steiner, Camila Russo, Laura Shin + more TBA. Register [here](https://t.co/BWUXh8dwf2?amp=1)
+- Ruitao Su จะพูดที่ **Polkadot Decoded — the Polkadot Community Conference** **ในวันที่ 3 ธันวาคม** ร่วมกับ Dr Gavin Wood Jutta Steiner, Camila Russo, Laura Shin + TBA อื่น ๆ สมัคร [ที่นี่](https://t.co/BWUXh8dwf2?amp=1)
   
-  ![Image for post](https://miro.medium.com/max/1360/0*bb5Vh6rDQWQihkX0)
+  ![รูปสำหรับโพสต์](https://miro.medium.com/max/1360/0*bb5Vh6rDQWQihkX0)
 
 
 
-# Join Us
+# ร่วมกับเรา
 
 [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launches on Polkadot and Kusama, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+หากต้องการติดตามความคืบหน้าเกี่ยวกับการเปิดตัว Acala Parachain บน Polkadot และ Kusama โปรดสมัครรับข้อมูล [จดหมายข่าวของ Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-[**Work with us.**](https://jobs.lever.co/acala/)
+[**ทำงานร่วมกับเรา**](https://jobs.lever.co/acala/)
 
 
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มเปิดตามความจริง(de facto) สำหรับแอปพลิเคชันด้านการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวที่มีความสามารถ cross-chain, ความปลอดภัย และการเพิ่มประสิทธิภาพทางการเงิน
