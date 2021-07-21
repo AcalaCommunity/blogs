@@ -1,26 +1,30 @@
-# Building Acala — Oct 2020 | Intro to Karura — Kusama’s DeFi hub, Parachain Lease Offering (PLO) & EVM Integration
+# Building Acala — ต.ค. 2020 | บทนำสู่ Karura — ศูนย์กลาง DeFi ของ Kusama, Parachain Lease Offer (PLO) & การบูรณาการ EVM
 
 ![Image for post](https://miro.medium.com/max/1600/0*hmK9ex3hJqibgvrl)
 
-It’s time for the October 2020 version of **Building Acala**, and if you’re new to Acala, welcome! [Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time.
+ถึงเวลาสำหรับ **Building Acala** เวอร์ชันเดือนตุลาคม 2020 และหากคุณเพิ่งเริ่มใช้ Acala เรายินดีต้อนรับ! [Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา
 
-Last month the team has been head-down building EVM integration, supporting teams deploying on Acala, and launching Karura — Kusama’s DeFi Hub through Parachain Lease Offering (PLO) & Paradrop.
+เมื่อเดือนที่แล้ว ทีมงานได้มุ่งสร้างการรวม EVM สนับสนุนทีมที่ใช้งานบน Acala และเปิดตัว Karura — DeFi Hub ของ Kusama ผ่าน Parachain Lease Offer (PLO) & Paradrop
 
-# **Development Updates**
+# **อัพเดทการพัฒนา**
 
-- **Ethereum Compatibility and Smart Contracts**: we have developed furthered EVM and Smart Contracts integration with Acala. The differentiator here is that contracts _no longer live in a sandbox, but are able to compose with Acala’s DeFi primitives_ (stablecoin, DeX, staking derivatives, and others), _tap into Acala’s user base, liquidity and cross-chain capabilities,_ and opens doors to a much larger market place in Polkadot’s parachain ecosystem. More details will be released soon.
+- **ความเข้ากันได้ของ Ethereum และ Smart Contracts**: เราได้พัฒนา EVM และ Smart Contracts ที่ทำงานร่วมกับ Acala ได้ดียิ่งขึ้น ความแตกต่างที่นี่คือสัญญา _ไม่มีอยู่ในแซนด์บ็อกซ์อีกต่อไป แต่สามารถเขียนด้วย DeFi primitive ของ Acala_ (stablecoin, DeX, staking Derivatives และอื่นๆ) _เคาะที่ฐานผู้ใช้ของ Acala สภาพคล่องและความสามารถ cross-chain_ และเปิดประตูสู่ตลาดที่ใหญ่ขึ้นมากในระบบนิเวศน์ Parachain ของ Polkadot รายละเอียดเพิ่มเติมจะประกาศเร็ว ๆ นี้
 
-- **Security Audit:** we have completed 2/3 planned security audits including one from SRLabs, and an upcoming audit from Trail of Bits. More details on the finding will be released in the coming weeks.
+- **การตรวจสอบความปลอดภัย:** เราได้เสร็จสิ้นการตรวจสอบความปลอดภัยตามแผนแล้ว 2/3 ซึ่งรวมถึงการตรวจสอบจาก SRLabs และการตรวจสอบที่กำลังจะมีขึ้นจาก Trail of Bits รายละเอียดเพิ่มเติมเกี่ยวกับการตรวจนี้จะเปิดเผยในอีกไม่กี่สัปดาห์ข้างหน้า
 
-- **NFT Support:** Acala has built a generic [NFT pallet](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) (aka module) to support NFT innovations on Acala e.g. Rarible or other NFT providers can easily deploy smart contracts to leverage Acala’s DeFi building blocks. Kusama has adopted the same module to enable native NFT support on the Kusama Relay chain. Read more [here](https://kusama.polkassembly.io/post/303#86924943-429c-4c05-a2fe-e7bef735b2a4).
+- **การสนับสนุน NFT:** Acala ได้สร้าง [พาเลท NFT](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) ทั่วไป (หรือเรียกว่าโมดูล) เพื่อรองรับนวัตกรรม NFT บน Acala เช่น ผู้ให้บริการ Rarible หรือผู้ให้บริการ NFT รายอื่นๆ สามารถปรับใช้ smart contract เพื่อใช้ประโยชน์จากการสร้างบล็อก DeFi ของ Acala ได้อย่างง่ายดาย Kusama ได้นำโมดูลเดียวกันมาใช้เพื่อเปิดใช้งานการสนับสนุน NFT ดั้งเดิมบน Kusama Relay chain อ่านต่อ [ที่นี่](https://kusama.polkassembly.io/post/303#86924943-429c-4c05-a2fe-e7bef735b2a4).
 
-# **Launch Updates**
+# **เปิดตัวอัปเดต**
 
-- **Acala will launch the Karura network on Kusama (**[**Medium**](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a)**)** — Karura is the sister network of Acala, and the DeFi hub for Kusama. The launch process on Kusama could be a month or so away, a good signal is when the parachain functionality is ready on the testnet Rococo.
+- **Acala จะเปิดตัวเครือข่าย Karura บน Kusama (**[**Medium**](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a)**)** — Karura เป็นเครือข่ายน้องสาวของ Acala และศูนย์กลาง DeFi สำหรับ Kusama กระบวนการเปิดตัวบน Kusama อาจใช้เวลาไม่ถึงเดือน สัญญาณที่ดีคือเมื่อฟังก์ชัน Parachain พร้อมบน testnet Rococo
 
-- Karura will host the first **Parachain Lease Offering (PLO)** and **Paradrop (**[**Medium**](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) **&** [**Tweet**](https://twitter.com/KaruraNetwork/status/1319692583149457409?s=20)**)**— We adopted the term PLO to avoid confusion related to the traditional stock market term, ‘IPO’. Karura will use KSM support from the community to participate in the parachain auction. These KSM will then be locked on Kusama and be returned to participants at the end of the parachain slot lease. Karura will Paradrop its native token KAR to participants, as a means of token distribution to actual Kusama & Karura supporters.
+- Karura จะเป็นเจ้าภาพจัดงาน **Parachain Lease Offering (PLO)** และ **Paradrop (**[**Medium**](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) **&**
 
-  ![Image for post](https://miro.medium.com/max/1600/1*EtNqbSOXqs4ZkljaR0Db7Q.jpeg)
+**Tweet< เป็นครั้งแรก /2>**)**— เรานำคำว่า PLO มาใช้เพื่อหลีกเลี่ยงความสับสนที่เกี่ยวข้องกับคำในตลาดหุ้นแบบดั้งเดิม 'IPO' Karura จะใช้การสนับสนุนจาก KSM จากชุมชนเพื่อเข้าร่วมการประมูล Parachain These KSM will then be locked on Kusama and be returned to participants at the end of the parachain slot lease. Karura will Paradrop its native token KAR to participants, as a means of token distribution to actual Kusama & Karura supporters.</p> 
+  
+  ![Image for post](https://miro.medium.com/max/1600/1*EtNqbSOXqs4ZkljaR0Db7Q.jpeg)</li> </ul> 
+  
+  
 
 # **Ecosystem Updates**
 
@@ -29,8 +33,10 @@ Last month the team has been head-down building EVM integration, supporting team
 - We welcome these collaborators to the Acala Ecosystem Program: [Bifrost](http://bifrost.finance/) — a cross-chain staking liquidity protocol that will integrate Acala Dollar (aUSD) as base currency token; [Interlay](https://polkadot.network/bitcoin-is-coming-to-polkadot/?utm_content=142539261&utm_medium=social&utm_source=twitter&hss_channel=tw-1595615893) — trustless Bitcoin to Polkadot bridge that will have collateral use cases of PolkaBTC, aUSD and LDOT; [Zenlink](https://www.zenlink.pro/) — a cross-chain DeX protocol that will collaborate and integrate with Acala.
 
 - Acala has helped launched [Substrate/Polkadot Developer Academy](http://.guru/polkadot-substrate) ([**Tweet**](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) **&** [**Website**](http://ic.guru/polkadot-substrate))— a 6-week course + hands-on project to prepare experienced devs for professional Substrate/Polkadot career or start-ups. The program is developed by dev training organization MVP Studio, launched with Parity and Polkadot, taught by Acala/Laminar co-founder Bryan Chen, and endorsed by Dr. Gavin Wood. Anyone who is serious about building in Polkadot/Kusama/Substrate space shall check [this](http://ic.guru/polkadot-substrate) out and also this [tweet](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20).
-
+  
   ![Image for post](https://miro.medium.com/max/5760/1*FajicLqehWMEzaUPx7ujjw.png)
+
+
 
 # **Events**
 
@@ -43,9 +49,12 @@ Last month the team has been head-down building EVM integration, supporting team
 - Ruitao Su, Co-Founder of Acala was on the **Crypto Tonight ‘Yes, Polkadot!’** panel alongside with Fabian Gompf from parity, Jack Platts from Hypersphere, Shiliang Tang from Ledger Prime. Watch replay [here](https://www.youtube.com/watch?v=xXgtpcf9NVE&feature=youtu.be).
 
 - Acala is partaking in the 2020 Shanghai Blockchain Week as Hackathon sponsor and guest speaker. Register [here](https://www.eventbrite.com/e/the-6th-global-blockchain-summit-tickets-115473469255).
-- Ruitao Su will speak at **Polkadot Decoded — the Polkadot Community Conference** **on Dec 3rd**, alongside with Dr Gavin Wood, Jutta Steiner, Camila Russo, Laura Shin + more TBA. Register [here](https://t.co/BWUXh8dwf2?amp=1)
 
+- Ruitao Su will speak at **Polkadot Decoded — the Polkadot Community Conference** **on Dec 3rd**, alongside with Dr Gavin Wood, Jutta Steiner, Camila Russo, Laura Shin + more TBA. Register [here](https://t.co/BWUXh8dwf2?amp=1)
+  
   ![Image for post](https://miro.medium.com/max/1360/0*bb5Vh6rDQWQihkX0)
+
+
 
 # Join Us
 
@@ -54,6 +63,8 @@ Last month the team has been head-down building EVM integration, supporting team
 To keep up to date with progress on the Acala parachain launches on Polkadot and Kusama, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
 
 [**Work with us.**](https://jobs.lever.co/acala/)
+
+
 
 # About Acala
 
