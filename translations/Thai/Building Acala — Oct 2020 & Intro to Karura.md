@@ -32,13 +32,13 @@
 
 - เรายินดีต้อนรับผู้ทำงานร่วมกันเหล่านี้เข้าสู่โปรแกรมระบบนิเวศของ Acala: [Bifrost](http://bifrost.finance/) — โปรโตคอลสภาพคล่องแบบ cross-chain ที่จะรวม Acala Dollar (aUSD) เป็นโทเค็นสกุลเงินหลัก [Interlay](https://polkadot.network/bitcoin-is-coming-to-polkadot/?utm_content=142539261&utm_medium=social&utm_source=twitter&hss_channel=tw-1595615893) — Bitcoin ที่น่าเชื่อถือไปยังสะพาน Polkadot ซึ่งจะมีกรณีการใช้งานหลักประกันของ PolkaBTC, aUSD และ LDOT [Zenlink](https://www.zenlink.pro/) — โปรโตคอล DeX cross-chain ที่จะทำงานร่วมกันและผสานรวมกับ Acala
 
-- Acala ได้ช่วยเปิดตัว [Substrate/Polkadot Developer Academy](http://.guru/polkadot-substrate) ([**tweet**](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) **&** [**website**](http://ic.guru/polkadot-substrate))— หลักสูตร 6 สัปดาห์ + โครงการภาคปฏิบัติเพื่อเตรียม devs ที่มีประสบการณ์สำหรับอาชีพ Substrate / Polkadot หรือสตาร์ทอัพ The program is developed by dev training organization MVP Studio, launched with Parity and Polkadot, taught by Acala/Laminar co-founder Bryan Chen, and endorsed by Dr. Gavin Wood. Anyone who is serious about building in Polkadot/Kusama/Substrate space shall check [this](http://ic.guru/polkadot-substrate) out and also this [tweet](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20).
+- Acala ได้ช่วยเปิดตัว [Substrate/Polkadot Developer Academy](http://.guru/polkadot-substrate) ([**tweet**](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) **&** [**website**](http://ic.guru/polkadot-substrate))— หลักสูตร 6 สัปดาห์ + โครงการภาคปฏิบัติเพื่อเตรียม devs ที่มีประสบการณ์สำหรับอาชีพ Substrate / Polkadot หรือสตาร์ทอัพ โปรแกรมนี้พัฒนาโดยองค์กรฝึกอบรมด้านการพัฒนา MVP Studio ซึ่งเปิดตัวพร้อมกับ Parity และ Polkadot สอนโดย Bryan Chen ผู้ร่วมก่อตั้ง Acala/Laminar และรับรองโดย Dr. Gavin Wood ใครก็ตามที่จริงจังกับการสร้างบนสเปซของ Polkadot/Kusama/Substrate จะต้องตรวจสอบ [สิ่งนี้](http://ic.guru/polkadot-substrate) และ [tweet](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) นี้ด้วย
   
   ![Image for post](https://miro.medium.com/max/5760/1*FajicLqehWMEzaUPx7ujjw.png)
 
 
 
-# **Events**
+# **อีเวนท์**
 
 - At **Sub0 — Substrate Developer Conference**: Bryan Chen Co-Founder of Acala and Dan Forbes Dev Advocate at Parity showcased building a custom blockchain in under an hour. Watch the replay [here](https://t.co/XTLRKg8nZM?amp=1).
 
