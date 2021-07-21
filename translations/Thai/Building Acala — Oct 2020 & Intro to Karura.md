@@ -20,19 +20,19 @@
 
 - Karura จะเป็นเจ้าภาพจัดงาน **Parachain Lease Offering (PLO)** และ **Paradrop (**[**Medium**](https://medium.com/acalanetwork/karuras-approach-to-the-upcoming-parachain-lease-offering-plo-on-kusama-12fbf09ee463) **&**
 
-**Tweet< เป็นครั้งแรก /2>**)**— เรานำคำว่า PLO มาใช้เพื่อหลีกเลี่ยงความสับสนที่เกี่ยวข้องกับคำในตลาดหุ้นแบบดั้งเดิม 'IPO' Karura จะใช้การสนับสนุนจาก KSM จากชุมชนเพื่อเข้าร่วมการประมูล Parachain These KSM will then be locked on Kusama and be returned to participants at the end of the parachain slot lease. Karura will Paradrop its native token KAR to participants, as a means of token distribution to actual Kusama & Karura supporters.</p> 
+**Tweet< เป็นครั้งแรก /2>**)**— เรานำคำว่า PLO มาใช้เพื่อหลีกเลี่ยงความสับสนที่เกี่ยวข้องกับคำในตลาดหุ้นแบบดั้งเดิม 'IPO' Karura จะใช้การสนับสนุนจาก KSM จากชุมชนเพื่อเข้าร่วมการประมูล Parachain KSM เหล่านี้จะถูกล็อคไว้ที่ Kusama และจะถูกส่งคืนให้กับผู้เข้าร่วมเมื่อสิ้นสุดการเช่าสล็อต parachain Karura จะ Paradrop โทเค็น KAR ดั้งเดิมให้กับผู้เข้าร่วม เป็นวิธีการกระจายโทเค็นไปยังผู้สนับสนุน Kusama & Karura ที่แท้จริง</p> 
   
   ![Image for post](https://miro.medium.com/max/1600/1*EtNqbSOXqs4ZkljaR0Db7Q.jpeg)</li> </ul> 
   
   
 
-# **Ecosystem Updates**
+# **การอัพเดทระบบนิเวศ**
 
-- Acala was selected for the DeFi Alliance to help bootstrap network liquidity for Polkadot’s DeFi Hub ([**Medium**](https://medium.com/acalanetwork/acala-selected-for-the-defi-alliance-accelerator-to-help-build-deploy-and-grow-the-defi-hub-of-c1526008963e)). Previous cohort hosts some of the top DeFi teams including 0x, dYdX, Kyber Network, IDEX, Opyn, Set Protocol, and Synthetix.
+- Acala ได้รับเลือกให้เป็น DeFi Alliance เพื่อช่วยสนับสนุนสภาพคล่องของเครือข่ายสำหรับ DeFi Hub ของ Polkadot ([**Medium**](https://medium.com/acalanetwork/acala-selected-for-the-defi-alliance-accelerator-to-help-build-deploy-and-grow-the-defi-hub-of-c1526008963e)) โดยกลุ่มก่อนหน้านี้เป็นถึงเจ้าภาพทีม DeFi ชั้นนำบางทีมรวมถึง 0x, dYdX, Kyber Network, IDEX, Opyn, Set Protocol และ Synthetix
 
-- We welcome these collaborators to the Acala Ecosystem Program: [Bifrost](http://bifrost.finance/) — a cross-chain staking liquidity protocol that will integrate Acala Dollar (aUSD) as base currency token; [Interlay](https://polkadot.network/bitcoin-is-coming-to-polkadot/?utm_content=142539261&utm_medium=social&utm_source=twitter&hss_channel=tw-1595615893) — trustless Bitcoin to Polkadot bridge that will have collateral use cases of PolkaBTC, aUSD and LDOT; [Zenlink](https://www.zenlink.pro/) — a cross-chain DeX protocol that will collaborate and integrate with Acala.
+- เรายินดีต้อนรับผู้ทำงานร่วมกันเหล่านี้เข้าสู่โปรแกรมระบบนิเวศของ Acala: [Bifrost](http://bifrost.finance/) — โปรโตคอลสภาพคล่องแบบ cross-chain ที่จะรวม Acala Dollar (aUSD) เป็นโทเค็นสกุลเงินหลัก [Interlay](https://polkadot.network/bitcoin-is-coming-to-polkadot/?utm_content=142539261&utm_medium=social&utm_source=twitter&hss_channel=tw-1595615893) — Bitcoin ที่น่าเชื่อถือไปยังสะพาน Polkadot ซึ่งจะมีกรณีการใช้งานหลักประกันของ PolkaBTC, aUSD และ LDOT [Zenlink](https://www.zenlink.pro/) — โปรโตคอล DeX cross-chain ที่จะทำงานร่วมกันและผสานรวมกับ Acala
 
-- Acala has helped launched [Substrate/Polkadot Developer Academy](http://.guru/polkadot-substrate) ([**Tweet**](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) **&** [**Website**](http://ic.guru/polkadot-substrate))— a 6-week course + hands-on project to prepare experienced devs for professional Substrate/Polkadot career or start-ups. The program is developed by dev training organization MVP Studio, launched with Parity and Polkadot, taught by Acala/Laminar co-founder Bryan Chen, and endorsed by Dr. Gavin Wood. Anyone who is serious about building in Polkadot/Kusama/Substrate space shall check [this](http://ic.guru/polkadot-substrate) out and also this [tweet](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20).
+- Acala ได้ช่วยเปิดตัว [Substrate/Polkadot Developer Academy](http://.guru/polkadot-substrate) ([**tweet**](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20) **&** [**website**](http://ic.guru/polkadot-substrate))— หลักสูตร 6 สัปดาห์ + โครงการภาคปฏิบัติเพื่อเตรียม devs ที่มีประสบการณ์สำหรับอาชีพ Substrate / Polkadot หรือสตาร์ทอัพ The program is developed by dev training organization MVP Studio, launched with Parity and Polkadot, taught by Acala/Laminar co-founder Bryan Chen, and endorsed by Dr. Gavin Wood. Anyone who is serious about building in Polkadot/Kusama/Substrate space shall check [this](http://ic.guru/polkadot-substrate) out and also this [tweet](https://twitter.com/AcalaNetwork/status/1320921071835435008?s=20).
   
   ![Image for post](https://miro.medium.com/max/5760/1*FajicLqehWMEzaUPx7ujjw.png)
 
