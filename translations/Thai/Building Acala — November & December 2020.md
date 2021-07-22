@@ -1,4 +1,4 @@
-# Building Acala — November & December 2020
+# การสร้าง Acala — พฤศจิกายน & ธันวาคม 2020
 
 ## A Recap of Karura’s Crowdloan and Parachain Auction, EVM, Ampleforth, Open Oracle Gateway for Polkadot, and more
 
