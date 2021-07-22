@@ -1,10 +1,10 @@
 # การสร้าง Acala — พฤศจิกายน & ธันวาคม 2020
 
-## A Recap of Karura’s Crowdloan and Parachain Auction, EVM, Ampleforth, Open Oracle Gateway for Polkadot, and more
+## บทสรุปของการประมูล Crowdloan และ Parachain ของ Karura, EVM, Ampleforth, Open Oracle Gateway สำหรับ Polkadot และอื่นๆ
 
 ![Image for post](https://miro.medium.com/max/1600/0*FFQACU02-W0imy_8)
 
-Happy Holidays! This is a special edition of Building Acala bringing you updates for November and December 2020. If you’re new to Acala, welcome! [Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time.
+สุขสันต์วันหยุด!  นี่เป็นรุ่นพิเศษของ Building Acala ที่จะนำเสนอการอัปเดตสำหรับเดือนพฤศจิกายนและธันวาคม 2020 หากคุณยังใหม่กับ Acala ยินดีต้อนรับ! [Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา
 
 Last couple of months have been about building and giving back — we have made significant breakthroughs in EVM and Substrate composability and compatibility, deployed the Open Oracle Gateway with Acala, Band and DIA as initial oracle network providers, welcomed Ampleforth in joining the ecosystem and bringing AMPL to Acala/Polkadot, and launched Karura (Kusama’s DeFi Hub) Crowdloan campaign ahead of the upcoming parachain auction and launch.
 
