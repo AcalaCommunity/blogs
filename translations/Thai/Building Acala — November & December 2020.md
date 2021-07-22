@@ -6,24 +6,24 @@
 
 สุขสันต์วันหยุด!  นี่เป็นรุ่นพิเศษของ Building Acala ที่จะนำเสนอการอัปเดตสำหรับเดือนพฤศจิกายนและธันวาคม 2020 หากคุณยังใหม่กับ Acala ยินดีต้อนรับ! [Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย เพิ่มประสิทธิภาพการเทรดและประหยัดเวลา
 
-Last couple of months have been about building and giving back — we have made significant breakthroughs in EVM and Substrate composability and compatibility, deployed the Open Oracle Gateway with Acala, Band and DIA as initial oracle network providers, welcomed Ampleforth in joining the ecosystem and bringing AMPL to Acala/Polkadot, and launched Karura (Kusama’s DeFi Hub) Crowdloan campaign ahead of the upcoming parachain auction and launch.
+สองสามเดือนที่ผ่านมาเป็นเรื่องเกี่ยวกับการสร้างและการตอบแทน — เราได้ทำการพัฒนาครั้งสำคัญใน EVM และความสามารถในการปรับแต่งและความเข้ากันได้ของ Substrate, ปรับใช้ Open Oracle Gateway โดยมี Acala, Band และ DIA เป็นผู้ให้บริการเครือข่าย oracle เริ่มต้น ยินดีกับ Ampleforth ในการเข้าร่วมระบบนิเวศและนำ AMPL ถึง Acala/Polkadot และเปิดตัวแคมเปญ Crowdloan ของ Karura (DeFi Hub ของ Kusama) ก่อนการประมูลและการเปิดตัว Parachain ที่จะเกิดขึ้น
 
-# Research & Development Update
+# อัพเดทการวิจัย & การพัฒนา
 
-- **Project Bodhi** is a composable and innovative EVM stack on Substrate to deliver full-stack composability between EVM and runtimes for developers, and a single-wallet cross-chain experience for users. Read more [on Github](https://github.com/w3f/Open-Grants-Program/blob/master/applications/project_bodhi.md). Further details will be revealed in an upcoming post and demo.
-- **Open Oracle Gateway** is our approach to create a more open, inclusive and decentralized oracle framework for Acala DeFi hub, Polkadot, Kusama ecosystem and beyond. The Gateway allows multiple oracles networks to provide services to any DApps deployed on or connected to Acala, while enjoying Quality of Service and free transaction fees. The Gateway is up and running on Acala testnet, Acala, Band and DIA are the initial oracle network providers. Read more below:
+- **Project Bodhi** เป็นสแต็ค EVM ที่ประกอบและสร้างสรรค์ได้บน Substrate เพื่อมอบความสามารถในการปรับแต่งแบบฟูลสแตกระหว่าง EVM และรันไทม์สำหรับนักพัฒนา และประสบการณ์การใช้งานแบบ cross-chain ในกระเป๋าเงินเดียวสำหรับผู้ใช้ อ่านต่อ [บน Github](https://github.com/w3f/Open-Grants-Program/blob/master/applications/project_bodhi.md). รายละเอียดเพิ่มเติมจะถูกเปิดเผยในโพสต์และการเดโม่ที่กำลังจะมาถึง
+- **Open Oracle Gateway** คือแนวทางของเราในการสร้างเฟรมเวิร์กออราเคิลที่เปิดกว้าง ครอบคลุม และกระจายอำนาจมากขึ้นสำหรับฮับ Acala DeFi, Polkadot, ระบบนิเวศ Kusama และอื่นๆ Gateway ช่วยให้เครือข่าย oracles หลายแห่งสามารถให้บริการกับ DApps ใด ๆ ที่ปรับใช้หรือเชื่อมต่อกับ Acala ในขณะที่เพลิดเพลินกับคุณภาพของบริการและค่าธรรมเนียมการทำธุรกรรมฟรี เกตเวย์เปิดใช้งานและทำงานบน Acala testnet, Acala, Band และ DIA ซึ่งเป็นผู้ให้บริการเครือข่ายออราเคิลเริ่มต้น อ่านต่อด้านล่าง:
 
-  [Introducing the Open Oracle Gateway for Polkadot](https://medium.com/acalanetwork/introducing-the-open-oracle-gateway-for-polkadot-3554f7a4254e)
+  [ขอแนะนำ Open Oracle Gateway สำหรับ Polkadot](https://medium.com/acalanetwork/introducing-the-open-oracle-gateway-for-polkadot-3554f7a4254e)
 
   ![Image for post](https://miro.medium.com/max/3200/0*vgXF6h9S3o0-qMgL)
 
-- **Ampleforth on Acala/Polkadot**: AMPL the rebasing currency and elastic finance building block will be available on Polkadot via Acala network. Ample will become a 1st-class fee token on Acala, Ampleforth contracts will be deployed on Acala’s EVM with minimal changes while enjoying seamless integration with Acala’s DeFi primitives and liquidity, thanks to Project Bodhi. Read more below:
+- **Ampleforth บน Acala/Polkadot**: AMPL สกุลเงินที่ปรับฐานและโครงสร้างทางการเงินที่ยืดหยุ่นจะมีอยู่ใน Polkadot ผ่านเครือข่าย Acala Ample จะกลายเป็นโทเค็นค่าธรรมเนียมระดับ 1 บน Acala สัญญา Ampleforth จะถูกนำไปใช้กับ EVM ของ Acala โดยมีการเปลี่ยนแปลงเพียงเล็กน้อยในขณะที่เพลิดเพลินกับการผสานรวมกับ DeFi ดั้งเดิมและสภาพคล่องของ Acala อย่างราบรื่นด้วย Project Bodhi อ่านต่อด้านล่าง:
 
-  [Ampleforth, a DeFi Building Block, Brings Rebasing Currency and Elastic Finance to Acala and…](https://medium.com/acalanetwork/ampleforth-a-defi-building-block-brings-rebasing-currency-and-elastic-finance-to-acala-and-fd1388e8e8fc)
+  [Ampleforth ซึ่งเป็น Building Block ของ DeFi นำการรีเบสสกุลเงินและการเงินที่ยืดหยุ่นมาสู่ Acala และ...](https://medium.com/acalanetwork/ampleforth-a-defi-building-block-brings-rebasing-currency-and-elastic-finance-to-acala-and-fd1388e8e8fc)
 
-- **Decentralized Sovereign Wealth Fund:** is the next-gen DAO and unforkable AUM. Read more below and on Parity’s [blog](https://www.parity.io/defi-on-polkadot-an-ecosystem-overview/#:~:text=Polkadot%20%2D%20a%20network%20protocol%20that,to%20be%20transferred%20across%20blockchains.).
+- **Decentralized Sovereign Wealth Fund:** คือ DAO รุ่นต่อไปและ AUM ที่ไม่สามารถ fork ได้ อ่านเพิ่มเติมใน [บล็อก](https://www.parity.io/defi-on-polkadot-an-ecosystem-overview/#:~:text=Polkadot%20%2D%20a%20network%20protocol%20that,to%20be%20transferred%20across%20blockchains.) ของ Parity
 
-  [Acala’s Decentralized Sovereign Wealth Fund — A Next-gen DAO & Unforkable AUM](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27)
+  [กองทุนความมั่งคั่งอธิปไตยแบบกระจายอำนาจของ Acala — DAO รุ่นต่อไป & AUM ที่ไม่สามารถ fork ได้](https://medium.com/acalanetwork/acalas-decentralized-sovereign-wealth-fund-a-next-gen-dao-unforkable-aum-80f8c23d8f27)
 
 - **Security Audit:** SRLabs and Slow Mist have completed their audits on Acala including all runtime implementations, ecosystem module RenVM, the community maintained ORML modules that Acala depends on, as well as the front-end interface for Acala’s DApp. The Trail of Bits audit is scheduled to commence in Jan 2021. Read more below:
 
