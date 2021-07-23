@@ -1,10 +1,10 @@
-# **Building Acala — January 2021 Recap**
+# **การสร้าง Acala — สรุปมกราคม 2021**
 
-## Acala on Polkadot’s parachain testnet Rococo, three new team members, Acala Dollar integration with Injective, Acala at Binance Blockchain Week, and preparing for ETHDenver
+## Acala บน Parachain testnet Rococo ของ Polkadot, สมาชิกในทีมใหม่สามคน, การรวม Acala Dollar กับ Injective, Acala ที่ Binance Blockchain Week และเตรียมพร้อมสำหรับ EHDenver
 
 ![Image for post](https://miro.medium.com/max/1600/0*AKMAckfj4PDxBHMX)
 
-Well, 2021 has wasted no time continuing the drama of late. Elon Musk is supporting Bitcoin (and shilling Doge), Ray Dalio wrote a piece on Bitcoin and digital assets, and Mark Cuban wrote a long blog discussing DeFi, crypto, and NFTs. Oh and a subreddit community has created a short squeeze among some of the top hedge funds in the United States. Where will this lead? Only time will tell, but it’s surely a positive indicator of a world moving toward decentralized technologies and democratized financial systems.
+โอเค, 2021 ไม่เสียเวลากับละครช่วงดึก Elon Musk สนับสนุน Bitcoin (และหน้าม้า Doge) Ray Dalio เขียนบทความเกี่ยวกับ Bitcoin และสินทรัพย์ดิจิทัล และ Mark Cuban เขียนบล็อกยาวเหยียดเกี่ยวกับ DeFi, crypto และ NFTs Oh and a subreddit community has created a short squeeze among some of the top hedge funds in the United States. Where will this lead? Only time will tell, but it’s surely a positive indicator of a world moving toward decentralized technologies and democratized financial systems.
 
 After a brief holiday around the new year, we’ve spent January working on several initiatives: Acala has launched a parachain on Polkadot’s testnet Rococo, we’ve significantly grown our community across Acala and Karura, three new people have joined the Acala team, the Acala Dollar is being integrated with Injective, Bette spoke at Binance Blockchain Week, and we are preparing for our time with developers at ETHDenver.
 
