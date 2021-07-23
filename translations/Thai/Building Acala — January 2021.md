@@ -40,23 +40,23 @@ Ruitao, Bette และ Dan นำเสนอในเดือนนี้เ�
 
 ## **การรวม Acala Dollar มาสู่โปรโตคอล Injective**
 
-Acala และ Injective กำลังทำงานร่วมกันเพื่อรวม Acala Dollar (aUD) เข้ากับระบบนิเวศการซื้อขายอนุพันธ์แบบ Injective การรวม aUSD จะทำให้เกิดสินทรัพย์ stable ซึ่งสามารถนำมาใช้เพื่อค้ำประกันผลิตภัณฑ์อนุพันธ์ของ Polkadot ใน Injective This also expands opportunities for us to create new derivative products alongside Injective, further increasing the use cases for aUSD. More here:
+Acala และ Injective กำลังทำงานร่วมกันเพื่อรวม Acala Dollar (aUD) เข้ากับระบบนิเวศการซื้อขายอนุพันธ์แบบ Injective การรวม aUSD จะทำให้เกิดสินทรัพย์ stable ซึ่งสามารถนำมาใช้เพื่อค้ำประกันผลิตภัณฑ์อนุพันธ์ของ Polkadot ใน Injective นอกจากนี้ยังขยายโอกาสสำหรับเราในการสร้างผลิตภัณฑ์อนุพันธ์ใหม่ควบคู่ไปกับ Injective เพื่อเพิ่มกรณีการใช้งานสำหรับ aUSD เพิ่มเติมที่นี่:
 
-[Acala’s aUSD Stablecoin to be Integrated on Injective’s Polkadot-based Derivative Products](https://medium.com/acalanetwork/acalas-ausd-stablecoin-to-be-integrated-on-injective-s-polkadot-based-derivative-products-342bfed0bc30)
+[aUSD Stablecoin ของ Acala จะถูกรวมเข้ากับผลิตภัณฑ์อนุพันธ์ของ Polkadot](https://medium.com/acalanetwork/acalas-ausd-stablecoin-to-be-integrated-on-injective-s-polkadot-based-derivative-products-342bfed0bc30)
 
-## **Bette Chen at Binance Blockchain Week**
+## **Bette Chen ที่ Binance Blockchain Week**
 
-Acala Co-Founder and COO, Bette Chen, was recently on a panel during Binance Blockchain Week discussing Acala, DeFi, and her thoughts on the future of the industry. **Watch the recording** [**here**](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s):
+Bette Chen ผู้ร่วมก่อตั้งและ COO ของ Acala เพิ่งเข้าร่วมการอภิปรายระหว่าง Binance Blockchain Week ที่พูดคุยเกี่ยวกับ Acala, DeFi และความคิดของเธอเกี่ยวกับอนาคตของอุตสาหกรรม **ชมการบันทึก** [**ที่นี่**](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s):
 
 ![Image for post](https://miro.medium.com/max/1988/1*1ramauqOTR30RSC-ZnNRsw.png)
 
 [https://www.pscp.tv/w/1rmxPzbVaVEGN?t=1h34m12s#](https://www.pscp.tv/binance1/1rmxPzbVaVEGN?t=1h44m46s)
 
-## **Acala’s ETHDenver Bounties**
+## **ETHEnver Bounties ของ Acala**
 
-Acala is a supporter of this year’s ETHDenver, one of the leading Ethereum developer conferences in the world. Acala will have a digital booth inside the crypto castle and will be hosting two bounties for hackers. Watch for our announcement tomorrow (Feb 3rd) for details on the bounties. **Also, if you’re a developer, be sure to register for Acala Co-Founder and CTO, Bryan Chen’s, Crowdcast helping developers get started on Acala’s bounties and learn about the Acala EVM.**
+Acala เป็นผู้สนับสนุน EHDenver ในปีนี้ ซึ่งเป็นหนึ่งในการประชุม developer Ethereum ชั้นนำของโลก Acala จะมีบูธดิจิทัลภายใน crypto castle และจะเป็นเจ้าภาพสองรางวัลสำหรับแฮกเกอร์ ติดตามการประกาศของเราในวันพรุ่งนี้ (3 ก.พ.) สำหรับรายละเอียดเกี่ยวกับรางวัล **นอกจากนี้ หากคุณเป็นนักพัฒนาซอฟต์แวร์ อย่าลืมลงทะเบียนสำหรับ Acala Co-Founder and CTO, Bryan Chen's, Crowdcast เพื่อช่วยนักพัฒนาในการเริ่มต้น Acala's bounties และเรียนรู้เกี่ยวกับ Acala EVM**
 
-[**Save your spot here**](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog) — Hackers who join the Crowdcast and submit a bounty will receive a tshirt and hoodie from the Acala team.
+[**รักษาตำแหน่งของคุณไว้ที่นี่**](https://www.crowdcast.io/e/acala-ethdenver-2021?utm_campaign=ethdenver&utm_source=medium&utm_medium=blog) — แฮกเกอร์ที่เข้าร่วม Crowdcast และเข้าร่วมล่ารางวัลจะได้รับเสื้อยืดและเสื้อฮู้ดจากทีม Acala
 
 ![Image for post](https://miro.medium.com/max/1600/0*kw5WvFB9u1cGj9Fj)
 
