@@ -1,8 +1,8 @@
-# **Acala Ecosystem Update — March 2021**
+# **อัพเดตความเคลื่อนไหวจาก Acala Ecosystem - มีนาคม 2564**
 
 ![](https://miro.medium.com/max/2800/1*QL98Lx2R1D7e10smue8TVA.png)
 
-With another whirlwind month in the books, the Acala team is celebrating some exciting milestones. Between Coinbase Ventures [announcing](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) its backing of Acala and Karura, to Compound awarding us with a grant to build a Starport gateway to Polkadot, Acala shows no signs of slowing down. In fact, the team just launched the [new Karura website](https://acala.network/karura) and is intensely preparing for the upcoming Kusama Parachain Auction.
+อีกครั้งกับเดือนลมกรดจากในหนังสือ ทางทีม Acala กำลังฉลองกับบางเหตุการณ์สำคัญที่น่าตื่นเต้น Between Coinbase Ventures [announcing](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) its backing of Acala and Karura, to Compound awarding us with a grant to build a Starport gateway to Polkadot, Acala shows no signs of slowing down. In fact, the team just launched the [new Karura website](https://acala.network/karura) and is intensely preparing for the upcoming Kusama Parachain Auction.
 
 Here’s a look back at our achievements from March.
 
