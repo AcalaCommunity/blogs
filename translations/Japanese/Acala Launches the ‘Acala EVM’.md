@@ -4,7 +4,7 @@
 
 ## Acala EVMはEthereumの長所を活かしつつ、Substrateの可能性を最大限に引き出し、Bring Your Own Gasやオンチェーンの自動スケジューリングなど、コンポーザブルでシングルウォレットのAcala-EVM-Substrate-WASMのエクスペリエンスを提供します。
 
-Acalaのエンジニアリングチームは、Acala EVMをカスタムメイドしてローンチしました！ Polkadotのエコシステムにとって斬新なこのイノベーションにより、AcalaはSolidity、Substrate、Web3の開発者に、単一のウォレットでシームレスに完全なフルスタック（Acala+EVM+Substrate+WASM）のエクスペリエンスを提供することができます。 また、Acala EVMは、EVMとSubstrateのランタイム（別名：パレット）にプロトコルのコンポーザビリティをもたらし、開発者は卓越したツールのサポートを受けて、Acala上でDAppsを構築・デプロイすることができます。
+Acalaのエンジニアリングチームは、Acala EVMをカスタムメイドしてローンチしました！ Polkadotのエコシステムにとって斬新なこのイノベーションにより、AcalaはSolidity、Substrate、Web3の開発者に、単一のウォレットでシームレスに完全なフルスタック（Acala+EVM+Substrate+WASM）のエクスペリエンスを提供することができます。 また、Acala EVMは、EVMとSubstrateのランタイム（別名：パレット）にプロトコルのコンポーザビリティをもたらし、開発者は卓越したツールのサポートを受けて、Acala上でDAppsを構築・実装することができます。
 
 イーサリアムがビットコインにはできないことを可能にし、それが多くの新しいイノベーションを生み出したように、SubstrateとPolkadotはイーサリアムとは決定的に異なり、EVMのサンドボックス外で多くの新しいチェーンレベルのイノベーションを生み出すでしょう。 私たちはSubstrateの力を確信しており、Polkadot上のEthereumを単に再配置するのではなく、Substrateの可能性と持続可能性を最大限に引き出すためにAcala EVMを構築しました。
 
@@ -12,7 +12,7 @@ Acalaのエンジニアリングチームは、Acala EVMをカスタムメイド
 
 ## **コンポーザブルなDeFi環境**
 
-Acala EVMにデプロイされたスマートコントラクトDappsは、DOT、ACA、aUSD、renBTC、XBTCなどのネイティブおよびクロスチェーンのアセットを直接使用することができます。 EVMに配置されたERC-20トークンは、ランタイムレベルで利用可能にしたり、DEXにリストしたり、（ガバナンスの承認を得て）ガス料金トークンとして使用することもできます。 これは、例えば、AmpleforthがAcala EVM上にAMPLコントラクトを展開し、ネイティブトークンとして利用できるようにすることで、取引手数料の支払いに利用したり、当社のDEXに直接上場することができることを意味します。
+Acala EVMに実装されたスマートコントラクトDappsは、DOT、ACA、aUSD、renBTC、XBTCなどのネイティブおよびクロスチェーンのアセットを直接使用することができます。 EVMに配置されたERC-20トークンは、ランタイムレベルで利用可能にしたり、DEXにリストしたり、（ガバナンスの承認を得て）ガス料金トークンとして使用することもできます。 これは、例えば、AmpleforthがAcala EVM上にAMPLコントラクトを展開し、ネイティブトークンとして利用できるようにすることで、取引手数料の支払いに利用したり、当社のDEXに直接上場することができることを意味します。
 
 コンポーザビリティの概念を初めて知った方 A16zは、[4 Eras of Blockchain Computing](https://a16z.com/2018/12/16/4-eras-of-blockchain-computing-degrees-of-composability/#:~:text=A%20platform%20is%20composable%20if,more%20rapid%20and%20compounding%20innovation.)で非常にうまく表現しています。Degrees of Composability</0>です。
 
@@ -29,12 +29,12 @@ Acalaの共同設立者兼CTOブライアン・チェン氏が、AcalaにUniswap
 
 ## **🐰🕳 AcalaのEVMについて深く知りたい方は** [**Acala WikiのEVMに関する詳細なセクション**](https://wiki.acala.network/learn/basics/acala-evm/acala-evm-composable-defi-stack)**をご覧ください**
 
-## Try it out at ETHDenver 2021
+## ETHDenver 2021で試してみよう
 
 AcalaはETHDenver 2021でAcala EVMをデビューさせ**Acala EVMを使ってDAppを構築する**または<0>オンチェーン自動スケジューラ機能を備えたAcala EVMを使ってDAppを構築する**というハッカーに3,000ドルを提供しています。</p>
 
 - Acala[**ETHDenver Hacker guide**](https://wiki.acala.network/general/contribution-rewards/ethdenver-hacker)**を探す。</li>
-- [**ETHDenver's Bounty Hub**](https://www.ethdenver.com/post/acala)と[**Team Guidelines**](https://www.ethdenver.com/judging)**をチェック</li> </ul>
+- [**ETHDenver's Bounty Hub**](https://www.ethdenver.com/post/acala)と[**チームガイドライン**](https://www.ethdenver.com/judging)**をチェック**</ul>
 
 [ETHDenver 2021でAcalaのEVMを使ってDeFi DAppをPolkadotに対応させてみよう](https://medium.com/acalanetwork/make-your-defi-dapp-polkadot-ready-with-acalas-evm-at-ethdenver-2021-b542090f6af1)
 
