@@ -2,37 +2,37 @@
 
 ![](https://miro.medium.com/max/2800/1*QL98Lx2R1D7e10smue8TVA.png)
 
-อีกครั้งกับเดือนลมกรดจากในหนังสือ ทางทีม Acala กำลังฉลองกับบางเหตุการณ์สำคัญที่น่าตื่นเต้น Between Coinbase Ventures [announcing](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) its backing of Acala and Karura, to Compound awarding us with a grant to build a Starport gateway to Polkadot, Acala shows no signs of slowing down. In fact, the team just launched the [new Karura website](https://acala.network/karura) and is intensely preparing for the upcoming Kusama Parachain Auction.
+อีกครั้งกับเดือนลมกรดจากในหนังสือ ทางทีม Acala กำลังฉลองกับบางเหตุการณ์สำคัญที่น่าตื่นเต้น เมื่อ Coinbase Ventures [ได้ประกาศว่า](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem)พวกเขาให้การสนับสนุน Acala และ Karura, การได้รับเงินทุนช่วยเหลือจาก Compound ในการสร้างเกตเวย์สู่ Polkadot และ Acala ไม่มีท่าทีการชะลอตัว ในความเป็นจริงแล้วทางทีมได้เปิดตัว[เว็บไซต์ใหม่ของ Karura](https://acala.network/karura) และทางทีมกำลังเตรียมตัวอย่างอย่างเอาเป็นเอาตายกับการประมูล Kusama Parachain ที่กำลังจะเกิดขึ้น
 
-Here’s a look back at our achievements from March.
+ตอนนี้มาดูว่าพวกเราประสบความสำเร็จอะไรบ้างจากเดือนมีนาคมที่ผ่านมา
 
-## Acala previews cross-chain functionality at DeFi Demo Day
+## Acala โชว์ฟังก์ชั่น cross-chain ที่งาน Defi Demo Day
 
 ![](https://miro.medium.com/max/3296/1\*c4fdF6mopG5ARbae-ExJNA.png)
 
-Acala Co-Founder and CTO Bryan Chen showcases DeFi DApps with cross-chain BTC.
+หนึ่งในผู้ก่อตั้งและ CTO ของ Acala นายไบรอัน เชน ได้โชว์การทำงานของ Defi DApps กับการข้ามเน็ตเวิร์คของ BTC
 
-We kicked off the month presenting at [DeFi Demo Day](https://www.crowdcast.io/e/defidemoday), a showcase of the future of DeFi in the Polkadot ecosystem. Not only did founders Bette Chen and Bryan Chen demonstrate the Acala platform’s DeFi DApps, but they also offered a sneak peek into Acala’s cross-chain functionality — with integrations of PolkaBTC, RenBTC, and SnowETH.
+พวกเราเริ่มต้นในเดือนมีนาคมด้วยการพรีเซ็นงานของพวกเราที่ [Defi Demo Day](https://www.crowdcast.io/e/defidemoday) สถานที่ที่จะโชว์อนาคตของ Defi ในระบบของ Polkadot ไม่เพียงแค่ผู้ก่อตั้ง Acala อย่างเบตตี้ เชน และไบรอัน เชน ได้พรีเซ้นแพลตฟอร์ม Defi DApps ของ Acala เท่านั้น แต่พวกเขายังให้ทางผู้ชมได้เห็นฟังก์ชั่น cross-chain ของ Acala อีกด้วย ซึ่งเป็นการบูรณาการของ PolkaBTC, RenBTC และ SnowETH
 
-During the [presentation](https://www.crowdcast.io/e/defidemoday), Bryan instantly minted cross-chain BTC tokens, deposited them as collateral to borrow the Acala Dollar stablecoin (aUSD), and then swapped his stablecoin loan for DOT in Acala’s AMM-style DEX. With DOT on hand, Bryan then showed attendees how they can earn staking rewards without sacrificing liquidity with Acala’s Liquid DOT Staking (LDOT).
+ในระหว่าง[การพรีเซ้น](https://www.crowdcast.io/e/defidemoday) ไบรอันได้ทำการมิ้นต์โทเค็นครอสเชน BTC ชั่วอึดใจ แล้วทำการฝากมันเพื่อเป็นหลักประกันในการยืม Acala Dollar stablecoin  (aUSD) และหลังจากนั้นเขาก็แลก DOT กับ aUSD ของเขาที่ได้ยืมมาใน DEX สไตล์ AMM ของ Acala เมื่อไบรอันมี DOT อยู่ในมือ เขาก็ได้โชว์ผู้เข้าชมถึงวิธีที่พวกเขาสามารถได้รับปันผลจากการ staking โดยไม่ต้องเสียสละสภาพคล่องด้วยการใช้ Liquid DOT Staking (LDOT) ของ Acala
 
-## Coinbase Ventures Backs Acala and Karura
+## Coinbase Ventures ประกาศสนับสนุน Acala และ Karura
 
 ![](https://miro.medium.com/max/2800/1\*3ZiFjMlC2kYxkx0L14gXLw.png)
 
-Coinbase Ventures announced its backing of Acala and Karura
+Coinbase Ventures ได้ประกาศว่าพวกเขาให้การสนับสนุน Acala และ Karura
 
-Our team is thrilled to welcome Coinbase Ventures to the Acala ecosystem. This week, the investment arm of Coinbase has [announced its support](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) for Acala, the all-in-one DeFi hub of Polkadot. This investment also supports [Karura](https://acala.network/karura), the DeFi hub of Kusama. It’s a significant achievement and we look forward to working with our backers to launch our EVM-compatible layer-1 blockchains and full suites of DeFi applications.
+ทีมงานเราตื่นเต้นมากกับการยินดีตอนรับ Coinbase Ventures เข้าสู่ระบบนิเวศของ Acala ในสัปดาห์นี้ ทางฝ่ายการลงทุนของ Coinbase ได้[ประกาศว่าพวกเขาได้ให้สนับสนุน](https://cointelegraph.com/news/coinbase-ventures-backing-defi-in-the-polkadot-ecosystem) Acala ทั้งหมดในหนึ่งเดียว Defi hub ของทาง Polkadot การลงทุนครั้งนี้ยังสนับสนุนในส่วนของ [Karura](https://acala.network/karura) หรือ DeFi hub ของ Kusama อีกด้วย นี้เป็นความสำเร็จครั้งสำคัญและพวกเราตั้งหน้าตั้งตารอที่จะได้ทำงานร่วมกับเหล่าผู้สนับสนุนของเราสำหรับการเปิดตัว EVM-compatible layer-1 blockchains ของเราและตัวเต็มของ DeFi applications
 
-## Compound awards Acala a grant to build a Starport
+## Compound มอบเงินรางวัลสำหรับการสร้าง Starport ให้แก่ Acala
 
 ![](https://miro.medium.com/max/2800/1\*HBjTiYMXO8Vm4eIeSVPhzQ.png)
 
-Acala is a recipient of a Compound grant to build a Starport to Polkadot.
+Acala ได้รับเงินช่วยเหลือจาก Compound ในการสร้าง Starport สู่ Polkadot
 
-We’re also honored for Acala to be a recipient of the inaugural [Compound Grants Program](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a). The grant will fund Acala’s proposal to build a Starport, a gateway enabling a cross-chain money market for Compound Chain and the Polkadot ecosystem. The proposal, which incorporated feedback from the Compound community and grants team, enables DOT and the staking derivative Liquid DOT (LDOT) as new collaterals on Compound Chain, while bringing Compound’s CASH token to the Polkadot ecosystem, as well as integrating it into Acala DApps. For more details, see our [proposal](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349/10) on the Compound forum.
+พวกเราเป็นเกียรติมากสำหรับ Acala ที่เป็นผู้ได้รับทุนจาก [Compound Grants Program](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a) เงินสนับสนุนนี้จะเป็นการนำข้อเสนอของ Acala มาสร้าง Starport ซึ่งเป็นเกตเวย์ที่ปลดล็อคเงินให้สามารถไหลระหว่างเชน Compound และระบบนิเวศของ Polkadotได้ ข้อเสนอซึ่งได้รับคำแนะนำจากทางคอมมูนิตี้ของ Compound และทางทีมได้รับทุนมาเพื่อนำมาพัฒนาให้สามารถนำ DOT และการทำ staking derivative Liquid DOT (LDOT) เป็นหลักประกันใหม่บนเชน Compound และในขณะเดียวกันก็เป็นการนำ CASH token ของ Compound มาสู่ระบบนิเวศของ Polkadot ด้วยเช่นกันและยังนำสิ่งเหล่านี้มาการบูรณาการเข้าสู่ DApps ของ Acala อีกด้วย รายละเอียดเพิ่มเติม คุณสามารถเข้าไปอ่านได้ที่ [ข้อเสนอ](https://www.comp.xyz/t/acala-x-compound-chain-gateway-to-polkadot/1349/10)ของพวกเราจากกระทู้ของ Compound
 
-## SubQuery integrates Acala to aggregate and report on DeFi Data
+## SubQuery นำ Acala มาใช้เพื่อรวมและทำรายงานเกี่ยวข้อมูลของ DeFi
 
 ![](https://miro.medium.com/max/2048/0\*mZSC0lvmD90nqFlz)
 
