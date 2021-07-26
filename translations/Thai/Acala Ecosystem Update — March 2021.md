@@ -38,7 +38,7 @@ Acala ได้รับเงินช่วยเหลือจาก Compoun
 
 กลางเดือนมีนาคม ทาง Acala และ [SubQuery](https://www.subquery.network/) ได้ผลสรุปของการบูรณาการเพื่ออนุญาตให้ผู้ใช้และผู้พัฒนาสามารถส่งรีเควสและดึงข้อมูลจาก DeFi hub ของ Acala สำหรับ Polkadot ภายในเวลาไม่ถึงไม่กี่นาทีและไม่มีค่าใช้จ่ายใดๆทั้งสิ้น ความสำเร็จนี้มาจากพื้นฐานของโปรเจ็ค SubQuery นั้นก็คือ [SubQuery Explorer](https://explorer.subquery.network/) ซึ่งรวบรวมและจัดระเบียบข้อมูลของบล็อคเชนเพื่อเป็นข้อมูลที่มีโครงสร้างที่ดีสำหรับนักพัฒนา เลเยอร์รวบรวมข้อมูลของ SubQuery จะทำงานระหว่าง layer-1 blockchain (Acala) และ DApp layer เมื่อนำการบูรณาการมาใช้ ทำให้สองโปรเจ็คของพวกเรามั่นใจได้ถึงความสามารถที่เพิ่มขึ้นสำหรับมัลติเชนในอนาคต
 
-## Acala wins first parachain slot auction on Polkadot’s Testnet
+## Acala ชนะประมูล parachain slot ครั้งแรกบนเทสเน็ตของ Polkadot
 
 ![](https://miro.medium.com/max/1528/0\*EzkXYOY9GjXZ3oiK)
 
