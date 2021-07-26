@@ -42,17 +42,17 @@ Acala ได้รับเงินช่วยเหลือจาก Compoun
 
 ![](https://miro.medium.com/max/1528/0\*EzkXYOY9GjXZ3oiK)
 
-Acala secured the first public parachain slot on Rococo.
+Acala ได้ public parachain slot แรกบน Rococo
 
-In anticipation of the upcoming parachain auctions, Acala has secured the first Rococo parachain slot. Though entirely on testnet, the process was an important step for Polkadot and its ecosystem of prospect parachain networks. By testing inter-shard communication protocols, Polkadot is preparing for projects like Acala and Karura to bid in the upcoming parachain auctions to deploy on Polkadot’s sister-network Kusama, and eventually Polkadot mainnet. It’s exciting for Acala to occupy the first public parachain slot on Rococo, and we aim to achieve our goal of securing the first public parachain slot on Kusama.
+ในการช่วงชิงการประมูล parachain ที่กำลังจะเกิดขึ้นนั้น Acala ได้ชนะการประมูล Rococo parachain slot แรกมาได้ แม้ว่าทุกสิ่งทุกอย่างจะอยู่บนเทสเน็ต แต่กระบวนการเป็นก้าวที่สำคัญสำหรับ Polkadot และระบบนิเวศของเน็ตเวิร์คของ parachain โดยการเทสกับโปรโตคอล inter-shard communication, Polkadot กำลังเตรียมตัวในการประมูล parachain ที่กำลังจะมาถึงนี้เพื่อโปรเจ็คอย่าง Acala และ Karura และมีการเพื่อปรับใช้บนเน็ตเวิร์คพี่น้องของ Polkadot ซึ่งนั้นก็คือ Kusama และในที่สุดก็จะมีการปรับใช้บน Polkadot mainnet มันเป็นอะไรที่น่าตื้นเต้นสำหรับการครอบครอง public parachain slot แรกบน Rococo ของ Acala และพวกเราเรามุ่งมั่นที่จะบรรลุเป้าหมายของเรา ซึ่งนั้นก็คือชนะการประมูลและได้ครอบครอง public parachain slot บน Kusama
 
-## Discover the new Karura website
+## ค้นพบเว็บไซต์แบบใหม่ของ Karura
 
 ![](https://miro.medium.com/max/2816/0\*KVAVAiFZUNF\_fi\_K)
 
-Reimagine DeFi Possibilities with Karura’s all-on-one DeFi platform.
+พลิกโฉมความเป็นไปได้ของ DeFi กับ DeFi platform ที่รวมทุกอย่างในหนึ่งเดียวจาก Karura
 
-The countdown is on! As our team works to prepare for the upcoming Karura Crowdloan Event and subsequent Kusama Parachain Auctions, we’re pleased to launch the [Karura website](https://acala.network/karura). The site offers a look at Karura’s user interface, as well as an overview of its DeFi products and its native utility token KAR. Karura is a scalable, EVM-compatible DeFi network with a suite of financial applications, including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+การนับถอยหลังได้เริ่มขึ้นแล้ว! ทางทีมของเราได้ทำงานเพื่อเตรียมตัวสำหรับงาน Karura Crowdloan ที่กำลังจะเกิดขึ้นและตามมาด้วยการประมูล Kusama Parachain พวกเรายินดีที่จะเปิดตัว [เว็บไซต์ Karura](https://acala.network/karura) ในเว็บไซต์ได้นำเสนอรูปร่าง user interface ของ Karura พร้อมด้วยภาพรวมของโปรดักจาก Defi และเนทีพโทเค็นอย่าง KAR Karura is a scalable, EVM-compatible DeFi network with a suite of financial applications, including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
 
 For more information on Karura’s DeFi DApps and its path to launch, check out our recent [deep dive](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f) or watch our [presentation on the upcoming Polkadot and Kusama Crowdloans.](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
 
