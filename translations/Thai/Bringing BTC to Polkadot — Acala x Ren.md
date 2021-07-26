@@ -1,12 +1,12 @@
-# Bringing BTC to Polkadot: Acala x Ren
+# นำ BTC มาสู่ Polkadot: Acala x Ren
 
 ![Image for post](https://miro.medium.com/max/3200/0*t3D78kECFlwX7T1L)
 
-In collaboration with [Ren](https://renproject.io/), **we are bringing Bitcoin** — and in future other currently isolated asset classes — **onto the Acala Network** and into the wider Polkadot multi-chain universe!
+ในความร่วมมือกับ [Ren](https://renproject.io/) **เรากำลังนำ Bitcoin** — และในอนาคตสินทรัพย์ประเภทอื่นๆ ที่แยกตัวออกมา — **ไปยัง Acala Network** และเข้าสู่จักรวาลของ Polkadot multi-chain ที่กว้างขึ้น!
 
-This is a key step in the cross chain DeFi journey as it enables **permissionless transfers of value between blockchains**. Through its RenVM, the protocol has so far been enabling BTC, BCH and ZEC to fuel Ethereum DeFi use cases. Since Acala is a Polkadot finance hub offering a suite of DeFi primitives — multi-collateralized stablecoin, staking derivative and decentralized exchange to enable cross-chain DeFi — the collaboration with Ren was a natural fit. Providing a high performance, highly liquid, and easily accessible DeFi experience for the broader web3 community is a goal both teams share.
+นี่เป็นขั้นตอนสำคัญในการเดินทางข้ามสาย DeFi เนื่องจากช่วยให้ **ถ่ายโอนมูลค่าระหว่างบล็อคเชนโดยไม่ต้องขออนุญาติ** ผ่าน RenVM โปรโตคอลได้เปิดใช้งาน BTC, BCH และ ZEC เพื่อกระตุ้นกรณีการใช้งาน Ethereum DeFi เนื่องจาก Acala เป็นศูนย์กลางทางการเงินของ Polkadot ที่นำเสนอชุด DeFi primitives — multi-collateralized stablecoin, stakingอนุพันธ์ และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อเปิดใช้งาน DeFi cross-chain การร่วมมือกับ Ren นั้นเหมาะสม การมอบประสบการณ์ DeFi ที่มีประสิทธิภาพสูง มีสภาพคล่องสูง และเข้าถึงได้ง่ายสำหรับชุมชน web3 ในวงกว้างคือเป้าหมายที่ทั้งสองทีมมีร่วมกัน
 
-The Ren team have been working closely with Acala for the past couple of months and we are thrilled to release the integration on Acala’s Mandala testnet. We hope it will launch a new age of cross chain DeFi activity and will become **a key step towards powerful web3 finance**.
+ทีมงาน Ren ได้ทำงานอย่างใกล้ชิดกับ Acala ในช่วงสองสามเดือนที่ผ่านมา และเรารู้สึกตื่นเต้นที่จะปล่อยการผสานรวมบน Acala testnet ของ Acala เราหวังว่าจะเปิดตัวกิจกรรม cross-chain DeFi ยุคใหม่ และจะกลายเป็น **ก้าวสำคัญสู่การเงิน web3 อันทรงพลัง**
 
 Ren x Acala Flow
 
