@@ -1,6 +1,6 @@
 # นำ BTC มาสู่ Polkadot: Acala x Ren
 
-![Image for post](https://miro.medium.com/max/3200/0*t3D78kECFlwX7T1L)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/3200/0*t3D78kECFlwX7T1L)
 
 ในความร่วมมือกับ [Ren](https://renproject.io/) **เรากำลังนำ Bitcoin** — และในอนาคตสินทรัพย์ประเภทอื่นๆ ที่แยกตัวออกมา — **ไปยัง Acala Network** และเข้าสู่จักรวาลของ Polkadot multi-chain ที่กว้างขึ้น!
 
@@ -10,36 +10,38 @@
 
 Ren x Acala Flow
 
-Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. The BTC gateway is provided by RenVM, while minting and burning of renBTC on Acala are provided by this gateway module. This collaboration will boost the asset classes available on Acala and bring brand new use cases for Bitcoin:
+Ren [สร้างด้วย Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) โดยปรับใช้ [โมดูลบริดจ์ RenVM](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) บนเครือข่าย Acala เกตเวย์ BTC นั้นจัดทำโดย RenVM ในขณะที่การสร้างและการเผาไหม้ renBTC บน Acala นั้นจัดทำโดยโมดูลเกตเวย์นี้ การทำงานร่วมกันนี้จะช่วยเพิ่มคลาสสินทรัพย์ที่มีใน Acala และนำเสนอกรณีการใช้งานใหม่สำหรับ Bitcoin:
 
-- renBTC can be used as collateral for aUSD credit facility
-- renBTC can be traded on Acala DeX for other assets like DOT, LDOT, ACA, aUSD, XBTC
-- Users can now take part in Polkadot Proof-of-Stake validation and earn staking returns by trading DOT and using the staking derivative protocol
-- Providing liquidity to DeX and earning additional yields is now a smooth flow
-- aUSD can be transferred to the Laminar Chain for margin trading synthetic forex pairs e.g. EURUSD, gold and stocks, and synthetic BTC & ETH.
+- renBTC สามารถใช้เป็นหลักประกันสินเชื่อ aUSD ได้
+- renBTC สามารถซื้อขายบน Acala DeX สำหรับสินทรัพย์อื่น ๆ เช่น DOT, LDOT, ACA, aUSD, XBTC
+- ผู้ใช้สามารถมีส่วนร่วมในการตรวจสอบ Polkadot Proof-of-Stake และรับผลตอบแทนจากการ stakeโดยการเทรด DOT และใช้โปรโตคอลอนุพันธ์การ stake
+- การจัดหาสภาพคล่องให้กับ DeX และการรับผลตอบแทนเพิ่มเติมตอนนี้เป็นไปอย่างราบรื่น
+- aUSD สามารถโอนไปยัง Laminar Chain สำหรับการซื้อขายมาร์จิ้นคู่ forex สังเคราะห์เช่น EURUSD ทองคำและหุ้น และ BTC & ETH สังเคราะห์
 
-## **The renBTC Opportunities**
+## **โอกาสของ renBTC**
 
-We have also integrated **renBTC as a native transaction fee token.** A new user account only holding renBTC can transact on Acala from the very start **using renBTC to pay fees**. Initially, the transaction fees for minting renBTC on Acala will be waived without compromising on security. This essentially makes renBTC on Acala a powerful cross-chain DeFi steroid propelling the space forward.
+นอกจากนี้เรายังได้รวม **renBTC เป็นโทเค็นค่าธรรมเนียมการทำธุรกรรมดั้งเดิม** บัญชีผู้ใช้ใหม่ที่มีเพียง renBTC เท่านั้นที่สามารถทำธุรกรรมบน Acala ได้ตั้งแต่เริ่มต้น **ใช้ renBTC เพื่อชำระค่าธรรมเนียม** ในขั้นต้น ค่าธรรมเนียมการทำธุรกรรมสำหรับการสร้าง renBTC บน Acala จะได้รับการยกเว้นโดยไม่กระทบต่อความปลอดภัย สิ่งนี้ทำให้ renBTC บน Acala เป็นสเตียรอยด์ DeFi cross-chain ที่มีประสิทธิภาพที่จะขับเคลื่อนสเปซไปข้างหน้า
 
-For projects like Ren, looking to gain access to Polkadot’s multi-chain ecosystem, building on Acala is a technically and economically superior alternative to building a separate blockchain (or so-called parachain). As RenVM was [released to Mainnet](https://medium.com/renproject/renvm-mainnet-release-98cac4c6fa8e), a new era of cross-chain interoperability could begin and we are delighted **Acala is one of the first integrations the Ren team decided to complete.**
+สำหรับโครงการอย่าง Ren ที่ต้องการเข้าถึงระบบนิเวศแบบ multi-chain ของ Polkadot การสร้างบน Acala เป็นทางเลือกที่เหนือชั้นทั้งทางเทคนิคและเชิงเศรษฐกิจสำหรับการสร้าง blockchain ที่แยกจากกัน (หรือที่เรียกว่า parachain) เมื่อ RenVM [เผยแพร่สู่ Mainnet](https://medium.com/renproject/renvm-mainnet-release-98cac4c6fa8e) ยุคใหม่ของการทำงานร่วมกันแบบ cross-chain สามารถเริ่มต้นได้ และเรามีความยินดี **Acala เป็นหนึ่งในการผสานรวมครั้งแรกที่ทีม Ren ตัดสินใจทำให้สำเร็จ**
 
-> “The Ren team is very excited to be working with Acala on this initiative. This is a key step in Ren’s larger vision of enabling permissionless transfers of value between any blockchain. Fluid interoperability for the crypto ecosystem is coming to fruition and we couldn’t be more thrilled to take the first step.” — **Taiyang Zhang, Ren CEO**
+> “ทีม Ren รู้สึกตื่นเต้นมากที่ได้ร่วมงานกับ Acala ในโครงการริเริ่มนี้ นี่เป็นขั้นตอนสำคัญในวิสัยทัศน์ที่ใหญ่ขึ้นของ Ren ในการเปิดใช้งานการถ่ายโอนมูลค่าระหว่างบล็อคเชนใด ๆ แบบ permissionless การทำงานร่วมกันอย่างไหลลื่นสำหรับระบบนิเวศของคริปโตกำลังจะบรรลุผล และเราไม่สามารถตื่นเต้นมากไปกว่าก้าวแรกนี้” — **ไท่หยาง จาง ซีอีโอของ Ren**
 
-Your first opportunity to test drive the integration will be the **Acala Mandala Festival Season #3, starting Monday, July 27th**. We’ll run a cross-chain trading competition co-hosted with [Ren](https://renproject.io/) and [Laminar](http://laminar.one/) where you’ll get to mint renBTC, swap tokens and provide liquidity via DeX. There will be a lot of exciting things to get involved with for three full weeks so make sure you join our community channels and keep your eyes on [Twitter](https://twitter.com/AcalaNetwork).
+โอกาสแรกของคุณในการทดสอบการผสานรวมนี้คือ **Acala Mandala Festival Season #3 เริ่มตั้งแต่วันจันทร์ที่ 27 กรกฎาคม** เราจะจัดการแข่งขันการเทรด cross-chain ร่วมกับ [Ren](https://renproject.io/) และ [Laminar](http://laminar.one/) ซึ่งคุณจะได้ mint เหรียญ renBTC, แลกเปลี่ยนโทเค็น และจัดหาสภาพคล่องผ่าน DeX จะมีสิ่งที่น่าตื่นเต้นมากมายให้มีส่วนร่วมเป็นเวลาสามสัปดาห์เต็ม ดังนั้นอย่าลืมเข้าร่วมช่องชุมชนของเราและจับตาดู [Twitter](https://twitter.com/AcalaNetwork)
 
-## **About Ren**
+## **เกี่ยวกับ Ren**
 
-Ren is an open protocol that enables the permissionless and private transfer of value between any blockchain.
+Ren เป็นโปรโตคอลแบบเปิดที่ช่วยให้สามารถถ่ายโอนมูลค่าระหว่างบล็อคเชนใด ๆ แบบ Permissionless
 
 [Website](https://renproject.io/) | [Docs](https://docs.renproject.io/ren) | [Telegram](https://t.me/renproject) | [Announcements](https://t.me/renprojectann) | [Twitter](https://twitter.com/renprotocol) | [Reddit](https://www.reddit.com/r/renproject) | [Github](https://github.com/renproject)
 
-## About Acala
+## เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) เป็นระบบการเงินแบบกระจายศูนย์แห่งแรกที่มีวิสัยทัศน์ในการสร้างความมั่นคงทางการเงิน สภาพคล่อง และการเข้าถึงกระแสหลัก **เครือข่าย Acala เป็นศูนย์กลางการเงินข้ามเครือข่ายสำหรับระบบนิเวศ Polkadot** และอื่นๆ แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ เป็นแพลตฟอร์มเปิดแบบเปิดสำหรับ dApps ที่เน้นด้านการเงินเพื่อปรับใช้กับ smart contract หรือโปรโตคอลในตัวที่มีความสามารถ cross-chain ที่พร้อมใช้งานทันที ความปลอดภัย และการเพิ่มประสิทธิภาพทางการเงิน
 
-## Join Us
+## เข้าร่วมกับเรา
 
-Learn more about Acala on [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) and [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). You can join our community on [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) and [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Any inquiries, please [email](http://hello@acala.network/) or DM us.
+เรียนรู้เพิ่มเติมเกี่ยวกับ Acala บน [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) และ
 
-To keep up to date with progress on the Acala launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Acala Wiki</3> 4>. คุณสามารถเข้าร่วมชุมชนของเราได้ที่ [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) และ [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org) หากมีข้อสงสัยใดๆ โปรด [อีเมล](http://hello@acala.network/) หรือ DM มาหาเรา</p> 
+
+หากต้องการติดตามความคืบหน้าในการเปิดตัว Acala โปรดสมัครรับจดหมายข่าว [จดหมายข่าวของ Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
