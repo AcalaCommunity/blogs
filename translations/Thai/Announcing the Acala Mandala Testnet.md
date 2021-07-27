@@ -1,36 +1,36 @@
-# Announcing the Acala Mandala Testnet, Proof-of-Liveness Partners, and Ecosystem projects
+# ประกาศ Acala Mandala Testnet, พาร์ทเนอร์ที่แข็งแกร่ง และโครงการระบบนิเวศ
 
-We are thrilled to launch the first trilogy network for Acala — the Mandala Test Network, announce our partners, and the Acala Ecosystem Program.
+เรารู้สึกตื่นเต้นที่ได้เปิดตัวเครือข่ายสามอันแรกสำหรับ Acala — Mandala Test Network, ประกาศเกี่ยวกับพันธมิตรของเรา และ Acala Ecosystem Program
 
 ![Image for post](https://miro.medium.com/max/5000/0*9hFZBkxybL4cD0nm.jpg)
 
-# An Unfolding of Acala Trilogy Networks
+# การเปิดเผย 3เครือข่ายของ Acala
 
-[The Acala Network](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf) will power cross-chain capable multi-collateralized and decentralized stablecoin, and serve as a DeFi building block for the Polkadot Ecosystem. The evolution of the Acala Network will be marked by trilogy networks:
+[เครือข่าย Acala](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf) จะเพิ่มพลังให้กับเหรียญ stablecoin ที่มีหลายหลักประกันและกระจายอำนาจแบบ cross-chain และทำหน้าที่เป็นหน่วยการสร้างบล็อค DeFi สำหรับระบบนิเวศ Polkadot วิวัฒนาการของเครือข่าย Acala จะถูกมาร์คโดย 3 เครือข่ายนี้:
 
-- **Mandala Test Network**: is a risk-free and value-free playground for us, users and developers to test drive functionalities of Acala. Expect bugs, chaos, and unannounced reboots.
-- **Karura Network**: is an unaudited and experimental release of Acala that will join the Kusama network as parachain. It will have economic value represented as KAR native tokens, and KSM can be used as collateral for kaUSD.
-- **Acala Mainnet**: will be connected to the Polkadot network upon its launch.
+- **Mandala Test Network**: เป็นสนามเด็กเล่นที่ปราศจากความเสี่ยงและไม่มีมูลค่าของเรา ผู้ใช้ และนักพัฒนาเพื่อทดสอบการทำงานของ Acala คาดว่าจะมีบั๊ค ความวุ่นวาย และการรีบูตโดยไม่ได้แจ้งให้ทราบล่วงหน้า
+- **เครือข่าย Karura**: เป็นรุ่นทดลองของ Acala ที่ยังไม่ได้ตรวจสอบและทดลอง ซึ่งจะเข้าร่วมเครือข่าย Kusama ในฐานะ parachain มันจะมีมูลค่าทางเศรษฐกิจที่แสดงเป็นโทเค็นดั้งเดิมของ KAR และ KSM สามารถใช้เป็นหลักประกันสำหรับ kaUSD
+- **Acala Mainnet**: จะเชื่อมต่อกับเครือข่าย Polkadot เมื่อเปิดตัว
 
 # Mandala Network
 
-Expect Bugs and Unannounced Reboots.
+คาดว่าจะมีข้อบกพร่องและการรีบูตโดยไม่ได้แจ้งให้ทราบล่วงหน้า
 
-Mandala is the test network for Acala. It allows users, teams, and developers to test drive stablecoin functionalities, get a taste of Acala’s governance, and build integration in a risk-free environment.
+Mandala เป็นเครือข่ายทดสอบสำหรับ Acala อนุญาตให้ผู้ใช้ ทีม และนักพัฒนาสามารถทดสอบการทำงานของฟังก์ชั่น Stablecoin ได้สัมผัสกับการกำกับดูแลของ Acala และสร้างการบูรณาการในสภาพแวดล้อมที่ปราศจากความเสี่ยง
 
-# Why Mandala?
+# ทำไมถึง Mandala?
 
-Well, why Acala in the first place? Acala is the immovable deity and the gate guardian in Buddhism. Symbolically, stablecoin is the guardian foundation of decentralized finance. **Mandala is meant to be Acala’s gateway into the two networks hereafter**, where we can have a taste of Acala, try things out freely and safely in terms of functionality. Whereas economically and governance-wise, the Karura network will serve the experimental purposes for Acala.
+ทำไม Acala ถึงเป็นที่หนึ่ง? Acala เป็นเทพผู้ไม่เคลื่อนไหวและผู้พิทักษ์ประตูในพระพุทธศาสนา ในเชิงสัญลักษณ์ stablecoin เป็นรากฐานของผู้พิทักษ์การเงินแบบกระจายอำนาจ **Mandala ตั้งใจจะเป็นประตูสู่ทั้งสองเครือข่ายของ Acala ต่อจากนี้** ที่ซึ่งเราจะได้ลิ้มรสของ Acala, ลองทำสิ่งต่าง ๆ ได้อย่างอิสระและปลอดภัยในแง่ของการทำงาน ในขณะที่เศรษฐกิจและธรรมาภิบาล เครือข่าย Karura จะให้บริการวัตถุประสงค์ในการทดลองสำหรับAcala
 
-While there is no value attached to Mandala, it is a great playground to kick the tires and test drive.
+แม้ว่า Mandala จะไม่มีคุณค่าอะไร แต่ก็เป็นสนามเด็กเล่นที่ยอดเยี่ยมในการเตะยางและทดลองขับ(สำนวนว่าเป็นการทดลอง)
 
-# Test Drive Mandala
+# ทดลองขับ Mandala
 
-Create an aUSD loan with BTC as collateral
+กู้เงิน aUSD ด้วย BTC เป็นหลักประกัน
 
-Mandala is launched with the following features:
+Mandala เปิดตัวด้วยคุณสมบัติดังต่อไปนี้:
 
-- Create, update and manage multi-collateralized aUSD loans, supporting test DOT and test BTC as collaterals
+- สร้าง อัปเดต และจัดการสินเชื่อ aUSD แบบหลายหลักประกัน รองรับการทดสอบ DOT และทดสอบ BTC เป็นหลักประกัน
 - An auction module to handle asset liquidation
 - A simple oracle implementation with a K’th largest algorithm to tolerate up to K compromised servers
 - Built-In decentralized exchange to support instant swaps amongst aUSD, ACA and other supported tokens
