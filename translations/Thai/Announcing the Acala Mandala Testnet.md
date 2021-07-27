@@ -1,8 +1,8 @@
-# ประกาศ Acala Mandala Testnet, พาร์ทเนอร์ที่แข็งแกร่ง และโครงการระบบนิเวศ
+# ประกาศ Acala Mandala Testnet,  Proof-of-Liveness Partner และโครงการระบบนิเวศ
 
 เรารู้สึกตื่นเต้นที่ได้เปิดตัวเครือข่ายสามอันแรกสำหรับ Acala — Mandala Test Network, ประกาศเกี่ยวกับพันธมิตรของเรา และ Acala Ecosystem Program
 
-![Image for post](https://miro.medium.com/max/5000/0*9hFZBkxybL4cD0nm.jpg)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/5000/0*9hFZBkxybL4cD0nm.jpg)
 
 # การเปิดเผย 3เครือข่ายของ Acala
 
@@ -30,51 +30,51 @@ Mandala เป็นเครือข่ายทดสอบสำหรับ
 
 Mandala เปิดตัวด้วยคุณสมบัติดังต่อไปนี้:
 
-- สร้าง อัปเดต และจัดการสินเชื่อ aUSD แบบหลายหลักประกัน รองรับการทดสอบ DOT และทดสอบ BTC เป็นหลักประกัน
-- An auction module to handle asset liquidation
-- A simple oracle implementation with a K’th largest algorithm to tolerate up to K compromised servers
-- Built-In decentralized exchange to support instant swaps amongst aUSD, ACA and other supported tokens
+- สร้าง อัปเดต และการกู้ aUSD แบบหลายหลักประกัน รองรับการทดสอบ DOT และทดสอบ BTC เป็นหลักประกัน
+- โมดูลการประมูลเพื่อจัดการการชำระบัญชีทรัพย์สิน
+- การใช้งาน Oracle อย่างง่ายด้วยอัลกอริธึมที่ใหญ่ที่สุดของ K เพื่อรองรับเซิร์ฟเวอร์ที่ถูกบุกรุกถึง K
+- การแลกเปลี่ยนแบบกระจายอำนาจในตัวเพื่อรองรับการแลกเปลี่ยนทันทีระหว่าง aUSD, ACA และโทเค็นที่รองรับอื่น ๆ
 
-Governance is limited to the `Sudo` module for Mandala, while the council set-up is for demonstration purposes only. Check out more in the [Mandala Get Started Guide](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started). Or if you can’t wait, [get some test tokens](https://riot.im/app/#/room/#acala-faucet:matrix.org), [jump straight onto the truck](https://apps.acala.network/) and have a drive yourself.
+ธรรมาภิบาลจำกัดเฉพาะโมดูล `Sudo` สำหรับ Mandala ในขณะที่การตั้งค่าสภามีไว้เพื่อการสาธิตเท่านั้น ดูข้อมูลเพิ่มเติมใน [คู่มือเริ่มต้นใช้งาน Mandala](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started) หรือถ้าคุณรอไม่ไหว [รับโทเค็นทดสอบ](https://riot.im/app/#/room/#acala-faucet:matrix.org) [กระโดดตรงไปขึ้นรถ](https://apps.acala.network/) และลองมันด้วยตัวเอง
 
-Though there is no reward for validating Mandala, feel free to [run the docker provided](https://github.com/AcalaNetwork/Acala/wiki/4.-Maintainers), or use a hosted service like OnFinality.
+แม้ว่าจะไม่มีรางวัลสำหรับการตรวจสอบความถูกต้องของ Mandala แต่อย่าลังเลที่จะ[เรียกใช้ docker ที่มีให้](https://github.com/AcalaNetwork/Acala/wiki/4.-Maintainers)หรือใช้บริการโฮสต์ เช่น OnFinality
 
-Check out [the telemetry](https://telemetry.polkadot.io/#map/Acala%20Mandala%20Testnet) and [the console UI](https://console.acala.network/).
+ลองดู [การวัดและส่งข้อมูลทางไกล](https://telemetry.polkadot.io/#map/Acala%20Mandala%20Testnet) และ [UI คอนโซล](https://console.acala.network/)
 
-![Image for post](https://miro.medium.com/max/2560/1*yVxtDSo4DnDyfsrEamb2-Q.gif)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/2560/1*yVxtDSo4DnDyfsrEamb2-Q.gif)
 
 # Proof-of-Liveness (PoL) Partners
 
-While the Acala Network will leverage Polkadot’s shared security and do not need dedicated validators itself, it will still require what we call **Proof-of-Liveness (PoL) nodes** to maintain the operation of the Acala network, and propose new blocks to validators for verification.
+แม้ว่าเครือข่าย Acala จะใช้ประโยชน์จากการรักษาความปลอดภัยที่ใช้ร่วมกันของ Polkadot และไม่ต้องการเครื่องมือตรวจสอบเฉพาะ แต่จะยังคงต้องการสิ่งที่เราเรียกว่า **โหนดProof-of-Liveness (PoL)** เพื่อรักษาการทำงานของเครือข่าย Acala และ เสนอบล็อคใหม่ให้กับ validator เพื่อตรวจสอบ
 
-PoL Nodes will in return receive rewards in kACA in Karura network, and ACA in Acala mainnet. With no particular order, these partners will provide the initial liveness of the Acala network: [OnFinality](https://www.onfinality.io/), [P2P Capital](https://www.p2pcap.com/), and [Stake.Zone](http://stake.zone/).
+โหนด PoL จะได้รับรางวัลตอบแทนใน kACA ในเครือข่าย Karura และ ACA ในเครือข่ายหลัก Acala หากไม่มีอะไรผิดพลาด พาร์ทเนอร์เหล่านี้จะให้บริการ liveness บนเครือข่าย Acala: [OnFinality](https://www.onfinality.io/), [P2P Capital](https://www.p2pcap.com/) และ [Stake.Zone](http://stake.zone/)
 
-# The Acala Ecosystem Program
+# โครงการระบบนิเวศ Acala
 
-The Acala network is ultimately a community-owned ecosystem. The Acala stablecoin is decentralizedly generated and governed. There are many reasons to choose Acala as the stablecoin provider for your project, and you may have unique questions and needs.
+เครือข่าย Acala เป็นระบบนิเวศที่ชุมชนเป็นเจ้าของในที่สุด Acala Stablecoin ถูกสร้างขึ้นและควบคุมแบบกระจายอำนาจ มีหลายเหตุผลที่เลือก Acala เป็นผู้ให้บริการ stablecoin สำหรับโครงการของคุณ และคุณอาจมีคำถามและต้องการที่แตกต่าง
 
-We believe [**the Acala Ecosystem Program**](https://forms.gle/iYPUrNzSWGmyvPUp6) would be a good starting point to form closer collaboration, for us to provide better support to teams integrating with Acala, and co-create incentivize programs, etc. These teams have become the inaugural Acala Ecosystem Program projects: [Chainlink](https://chain.link/), [ChainX](https://chainx.org/), [Dipole](http://www.dipole.tech/), [Plasm Network](https://github.com/staketechnologies/Plasm), [PolkaWorld](https://www.polkaworld.org/), [Subsocial](http://subsocial.network/), and [XanPool](https://www.xanpool.com/).
+เราเชื่อว่า [**โครงการระบบนิเวศของ Acala**](https://forms.gle/iYPUrNzSWGmyvPUp6) จะเป็นจุดเริ่มต้นที่ดีในการสร้างความร่วมมืออย่างใกล้ชิด เพื่อให้การสนับสนุนทีมที่ผสานรวมกับ Acala ได้ดียิ่งขึ้น และร่วมสร้างโปรแกรมจูงใจ ฯลฯ ทีมเหล่านี้ได้กลายเป็นโครงการริเริ่มโครงการ Acala Ecosystem Program: [Chainlink](https://chain.link/), [ChainX](https://chainx.org/), [Dipole](http://www.dipole.tech/), [Plasm Network](https://github.com/staketechnologies/Plasm), <4 >PolkaWorld</a>, [Subsocial](http://subsocial.network/) และ [XanPool](https://www.xanpool.com/)
 
-If you would like to join the Acala Ecosystem Program, submit your interest [here](https://forms.gle/iYPUrNzSWGmyvPUp6).
+หากคุณต้องการเข้าร่วม Acala Ecosystem Program โปรดส่งความสนใจของคุณ [ที่นี่](https://forms.gle/iYPUrNzSWGmyvPUp6)
 
-# Stay Updated with Acala
+# ติดตามความคืบหน้าของ Acala
 
 Website: [https://acala.network](https://acala.network/)  
 Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
 Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)  
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)
 
-The Acala Stablecoin Project is proudly supported by the Web3 Foundation
+โครงการ Acala Stablecoin ภูมิใจที่ได้รับการสนับสนุนจากมูลนิธิ Web3
 
-<img alt="Image for post" class="t u v ic aj" src="https://miro.medium.com/max/1500/0\*pJgP3IFBAlYbGn11.jpg" width="750" height="300" srcSet="https://miro.medium.com/max/552/0\*pJgP3IFBAlYbGn11.jpg 276w, https://miro.medium.com/max/1104/0\*pJgP3IFBAlYbGn11.jpg 552w, https://miro.medium.com/max/1280/0\*pJgP3IFBAlYbGn11.jpg 640w, https://miro.medium.com/max/1400/0\*pJgP3IFBAlYbGn11.jpg 700w" sizes="700px" />
+<img alt="รูปสำหรับโพสต์" class="t u v ic aj" src="https://miro.medium.com/max/1500/0\*pJgP3IFBAlYbGn11.jpg" width="750" height="300" srcSet="https://miro.medium.com/max/552/0\*pJgP3IFBAlYbGn11.jpg 276w, https://miro.medium.com/max/1104/0\*pJgP3IFBAlYbGn11.jpg 552w, https://miro.medium.com/max/1280/0\*pJgP3IFBAlYbGn11.jpg 640w, https://miro.medium.com/max/1400/0\*pJgP3IFBAlYbGn11.jpg 700w" sizes="700px" />
 
-# About Web3 Foundation
+# เกี่ยวกับมูลนิธิ Web3
 
-Web3 Foundation funds research and development teams building the stack of technologies that form the basis of the decentralized web. It was established in Zug, Switzerland by Ethereum co-founder and former chief technology officer Dr. Gavin Wood.
+มูลนิธิ Web3 ให้ทุนแก่ทีมวิจัยและพัฒนาเพื่อสร้างกองเทคโนโลยีที่เป็นพื้นฐานของเว็บกระจายอำนาจ ก่อตั้งขึ้นในเมือง Zug ประเทศสวิตเซอร์แลนด์โดย Dr. Gavin Wood ผู้ร่วมก่อตั้ง Ethereum และอดีตหัวหน้าเจ้าหน้าที่เทคโนโลยี
 
-For more information on Web3 Foundation, visit [web3.foundation](https://web3.foundation/).
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Web3 Foundation ไปที่ [web3.foundation](https://web3.foundation/)
 
-# About Polkadot
+# เกี่ยวกับ Polkadot
 
-Polkadot is the first interoperability protocol that enables blockchain networks of all kinds to work together under the protection of shared security. Applications from decentralized finance and energy to gaming and communications will thrive on Polkadot, forming the basis of digital jurisdictions in Web 3.0. Polkadot is the first project spearheaded by Web3 Foundation.  
-For more information on Polkadot, visit [polkadot.network.](https://polkadot.network/)
+Polkadot เป็นโปรโตคอลการทำงานร่วมกันแบบแรกที่ช่วยให้เครือข่ายบล็อคเชนทุกประเภททำงานร่วมกันภายใต้การคุ้มครองความปลอดภัยที่ใช้ร่วมกัน แอพพลิเคชั่นจากการกระจายอำนาจทางการเงินและพลังงานไปจนถึงการเล่นเกมและการสื่อสารจะเติบโตบน Polkadot ซึ่งเป็นพื้นฐานของเขตอำนาจศาลดิจิทัลใน Web 3.0 Polkadot เป็นโครงการแรกที่นำโดยมูลนิธิ Web3  
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Polkadot โปรดไปที่ [polkadot.network](https://polkadot.network/)
