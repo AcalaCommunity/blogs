@@ -12,9 +12,9 @@
 
 ## **Acala в тестовой парачейн-сети Polkadot, Rococo**
 
-Acala Mandala PC2 (кандидат в парачейн от Acala) был первым парачейном, подключенным к Rococo, тестовой сети парачейнов Polkadot. Вы можете посмотреть все подключенные парачейны [ здесь ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/parachains).
+Acala Mandala PC2 (кандидат в парачейн от Acala) был первым парачейном, подключенным к Rococo, тестовой сети парачейнов Polkadot. Вы можете посмотреть все подключенные парачейны [ здесь](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-rpc.polkadot.io#/parachains).
 
-Любой желающий может ознакомиться с Acala Mandala PC2 [ здесь ](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-1.acala.laminar.one%2Fws#/explorer).
+Любой желающий может ознакомиться с Acala Mandala PC2 [ здесь](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Frococo-1.acala.laminar.one%2Fws#/explorer).
 
 В настоящее время мы проводим внутреннее тестирование парачейна и откроем его для использования и тестирования в ближайшем будущем, чтобы люди могли сами опробовать кросс-чейн взаимодействия.
 
