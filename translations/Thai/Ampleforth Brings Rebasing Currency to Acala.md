@@ -2,7 +2,7 @@
 
 ## Ampleforth จะเปิดตัวใน Acala (Polkadot) ในต้นปีหน้า
 
-![Image for post](https://miro.medium.com/max/1600/0*u9U9isEmIWMS9LJl)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/1600/0*u9U9isEmIWMS9LJl)
 
 # อิสระเสรี เงินแบบ multichain
 
@@ -16,44 +16,44 @@ Ampleforth ได้แนะนำโลกให้รู้จักกับ
 
 Polkadot เปิดใช้งานเครือข่ายของบล็อกเชนที่เชื่อมต่อถึงกัน นำเสนอการสื่อสารระหว่างเชนและความปลอดภัยที่ใช้ร่วมกันเพื่อเชื่อมโยงเชนที่มีอยู่ เช่น Ethereum และ Bitcoin กับ Parachain จำนวนมากที่เชื่อมต่ออยู่ Polkadot มีสถาปัตยกรรมแบบ hub-and-spoke โดยที่เครือข่ายที่ทำงานในปัจจุบันคือฮับหรือที่เรียกว่า Relay Chain ที่ให้การรักษาความปลอดภัยเครือข่าย Proof-of-Stake และจะเป็นจุดยึดสำหรับการสื่อสาร cross-chain อย่างไรก็ตาม มันไม่มีการใช้งานระดับแอปพลิเคชันใดๆ หรือความสามารถของ smart contract ที่จะรับรู้โดยแต่ละ parachains และ parathreads
 
-Acala is one of the leading parachains in the Polkadot ecosystem that is optimized for DeFi, often serves as a landing pad and DeFi hub of Polkadot. DApps deploying on Acala not only gain immediate access to Polkadot’s multi-chain ecosystem via cross-chain message passing mechanism ([XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)), but also have full access to Acala’s existing DeFi primitives such as DeX, user base, and liquidity.
+Acala เป็นหนึ่งใน parachains ชั้นนำในระบบนิเวศ Polkadot ที่ได้รับการปรับให้เหมาะสมสำหรับ DeFi ซึ่งมักทำหน้าที่เป็น Landing Pad และศูนย์กลาง DeFi ของ Polkadot DApps ที่ปรับใช้บน Acala ไม่เพียงแต่เข้าถึงระบบนิเวศแบบ multi-chain ของ Polkadot ได้ทันทีผ่านกลไกการส่งข้อความ cross-chain ([XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)) แต่ยังสามารถเข้าถึง DeFi primitive ที่มีอยู่ของ Acala ได้อย่างเต็มที่ เช่น DeX, ฐานผู้ใช้ และสภาพคล่อง
 
-# AMPL on Acala (Polkadot)
+# AMPL บน Acala (Polkadot)
 
-We’re pleased to welcome Ampleforth to Acala’s Ecosystem Program, as well as the ever-growing Polkadot ecosystem.
+เรายินดีที่จะต้อนรับ Ampleforth สู่โปรแกรมระบบนิเวศของ Acala รวมถึงระบบนิเวศ Polkadot ที่เติบโตอย่างต่อเนื่อง
 
-Ampleforth Everywhere will have a single monetary policy that automatically adjusts supply based on demand (called ‘rebase’) on multiple blockchains. The user flow looks like this:
+Ampleforth Everywhere จะมีนโยบายการเงินเดียวที่ปรับซัพพลายโดยอัตโนมัติตามความต้องการ (เรียกว่า 'rebase') บนบล็อกเชนที่หลากหลาย โฟลของผู้ใช้มีลักษณะดังนี้:
 
-- Value-transfer: A user is able to transfer AMPLs from their wallet on one chain to another wallet on a different chain.
-- State Transfer: The monetary policy is able to call rebase() on the token contract of a different chain, or otherwise sync its state to the other chain to adjust supply.
+- การโอนมูลค่า: ผู้ใช้สามารถโอน AMPL จากกระเป๋าเงินของพวกเขาในเชนหนึ่งไปยังอีกกระเป๋าหนึ่งบนอีกเชนหนึ่ง
+- การโอนสถานะ: นโยบายการเงินสามารถเรียก rebase() บนสัญญาโทเค็นของเชนอื่น หรือซิงค์สถานะกับเชนอื่นเพื่อปรับซัพพลาย
 
-Specifically, Ampleforth’s deployment on Acala will bring these benefits to the users
+โดยเฉพาะอย่างยิ่ง การใช้งาน Ampleforth บน Acala จะนำประโยชน์เหล่านี้มาสู่ผู้ใช้
 
-1.  Enable Ample money on Polkadot via Acala network
-2.  Ample will become a 1st-class fee token on Acala, meaning users can pay AMPLs as fees when transferring AMPLs
-3.  Ampleforth contracts will be deployed on Acala’s EVM with minimal changes while enjoying seamless integration with Acala’s DeFi primitives e.g. list directly on Acala Swap DeX.
-4.  Transfer AMPL between Ethereum and Acala/Polkadot: RenVM will initially provide an Ethereum to Acala (Polkadot) bridge that will be used for value transfer and state transfer. Meanwhile, ChainBridge is considered as an alternative solution, while Snowfork’s trustless Ethereum bridge is also considered as a fully decentralized bridge option once it becomes available.
+1.  เปิดใช้งานเงิน Ample บน Polkadot ผ่านเครือข่าย Acala
+2.  Ample จะกลายเป็นโทเค็นค่าธรรมเนียมระดับ 1 บน Acala ซึ่งหมายความว่าผู้ใช้สามารถจ่าย AMPL เป็นค่าธรรมเนียมเมื่อโอน AMPL
+3.  สัญญา Ampleforth จะถูกปรับใช้บน EVM ของ Acala โดยมีการเปลี่ยนแปลงเพียงเล็กน้อย ในขณะที่เพลิดเพลินกับการผสานรวมกับ DeFi ดั้งเดิมของ Acala ได้อย่างราบรื่น ลิสต์โดยตรงบน Acala Swap DeX
+4.  โอน AMPL ระหว่าง Ethereum และ Acala/Polkadot: ในขั้นต้น RenVM จะให้สะพาน Ethereum ไปยัง Acala (Polkadot) ที่จะใช้สำหรับการโอนมูลค่าและการโอนสถานะ ในขณะเดียวกัน ChainBridge ถือเป็นโซลูชันทางเลือก ในขณะที่สะพาน Ethereum แบบ trustless, Snowfork ก็ถือเป็นตัวเลือกสะพานกระจายอำนาจอย่างสมบูรณ์เมื่อพร้อมใช้งาน
 
-Technically Acala EVM is powered by [Project Bodhi](https://github.com/w3f/Open-Grants-Program/blob/master/applications/project_bodhi.md) — a composable and innovative EVM stack on [Substrate](https://www.substrate.io/) — a customizable blockchain framework used for building Polkadot, Kusama, Acala, and various types of blockchains. Project Bodhi has recently been awarded Web3 Foundation Open Grant to deliver full-stack composability between EVM and runtimes for developers, and a single-wallet cross-chain experience for users. More details will be revealed in an upcoming post.
+ในทางเทคนิค Acala EVM นั้นขับเคลื่อนโดย [Project Bodhi](https://github.com/w3f/Open-Grants-Program/blob/master/applications/project_bodhi.md) — EVM stack ที่สร้างสรรค์และสร้างสรรค์ได้บน [Substrate](https://www.substrate.io/) — เฟรมเวิร์กบล็อกเชนที่ปรับแต่งได้ซึ่งใช้สำหรับสร้าง Polkadot, Kusama, Acala และบล็อกเชนประเภทต่างๆ เมื่อเร็วๆ นี้ Project Bodhi ได้รับรางวัล Web3 Foundation Open Grant เพื่อมอบความสามารถในการเขียนแบบฟูลสแตกระหว่าง EVM และรันไทม์สำหรับนักพัฒนา และประสบการณ์การใช้งาน cross-chain กระเป๋าเดียวสำหรับผู้ใช้ รายละเอียดเพิ่มเติมจะถูกเปิดเผยในโพสต์ที่กำลังจะมา
 
-# What’s Next
+# อะไรต่อไป
 
-We are also collaborating with Ren to make RenVM Ethereum to Acala (Polkadot) bridge available in early 2021. Then Ampleforth contracts can be deployed on Acala mainnet, making AMPLs one of the first cross-chain assets available on Polkadot, and help realize the vision of Ampleforth Everywhere. Together with Polkadot and other ecosystem collaborators, Acala is poised to bring the cross-chain DeFi ecosystem and liquidity together, and empower more open finance innovations.
+เรากำลังร่วมมือกับ Ren เพื่อทำให้สะพาน RenVM Ethereum สู่ Acala (Polkadot) ใช้งานได้ในช่วงต้นปี 2021 จากนั้นจึงนำสัญญา Ampleforth ไปใช้งานบน Acala mainnet ได้ ทำให้ AMPLs เป็นหนึ่งในทรัพย์สิน cross-chain แรกที่มีให้ใช้งานบน Polkadot และช่วยให้บรรลุวิสัยทัศน์ของ Ampleforth Everywhere ร่วมกับ Polkadot และผู้ทำงานร่วมกันในระบบนิเวศอื่น ๆ Acala พร้อมที่จะนำระบบนิเวศ cross-chain DeFi และสภาพคล่องมารวมกัน และส่งเสริมนวัตกรรมทางการเงินที่เปิดกว้างมากขึ้น
 
-_Click here to_ [_learn more about Ampleforth_](https://www.ampleforth.org/quickstart/)_._
+_คลิกที่นี่เพื่อ_ [_เรียนรู้เพิ่มเติมเกี่ยวกับ Ampleforth_](https://www.ampleforth.org/quickstart/)_._
 
-_Interested in a career in decentralized finance? If you enjoy working on high-impact, web3 and DeFi challenges, check out_ [_our open positions_](https://jobs.lever.co/acala/) _here. We’d love to hear from you._
+_สนใจอาชีพด้านการเงินแบบกระจายอำนาจหรือไม่? หากคุณสนุกกับการทำงานกับความท้าทายที่มีผลกระทบสูง, Web3 และ DeFi โปรดดู_ [_ตำแหน่งที่เปิดของเรา_](https://jobs.lever.co/acala/) _ที่นี่ เราอยากร่วมงานกับคุณ_
 
-**Join Acala**
+**เข้าร่วมกับ Acala**
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki)
 
-To keep up to date with progress on the Acala parachain launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+หากต้องการติดตามความคืบหน้าในการเปิดตัว Acala Parachain สามารถสมัครรับข้อมูลได้ที่ [จดหมายข่าวของ Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-# About Ampleforth
+# เกี่ยวกับ Ampleforth
 
-Ample is a new base-money cryptocurrency with elastic supply and rules-based governance. Ample naturally adapts to changes in demand by universally expanding or contracting supply, these changes affect all wallets equally, ensuring AMPL remains non-dilutive like Bitcoin. Ample supply expands or contracts by smart contract according to a rules-based monetary policy. Ample is not correlated with or derived from any other asset. Ample is a new base-money primitive for building the future of decentralized finance.
+Ample เป็นสกุลเงินดิจิตอลฐานเงินใหม่ที่มีอุปทานที่ยืดหยุ่นและการกำกับดูแลตามกฎ โดยธรรมชาติแล้ว Ample จะปรับตัวให้เข้ากับการเปลี่ยนแปลงของดีมานด์โดยการขยายหรือหดตัวของอุปทานในระดับสากล การเปลี่ยนแปลงเหล่านี้ส่งผลกระทบต่อกระเป๋าเงินทั้งหมดอย่างเท่าเทียมกัน ทำให้มั่นใจได้ว่า AMPL จะ non-dilutive เหมือน Bitcoin อุปทานจำนวนมากขยายหรือทำสัญญาโดย smart contract ตามนโยบายการเงินตามกฎ Ample ไม่มีความสัมพันธ์หรือได้มาจากทรัพย์สินอื่นใด Ample เป็นพื้นฐานเงินพื้นฐานรูปแบบใหม่สำหรับการสร้างอนาคตของการเงินแบบกระจายอำนาจ
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot, making it fast and easy to use financial applications available to everyone. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ทำให้ทุกคนสามารถเข้าถึงแอปพลิเคชันทางการเงินที่รวดเร็วและง่ายดาย แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มเปิดตามความจริง(de facto) สำหรับแอปพลิเคชันด้านการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวที่มีความสามารถ cross-chain, ความปลอดภัย และการเพิ่มประสิทธิภาพทางการเงิน
