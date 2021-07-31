@@ -1,20 +1,20 @@
 # Ampleforth ซึ่งเป็น Building Block ของ DeFi นำการรีเบสสกุลเงินและการเงินที่ยืดหยุ่นมาสู่ Acala และ Polkadot
 
-## Ampleforth will likely launch on Acala (Polkadot) early next year
+## Ampleforth จะเปิดตัวใน Acala (Polkadot) ในต้นปีหน้า
 
 ![Image for post](https://miro.medium.com/max/1600/0*u9U9isEmIWMS9LJl)
 
-# The Independent, Multichain Money
+# อิสระเสรี เงินแบบ multichain
 
-AMPL by the [Ampleforth](https://www.ampleforth.org/) team is a truly independent cryptocurrency that brings chain-agnostic, non-dilutive money to decentralized finance. Soon it will be available across the Acala network.
+AMPL โดยทีมงาน [Ampleforth](https://www.ampleforth.org/) เป็นสกุลเงินดิจิทัลที่เป็นอิสระอย่างแท้จริงซึ่งนำเงินแบบ chain-agnostic, non-dilutive มาสู่การเงินแบบกระจายอำนาจ จะมีให้บริการในเครือข่าย Acala เร็วๆนี้
 
-Ampleforth introduced the world to the rebase, a unique mechanism which ensures price-supply equilibrium. Ampleforth is like Bitcoin, except it can be used to denominate stable contracts. Like Bitcoin, AMPL is uncollateralized. Unlike Bitcoin, AMPL has an elastic supply policy. The Ampleforth currency automatically ‘rebases’ its supply in a proportional and non-dilutive way in response to price volatility. This approach is key to realizing stable contracts, a critical hedge against the price volatility associated with smart contracts today. This capability makes AMPL a key building block for DeFi ecosystems.
+Ampleforth ได้แนะนำโลกให้รู้จักกับ rebase ซึ่งเป็นกลไกเฉพาะที่ช่วยให้มั่นใจถึงความสมดุลของราคาและซัพพลาย Ampleforth นั้นเหมือนกับ Bitcoin เว้นแต่ว่าสามารถใช้เพื่อกำหนดสัญญาที่เสถียรได้ เช่นเดียวกับ Bitcoin AMPL ไม่มีหลักประกัน แต่ที่ไม่เหมือน Bitcoin, AMPL มีนโยบายของซัพพลายที่ยืดหยุ่น สกุลเงิน Ampleforth จะ 'ปรับฐาน' ซัพพลายโดยอัตโนมัติตามสัดส่วนและ non-dilutive เพื่อตอบสนองต่อความผันผวนของราคา แนวทางนี้เป็นกุญแจสำคัญในการทำให้สัญญามีเสถียรภาพ ซึ่งเป็นการป้องกันความเสี่ยงที่สำคัญต่อความผันผวนของราคาที่เกี่ยวข้องกับ smart contract ในปัจจุบัน ความสามารถนี้ทำให้ AMPL เป็นส่วนประกอบสำคัญสำหรับระบบนิเวศ DeFi
 
-[Ampleforth Everywhere](https://medium.com/ampleforth/independent-currency-in-a-multi-chain-world-67032dce8296) has been a long term vision of the Ampleforth team to bring AMPL to multiple blockchains and execute its monetary policy to regulate its supply with market demand.
+[Ampleforth Everywhere](https://medium.com/ampleforth/independent-currency-in-a-multi-chain-world-67032dce8296) เป็นวิสัยทัศน์ระยะยาวของทีม Ampleforth ในการนำ AMPL มาสู่บล็อกเชนหลายแห่ง และดำเนินนโยบายการเงินเพื่อควบคุมซัพพลายให้สอดคล้องกับความต้องการของตลาด
 
-[Ampleforth will likely launch on Acala (Polkadot)](https://www.ampltalk.org/app/forum/announcements-22/topic/multichain-ampleforth-231/?utm_source=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_medium=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_campaign=AMPLTwtr_Announce_multichain_3chains_12_2_20) early next year, making it the first multichain independent money to serve the wider cross-chain crypto and DeFi community.
+[Ampleforth มีแนวโน้มที่จะเปิดตัวใน Acala (Polkadot)](https://www.ampltalk.org/app/forum/announcements-22/topic/multichain-ampleforth-231/?utm_source=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_medium=AMPLTwtr_Announce_multichain_3chains_12_2_20&utm_campaign=AMPLTwtr_Announce_multichain_3chains_12_2_20) ในต้นปีหน้า ทำให้เป็นเงินอิสระแบบ multichain แรกที่ให้บริการชุมชน crypto และ DeFi แบบ cross-chain ในวงกว้าง
 
-Polkadot enables a network of interconnected blockchains, offers inter-chain communication and shared security to bridge existing chains like Ethereum and Bitcoin with many parachains that are connected to it. Polkadot has a hub-and-spoke architecture, where its current live network is the hub aka the Relay Chain that offers Proof-of-Stake network security and will be an anchor for cross-chain communication. However, it does not have any application-level implementations, nor smart contract capability, which is realized by individual parachains and parathreads.
+Polkadot เปิดใช้งานเครือข่ายของบล็อกเชนที่เชื่อมต่อถึงกัน นำเสนอการสื่อสารระหว่างเชนและความปลอดภัยที่ใช้ร่วมกันเพื่อเชื่อมโยงเชนที่มีอยู่ เช่น Ethereum และ Bitcoin กับ Parachain จำนวนมากที่เชื่อมต่ออยู่ Polkadot มีสถาปัตยกรรมแบบ hub-and-spoke โดยที่เครือข่ายที่ทำงานในปัจจุบันคือฮับหรือที่เรียกว่า Relay Chain ที่ให้การรักษาความปลอดภัยเครือข่าย Proof-of-Stake และจะเป็นจุดยึดสำหรับการสื่อสาร cross-chain อย่างไรก็ตาม มันไม่มีการใช้งานระดับแอปพลิเคชันใดๆ หรือความสามารถของ smart contract ที่จะรับรู้โดยแต่ละ parachains และ parathreads
 
 Acala is one of the leading parachains in the Polkadot ecosystem that is optimized for DeFi, often serves as a landing pad and DeFi hub of Polkadot. DApps deploying on Acala not only gain immediate access to Polkadot’s multi-chain ecosystem via cross-chain message passing mechanism ([XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)), but also have full access to Acala’s existing DeFi primitives such as DeX, user base, and liquidity.
 
