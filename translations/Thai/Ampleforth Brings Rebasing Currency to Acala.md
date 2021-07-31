@@ -1,4 +1,4 @@
-# Ampleforth, a DeFi Building Block, Brings Rebasing Currency and Elastic Finance to Acala and Polkadot
+# Ampleforth ซึ่งเป็น Building Block ของ DeFi นำการรีเบสสกุลเงินและการเงินที่ยืดหยุ่นมาสู่ Acala และ Polkadot
 
 ## Ampleforth will likely launch on Acala (Polkadot) early next year
 
