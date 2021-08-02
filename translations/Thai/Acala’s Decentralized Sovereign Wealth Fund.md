@@ -1,8 +1,8 @@
-# Acala’s Decentralized Sovereign Wealth Fund — A Next-gen DAO & Unforkable AUM
+# กองทุนความมั่งคั่งอธิปไตยแบบกระจายอำนาจของ Acala — DAO รุ่นต่อไป & AUM ที่ไม่สามารถ fork ได้
 
-By [Joe Petrowski](https://medium.com/u/9f4b86fbf09a?source=post_page-----80f8c23d8f27--------------------------------) & [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----80f8c23d8f27--------------------------------)
+โดย [Joe Petrowski](https://medium.com/u/9f4b86fbf09a?source=post_page-----80f8c23d8f27--------------------------------) & [Bette Chen](https://medium.com/u/8d475d21e811?source=post_page-----80f8c23d8f27--------------------------------)
 
-**TLDR:** Acala is a next-generation DAO — DAO3.0 obtaining economic and political (decision making) sovereignty via its on-chain decentralized Sovereign Wealth Fund (dSWF) and governance. The assets in the dSWF are essentially Asset Under Management — while you can fork the code, the liquidity, and even the community, you cannot fork the AUM.
+**TLDR:** Acala เป็น DAO รุ่นต่อไป — DAO3.0 ได้รับอำนาจอธิปไตยทางเศรษฐกิจและการเมือง (การตัดสินใจ) ผ่านการกระจายอำนาจบนเครือข่าย Sovereign Wealth Fund (dSWF) และการกำกับดูแล The assets in the dSWF are essentially Asset Under Management — while you can fork the code, the liquidity, and even the community, you cannot fork the AUM.
 
 ![Image for post](https://miro.medium.com/max/1600/1*tG3vPiETDyoJgt1aC_5ygg.jpeg)
 
