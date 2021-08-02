@@ -4,7 +4,7 @@
 
 **TLDR:** Acala เป็น DAO รุ่นต่อไป — DAO3.0 ได้รับอำนาจอธิปไตยทางเศรษฐกิจและการเมือง (การตัดสินใจ) ผ่านการกระจายอำนาจบนเครือข่าย Sovereign Wealth Fund (dSWF) และการกำกับดูแล สินทรัพย์ใน dSWF นั้นเป็นสินทรัพย์ภายใต้การจัดการ — ในขณะที่คุณสามารถ fork code, สภาพคล่อง และแม้แต่ชุมชน แต่คุณไม่สามารถ fork AUM ได้
 
-![Image for post](https://miro.medium.com/max/1600/1*tG3vPiETDyoJgt1aC_5ygg.jpeg)
+![รูปสำหรับโพสต์](https://miro.medium.com/max/1600/1*tG3vPiETDyoJgt1aC_5ygg.jpeg)
 
 Polkadot และ Substrate เป็นพื้นฐานสำหรับรูปแบบใหม่ขององค์กรทางสังคมและการตัดสินใจ Acala ใช้ประโยชน์จากความสามารถในการกำกับดูแลและการบริหารเงินของ Substrate พร้อมกับการส่งข้อความ cross-chain ของ Polkadot เพื่อสร้างกองทุนความมั่งคั่งแบบกระจายอำนาจอธิปไตย กองทุนจะช่วยให้ Acala chain รักษาสล็อต parachain และพัฒนาต่อไปได้ดีหลังจากการระดมทุนครั้งแรกหมดลง
 
@@ -48,22 +48,22 @@ Polkadot และ Substrate เป็นพื้นฐานสำหรับ
 
 เมื่อโทเค็นเข้าสู่กองทุนนี้ Acala วางแผนที่จะแปลงพวกมันทั้งหมดเป็น DOT และ stake หนุน validator เพื่อเพิ่มทุนจากแหล่งรายได้ทั้งสามโดยการเพิ่มผลตอบแทนจากการ stake บน DOT เมื่อสล็อต Parachain แรกพร้อมสำหรับการประมูลเพื่อต่ออายุ มันจะทำการ unstake DOT และใช้ในคราวด์ฟันดิ้งของตัวเอง ในที่สุด มันก็จะมี DOT เพียงพอที่จะครอบคลุมพันธะ Parachain โดยไม่ต้องใช้คราวด์ฟันดิ้ง
 
-After Acala has its own parachain slot, it can continue the sovereign wealth fund in pursuit of other utility. Rather than accumulating DOT for the singular goal of obtaining a parachain slot, it can take positions in other parachains for access to their services or partnerships.
+หลังจากที่ Acala มีสล็อต parachain ของตัวเองแล้ว ก็สามารถดำเนินกองทุนความมั่งคั่งของอธิปไตยต่อไปเพื่อแสวงหาประโยชน์อื่น ๆ ได้ แทนที่จะสะสม DOT เพื่อเป้าหมายเดียวในการได้ช่อง Parachain มันสามารถเข้ารับตำแหน่งใน Parachain อื่น ๆ เพื่อเข้าถึงบริการหรือพันธมิตรของพวกเขา
 
-The effects of blockchain sovereignty extend well beyond a chain’s own governance. By combining new advances in blockchain governance, interoperability, and economics, Acala has created an innovative and sustainable funding model for their future that puts the stakeholders in control of the chain’s destiny.
+ผลกระทบของอำนาจอธิปไตยของ blockchain นั้นขยายออกไปได้ดีกว่าการกำกับดูแลของเชน ด้วยการผสมผสานความก้าวหน้าใหม่ ๆ ในการกำกับดูแลบล็อกเชน การทำงานร่วมกัน และเศรษฐศาสตร์ Acala ได้สร้างรูปแบบการระดมทุนที่เป็นนวัตกรรมและยั่งยืนสำหรับอนาคตของพวกเขา ซึ่งทำให้ stakeholder สามารถควบคุมอนาคตของเชนได้
 
-# Looking Ahead
+# มองไปข้างหน้า
 
-Through the dSWF and governance, Acala will become an economic and political (decision making and execution) sovereign entity. It will pioneer a new way of DAO — DAO 3.0. Just like Norway’s Sovereign Wealth Fund, Acala’s dSWF will reinvest its network surplus in foreign assets — starting with DOT and KSM and gradually diversify into other assets, for the purpose of gaining access to network security, long term wealth generation, and strategically holding stakes in valuable sovereign networks. ACA holders not only collectively own the dSWF, but also can collectively decide how to deploy the dSWF. The funds in the dSWF are essentially the Assets Under Management (AUM) of the Acala network. You can fork the code, the liquidity, and even the community, but you cannot fork AUM.
+ผ่าน dSWF และการกำกับดูแล Acala จะกลายเป็นหน่วยงานอธิปไตยทางเศรษฐกิจและการเมือง (การตัดสินใจและการดำเนินการ) จะเป็นผู้บุกเบิกแนวทางใหม่ของ DAO — DAO 3.0 เช่นเดียวกับกองทุน Sovereign Wealth Fund ของนอร์เวย์ dSWF ของ Acala จะลงทุนส่วนเกินของเครือข่ายในสินทรัพย์ต่างประเทศ โดยเริ่มจาก DOT และ KSM และค่อยๆ กระจายไปสู่สินทรัพย์อื่นๆ เพื่อวัตถุประสงค์ในการเข้าถึงความปลอดภัยของเครือข่าย การสร้างความมั่งคั่งในระยะยาว และถือ staking ในเชิงกลยุทธ์ใน เครือข่ายอธิปไตยอันทรงคุณค่า ผู้ถือ ACA ไม่เพียงแต่เป็นเจ้าของ dSWF เท่านั้น แต่ยังสามารถตัดสินใจร่วมกันว่าจะปรับใช้ dSWF อย่างไร เงินทุนใน dSWF เป็นสินทรัพย์ภายใต้การจัดการ (AUM) ของเครือข่าย Acala โดยพื้นฐาน คุณสามารถ fork code, สภาพคล่อง และแม้แต่ชุมชนได้ แต่คุณไม่สามารถ fork AUM ได้
 
-More details in the [dSWF Whitepaper](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf).
+รายละเอียดเพิ่มเติมใน [dSWF Whitepaper](https://github.com/AcalaNetwork/Acala-white-paper/blob/master/Building_a_Decentralized_Sovereign_Wealth_Fund.pdf)
 
-# Join Us
+# ร่วมกับเรา
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+หากต้องการติดตามความคืบหน้าในการเปิดตัว Acala Parachain สามารถสมัครรับข้อมูลได้ที่ [จดหมายข่าวของ Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot, making fast and easy to use financial applications available to everyone. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ทำให้ทุกคนสามารถเข้าถึงแอปพลิเคชันทางการเงินที่รวดเร็วและง่ายดาย แพลตฟอร์มนำเสนอชุดพื้นฐานทางการเงิน: stablecoin ค้ำประกันที่มีความหลากหลายซึ่งได้รับการสนับสนุนจากทรัพย์สิน cross-chain เช่น Bitcoin อนุพันธ์ trustless staking และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มเปิดตามความจริง(de facto) สำหรับแอปพลิเคชันด้านการเงินเพื่อใช้ smart contract หรือโปรโตคอลในตัวที่มีความสามารถ cross-chain, ความปลอดภัย และการเพิ่มประสิทธิภาพทางการเงิน
