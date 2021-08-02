@@ -52,15 +52,15 @@ Acala ได้ public parachain slot แรกบน Rococo
 
 พลิกโฉมความเป็นไปได้ของ DeFi กับ DeFi platform ที่รวมทุกอย่างในหนึ่งเดียวจาก Karura
 
-การนับถอยหลังได้เริ่มขึ้นแล้ว! ทางทีมของเราได้ทำงานเพื่อเตรียมตัวสำหรับงาน Karura Crowdloan ที่กำลังจะเกิดขึ้นและตามมาด้วยการประมูล Kusama Parachain พวกเรายินดีที่จะเปิดตัว [เว็บไซต์ Karura](https://acala.network/karura) ในเว็บไซต์ได้นำเสนอรูปร่าง user interface ของ Karura พร้อมด้วยภาพรวมของโปรดักจาก Defi และเนทีพโทเค็นอย่าง KAR Karura is a scalable, EVM-compatible DeFi network with a suite of financial applications, including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+การนับถอยหลังได้เริ่มขึ้นแล้ว! ทางทีมของเราได้ทำงานเพื่อเตรียมตัวสำหรับงาน Karura Crowdloan ที่กำลังจะเกิดขึ้นและตามมาด้วยการประมูล Kusama Parachain พวกเรายินดีที่จะเปิดตัว [เว็บไซต์ Karura](https://acala.network/karura) ในเว็บไซต์ได้นำเสนอรูปร่าง user interface ของ Karura พร้อมด้วยภาพรวมของโปรดักจาก Defi และเนทีพโทเค็นอย่าง KAR Karura คือเน็ตเวิร์ค DeFi ที่สามารถทำงานได้กับ EVM และปรับขนาดได้ ที่มาพร้อมชุดแอพพลิเคชั่นทางการเงินซึ่งร่วมถึง trustless staking derivative (liquid KSM), การใช้สเตเบิ้ลคอยหลายๆชนิดเป็นหลักประกันด้วยสินทรัพย์ cross-chain (kUSD) และ AMM DEX ซึ่งทั้งหมดนี้มีค่าใช้จ่ายเพียงน้อยนิดเท่านั้น
 
-For more information on Karura’s DeFi DApps and its path to launch, check out our recent [deep dive](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f) or watch our [presentation on the upcoming Polkadot and Kusama Crowdloans.](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ DeFi DApps ของ Karura และการเปิดตัวโปรดัก โปรดดู[ข้อมูลแบบเจาะลึก](https://medium.com/acalanetwork/countdown-to-karura-a-deep-dive-on-the-defi-hub-of-kusama-410066fc1e1f)ล่าสุดของเราหรือดู[การพรีเซ็นเกี่ยวกับ Polkadot และ Kusama Crowdloans ที่กำลังจะมีขึ้น](https://www.youtube.com/watch?v=qQuzRTsiJa4&t=115s)
 
-# Acala unveils new logo
+# Acala เปิดตัวโลโก้แบบใหม่
 
 ![](https://miro.medium.com/max/2072/0\*IGwkNLwEePOYWKrw)
 
-We’re pleased to introduce a new logo on all Acala community channels. With this vibrant and more balanced design — which features our Acala “A” and its components fully and fluidly reinforcing itself within a three-dimensional form — we hope for this new logo to exhibit the support and sustainability so prevalent within the Acala ecosystem and its community. In addition, Acala is centered by two circles, representing the platform’s security and stability, two core tenets that we intend to uphold. Expect to see more of our brand refresh in the coming weeks.
+พวกเราภูมิใจที่จะนำเสนอโลโก้แบบใหม่ของ Acala แก่ช่องทางต่างๆของ Acala With this vibrant and more balanced design — which features our Acala “A” and its components fully and fluidly reinforcing itself within a three-dimensional form — we hope for this new logo to exhibit the support and sustainability so prevalent within the Acala ecosystem and its community. In addition, Acala is centered by two circles, representing the platform’s security and stability, two core tenets that we intend to uphold. Expect to see more of our brand refresh in the coming weeks.
 
 ## Upcoming Events
 
