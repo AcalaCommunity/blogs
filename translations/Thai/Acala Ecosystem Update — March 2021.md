@@ -60,17 +60,17 @@ Acala ได้ public parachain slot แรกบน Rococo
 
 ![](https://miro.medium.com/max/2072/0\*IGwkNLwEePOYWKrw)
 
-พวกเราภูมิใจที่จะนำเสนอโลโก้แบบใหม่ของ Acala แก่ช่องทางต่างๆของ Acala With this vibrant and more balanced design — which features our Acala “A” and its components fully and fluidly reinforcing itself within a three-dimensional form — we hope for this new logo to exhibit the support and sustainability so prevalent within the Acala ecosystem and its community. In addition, Acala is centered by two circles, representing the platform’s security and stability, two core tenets that we intend to uphold. Expect to see more of our brand refresh in the coming weeks.
+พวกเราภูมิใจที่จะนำเสนอโลโก้แบบใหม่ของ Acala แก่ช่องทางต่างๆของ Acala ด้วยลวดลายที่สดใสและการออกแบบมีที่ความสมดุลมากขึ้น — ซึ่งมี A จาก Acala ของเราและส่วนประกอบที่ลื่นไหลภายในรูปแบบสามมิติ — พวกเราหวังว่าโลโก้อันใหม่นี้จะแสดงการสนับสนุนและความยั่งยืนภายในระบบนิเวศของ Acala และคอมมูนินี้ นอกจากนี้ Acala คือศูนย์กลางของวงกลมสองวงซึ่งแสดงถึงความปลอดภัยและความstability นั้นคือหลักสองประการที่พวกเราตั้งใจจะรักษาไว้ คาดว่าจะเห็นการรีเฟรชแบรนด์ของเรามากขึ้นในอีกไม่กี่สัปดาห์ข้างหน้านี้
 
-## Upcoming Events
+## เหตุการณ์ที่จะเกิดขึ้น
 
-- [What is Karura](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) — Curious about Acala’s sister-network Karura. Join our team for a presentation on Karura and get ready for the DeFi Hub of Kusama. [Register here!](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
-- [Chainlink Hackathon](https://chain.link/hackathon) — Acala is excited to support Chainlink 2021 with two Acala EVM Challenges. Join us and other sponsors for the closing ceremonies on April 16.
+- [อะไรคือ Karura](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile) — อยากรู้เกี่ยวกับเน็ตเวิร์คพี่น้องของ Acala อย่าง Karura เข้าร่วมทีมของเราสำหรับการพรีเซ็นเกี่ยวกับ Karura และเตรียมพร้อมสำหรับ DeFi Hub of Kusama [สมัครที่นี่!](https://www.crowdcast.io/e/what-is-karura/register?utm_source=profile&utm_medium=profile_web&utm_campaign=profile)
+- [Chainlink Hackathon](https://chain.link/hackathon) — Acala รู้สึกตื่นเต้นที่จะสนับสนุน Chainlink 2021 ด้วย สอง Acala EVM Challenges รายการ เข้าร่วมกับเราและผู้สนับสนุนอื่น ๆ ในพิธีปิดในวันที่ 16 เมษายน
 
 ![](https://miro.medium.com/max/2402/0\*vfld\_ERpJGvSAJnD.png)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-Acala is the all-in-one DeFi hub of Polkadot. Acala is an Ethereum-compatible platform for financial applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities and robust security. The platform also offers a suite of financial applications including: a trustless staking derivative (liquid DOT), a multi-collateralized stablecoin backed by cross-chain assets (aUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+Acala คือศูนย์กลาง DeFi แบบครบวงจรบนเน็ตเวิร์ค Polkadot Acala เป็นแพลตฟอร์มที่สามารถทำงานร่วมกับ Ethereum สำหรับแอพลิเคชั่นทางด้านการเงินสำหรับการใช้งาน smart contracts หรือโปรโตคอลที่สร้างมาพร้อมกับความสามารถ out-of-the-box cross-chain และความปลอดภัยที่แข็งแกร่ง แพลตฟอร์มยังมีชุดแอพพลิเคชั่นทางการเงิน ได้แก่ trustless staking derivative (liquid DOT) เหรียญ stablecoin แบบหลากหลายหลักประกันที่ได้รับการสนับสนุนจากสินทรัพย์ cross-chain (aUSD) และ AMM DEX ซึ่งทั้งหมดนี้มีค่าธรรมเนียมอันน้อยนิดซึ่งสามารถชำระได้กับโทเค็นต่าง ๆ
 
 [Linktree](https://linktr.ee/acalanetwork)| [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
