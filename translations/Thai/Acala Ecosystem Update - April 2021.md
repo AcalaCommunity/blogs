@@ -1,8 +1,8 @@
-# Acala Ecosystem Update — April 2021
+# อัพเดตความเคลื่อนไหวจาก Acala Ecosystem - เมษายน 2564
 
 ![](https://miro.medium.com/max/1600/1*XOEVr_D6cvZjXJpD19P1bQ.png)
 
-April was a month highlighted by a few key events that will help shape the direction of both Acala and Karura’s networks — most notably our grant from Compound Grants, our integration with Chainlink oracles, and our partnership with Gauntlet. We also completed our first Build Acala event, which was a community-oriented event to begin bootstrapping the Acala Treasury. Last, our team was out in the cryptosphere talking about Acala, Karura, Polkadot, Kusama, crowdloans, and more, so check out those videos below.
+เดือนเมษายนก็เป็นอีกหนึ่งเดือนที่ถูกไฮไลท์โดยงานอีเวนต์หลักๆสองสามงาน ซึ่งงานเหล่านี้ช่วยกำหนดทิศทางของทั้งเน็ตเวิร์ค Acala และ Karura — เหตุการณ์ที่โดดเด่นที่สุดก็คือการได้รับทุนจาก Compound Grants, การบูรณาการกับ Chainlink oracles และการพาทเนอร์กันกับ Gauntlet เรายังเสร็จสิ้นกิจกรรม Build Acala ครั้งแรกของเราอีกด้วย กิจกรรมนี้เป็นกิจกรรมที่เน้นไปทางด้านคอมมูนิตี้เพื่อเริ่มต้นการบูตสแตรปของ Acala Treasury สุดท้ายนี้ ทีมงานของเราได้พูดคุยเกี่ยวกับ Acala, Karura, Polkadot, Kusama, crowdloans และอีกมากมาย ดังนั้นโปรดดูวิดีโอด้านล่างนี้
 
 ## **Acala Receives Compound Grant for Starport**
 
