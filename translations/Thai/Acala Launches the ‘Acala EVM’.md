@@ -1,4 +1,4 @@
-# **Acala Launches the ‘Acala EVM’ for DeFi on Polkadot | Ethereum Compatibility with Unlimited Substrate Functionality**
+# **Acala เปิดตัว 'Acala EVM' สำหรับ DeFi บน Polkadot | ความเข้ากันได้ของ Ethereum กับฟังก์ชันของ Substrate แบบไม่จำกัด**
 
 ![Image for post](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
 
