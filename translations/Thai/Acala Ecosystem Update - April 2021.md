@@ -4,15 +4,15 @@
 
 เดือนเมษายนก็เป็นอีกหนึ่งเดือนที่ถูกไฮไลท์โดยงานอีเวนต์หลักๆสองสามงาน ซึ่งงานเหล่านี้ช่วยกำหนดทิศทางของทั้งเน็ตเวิร์ค Acala และ Karura — เหตุการณ์ที่โดดเด่นที่สุดก็คือการได้รับทุนจาก Compound Grants, การบูรณาการกับ Chainlink oracles และการพาทเนอร์กันกับ Gauntlet เรายังเสร็จสิ้นกิจกรรม Build Acala ครั้งแรกของเราอีกด้วย กิจกรรมนี้เป็นกิจกรรมที่เน้นไปทางด้านคอมมูนิตี้เพื่อเริ่มต้นการบูตสแตรปของ Acala Treasury สุดท้ายนี้ ทีมงานของเราได้พูดคุยเกี่ยวกับ Acala, Karura, Polkadot, Kusama, crowdloans และอีกมากมาย ดังนั้นโปรดดูวิดีโอด้านล่างนี้
 
-## **Acala Receives Compound Grant for Starport**
+## **Acala ได้รับทุน Compound Grant สำหรับสร้าง Starport**
 
-Acala has received one of the first Compound Grants for our proposal to integrate with Compound Chain and implement its cross-chain interface, Starport.
+Acala ได้รับทุนของ Compound Grants ครั้งแรกสำหรับข้อเสนอจากทางทีมของเราเพื่อบูรณาการกับเชน Compound และสร้างอินเตอร์เฟซสำหรับ cross-chain ที่มีชื่อว่า Starport
 
-One of the leading DeFi teams first built on Ethereum, Compound has recently launched the Compound Gateway testnet — an independent cross-chain money market blockchain built with Substrate.
+หนึ่งในทีมชั้นนำผู้สร้าง Defi ครั้งแรกบน Ethereum, Compound ได้เพิ่งเปิดตัว Compound Gateway testnet เมื่อเร็วๆนี้ — บล็อคเชนตลาดการเงิน cross-chain ที่มีความเป็นอิสระที่สร้างด้วย Substrate
 
-Acala’s Starport project will enable us to bring Compound’s services and CASH token (Compound’s interest-bearing token) to Acala and Polkadot, and introduce DOT and Liquid DOT (LDOT) as new collateral assets to the Compound money market. Read more in the full blog post:
+โปรเจ็ค Starport ของ Acala จะช่วยให้เรานำบริการของ Compound และโทเค็น CASH (Compound’s interest-bearing token) สู่ Acala และ Polkadot นอกนั้นนั้นยังแนะนำ DOT และ Liquid DOT (LDOT) เป็นสินทรัพย์หลักประกันใหม่ในตลาดการเงินของ Compound อ่านเพิ่มเติมในโพสต์บล็อกแบบเต็มได้ที่:
 
-[Acala Receives Compound Grant to Connect Compound Chain and Polkadot via Acala](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a)
+[Acala ได้รับทุน Compound Grant เพื่อเชื่อมต่อระหว่างเชน Compound และ Polkadot ผ่าน Acala](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a)
 
 ## **Build Acala Event**
 
