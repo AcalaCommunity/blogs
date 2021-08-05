@@ -2,9 +2,9 @@
 
 ![Image for post](https://miro.medium.com/max/6000/1*FNYYia98MytjFEU1Dtuzqw.png)
 
-## The Acala EVM leverages the best of Ethereum while unlocking Substrate’s full potential with a composable, single-wallet, Acala-EVM-Substrate-WASM experience with ‘bring your own gas’, on-chain auto-scheduling, and more.
+## Acala EVM ใช้ประโยชน์จาก Ethereum ที่ดีที่สุดในขณะที่ปลดล็อกศักยภาพของ Substrate ด้วยความสามารถการประกอบได้, กระเป๋าเดี่ยว, ประสบการณ์ Acala-EVM-Substrate-WASM พร้อมกับ 'นำแก๊สของคุณมาเอง', การตั้งเวลาอัตโนมัติบนเชนและอื่น ๆ
 
-Acala’s engineering team has custom-built and launched the Acala EVM! This innovation, novel to the Polkadot ecosystem, enables Acala to provide Solidity, Substrate, and Web3 developers a complete full-stack (Acala+EVM+Substrate+WASM) experience seamlessly with a single wallet. Acala EVM also brings protocol composability for EVM and Substrate runtime (aka pallets) and enables developers to build and deploy DApps on Acala with exceptional tooling support.
+ทีมวิศวกรของ Acala ได้สร้างและเปิดตัว Acala EVM! This innovation, novel to the Polkadot ecosystem, enables Acala to provide Solidity, Substrate, and Web3 developers a complete full-stack (Acala+EVM+Substrate+WASM) experience seamlessly with a single wallet. Acala EVM also brings protocol composability for EVM and Substrate runtime (aka pallets) and enables developers to build and deploy DApps on Acala with exceptional tooling support.
 
 Just like Ethereum can do things Bitcoin will never be able to do, which subsequently inspired many new innovations, Substrate and Polkadot are categorically different from Ethereum in a way that will empower many new, chain-level innovations outside of the EVM sandbox. We are firm believers in the power of Substrate and built the Acala EVM to optimize for Substrate’s full potential and longevity, rather than simply redeploying Ethereum on Polkadot.
 
