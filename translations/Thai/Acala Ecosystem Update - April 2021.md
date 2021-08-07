@@ -80,6 +80,6 @@ Acala ก่อตั้งขึ้นในเดือนตุลาคม 2
 
 # เกี่ยวกับ Karura
 
-[Karura](http://acala.network/karura) คือ DeFi Hub แบบครบวงจรของ Kusama ก่อตั้งโดย Acala Foundation, Karura เป็นเครือข่ายที่ปรับขนาดได้และสามารถทำงานร่วมกับ EVM ได้ซึ่งเป็นปรับให้เหมาะสมสำหรับ DeFi The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+[Karura](http://acala.network/karura) คือ DeFi Hub แบบครบวงจรของ Kusama ก่อตั้งโดย Acala Foundation, Karura เป็นเครือข่ายที่ปรับขนาดได้และสามารถทำงานร่วมกับ EVM ได้ซึ่งเป็นปรับให้เหมาะสมสำหรับ DeFi ตัวแพลตฟอร์มให้บริการชุดแอพพลิเคชั่นทางการเงิน ได้แก่ trustless staking derivative (liquid KSM) เหรียญสเตเบิ้ลที่สามารถนำมาใช้เป็นหลักประกันได้ในหลายสกุลซึ่งได้รับการสนับสนุนจากสินทรัพย์แบบ cross-chain (kUSD) และ AMM DEX ทั้งหมดนี้มีค่าธรรมเนียมเพียงน้อยนิดเท่านั้นและสามารถชำระด้วยโทเค็นอะไรก็ได้
 
 [Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
