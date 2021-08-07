@@ -20,56 +20,66 @@ Acala ได้รับทุนของ Compound Grants ครั้งแร
 
 ## **มีเดียของ Acala & Karura**
 
-[**Dan Reecer**](https://twitter.com/danreecer_) discussed the crowdloan and parachain auction process for Kusama and Polkadot at the Blockdown conference:
+[**Dan Reecer**](https://twitter.com/danreecer_) สนทนาเกี่ยวกับขั้นตอนการประมูล crowdloan และ parachain สำหรับ Kusama และ Polkadot ในการประชุม Blockdown:
 
-[**Bette Chen**](https://twitter.com/bettechentt) on a Web 3.0 panel at theBlockdown conference:
+[**Bette Chen**](https://twitter.com/bettechentt) ปรากฎตัวบน Web 3.0 ที่การประชุม Blockdown:
 
-## **Karura + Chainlink Integration**
+## **การรวมตัวของ Karura + Chainlink**
 
-[Karura](https://acala.network/karura) has integrated [Chainlink Price Feeds](https://data.chain.link/). Chainlink’s decentralized price oracles provide Karura smart contract developers with tamper-proof, hyper-reliable, and precise financial market data directly on-chain. Developers can use that data to quickly start building secure DeFi applications and products across numerous use cases like derivatives, lending, stablecoins, asset management, and more.
+[Karura](https://acala.network/karura) ได้นำ [Chainlink Price Feeds](https://data.chain.link/) มาใช้งาน Decentralized price oracles ของ Chainlink ให้ข้อมูลตลาดการเงินที่ป้องกันการปลอมแปลง เชื่อถือได้สูง และแม่นยำโดยตรงบนเครือข่ายแก่นักพัฒนา smart contract ของ Karura นักพัฒนาสามารถใช้ข้อมูลดังกล่าวเพื่อเริ่มสร้างแอปพลิเคชันและผลิตภัณฑ์แอพลิเคชั่น DeFi ที่ปลอดภัยได้อย่างรวดเร็วในหลายๆกรณี เช่น อนุพันธ์ การให้ยืมเงิน เหรียญสเตเบิ้ล การจัดการสินทรัพย์ และอื่นๆ
 
-This integration was made possible by the recent launch of a [Chainlink oracle pallet](https://polkadot.network/chainlink-makes-oracle-pallet-available-to-all-substrate-polkadot-and-kusama-chains-2/), which gives all projects within the Polkadot ecosystem, including parachains, substrate chains, and Kusama parachains like Karura, a standardized way to natively integrate Chainlink oracles. With Chainlink Price Feeds already pre-made, resistant to manipulation (e.g. to protect against flash loan attacks), and actively securing billions of dollars in value across DeFi, we believe Karura developers will greatly benefit from integrating them as their go-to price oracle solution. Read more in the full blog post:
+การรวมตัวนี้เกิดขึ้นได้ด้วยการเปิดตัว [Chainlink oracle pallet](https://polkadot.network/chainlink-makes-oracle-pallet-available-to-all-substrate-polkadot-and-kusama-chains-2/) เมื่อเร็ว ๆ นี้ ซึ่งทำให้ทุกโครงการภายในระบบนิเวศของ Polkadot รวมไปถึง Parachains, Substrate Chains และ Kusama Parachains เช่น Karura มีวิธีมาตรฐานในการนำ Chainlink oracles ไปใช้งาน ด้วย Chainlink Price Feeds ที่สร้างไว้ล่วงหน้าแล้ว ทนทานต่อการเปลี่ยนแปลงราคา (เช่น เพื่อป้องกันการโจมตี Flash Loan) และการรักษาความปลอดภัยมูลค่าหลายพันล้านดอลลาร์ในโลกของ DeFi เราเชื่อว่านักพัฒนาของ Karura จะได้รับประโยชน์อย่างมากจากการนำวิธี go-to price oracle มาใช้งาน อ่านข้อมูลเพิ่มเติมได้ในโพสต์บล็อก:
 
-[Karura Integrates Chainlink Price Feeds for Acala’s Kusama-based DeFi Hub](https://medium.com/acalanetwork/karura-chainlink-cddd5f23a93e)
+[Karura นำ Price Feeds ของ Chainlink มาใช้สำหรับ Kusama-based DeFi Hub ของ Acala](https://medium.com/acalanetwork/karura-chainlink-cddd5f23a93e)
 
-## **Gauntlet Partners with Acala & Karura**
+## **Gauntlet ร่วมมือกับ Acala & Karura**
 
-**Acala** and **Karura** have entered into a strategic partnership with [**Gauntlet**](http://gauntlet.network/). Gearing up for Acala’s Kusama-based launch of [Karura](http://acala.network/karura), Gauntlet will build a financial model for Karura with a focus on market risks like solvency and capital efficiency. This model will also be refined and extended for Acala on the Polkadot at launch.
+**Acala** และ **Karura** ได้เข้าร่วมเป็นพันธมิตรเชิงกลยุทธ์กันกับ [**Gauntlet**](http://gauntlet.network/) การเตรียมพร้อมสำหรับการเปิดตัวของ [Karura](http://acala.network/karura) ซึ่งเป็นตัวโปรดักของ Acala ที่อ้างอิงมาจาก Kusama นั้น ทาง Gauntlet จะสร้างแบบจำลองทางการเงินสำหรับ Karura โดยเน้นไปที่ความเสี่ยงด้านตลาด เช่น ความสามารถในการชำระหนี้และประสิทธิภาพของเงินทุน โมเดลนี้จะได้รับการปรับปรุงและขยายมาสู่ Acala บน Polkadot ในเวลาเปิดตัว
 
-**Gauntlet** is a simulation platform for on-chain risk management. Gauntlet has performed market risk assessments for [Compound](https://gauntlet.network/reports/compound), [MakerDAO](https://maker-report.gauntlet.network/), [Liquity](https://liquity-report.gauntlet.network/), [Notional](https://notional-report.gauntlet.network/), [Aave](https://www.google.com/url?q=https://gauntlet.network/reports/aave&sa=D&source=editors&ust=1620757829310000&usg=AOvVaw3y5W7MBStjIx2EO6Nq44UL), and more. They are active participants in numerous communities and governance processes — including Uniswap and Compound where they are top delegates. Gauntlet’s [risk scores](https://risk.gauntlet.network/) can be found on DeFi Pulse where they provide Economic Safety Grades for lending protocols. Most recently, Gauntlet has partnered with [Balancer](https://medium.com/gauntlet-networks/balancer-v2-pools-trading-fee-methodology-7a65df671b8c) to dynamically set pool trading fees to maximize the returns of liquidity providers. Read more in the full blog post:
+**Gauntlet** คือแพลตฟอร์มจำลองสำหรับการจัดการความเสี่ยงแบบ on-chain Gauntlet ได้ทำการประเมินความเสี่ยงในตลาดสำหรับ [Compound](https://gauntlet.network/reports/compound), [MakerDAO](https://maker-report.gauntlet.network/), [Liquity](https://liquity-report.gauntlet.network/), [Notional](https://notional-report.gauntlet.network/),
 
-[Gauntlet to Provide Automated Financial Risk Management for Acala and Karura](https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)
+Aave</4 > และอีกมากมาย พวกเขาเป็นผู้มีส่วนร่วมอย่างขยันแข็งขันในหลายๆคอมมูนิตี้และกระบวน governance — รวมถึง Uniswap และ Compound ซึ่งพวกเขาเป็นตัวแทนอันดับต้นๆ [คะแนนความเสี่ยง](https://risk.gauntlet.network/)ของ Gauntlet สามารถหาได้ใน DeFi Pulse ซึ่งพวกเขาให้บริการระดับความปลอดภัยทางเศรษฐกิจสำหรับโปรโตคอลการให้กู้ยืม ล่าสุด Gauntlet ได้ร่วมมือกับ [Balancer](https://medium.com/gauntlet-networks/balancer-v2-pools-trading-fee-methodology-7a65df671b8c) เพื่อกำหนดค่าธรรมเนียมการซื้อขายแบบไดนามิกเพื่อเพิ่มผลตอบแทนสูงสุดให้แก่ผู้ให้บริการสภาพคล่อง อ่านเพิ่มเติมในโพสต์บล็อก:</p> 
 
-## **Karura Product Demos**
+[Gauntlet ให้บริการการจัดการความเสี่ยงทางการเงินอัตโนมัติสำหรับ Acala และ Karura](https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)
 
-In April, [Ruitao Su](https://twitter.com/ruitao_su) and Dan Reecer held a webinar to demonstrate Karura’s three core products: the Karura DEX, kUSD stablecoin loans, and Liquid KSM (LKSM) staking. Check out the clips of the product demos below!
 
-**_Stay liquid while staking KSM with LKSM:_**
 
-**_Perform swaps with the Karura DEX:_**
+## **โชว์เดโมโปรดักของ Karura**
 
-**_Borrow kUSD on Karura:_**
+ในเดือนเมษายน [Ruitao Su](https://twitter.com/ruitao_su) และ Dan Reecer ได้จัดสัมมนาผ่านเว็บเพื่อสาธิตผลิตภัณฑ์หลัก 3 ตัวของ Karura: Karura DEX, เงินกู้ kUSD stablecoin และ Liquid KSM (LKSM) staking ชมคลิปสาธิตผลิตภัณฑ์ด้านล่างได้เลย!
 
-## **Learn how Crowdloans and Parachain Auctions work**
+**_รักษาสภาพคล่องในขณะที่ staking KSM ด้วย LKSM:_**
 
-Kusama crowdloans and parachain auctions are rapidly approaching. Make sure you’re up to speed on how the process works, and stay tuned for more educational videos on the details of how to participate in the Karura crowdloan.
+**_ทำการแลกเปลี่ยนกับ Karura DEX:_**
 
-Have a great month of May! Until next time,
+**_การยืม kUSD บน Karura_**
 
-The Acala Team
+
+
+## **เรียนรู้วิธีการทำงานของ Crowdloans และ Parachain Auction**
+
+Kusama crowdloans และการประมูล parachain กำลังใกล้เข้ามาอย่างรวดเร็ว ตรวจสอบให้แน่ใจว่าคุณมีความรู้ความเข้าใจการทำงานในขั้นตอนและกระบวนการต่างๆ และคอยติดตามวิดีโอเพื่อการศึกษาเพิ่มเติมเกี่ยวกับรายละเอียดวิธีการเข้าร่วมใน Karura crowdloan
+
+ขอให้เป็นเดือนพฤษภาคมที่ดี! จนกว่าจะเจอกันในครั้งต่อไป
+
+ทีม Acala
 
 ![](https://miro.medium.com/max/2402/0\*kyqlUg4IuiRNKR4P.png)
 
-# **About Acala**
 
-[Acala](http://acala.network) is an all-in-one decentralized finance network offering a blockchain platform secured by Polkadot, as well as a suite of cross-chain financial applications that let users trade, issue self-serviced loans, become liquidity providers, access staking derivatives, and earn high-interest APY on their digital assets. The network is scalable, Ethereum-compatible, and optimized for DeFi.
 
-Acala was founded in Oct 2019, and today has received five Web3 Foundation grants, has backing from Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere and other top firms, and has a distributed team in New Zealand, China, Europe, Brazil, and the United States.
+# **เกี่ยวกับ Acala**
+
+[Acala](http://acala.network) เป็นเครือข่ายการเงินแบบdecentralized ครบจบในที่เดียว ที่นำเสนอแพลตฟอร์มบล็อกเชนที่มีความปลอดภัยบน Polkadot ตลอดจนชุดแอปพลิเคชันทางการเงินแบบ cross-chain ที่อนุญาตให้ผู้ใช้ซื้อขาย ออกสินเชื่อแบบบริการตนเอง กลายเป็นผู้ให้สภาพคล่อง เข้าถึงอนุพันธ์ โดยการ Stake และรับผลตอบแทนเป็นดอกเบี้ยสูงจากสินทรัพย์ดิจิทัลของพวกเขา เครือข่ายสามารถปรับขนาดได้ รองรับการเชื่อมต่อกับ Ethereum และปรับให้เหมาะสมสำหรับ DeFi
+
+Acala ก่อตั้งขึ้นในเดือนตุลาคม 2019 และวันนี้ได้รับทุนสนับสนุนจาก Web3 Foundation เป็นจำนวนห้าครั้ง โดยได้รับการสนับสนุนจาก Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere และบริษัทชั้นนำอื่นๆ และมีทีมกระจายอยู่ในนิวซีแลนด์ จีน ยุโรป บราซิล และ สหรัฐ.
 
 [Linktree](https://linktr.ee/acalanetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
 
-# About Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+
+# เกี่ยวกับ Karura
+
+[Karura](http://acala.network/karura) คือ DeFi Hub แบบครบวงจรของ Kusama ก่อตั้งโดย Acala Foundation, Karura เป็นเครือข่ายที่ปรับขนาดได้และสามารถทำงานร่วมกับ EVM ได้ซึ่งเป็นปรับให้เหมาะสมสำหรับ DeFi The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
 
 [Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
