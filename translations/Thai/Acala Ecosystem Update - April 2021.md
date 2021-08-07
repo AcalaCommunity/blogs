@@ -14,11 +14,11 @@ Acala ได้รับทุนของ Compound Grants ครั้งแร
 
 [Acala ได้รับทุน Compound Grant เพื่อเชื่อมต่อระหว่างเชน Compound และ Polkadot ผ่าน Acala](https://medium.com/acalanetwork/acala-receives-compound-grant-to-connect-compound-chain-and-polkadot-via-acala-a055d391e94a)
 
-## **Build Acala Event**
+## **อีเวนต์ Build Acala**
 
-In April, Acala hosted the first Build Acala event to begin bootstrapping the Acala Treasury. Although participation in Build Acala was limited, we are very happy to have been able to involve so many of you. For those who were unable to participate, please note that any registrants with a verified status will have a chance to participate in future events, and additionally, any registrants with an incomplete status will have a chance to complete KYC and verification at a later date. Sign up for the [**Acala newsletter**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) to be kept in the loop about future events. Read more about Build Acala [here](https://info.acala.network/).
+ในเดือนเมษายน Acala ได้จัดงาน Build Acala เป็นครั้งแรกเพื่อเริ่มต้นการบูตสแตรปของ Acala Treasury แม้ว่าการเข้าร่วม Build Acala นั้นจะมีอย่างจำกัด แต่ทางเราก็ยินดีเป็นอย่างยิ่งที่ได้มีส่วนร่วมมากมายกับพวกคุณ สำหรับผู้ที่ไม่สามารถเข้าร่วมงานอีเวนต์ได้นั้น โปรดทราบว่าผู้ใดที่ลงทะเบียนและสถานะได้รับการยืนยันจะมีโอกาสเข้าร่วมในกิจกรรมอื่นๆในอนาคต และนอกจากนี้ ผู้ลงทะเบียนที่มีสถานะไม่สมบูรณ์จะมีโอกาสดำเนินการ KYC และการตรวจสอบยืนยันในภายหลัง ลงชื่อสำหรับ [**Acala newsletter**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) เพื่อรับทราบเหตุการณ์ในอนาคต อ่านเพิ่มเติมเกี่ยวกับ Build Acala [ที่นี่](https://info.acala.network/)
 
-## **Acala & Karura Media**
+## **มีเดียของ Acala & Karura**
 
 [**Dan Reecer**](https://twitter.com/danreecer_) discussed the crowdloan and parachain auction process for Kusama and Polkadot at the Blockdown conference:
 
