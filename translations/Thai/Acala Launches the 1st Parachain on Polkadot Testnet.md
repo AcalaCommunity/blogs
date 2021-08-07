@@ -1,6 +1,6 @@
 # Acala เปิดตัว Parachain ตัวแรกบน Polkadot Testnet
 
-![Image for post](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
+![รูปภาพจากโพส](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
 
 เราได้บรรลุเป้าหมายสำคัญของพวกเราในการเปิดตัว Acala เป็น Parachain บน Polkadot — เราได้เปิดตัว Acala Mandala PC1 (Parachain Candidate 1) testnet เป็น parachain ตัวแรกใน [Rococo — Parachain testnet ของ Polkadot](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56)
 
@@ -42,6 +42,6 @@ Rococo ได้เปิดใช้งาน Parachain consensus และก�
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-![Image for post](https://miro.medium.com/max/1500/0*YTeYSsHAVjOBCZu8.jpeg)
+![รูปภาพจากโพส](https://miro.medium.com/max/1500/0*YTeYSsHAVjOBCZu8.jpeg)
 
-Acala is a proud Web3 Foundation Grantee
+Acala ภาคภูมิใจที่เป็นผู้รับทุนจากมูลนิธิ Web3
