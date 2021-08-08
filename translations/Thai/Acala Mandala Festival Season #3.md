@@ -1,6 +1,6 @@
-# Acala Mandala Festival Season #3
+# เทศกาล Acala Mandala ครั้งที่3
 
-🎉 Get ready for three weeks of DeFi action starting July 27! 🎉
+🎉 เตรียมตัวให้พร้อมกับแอ็คชั่น DeFi เป็นเวลาสามสัปดาห์ เริ่ม 27 กรกฎาคมนี้! 🎉
 
 ![Image for post](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
 
