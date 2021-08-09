@@ -1,31 +1,31 @@
-# Acala Unveils Smart Contracts and Ethereum Compatibility for Polkadot DeFi
+# Acala เปิดตัวสัญญาอัจฉริยะ (Smart contract) และความสามารถในการทำงานร่วมกับ Ethereum สำหรับ Polkadot DeFi
 
-## Acala now supports the EVM and ink! pallets on Substrate, enabling Solidity and Wasm-based Smart Contracts for developers
+## Cala รองรับ EVM และ Ink แล้วนะ! pallets บน Substrate, enabling Solidity and Wasm-based Smart Contracts for developers
 
 ![Image for post](https://miro.medium.com/max/1600/0*-4rCl6SjqDKz7eBh)
 
-By: [Bryan Chen](https://medium.com/u/241f963260c9?source=post_page-----588b3891e53d--------------------------------)
+โดย Bryan Chen
 
-Polkadot is designed both to easily integrate with other blockchains such as Bitcoin and Ethereum (via bridges like Interlay and RenVM), and to host a number of heterogeneous (aka independent and customizable) but interconnected chains, called parachains. Polkadot is more like a layer-0 infrastructure chain, providing the underlying trust layer that comes with shared Proof of Stake (PoS) security and cross-chain communication. The parachain chains are more likely to be domain-specific chains optimized for their use cases and solving specific domain problems, where Acala occupies the domain of decentralized finance. We offer a suite of out-of-the-box DeFi primitives such as a stablecoin (aUSD), staking derivatives (e.g. allowing you to redeem tokens (LDOT) on staked/locked DOT) and a decentralized exchange to power more DeFi innovation. We’ve also open-sourced common utility modules such as an oracle, multi-currency, generic monitoring framework for teams to use.
+Polkadot ได้รับการออกแบบมาให้สามารถทำงานกับบล็อคเชนอื่น ๆ เช่น Bitcoin และ Ethereum ได้อย่างง่ายดาย (ผ่านสะพานเช่น Interlay และ RenVM) และเพื่อโฮสต์ห่วงโซ่ที่แตกต่างกันจำนวนหนึ่ง (หรือที่รู้จักกันในชื่ออิสระและปรับแต่งได้) แต่เชื่อมต่อถึงกันเรียกว่า parachains Polkadot เป็นเหมือนห่วงโซ่โครงสร้างพื้นฐานแบบเลเยอร์-0 โดยมอบเลเยอร์ความน่าเชื่อถือพื้นฐานที่มาพร้อมกับความปลอดภัย Proof of Stake (PoS) ที่ใช้ร่วมกันและการสื่อสารข้ามสายโซ่ Parachain chains มีแนวโน้มที่จะเป็น chain-specific chains ที่ปรับให้เหมาะสมสำหรับกรณีการใช้งานและแก้ปัญหาโดเมนเฉพาะ ซึ่ง Acala ครอบครองโดเมนของ Decentralized Finance เราขอเสนอชุด DeFi ดั้งเดิมที่พร้อมใช้งานทันที เช่น stablecoin (aUSD) อนุพันธ์ Stake (เช่น อนุญาตให้คุณแลกโทเค็น (LDOT) บน Staked/locked DOT) และการแลกเปลี่ยนแบบกระจายอำนาจเพื่อขับเคลื่อนนวัตกรรม DeFi ที่มากขึ้น นอกจากนี้เรายังมีโมดูลยูทิลิตี้ทั่วไปแบบโอเพนซอร์ส เช่น Oracle, หลายสกุลเงิน, กรอบงานการตรวจสอบทั่วไปสำหรับทีมที่จะใช้
 
-Substrate-based parachains like Acala will enjoy the full-tech-stack provided by this framework ranging from low-level technical infrastructure (RPC, web-assembly runtime, peer-2-peer communication etc.), to application-layer modules that enable EVM (Ethereum Virtual Machine) and Smart Contract capabilities. This means in the foreseeable future chain-level innovation and technological advancements will happen at an unprecedented speed with large scale; new capabilities will be plug-and-play via forkless upgrades across all Substrate-based chains easily and seamlessly (see examples on [Substrate marketplace](https://marketplace-staging.substrate.dev/)).
+Substrate-based parachains เช่น Acala จะเพลิดเพลินไปกับ Tech-stack เต็มรูปแบบที่มีให้โดยเฟรมเวิร์กนี้ ตั้งแต่โครงสร้างพื้นฐานทางเทคนิคระดับต่ำ (RPC, รันไทม์ของ web-assembly, การสื่อสารแบบ peer-2-peer เป็นต้น) ไปจนถึงโมดูลระดับแอปพลิเคชันที่เปิดใช้งาน ความสามารถ EVM (Ethereum Virtual Machine) และ Smart Contract ซึ่งหมายความว่าในอนาคตอันใกล้นี้ นวัตกรรมระดับลูกโซ่และความก้าวหน้าทางเทคโนโลยีจะเกิดขึ้นด้วยความเร็วที่ไม่เคยมีมาก่อนในวงกว้าง ความสามารถใหม่จะเป็นแบบ Plug-and-Play ผ่านการอัปเกรดแบบไม่ต้องใช้ส้อมในเครือข่ายที่ใช้ Substrate ทั้งหมดอย่างง่ายดายและต่อเนื่อง (ดูตัวอย่างใน [Substrate Marketplace](https://marketplace-staging.substrate.dev/))
 
-That said, Acala has now enabled Smart Contract capabilities in the following fashions:
+ที่กล่าวว่า Acala ได้เปิดใช้งานความสามารถในการทำสัญญาอัจฉริยะ (Smart Contract) ในรูปแบบต่อไปนี้:
 
-1.  Acala supports the EVM pallet (aka runtime module), which is essentially an Ethereum Virtual Machine implementation on Substrate so that Solidity contracts can be deployed and run on Acala.
-2.  Acala also supports the ink! contract pallet, which enables Wasm (Web Assembly) based Substrate native Smart Contracts written in Rust.
+1.  Acala รองรับพาเลท EVM (หรือที่เรียกว่า module แบบ runtime) ซึ่งโดยพื้นฐานแล้วการใช้งาน Ethereum Virtual Machine บน Substrate เพื่อให้สามารถปรับใช้และรันสัญญา Solidity บน Acala ได้
+2.  Acala ยังสนับสนุน ink อีกด้วย! พาเลทสัญญา ซึ่งเปิดใช้สัญญาสมาร์ทเนทีฟของพื้นผิวที่ใช้ Wasm (Web Assembly) ซึ่งเขียนด้วยภาษา Rust
 
-This update is driven by both technical progression and community interests. Acala is helping a number of protocols exploring cross-chain DeFi deployments on Polkadot, the mechanisms of which we will unpack in this article, and Smart Contracts is certainly one of the important avenues to explore. Hereafter Acala will be more actively collaborating with [Parity](https://www.parity.io/) and others in the ecosystem such as [Moonbeam](https://moonbeam.network/), [Plasm](https://www.plasmnet.io/) and [Edgeware](https://edgewa.re/), and contributing to the EVM and smart contract development.
+การอัปเดตนี้ขับเคลื่อนโดยทั้งความก้าวหน้าทางเทคนิคและความสนใจของชุมชน Acala กำลังช่วยโปรโตคอลจำนวนหนึ่งสำรวจการปรับใช้ DeFi ข้ามสายโซ่บน Polkadot ซึ่งเป็นกลไกที่เราจะแกะกล่องในบทความนี้ และ Smart Contracts ก็เป็นหนึ่งในช่องทางสำคัญในการสำรวจอย่างแน่นอน ต่อจากนี้ Acala จะร่วมมือกับ [Parity](https://www.parity.io/) และอื่น ๆ ในระบบนิเวศอย่างแข็งขันมากขึ้น เช่น [Moonbeam](https://moonbeam.network/), [Plasm](https://www.plasmnet.io/) และ [Edgeware](https://edgewa.re/) และมีส่วนร่วมใน EVM และการพัฒนาสัญญาอัจฉริยะ
 
-# We will now go into depth on the following topics:
+# ตอนนี้เราจะเจาะลึกในหัวข้อต่อไปนี้:
 
-1.  Cross-chain Liquidity via Bridges
-2.  Ways to deploy on Polkadot
-3.  Ways to deploy on Kusama
-4.  Ways to deploy on Acala
-5.  The current state of Smart Contracts on Polkadot
+1.  Cross-chain Liquidity ผ่านการ Bridge
+2.  วิธีการปรับใช้บน Polkadot
+3.  วิธีการปรับใช้บน Kusama
+4.  วิธีการปรับใช้บน Acala
+5.  สถานะปัจจุบันของ Smart Contracts บน Polkadot
 
-# Cross-chain Liquidity via Bridges
+# Cross-chain Liquidity ผ่านการ Bridge
 
 Bridges are interoperable technology to cross assets and messages between two economically sovereign and technologically diverse chains e.g. between Polkadot and Ethereum or Bitcoin. There are different flavors of bridges ranging from centralized and trusted to more decentralized and trustless.
 
