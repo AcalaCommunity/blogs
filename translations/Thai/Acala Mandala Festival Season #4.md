@@ -1,70 +1,70 @@
-# Acala Mandala Festival Season #4 Halloween Give-Back
+# Acala Mandala Festival Season #4 การกลับมาของคืนวันฮาโลวีน
 
 ![Image for post](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
 
-Ever since our inaugural edition back in March, **Mandala Festival** has been our way to showcase new developments, celebrate our progress, and share much joy with the community. We’ve been extremely grateful for your support, enthusiasm, engagement in network activities and discussions.
+นับตั้งแต่เปิดตัวครั้งแรกในเดือนมีนาคม ของกิจกรรม M andala Festiva ซึ่งเป็นการแสดงการพัฒนาใหม่ๆ เฉลิมฉลองความก้าวหน้าของเรา และแบ่งปันความสุขมากมายกับชุมชน เรารู้สึกขอบคุณเป็นอย่างยิ่งสำหรับการสนับสนุน ความกระตือรือร้น การมีส่วนร่วมในกิจกรรมเครือข่ายและการถกเถียงเกี่ยวกับโปรเจค
 
-Last season was the hottest ever, with Ren and Laminar joining the party, and a considerable influx of new participants and a swirl of meaningful activities:
+Season ที่ผ่านมา ร้อนแรงที่สุดเท่าที่เคยมีมา โดยมี Ren และ Laminar เข้าร่วมงานปาร์ตี้ และมีผู้เข้าร่วมใหม่จำนวนมากและกิจกรรมที่มีความหมายมากมาย
 
-👥 14,500 + new accounts  
-⛓️ 140,000 + meaningful transactions  
-💰 $52 million locked total value (testnet)  
-💲 $25 million aUSD issued (testnet)  
-🎉 Over 2,350 users received awards
+👥 14,500 + ผู้เข้าร่วมใหม่  
+⛓️ 140,000 + จำนวนธุรกรรม  
+💰 $52m มูลค่า Tvl (testnet)  
+💲 $25m aUSD (testnet)  
+🎉 มากกว่า 2,350 คนที่ได้รับรางวัล
 
-# Mandala TC5 Optimised for DeFi
+# การปรับแต่ง Mandala TC5 ให้เหมาะสมกับ DeFi
 
-As we launch this fourth season of the festival on Halloween night Saturday 31st of October, it’s perhaps time to reiterate Acala’s mission, **as the decentralized financial (DeFi) hub of Polkadot**: to make it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. We have recently launched [Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a) network to extend our mission to serve the Kusama community as its primary DeFi hub. We have launched a new testnet candidate (TC5) alongside this festival with the following updates doubling down on our effort to accelerate DeFi innovations.
+ในขณะที่เราเปิดตัวเทศกาลที่สี่นี้ในคืนฮัลโลวีนในวันเสาร์ที่ 31 ตุลาคม อาจถึงเวลาที่เราจะดำเนินภารกิจของ Acala **ในฐานะศูนย์กลางทางการเงินแบบกระจายอำนาจ (DeFi) ของ Polkadot**: เพื่อให้ง่ายและรวดเร็ว ใช้หรือสร้างแอปพลิเคชันทางการเงิน ปรับปรุงประสิทธิภาพการซื้อขายและประหยัดเวลาอันมีค่า ราเพิ่งเปิดตัวเครือข่าย [Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a) เพื่อขยายภารกิจในการให้บริการชุมชน Kusama ในฐานะศูนย์กลาง DeFi หลัก เราได้เปิดตัว testnet ใหม่ (TC5) ควบคู่ไปกับเทศกาลนี้ด้วยการอัปเดตต่อไปนี้ซึ่งเพิ่มความพยายามของเราในการเร่งสร้างนวัตกรรม DeFi เป็นสองเท่า
 
-## The most recent updates in optimizing for DeFi a reality are as follows:
+## การอัปเดตล่าสุดในการเพิ่มประสิทธิภาพสำหรับ DeFi ให้เกิดการใช้งานจริงมีดังนี้:
 
-- **Oracle Gateway:** this is an open, more decentralized, and DeFi optimized oracle infrastructure available to all DApps built on Acala. It allows multiple oracle service providers to provide price feeds, and DApps will enjoy Quality of Service regardless of how congested the network is and whichever provider they choose. See [orml-oracle](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
-- **Generic NFT support:** we deployed [orml-nft](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) to enable any NFT publishers to build and leverage Acala’s DeFi ecosystem (Kusama also adopted this module to support NFT natively). We’ve eaten our own dog food and deployed Acala’s [publisher NFT module](https://github.com/AcalaNetwork/Acala/blob/master/modules/nft/src/lib.rs) to **_issue collectibles for Mandala Festival participants_**.
-- **Tokenized DeX LP share:** Acala Swap is an automatic market maker type decentralized exchange. We have tokenized LP shares to support liquidity bootstrap.
-- **LDOT sub-staking accounts:** via Acala’s trustless staking facility, you can nominate more than the default 16 validators, and enjoy optimized returns and liquidity, while also have differentiated delegated voting rights on Polkadot. LDOT will be one of the base financial instruments powering new economic innovations based on PoS.
+- **Oracle Gateway:** นี่คือโครงสร้างพื้นฐาน oracle แบบเปิดที่มีการกระจายอำนาจมากขึ้น และ DeFi ที่ปรับให้เหมาะสมที่สุดสำหรับ DApps ทั้งหมดที่สร้างบน Acala ช่วยให้ผู้ให้บริการ Oracle หลายรายสามารถจัดหาฟีดราคาได้ และ DApps จะเพลิดเพลินไปกับคุณภาพของบริการ ไม่ว่าเครือข่ายจะแออัดเพียงใดและผู้ให้บริการใดก็ตามที่พวกเขาเลือก Orml-oracle
+- **การรองรับ NFT:** เรา deployed [orml-nft](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) เพื่อให้ผู้เผยแพร่ NFT ทุกคนสร้างและใช้ประโยชน์จากระบบนิเวศ DeFi ของ Acala (Kusama ยังใช้โมดูลนี้เพื่อรองรับ NFT แบบเนทีฟ) เราใช้ผลิตภัณฑ์เหล่านี้บนองค์กรของเราเองและปรับใช้ [โมดูล NFT สำหรับผู้เผยแพร่โฆษณา](https://github.com/AcalaNetwork/Acala/blob/master/modules/nft/src/lib.rs) ของ Acala เพื่อ **_ออกของสะสมสำหรับผู้เข้าร่วม Mandala Festival_**
+- **ส่วนแบ่ง Tokenized DeX LP:** Acala Swap คือการแลกเปลี่ยนแบบกระจายอำนาจประเภทผู้ดูแลสภาพคล่องอัตโนมัติ เรามีโทเค็นหุ้น LP เพื่อรองรับการเริ่มต้นระบบสภาพคล่อง (liquidity bootstrap)
+- **บัญชีย่อยของ LDOT:** ผ่านระบบการปักหลักที่เชื่อถือได้ของ Acala คุณสามารถเสนอชื่อผู้ตรวจสอบความถูกต้องมากกว่า 16 ราย และเพลิดเพลินไปกับผลตอบแทนและสภาพคล่องที่ดีที่สุด ในขณะที่ยังมีการมอบสิทธิ์ในการลงคะแนนเสียงที่แตกต่างกันใน Polkadot LDOT จะเป็นหนึ่งในเครื่องมือทางการเงินพื้นฐานที่ขับเคลื่อนนวัตกรรมทางเศรษฐกิจใหม่ๆ โดยใช้ PoS
 
-# Mandala Fest #4: Halloween Give-Back
+# Acala Mandala Festival Season #4 การกลับมาของคืนวันฮาโลวีน
 
-Building Acala is a community effort, and Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. **All past festival-goers would have a chance to claim Acala & Karura Halloween themed NFT badges.**
+การสร้าง Acala เป็นความพยายามของชุมชน จากนั้น Mandala Fest จะกลายเป็นงานเฉลิมฉลองของชุมชนที่กำลังเติบโตนี้ และความมั่งคั่งของความเป็นไปได้ที่รอเราทุกคนในการสร้าง web3 **ผู้ที่ไปงานเทศกาลทั้งหมดจะมีโอกาสได้รับ Acala & ป้าย NFT ธีมฮาโลวีนของ Karura**
 
-These collectibles don’t have a monetary value nor a market, they are our mere way of honoring our shared experience and saying THANK YOU. Newcomers to the community who complete required tasks would also have a chance to claim these collectibles.
+ของสะสมเหล่านี้ไม่มีมูลค่าทางการเงินหรือตลาด พวกเขาเป็นเพียงวิธีการของเราในการให้เกียรติประสบการณ์ร่วมกันของเราและกล่าวขอบคุณ ผู้มาใหม่ในชุมชนที่ทำภารกิจจนสำเร็จก็จะมีโอกาสได้รับของสะสมเหล่านี้
 
-Here’s what the festival looks like and the rewards
+นี่คือหน้าตาของเทศกาลและของรางวัล
 
-- **Part I** (31-October-2020 to 06-November-2020 | **Award Pool**: 2,000 ACA + 2,000 KAR): **Welcome Newcomers** — complete required transactions to qualify.
-- **Part II** (31-October-2020 to 13-November-2020 | **Award Pool ≈** 30,000 ACA + 30,000 KAR): **Thank You** — reward claim by qualified past festival participants
-- **Part III** (31-October-2020 to 13-November-2020 | **Award Pool**: 3,000 ACA + 3,000 KAR): **Bounties** — bugs, stickers, emojis or else
+- **ส่วนที่ I** (31-October-2020 ถึง 06-November-2020 | **รางวัลรวม**: 2,000 ACA + 2,000 KAR): **ยินดีต้อนรับผู้มาใหม่** — เสร็จสมบูรณ์ ธุรกรรมที่จำเป็นเพื่อให้มีคุณสมบัติ
+- **ส่วนที่ II** (31-ตุลาคม-2020 ถึง 13-พฤศจิกายน-2020 | **รางวัลรวม ≈** 30,000 ACA + 30,000 KAR): **ขอบคุณ** — รางวัล อ้างสิทธิ์โดยผู้เข้าร่วมเทศกาลที่ผ่านมาที่มีคุณสมบัติ
+- **ส่วนที่ III** (31-ตุลาคม-2020 ถึง 13-พฤศจิกายน-2020 | **รางวัลรวม**: 3,000 ACA + 3,000 KAR): **ค่าหัว** — บัก สติ๊กเกอร์ อีโมจิ หรืออื่นๆ
 
-# Get Started
+# เริ่มต้น
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- All rewards are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- เริ่มต้นกับ Acala รวมถึงการสร้างกระเป๋าเงินและรับโทเค็นทดสอบ [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
+- ดูคำแนะนำเหล่านี้เพื่อใช้ Honzon Stablecoin, Acala Dex และ Homa Staking Derivatives
+- ดูคำแนะนำเกี่ยวกับการซื้อขายข้ามเครือข่ายกับ Laminar และ Ren [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
+- ประกาศรางวัลทั้งหมด [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
 
-# Full Schedule and Rules
+# กำหนดการและกติกาฉบับเต็ม
 
-## **Part 1: Welcome Newcomers**
+## **ส่วนที่ 1: ยินดีต้อนรับผู้มาใหม่**
 
-**Duration**: 31-October-2020 to 06-November-2020 (week one)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**ระยะเวลา**: 31-October-2020 ถึง 06-November-2020 (สัปดาห์ที่หนึ่ง)  
+**รางวัลรวม**: 2,000 ACA + 2,000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
-- _Note these rewards are lucky draws, not guaranteed_
+- ผู้ใช้ที่ผ่านการรับรองทั้งหมดจะแบ่งปันรางวัลรวม
+- รางวัลทั้งหมดจะถูกบันทึกและเผยแพร่
+- _หมายเหตุ รางวัลเหล่านี้เป็นการจับฉลาก ไม่รับประกัน_
 
 ![Image for post](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
 
-**Participation Rules:**
+**กฎการเข้าร่วม:**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- รับ aUSD จาก faucet (test) เพื่อใช้ดำเนินการ
+- ผู้ใช้ที่ทำธุรกรรมที่ทำตามเงื่อนไขสามรายการจะได้รับรางวัล
 
-**Meaningful transactions include:**
+**เงื่อนไขของธุรรม:**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity and transfer LP Tokens to another account
-- Use the Self Service Loan service to collateralize for Acala Dollar (aUSD)
+- ใช้ DeX เพื่อสลับโทเค็น
+- ใช้ DeX เพื่อจัดหาสภาพคล่องและโอน LP Tokens ไปยังบัญชีอื่น
+- ใช้บริการสินเชื่อแบบบริการตนเองเพื่อค้ำประกันสำหรับดอลลาร์ Acala (aUD)
 - Use Homa protocol to get staking derivative LDOT
 - Mint renBTC and use it in the above activities
 
