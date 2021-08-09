@@ -1,12 +1,12 @@
-# Acala — Powering Cross-Blockchain Open Finance Applications on Polkadot
+# Acala — ขับเคลื่อนแอปพลิเคชันการเงินในรูปแบบ Open Finance ข้ามบล็อคเชนบน Polkadot
 
-by [Ruitao Su](https://medium.com/u/16c79136e2c8?source=post_page-----abb6075a6edf--------------------------------) & Fuyao Jiang
+โดย [Ruitao Su](https://medium.com/u/16c79136e2c8?source=post_page-----abb6075a6edf--------------------------------) & Fuyao Jiang
 
-# Introducing Acala
+# แนะนำ Acala
 
 ![Image for post](https://miro.medium.com/max/1318/0*XOIAcGroNfplJBzG)
 
-We are thrilled to announce [Acala](https://acala.network/) — a **_first-of-its-kind decentralized finance consortium_**, with a vision to create cross-chain open finance infrastructure for the Polkadot ecosystem. Acala aims to bring stability and liquidity to the crypto world. The initial implementation is a **_cross-chain capable multi-collateralized and decentralized stablecoin_** based on Substrate, which is **_transferrable to all chains on the Polkadot network_**.
+เรารู้สึกตื่นเต้นที่จะประกาศ [Acala](https://acala.network/) — **_กลุ่มการเงินแบบกระจายศูนย์แห่งแรกของ Polkadot Chain _** ที่มีวิสัยทัศน์ในการสร้างโครงสร้างพื้นฐานทางการเงินแบบเปิดข้ามเครือข่ายสำหรับระบบนิเวศ Polkadot Acala มุ่งหวังที่จะนำความมั่นคงและสภาพคล่องมาสู่โลกของ crypto การใช้งานเริ่มต้นคือ **_Cross-chain ที่มีความสามารถ multi-collateralized และ decentralized stablecoin_** โดยอิงจาก Substrate ซึ่ง **_สามารถโอนไปยังเครือข่ายทั้งหมดบนเครือข่าย Polkadot_**
 
 Acala is founded by two active members in the Polkadot ecosystem: [Laminar](https://laminar.one/) and [Polkawallet](https://polkawallet.io/). We are running the Acala network in the form of a consortium, because:
 
