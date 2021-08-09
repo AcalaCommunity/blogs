@@ -1,6 +1,6 @@
 # Acala Mandala Festival Season #4 การกลับมาของคืนวันฮาโลวีน
 
-![Image for post](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
+![รูปสำหรับโพส](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
 
 นับตั้งแต่เปิดตัวครั้งแรกในเดือนมีนาคม ของกิจกรรม M andala Festiva ซึ่งเป็นการแสดงการพัฒนาใหม่ๆ เฉลิมฉลองความก้าวหน้าของเรา และแบ่งปันความสุขมากมายกับชุมชน เรารู้สึกขอบคุณเป็นอย่างยิ่งสำหรับการสนับสนุน ความกระตือรือร้น การมีส่วนร่วมในกิจกรรมเครือข่ายและการถกเถียงเกี่ยวกับโปรเจค
 
@@ -53,7 +53,7 @@ Season ที่ผ่านมา ร้อนแรงที่สุดเท
 - รางวัลทั้งหมดจะถูกบันทึกและเผยแพร่
 - _หมายเหตุ รางวัลเหล่านี้เป็นการจับฉลาก ไม่รับประกัน_
 
-![Image for post](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
+![รูปสำหรับโพส](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
 
 **กฎการเข้าร่วม:**
 
@@ -65,55 +65,55 @@ Season ที่ผ่านมา ร้อนแรงที่สุดเท
 - ใช้ DeX เพื่อสลับโทเค็น
 - ใช้ DeX เพื่อจัดหาสภาพคล่องและโอน LP Tokens ไปยังบัญชีอื่น
 - ใช้บริการสินเชื่อแบบบริการตนเองเพื่อค้ำประกันสำหรับดอลลาร์ Acala (aUD)
-- Use Homa protocol to get staking derivative LDOT
-- Mint renBTC and use it in the above activities
+- ใช้โปรโตคอล Homa เพื่อรับอนุพันธ์การปักหลัก LDOT
+- Mint renBTC และใช้ในกิจกรรมข้างต้น
 
-## **Part 2: Thank You**
+## **ส่วนที่ 2: กล่าวขอบคุณ**
 
-**Duration**: 31-October-2020 to 13-November-2020 (week one & two)  
-**Award Pool ≈** 30,000 ACA + 30,000 KAR
+**ระยะเวลา**: 31-October-2020 ถึง 13-November-2020 (สัปดาห์ที่หนึ่งและสอง)  
+**รางวัลรวม ≈** 30,000 ACA + 30,000 KAR
 
-**Participation Rules:**
+**กฏเข้าร่วม:**
 
-- Each account which participated Mandala TC2/TC3/TC4 can get 1 ACA + 1 KAR（If all testnet you participated, you will get 3 ACA + 3 KAR ）
-- The nonce of each Mandala TC2/TC3/TC4 account must greater than or equal to two
-- All rewards need be claimed in Acala Dapp
-- You can see the rewards in your wallet Airdrop account
+- แต่ละบัญชีที่เข้าร่วม Mandala TC2/TC3/TC4 จะได้รับ 1 ACA + 1 KAR (หากคุณเข้าร่วม testnet ทั้งหมด คุณจะได้รับ 3 ACA + 3 KAR)
+- Nonce ของบัญชี Mandala TC2/TC3/TC4 แต่ละบัญชีต้องมากกว่าหรือเท่ากับสอง
+- ต้องรับรางวัลทั้งหมดใน Acala Dapp
+- คุณสามารถดูรางวัลในบัญชี Airdrop ในกระเป๋าเงินของคุณ
 
-## **Part 3: Bounties for Bugs, Sticker & Emojis sets** (**Throughout the Festival**)
+## ** 3: ค่าหัวแมลง สติ๊กเกอร์ & ชุดอีโมจิ** (**ตลอดเทศกาล**)
 
-**Duration**: 31-October-2020 to 13-November-2020 (two weeks)  
-**Award Pool**: 3,000 ACA + 3,000 KAR
+**ระยะเวลา**: 31-October-2020 ถึง 13-November-2020 (สองสัปดาห์)  
+**รางวัลรวม**: 3,000 ACA + 3,000 KAR
 
-- Please allow one week from your submission for our review.
+- โปรดรอหนึ่งสัปดาห์จากการส่งของคุณสำหรับการตรวจสอบของเรา
 
-**Participation Rules:  
-Bug Bounties**
+**กติกาการเข้าร่วม:  
+ตามหา bug**
 
-- Find bugs for the following repos:  
+- ค้นหาจุดบกพร่องสำหรับ repos ต่อไปนี้:  
   [https://github.com/AcalaNetwork/Acala  
   ](https://github.com/AcalaNetwork/Acala)[https://github.com/AcalaNetwork/acala-dapp  
-  ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
-- Please **include your Acala Mandala Address in the Github issue** for easy prize distribution
+  ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (ส่วน Acala)
+- ข้อบกพร่องถูกตัดสินตามความสำคัญและความรุนแรงโดยทีม Acala Engineering และได้รับรางวัลคร่าวๆ ตามระดับ [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
+- โปรด **ใส่ที่อยู่ Acala Mandala ของคุณในฉบับ Github** เพื่อให้แจกรางวัลได้ง่าย
 
-**Stickers & Emojis sets**
+**สติ๊กเกอร์ & ชุดอิโมจิ**
 
-- Rewards are not guaranteed for this category
-- Feel free to submit Acala/Karura themed Sticker & Emoji sets
-- Sticker & Emoji sets selected for our Discord channels will receive rewards
-- Please **include your Acala Mandala Address in the submission**
+- ไม่รับประกันของรางวัลในหมวดนี้
+- ส่งสติกเกอร์ธีม Acala/Karura & ชุดอีโมจิ
+- สติ๊กเกอร์ & ชุดอิโมจิที่เลือกสำหรับช่อง Discord ของเราจะได้รับรางวัล
+- โปรด **ใส่ที่อยู่ Acala Mandala ของคุณในการส่ง**
 
-# 🎉 Let the festivities begin
+# 🎉 เริ่มงานฉลองได้
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+เรารู้สึกตื่นเต้นที่จะได้เฉลิมฉลอง Mandala Fest ร่วมกับพวกคุณทุกคน! เราหวังว่ารางวัลมากมาย การมีส่วนร่วมที่หลากหลาย และโอกาส DeFi ข้ามสายโซ่ที่สำคัญจะดึงดูดใจคุณหลายๆ คน **เท่าที่ทดลองPolkadot คือมีความกังวลอยู่, Acala เป็นโปรเจคที่มีศักยภาพและเติบโตอย่างรวดเร็ว** และเช่นเคย ทีมงานพร้อมตอบคำถามและช่วยให้คุณได้รับประโยชน์สูงสุดจากเทศกาล โปรดเข้าร่วมช่องทางของเราเพื่อรับสิทธิ์เข้าถึงวีไอพีเพื่อสนับสนุนและชุมชนของเรา 👇
 
-# Join Us
+# ติดต่อพวกเรา
 
 [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launches on Polkadot and Kusama, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+หากต้องการติดตามความคืบหน้าเกี่ยวกับการเปิดตัว Acala Parachain บน Polkadot และ Kusama โปรดสมัครรับข้อมูล [จดหมายข่าวของ Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
 
-# About Acala
+# เกี่ยวกับ Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) เป็นศูนย์กลางทางการเงินแบบกระจายอำนาจของ Polkadot ที่ทำให้ใช้งานหรือสร้างแอปพลิเคชันทางการเงินได้อย่างรวดเร็วและง่ายดาย ปรับปรุงประสิทธิภาพการซื้อขายและประหยัดเวลาอันมีค่า แพลตฟอร์มนำเสนอชุดของพื้นฐานทางการเงิน: เหรียญที่มีเสถียรภาพหลายหลักประกันซึ่งได้รับการสนับสนุนจากสินทรัพย์ข้ามสายเช่น Bitcoin อนุพันธ์การปักหลักที่ไม่น่าเชื่อถือและการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีอำนาจ Acala เป็นแพลตฟอร์มแบบเปิดโดยพฤตินัยสำหรับแอปพลิเคชันทางการเงินเพื่อใช้สัญญาอัจฉริยะหรือโปรโตคอลในตัวที่มีความสามารถข้ามสายโซ่ที่พร้อมใช้งานทันที ความปลอดภัย และการเพิ่มประสิทธิภาพทางการเงิน
