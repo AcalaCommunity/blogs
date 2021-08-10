@@ -4,7 +4,7 @@
 
 # แนะนำ Acala
 
-![Image for post](https://miro.medium.com/max/1318/0*XOIAcGroNfplJBzG)
+![รูปสำหรับโพส](https://miro.medium.com/max/1318/0*XOIAcGroNfplJBzG)
 
 เรารู้สึกตื่นเต้นที่จะประกาศ [Acala](https://acala.network/) — **_กลุ่มการเงินแบบกระจายศูนย์แห่งแรกของ Polkadot Chain _** ที่มีวิสัยทัศน์ในการสร้างโครงสร้างพื้นฐานทางการเงินแบบเปิดข้ามเครือข่ายสำหรับระบบนิเวศ Polkadot Acala มุ่งหวังที่จะนำความมั่นคงและสภาพคล่องมาสู่โลกของ crypto การใช้งานเริ่มต้นคือ **_Cross-chain ที่มีความสามารถ multi-collateralized และ decentralized stablecoin_** โดยอิงจาก Substrate ซึ่ง **_สามารถโอนไปยังเครือข่ายทั้งหมดบนเครือข่าย Polkadot_**
 
@@ -24,68 +24,68 @@
 
 Acala ภูมิใจที่ได้รับเลือกให้เข้าร่วมเป็นกลุ่มแรกของ [Substrate Builder Program](http://builders.parity.io/) Substrate Builders Program ที่ขับเคลื่อนโดย Parity สนับสนุน และให้คำปรึกษาโครงการบล็อกเชนที่ใช้ Substrate ในปัจจุบันและที่เป็นไปได้ ซึ่งกำลังสร้างห่วงโซ่ที่มีผลกระทบ เราหวังว่าจะได้ทำงานอย่างใกล้ชิดกับทีม Parity และผู้สร้างรายอื่นๆ เพื่อพัฒนาโปรโตคอล ผลิตภัณฑ์ และชุมชนของ Acala ไปอีกระดับ
 
-![Image for post](https://miro.medium.com/max/2800/0*jtrfXlllLsc1QIgG)
+![รูปสำหรับโพส](https://miro.medium.com/max/2800/0*jtrfXlllLsc1QIgG)
 
 # การเชื่อมต่อกับ Polkadot (อีกชื่อ คือ Value Networks)
 
-The significance of cross-chain communication to the blockchain is like that of the internet to the intranet. Polkadot empowers a network of blockchains to interact with **_true interoperability, economic and transactional scalability_**. Currently, valuable networks namely Bitcoin, Ethereum and other public, enterprise consortium networks are operating mostly in silos. As such, they are far from realizing their full potential. Polkadot’s shared security model and cross-blockchain communication — covering the exchange of information and value — will inevitably give rises to **_fairer peer-to-peer digital jurisdictions and autonomous economies_**. This creates the basis for truly open finance — that leans more **towards public good than siloed private infrastructure** — that many have envisioned but never had the means to realize.
+ความสำคัญของการสื่อสารข้ามสายโซ่ไปยังบล็อคเชนนั้นเหมือนกับของอินเทอร์เน็ตไปยังอินทราเน็ต Polkadot ช่วยให้เครือข่ายบล็อกเชนโต้ตอบกับ **_ความสามารถในการทำงานร่วมกัน เศรษฐกิจ และการทำธุรกรรมได้อย่างแท้จริง_** ในปัจจุบัน เครือข่ายที่มีค่า เช่น Bitcoin, Ethereum และเครือข่ายกลุ่มองค์กรสาธารณะอื่น ๆ ส่วนใหญ่ดำเนินการในไซโล ด้วยเหตุนี้พวกเขาจึงยังห่างไกลจากการตระหนักถึงศักยภาพของตนอย่างเต็มที่ โมเดลความปลอดภัยที่ใช้ร่วมกันของ Polkadot และการสื่อสารข้ามบล็อคเชน ซึ่งครอบคลุมการแลกเปลี่ยนข้อมูลและมูลค่า จะก่อให้เกิด**_เขตอำนาจศาลดิจิทัลแบบ peer-to-peer ที่ยุติธรรมและเศรษฐกิจอิสระ_** อย่างหลีกเลี่ยงไม่ได้ สิ่งนี้สร้างพื้นฐานสำหรับการเงินที่เปิดกว้างอย่างแท้จริง ซึ่ง**มุ่งไปที่ผลประโยชน์สาธารณะมากกว่าโครงสร้างพื้นฐานส่วนตัวแบบแยกส่วน** ซึ่งหลายคนคิดไว้แต่ไม่เคยมีวิธีที่จะทำให้เป็นจริง
 
-When we look at an organization, **_it is the people in it that manifest the culture and values_**. When we look at a blockchain network, which intrinsically is a social construct, it is the community and participants who make the network come to life. **_Polkadot is a community of builders_**. Just to name a few this community includes: [Parity](https://www.parity.io/), a long-term builder in the Ethereum community and now Polkadot’s lead development team; [ChainX](https://chainx.org/), the asset gateway bridging and integrating assets from other blockchains such as BTC, ETH, EOS, etc to the Polkadot ecosystem; [Plasm network](https://medium.com/stake-technologies/plasm-testnet-launch-90d7e58328b3), a platform to build scalable decentralized applications; [Laminar](https://www.laminar.one/), a synthetic asset, and margin trading platform to bridge on-and-off chain liquidity; [Polkawallet](https://polkawallet.io/), one of the first mobile wallets in the Polkadot ecosystem; [Polymath](https://blog.polymath.network/polymesh-leveraging-the-substrate-framework-ede8a77c6019), a compliant security token platform will build out a new base layer blockchain on Substrate, and [Chainlink](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a), an open-source oracle system will also contribute to Polkadot, making much of off-chain data feeds, and various APIs available to all chains on the Polkadot network.
+เมื่อเราดูที่องค์กร **_คนในองค์กรคือผู้ที่แสดงออกถึงวัฒนธรรมและค่านิยม_** เมื่อเราดูที่เครือข่ายบล็อคเชนซึ่งเป็นโครงสร้างทางสังคมโดยแท้จริงแล้ว มันคือชุมชนและผู้เข้าร่วมที่สร้างเครือข่ายขึ้นมา **_Polkadot is a community of builders_**. รวมถึง: [Parity](https://www.parity.io/) ผู้สร้างระยะยาวในชุมชน Ethereum และตอนนี้คือหัวหน้าทีมพัฒนาของ Polkadot [ChainX](https://chainx.org/) เกตเวย์สินทรัพย์เชื่อมโยงและรวมสินทรัพย์จากบล็อกเชนอื่นๆ เช่น BTC, ETH, EOS ฯลฯ เข้ากับระบบนิเวศของ Polkadot [เครือข่ายพลาสมา](https://medium.com/stake-technologies/plasm-testnet-launch-90d7e58328b3) แพลตฟอร์มสำหรับสร้างแอปพลิเคชันกระจายอำนาจที่ปรับขนาดได้ [Laminar](https://www.laminar.one/) สินทรัพย์สังเคราะห์และแพลตฟอร์มการซื้อขายมาร์จิ้นเพื่อเชื่อมสภาพคล่องของลูกโซ่ทั้งแบบเปิดและปิด [Polkawallet](https://polkawallet.io/) หนึ่งในกระเป๋าเงินมือถือรุ่นแรกในระบบนิเวศของ Polkadot [Polymath](https://blog.polymath.network/polymesh-leveraging-the-substrate-framework-ede8a77c6019) แพลตฟอร์มโทเค็นการรักษาความปลอดภัยที่สอดคล้องจะสร้างบล็อกเชนชั้นฐานใหม่บน Substrate และ [Chainlink](https://medium.com/web3foundation/web3-foundation-and-chainlink-announce-collaboration-df55ed462a3a) ซึ่งเป็นระบบโอเพ่นซอร์สโอเพ่นซอร์สจะมีส่วนช่วย Polkadot ด้วย ฟีดข้อมูลนอกเครือข่าย และ API ต่างๆ ที่ใช้ได้กับทุกเครือข่ายในเครือข่าย Polkadot
 
 # Acala Protocols
 
-The first two protocols in Acala’s portfolio that are now under construction would serve as the stepping stones towards stability and liquidity as the foundation for a freer and more open finance future for the masses.
+โปรโตคอลสองรายการแรกในพอร์ตโฟลิโอของ Acala ซึ่งขณะนี้อยู่ระหว่างการก่อสร้างจะทำหน้าที่เป็นหินก้าวสู่ความมั่นคงและสภาพคล่องในฐานะรากฐานสำหรับอนาคตทางการเงินที่เสรีและเปิดกว้างมากขึ้นสำหรับคนทั่วไป
 
 ## Honzon — The Stablecoin Protocol
 
-The first is a decentralized cross-chain capable multi-collateralized stablecoin powered by the Honzon Protocol, a cross-chain stablecoin system that will:
+อย่างแรกคือเหรียญ stablecoin แบบหลายหลักประกันแบบกระจายศูนย์ที่กระจายอำนาจโดย Honzon Protocol ซึ่งเป็นระบบ cross-chain stablecoin ที่จะ:
 
-- create a sound, stable currency for low cost, borderless value transfer for all chains in the network
-- enable business lending with predictable risk
-- serve as a building block for more open finance services
+- สร้างเสียงสกุลเงินที่มั่นคงสำหรับต้นทุนต่ำโอนมูลค่าไร้พรมแดนสำหรับทุกเครือข่ายในเครือข่าย
+- เปิดใช้งานสินเชื่อธุรกิจด้วยความเสี่ยงที่คาดการณ์ได้
+- ทำหน้าที่เป็นตัวสร้างสำหรับบริการทางการเงินที่เปิดกว้างมากขึ้น
 
-![Image for post](https://miro.medium.com/max/2804/1*uacwW89mPE2BtzjZ6PJZIA.png)
+![รูปสำหรับโพส](https://miro.medium.com/max/2804/1*uacwW89mPE2BtzjZ6PJZIA.png)
 
-The ACALA stablecoin, a.k.a. aUSD, is pegged to USD at 1:1 ratio. Essentially users would take out a loan of aUSD by locking selected valuable crypto assets e.g. DOT, BTC or ETH as collateral. Users would need to pay interests to maintain this loan. The Honzon protocols have a set of mechanisms to maintain stability and manage risks from price fluctuation of the underlying collateral asset.
+The ACALA stablecoin, a.k.a. aUSD ถูกตรึงเป็น USD ที่อัตราส่วน 1:1 โดยพื้นฐานแล้ว ผู้ใช้จะกู้เงินสกุล aUSD โดยการล็อกสินทรัพย์เข้ารหัสลับที่มีค่าที่เลือกไว้เช่น DOT, BTC หรือ ETH เป็นหลักประกัน ผู้ใช้จะต้องจ่ายดอกเบี้ยเพื่อรักษาเงินกู้นี้ โปรโตคอล Honzon มีชุดกลไกในการรักษาเสถียรภาพและจัดการความเสี่ยงจากความผันผวนของราคาของสินทรัพย์หลักประกัน
 
 ## Homa — The Tokenized Staking Liquidity Protocol
 
-The second protocol Homa for tokenized staking liquidity — to alleviate the challenge of opportunity cost of using staking assets other than staking, and risking network security if returns are higher in other applications such as DeFi. The Homa Protocol establishes a staking pool tokenizing users’ staked assets (e.g. L-DOT as locked DOT) that will
+โปรโตคอล Homa ที่สองสำหรับสภาพคล่องในการปักหลักโทเค็น — เพื่อบรรเทาความท้าทายของต้นทุนค่าเสียโอกาสของการใช้สินทรัพย์ Stake อื่นนอกเหนือจาก Stake และเสี่ยงต่อความปลอดภัยของเครือข่ายหากผลตอบแทนสูงกว่าในแอปพลิเคชันอื่น ๆ เช่น DeFi โปรโตคอล Homa กำหนดกลุ่ม Stake เพื่อสร้างโทเค็นให้กับสินทรัพย์ที่ผู้ใช้เดิมพัน (เช่น L-DOT เป็น DOT ที่ถูกล็อก) ที่จะ
 
-- provide liquidity for staked assets (which would otherwise be locked without further use)
-- enable future markets of the staked assets
-- be tradable and liquid cross all chains on the Polkadot network.
+- จัดให้มีสภาพคล่องสำหรับสินทรัพย์ที่เดิมพัน (ซึ่งมิฉะนั้นจะถูกล็อคโดยไม่ต้องใช้เพิ่มเติม)
+- เปิดใช้งานตลาดในอนาคตของสินทรัพย์ที่เดิมพัน
+- สามารถซื้อขายได้และเป็นของเหลวข้ามเครือข่ายทั้งหมดบนเครือข่าย Polkadot
 
-This article will focus more on the stablecoin product, and more information will be released later as we progress.
+บทความนี้จะเน้นไปที่ผลิตภัณฑ์ stablecoin มากขึ้น และจะมีการเปิดเผยข้อมูลเพิ่มเติมในภายหลังเมื่อเราดำเนินการ
 
 # Acala Stablecoin
 
-Existing stablecoins and crypto-assets are limited by their underlying blockchains in general, while isolation of the ledgers leads to isolation of the corresponding assets, limiting their usage and adoption. A common challenge for the existing stablecoin systems is that crypto-assets that can be used as collaterals are restrained to the type of assets available on the particular blockchain that the stablecoin system is launched on, which caps the total debt ceiling and stablecoin supply. In addition, it is counter-intuitive for non-crypto mainstream users to transfer one currency while paying blockchain gas fees in another.
+Stablecoins และสินทรัพย์ดิจิทัลที่มีอยู่นั้นถูกจำกัดโดยบล็อคเชนโดยทั่วไป ในขณะที่การแยกบัญชีแยกประเภทจะนำไปสู่การแยกสินทรัพย์ที่เกี่ยวข้องกัน ซึ่งจำกัดการใช้งานและการยอมรับ ความท้าทายทั่วไปสำหรับระบบ Stablecoin ที่มีอยู่คือสินทรัพย์ดิจิทัลที่สามารถใช้เป็นหลักทรัพย์ค้ำประกันได้ จะถูกจำกัดประเภทของสินทรัพย์ที่มีอยู่ในบล็อคเชนเฉพาะที่ระบบ Stablecoin เปิดตัว ซึ่งจำกัดเพดานหนี้ทั้งหมดและอุปทานของ Stablecoin นอกจากนี้ยังเป็นการตอบโต้สำหรับผู้ใช้กระแสหลักที่ไม่ใช่คริปโตในการโอนสกุลเงินหนึ่งในขณะที่จ่ายค่าธรรมเนียมก๊าซบล็อคเชนในอีกสกุลเงินหนึ่ง
 
-Acala Stablecoin Network is built on Substrate and to be connected to the Polkadot network, that it will be interoperable with all networks in the ecosystem and beyond.
+เครือข่าย Acala Stablecoin สร้างขึ้นบน Substrate และเชื่อมต่อกับเครือข่าย Polkadot เพื่อให้สามารถทำงานร่วมกับเครือข่ายทั้งหมดในระบบนิเวศและอื่น ๆ
 
-- **Multi-collateral backed**: collaterals can be both native Polkadot assets like DOT and beyond, such as popular crypto-assets like BTC and ETH, which can be bridged into the Polkadot network and used as collaterals to achieve higher supply ceiling.
-- **Cross-chain capability**: stablecoin powered by Acala Network can be transferred to all chains in the network.
-- **Secured**: Acala Network will be secured by the Polkadot’s shared security model.
-- **Community-owned**: Acala network participants will gradually govern and share earnings of the network collectively, achieving true decentralization and censorship resistance ultimately.
-- **Specialized Stablecoin Chain**: Acala Network will be able to customize its fee schedule, for instance, free transfer of the balance that would enhance usability hugely while maintaining network security.
-- **Future Proof**: Acala Network is built on Substrate, that it is truly resilient, and able to adapt and upgrade itself without forking.
+- **Multi-collateral backed**: หลักประกันสามารถเป็นได้ทั้งสินทรัพย์ Polkadot ดั้งเดิมเช่น DOT และอื่น ๆ เช่น crypto-asset ยอดนิยมเช่น BTC และ ETH ซึ่งสามารถเชื่อมต่อกับเครือข่าย Polkadot และใช้เป็นหลักประกันเพื่อให้ได้สูงขึ้น เพดานอุปทาน
+- **Cross-chain capability**: Stablecoin ที่ขับเคลื่อนโดย Acala Network สามารถถ่ายโอนไปยังทุกเครือข่ายในเครือข่าย
+- **Secured**: เครือข่าย Acala จะได้รับการรักษาความปลอดภัยโดยรูปแบบการรักษาความปลอดภัยที่ใช้ร่วมกันของ Polkadot
+- **Community-owned**: ผู้เข้าร่วมเครือข่าย Acala จะค่อยๆ ควบคุมและแบ่งปันรายได้ของเครือข่ายโดยรวม บรรลุการกระจายอำนาจที่แท้จริงและการต่อต้านการเซ็นเซอร์ในท้ายที่สุด
+- **Specialized Stablecoin Chain**: Acala Network จะสามารถปรับแต่งตารางค่าธรรมเนียมได้ เช่น การโอนยอดคงเหลือโดยไม่เสียค่าใช้จ่าย ซึ่งจะช่วยเพิ่มความสามารถในการใช้งานอย่างมากในขณะที่รักษาความปลอดภัยของเครือข่าย
+- **Future Proof**: Acala Network สร้างขึ้นบน Substrate ที่มีความยืดหยุ่นอย่างแท้จริง และสามารถปรับตัวและอัพเกรดตัวเองได้โดยไม่ต้องฟอร์แมต
 
-![Image for post](https://miro.medium.com/max/3780/0*7Zh3WtIP0uGzKFDa)
+![รูปสำหรับโพส](https://miro.medium.com/max/3780/0*7Zh3WtIP0uGzKFDa)
 
-The next article will explain more details of the protocol and the economic model powering the sustainability of the network, stay tuned.
+บทความถัดไปจะอธิบายรายละเอียดเพิ่มเติมเกี่ยวกับโปรโตคอลและแบบจำลองทางเศรษฐกิจที่ขับเคลื่อนความยั่งยืนของเครือข่าย โปรดคอยติดตาม
 
 # Roadmap
 
-![Image for post](https://miro.medium.com/max/3032/0*tq5FUjuXLrEEFbuS)
+![รูปสำหรับโพส](https://miro.medium.com/max/3032/0*tq5FUjuXLrEEFbuS)
 
 # Build a DeFi Future with Acala
 
-There will be various ways that you can participate in the upcoming Kusama-like Acala Testnet and Acala Mainnet, stay tuned for updates on some fun & juicy reward schemes, our initial parachain offering plan, and much more.
+มีหลายวิธีที่คุณสามารถเข้าร่วมใน Acala Testnet และ Acala Mainnet ที่คล้ายกับ Kusama ที่กำลังจะมีขึ้น คอยติดตามการอัปเดตเกี่ยวกับความสนุก & แผนการให้รางวัลที่ชุ่มฉ่ำ แผนการเสนอ Parachain เริ่มต้นของเรา และอีกมากมาย
 
-We are also broadening the membership of the Acala consortium for ecosystem partners and industry participants, and look forward to building a truly decentralized finance future together.
+เรากำลังขยายการเป็นสมาชิกของกลุ่ม Acala สำหรับพันธมิตรระบบนิเวศและผู้เข้าร่วมในอุตสาหกรรม และตั้งตารอที่จะสร้างอนาคตทางการเงินที่กระจายอำนาจอย่างแท้จริงร่วมกัน
 
-Follow us on
+ติดตามเราสิ
 
 Website: [https://acala.network](https://acala.network/)  
 Twitter：[https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
@@ -95,28 +95,28 @@ Email: [hello@acala.network](http://hello@acala.network)
 
 # About Web3 Foundation
 
-Established in Zug, Switzerland by Ethereum co-founder and Chief Technology Officer Dr. Gavin Wood, Web3 Foundation funds research and development teams building the stack of technologies behind the decentralized web.
+ก่อตั้งขึ้นในเมือง Zug ประเทศสวิตเซอร์แลนด์โดย Dr. Gavin Wood ผู้ร่วมก่อตั้งและประธานเจ้าหน้าที่ฝ่ายเทคโนโลยีของ Ethereum มูลนิธิ Web3 Foundation ให้ทุนสนับสนุนทีมวิจัยและพัฒนาเพื่อสร้างเทคโนโลยีที่อยู่เบื้องหลังเว็บแบบกระจายอำนาจ
 
-For more information on Web3 Foundation, visit [web3.foundation](https://web3.foundation/).
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Web3 Foundation ไปที่ [web3.foundation](https://web3.foundation/)
 
 # About Polkadot
 
-Polkadot is the first interoperability protocol that enables blockchain networks to work together under the protection of shared security.
+Polkadot เป็นโปรโตคอลการทำงานร่วมกันแบบแรกที่ช่วยให้เครือข่ายบล็อคเชนทำงานร่วมกันภายใต้การป้องกันความปลอดภัยที่ใช้ร่วมกัน
 
-By parallelizing transactions, Polkadot solves major scalability issues that have thus far hampered blockchain development. Polkadot also introduces a highly advanced, open governance system that will allow the network to innovate and grow at a much more rapid pace than legacy networks. Applications from decentralized finance and energy to gaming and communications will thrive on Polkadot, forming the basis of digital jurisdictions in Web 3.0. Polkadot is the first project spearheaded by Web3 Foundation.
+โดยการทำธุรกรรมแบบขนาน Polkadot สามารถแก้ปัญหาความสามารถในการปรับขนาดที่สำคัญที่ขัดขวางการพัฒนาบล็อคเชน Polkadot ยังแนะนำระบบการกำกับดูแลแบบเปิดขั้นสูงที่จะช่วยให้เครือข่ายสามารถสร้างสรรค์และเติบโตอย่างรวดเร็วกว่าเครือข่ายแบบเดิม แอพพลิเคชั่นจากการกระจายอำนาจทางการเงินและพลังงานไปจนถึงการเล่นเกมและการสื่อสารจะเติบโตบน Polkadot ซึ่งเป็นพื้นฐานของเขตอำนาจศาลดิจิทัลใน Web 3.0 Polkadot เป็นโครงการแรกที่นำโดยมูลนิธิ Web3
 
-For more information on Polkadot, visit [polkadot.network](https://polkadot.network/).
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Polkadot โปรดไปที่ [polkadot.network](https://polkadot.network/)
 
 # About Laminar
 
-Laminar is a financial institute backed decentralized finance protocol company. Laminar’s Flow Protocols bring both synthetic assets and margin trading on the blockchain. It helps to solve the challenges of opaque pricing and price manipulation in the current financial markets, bridges on- and off-chain parties, and ultimately boosts on-chain trading liquidity, exposure, and variety. Laminar is a Web3 grant recipient and ecosystem contributor. It will contribute financial and risk management expertise to the Acala project, as well as providing initial demand for the aUSD stablecoins.
+Laminar เป็นสถาบันการเงินที่ได้รับการสนับสนุนจากบริษัทโปรโตคอลทางการเงินแบบกระจายอำนาจ Laminar’s Flow Protocols นำทั้งสินทรัพย์สังเคราะห์และการซื้อขายมาร์จิ้นบนบล็อกเชน ช่วยแก้ปัญหาเรื่องการกำหนดราคาที่ไม่ชัดเจนและการปรับราคาในตลาดการเงินในปัจจุบัน เชื่อมโยงฝ่ายในและนอกเครือข่าย และท้ายที่สุดจะช่วยเพิ่มสภาพคล่อง การเปิดเผยข้อมูล และความหลากหลายในการซื้อขายบนเครือข่าย Laminar เป็นผู้รับทุน Web3 และผู้สนับสนุนระบบนิเวศ จะสนับสนุนความเชี่ยวชาญด้านการเงินและการจัดการความเสี่ยงให้กับโครงการ Acala รวมถึงการให้ความต้องการเริ่มต้นสำหรับเหรียญ aUSD ที่มีเสถียรภาพ
 
 Website: [https://www.laminar.one/](https://www.laminar.one/)  
 Twitter: [https://twitter.com/LaminarProtocol](https://twitter.com/LaminarProtocol)
 
 # About Polkawallet
 
-Polkawallet is a mobile wallet that empowers users to on-board the Polkadot ecosystem. Built by early-adoptors and advocates of Substrate and Polkadot, Polkawallet is also a Web3 grant recipient and ecosystem contributor. Polkawallet will provide consumer-focused services for the Acala project, from initial user demand for the aUSD stablecoins to CDP creation.
+Polkavallet เป็นกระเป๋าเงินมือถือที่ให้ผู้ใช้บนระบบนิเวศของ Polkadot Polkawallet สร้างขึ้นโดยผู้ริเริ่มและผู้สนับสนุนรายแรกๆ และผู้สนับสนุน Substrate และ Polkadot ยังเป็นผู้รับทุน Web3 และผู้สนับสนุนระบบนิเวศ Polkawallet จะให้บริการที่มุ่งเน้นผู้บริโภคสำหรับโครงการ Acala ตั้งแต่ความต้องการเริ่มต้นของผู้ใช้สำหรับเหรียญ aUSD ที่มีเสถียรภาพ ไปจนถึงการสร้าง CDP
 
 Website: [https://polkawallet.io/](https://polkawallet.io/)  
 Twitter: [https://twitter.com/polkawallet](https://twitter.com/polkawallet)
