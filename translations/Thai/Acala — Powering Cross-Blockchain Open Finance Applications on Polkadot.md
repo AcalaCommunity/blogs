@@ -10,13 +10,13 @@
 
 ก่อตั้งโดยสมาชิกสองคนที่มีส่วนร่วมกับโครงการในระบบนิเวศของ Polkadot: [Laminar](https://laminar.one/) และ [Polkawallet](https://polkawallet.io/) เรากำลังดำเนินการเครือข่าย Acala ในรูปแบบองค์รวมโดยรวมหลายโปรเจคเข้าด้วยกัน เนื่องจาก:
 
-- we believe that as a **_common-good foundational layer_** of the Polkadot DeFi ecosystem, the protocols should **_NOT_** be dominated by any single entity;
-- we are building **_a community-owned stablecoin network_**, where stakeholders, participants, and users are able to govern the core monetary policies of the ecosystem collectively;
-- we are **_broadening the membership and inviting ecosystem participants_** to join the consortium and the movement towards a truly decentralized and community-owned currency.
+- เราเชื่อว่าในฐานะ**_เลเยอร์พื้นฐานที่ดี_**ของระบบนิเวศ Polkadot DeFi โปรโตคอลควร **_ไม่_** ถูกครอบงำโดยเอนทิตีใดๆ
+- เรากำลังสร้าง **_เครือข่าย Stablecoin ที่ชุมชนเป็นเจ้าของ_** ซึ่งผู้มีส่วนได้ส่วนเสีย ผู้เข้าร่วม และผู้ใช้สามารถควบคุมนโยบายการเงินหลักของระบบนิเวศโดยรวมได้
+- เรากำลัง **_ขยายขอบเขตการเป็นสมาชิกและเชิญชวนผู้เข้าร่วมระบบนิเวศ_**ให้เข้าร่วมกลุ่มและการเคลื่อนไหวไปสู่สกุลเงินที่กระจายอำนาจอย่างแท้จริงและเป็นของชุมชน
 
-## Web3 Foundation Grant
+## กองทุนโดยมูลนิธิ Web3
 
-This announcement coincides with great news from the Web3 Foundation that **_a significant development grant_** has been awarded to the Acala stablecoin project, which is a recognition of the team’s effort and our solution as part of the DeFi ecosystem. We are excited to be part of the W3F and Polkadot family and look forward to closer collaboration and further contribution towards the ecosystem.
+การประกาศนี้เกิดขึ้นพร้อมกับข่าวดีจาก Web3 Foundation ที่ **_เงินสนับสนุนการพัฒนาที่สำคัญ_** ได้รับรางวัลสำหรับโครงการ Acala Stablecoin ซึ่งเป็นการยกย่องความพยายามของทีมและโซลูชันของเราซึ่งเป็นส่วนหนึ่งของระบบนิเวศ DeFi เรารู้สึกตื่นเต้นที่ได้เป็นส่วนหนึ่งของครอบครัว W3F และ Polkadot และหวังว่าจะได้รับความร่วมมืออย่างใกล้ชิดยิ่งขึ้นและมีส่วนสนับสนุนต่อระบบนิเวศต่อไป
 
 > “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
 
