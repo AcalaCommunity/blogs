@@ -18,15 +18,15 @@
 
 การประกาศนี้เกิดขึ้นพร้อมกับข่าวดีจาก Web3 Foundation ที่ **_เงินสนับสนุนการพัฒนาที่สำคัญ_** ได้รับรางวัลสำหรับโครงการ Acala Stablecoin ซึ่งเป็นการยกย่องความพยายามของทีมและโซลูชันของเราซึ่งเป็นส่วนหนึ่งของระบบนิเวศ DeFi เรารู้สึกตื่นเต้นที่ได้เป็นส่วนหนึ่งของครอบครัว W3F และ Polkadot และหวังว่าจะได้รับความร่วมมืออย่างใกล้ชิดยิ่งขึ้นและมีส่วนสนับสนุนต่อระบบนิเวศต่อไป
 
-> “We’re excited to see a community-led project build a stable coin for Polkadot. It could be a key part of infrastructure that will enable various use cases in the Polkadot network such as DeFi and gaming applications.” — Jack Platts, Head of Collaborations at Web3 Foundation
+> “เรารู้สึกตื่นเต้นที่ได้เห็นโครงการที่นำโดยชุมชนสร้างเหรียญที่มั่นคงสำหรับ Polkadot อาจเป็นส่วนสำคัญของโครงสร้างพื้นฐานที่จะเปิดใช้งานกรณีการใช้งานต่างๆ ในเครือข่าย Polkadot เช่น DeFi และแอพพลิเคชั่นเกม” — Jack Platts หัวหน้าฝ่ายความร่วมมือที่มูลนิธิ Web3
 
-## Substrate Builder Program Inaugural Member
+## เปิดตัวโครงการ Substrate Builder โดยสมาชิกในชุมชน
 
-Acala is also proud to be selected to join the first batch of the [Substrate Builder Program](http://builders.parity.io/). The Substrate Builders Program powered by Parity identifies, supports and mentors current and potential Substrate-based blockchain projects that are building impactful chains. We look forward to working closely with the Parity team and other builders to take the development of Acala’s protocols, products, and community to the next level.
+Acala ภูมิใจที่ได้รับเลือกให้เข้าร่วมเป็นกลุ่มแรกของ [Substrate Builder Program](http://builders.parity.io/) Substrate Builders Program ที่ขับเคลื่อนโดย Parity สนับสนุน และให้คำปรึกษาโครงการบล็อกเชนที่ใช้ Substrate ในปัจจุบันและที่เป็นไปได้ ซึ่งกำลังสร้างห่วงโซ่ที่มีผลกระทบ เราหวังว่าจะได้ทำงานอย่างใกล้ชิดกับทีม Parity และผู้สร้างรายอื่นๆ เพื่อพัฒนาโปรโตคอล ผลิตภัณฑ์ และชุมชนของ Acala ไปอีกระดับ
 
 ![Image for post](https://miro.medium.com/max/2800/0*jtrfXlllLsc1QIgG)
 
-# Connecting the Dots (aka Value Networks)
+# การเชื่อมต่อกับ Polkadot (อีกชื่อ คือ Value Networks)
 
 The significance of cross-chain communication to the blockchain is like that of the internet to the intranet. Polkadot empowers a network of blockchains to interact with **_true interoperability, economic and transactional scalability_**. Currently, valuable networks namely Bitcoin, Ethereum and other public, enterprise consortium networks are operating mostly in silos. As such, they are far from realizing their full potential. Polkadot’s shared security model and cross-blockchain communication — covering the exchange of information and value — will inevitably give rises to **_fairer peer-to-peer digital jurisdictions and autonomous economies_**. This creates the basis for truly open finance — that leans more **towards public good than siloed private infrastructure** — that many have envisioned but never had the means to realize.
 
