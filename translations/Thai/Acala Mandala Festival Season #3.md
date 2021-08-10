@@ -2,7 +2,7 @@
 
 🎉 เตรียมตัวให้พร้อมกับแอ็คชั่น DeFi เป็นเวลาสามสัปดาห์ เริ่ม 27 กรกฎาคมนี้! 🎉
 
-![Image for post](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
+![รูปเพื่อโพส](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
 
 พวกเราไม่อยากจะเชื่อเลยว่างานเทศกาล Mandala ครั้งนี้จะเป็นงานครั้งที่สามของเรา มันดูเหมือนว่าเมื่อวานนี้เท่านั้นที่พวกเราได้ประกาศฉบับปฐมฤกษ์ในเดือนมีนาคม! พวกเรารู้สึกทึ่งกับการสนับสนุนของคุณ ความกระตือรือร้น และกิจกรรมมากมายที่เกิดขึ้นในเน็ตเวิร์คนับตั้งแต่นั้นมา
 
@@ -44,127 +44,128 @@ Ren เป็นตัวอย่างที่ยอดเยี่ยมส�
 
 **นี่คือตารางงานที่ทางเราได้ลงรายละเอียดไว้ทั้งหมด ทั้งรางวัลและระยะเวลา:**
 
-![Image for post](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
+![รูปเพื่อโพส](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
 
-# Get Started
+# มาเริ่มกันเถอะ
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- Check out these guides on Laminar [synthetic asset](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [margin trading](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)
-- Results are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- เริ่มต้นกับ Acala รวมถึงการสร้างกระเป๋าเงินและรับโทเค็นทดสอบ [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
+- ดูคำแนะนำเหล่านี้เพื่อใช้ [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX) และ [Homa stakingอนุพันธ์](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT)
+- ดูคำแนะนำเกี่ยวกับการซื้อขายข้ามเครือข่ายกับ Laminar และ Ren [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
+- ดูคำแนะนำเกี่ยวกับ Laminar [เนื้อหาสังเคราะห์](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [การซื้อขายมาร์จิ้น](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)
+- ผลลัพธ์ถูกเผยแพร่ [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
 
-## Full Schedule and Rules
+## กำหนดการและกติกาฉบับเต็ม
 
-## Week 1: User Participation
+## สัปดาห์ที่ 1: การมีส่วนร่วมของผู้ใช้
 
-**Duration**: 27-July-2020 to 03-August-2020 (one week)  
-**Award Pool**: 20,000 ACA + 20,000 KAR
+**ระยะเวลา**: 27-กรกฎาคม-2020 ถึง 03-สิงหาคม-2020 (หนึ่งสัปดาห์)  
+**รางวัลรวม**: 20,000 ACA + 20,000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
+- ผู้ใช้ที่ผ่านการรับรองทั้งหมดจะแบ่งปันรางวัลรวม
+- รางวัลทั้งหมดจะถูกบันทึกและเผยแพร่
 
-![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
+![รูปเพื่อโพส](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
-**Participation Rules:**
+**กฎการเข้าร่วม:**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- รับการทดสอบ aUSD จาก faucet ค่าธรรมเนียมต้องชำระเป็น aUSD
+- ผู้ใช้ที่ทำธุรกรรมที่มีความหมายสามรายการจะได้รับรางวัล
 
-**Meaningful transactions include:**
+**ธุรกรรมต้องมาจาก**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity
-- Use Honzon stablecoin to collateralize for aUSD
-- Use Homa protocol to get staking derivative LDOT
-- Transfer aUSD to Laminar Chain, and use it either for synthetic asset, or margin trading
-- Mint renBTC and use it in above activities
-- Participate in auctions of system
+- ใช้ DeX เพื่อสลับโทเค็น
+- ใช้ DeX เพื่อจัดหาสภาพคล่อง
+- ใช้ Honzon stablecoin เพื่อค้ำประกันสำหรับ aUSD
+- ใช้โปรโตคอล Homa เพื่อรับอนุพันธ์การปักหลัก LDOT
+- โอน aUD ไปยัง Laminar Chain และใช้สำหรับสินทรัพย์สังเคราะห์หรือการซื้อขายมาร์จิ้น
+- Mint renBTC และใช้ในกิจกรรมข้างต้น
+- เข้าร่วมการประมูลระบบ
 
-## Week 2 Trading Competition
+## การแข่งขันซื้อขายสัปดาห์ที่ 2
 
-**Duration**: 03-August-2020 to 10-August-2020 (one week)  
-**Award Pool**: 5,000 ACA + 5,000 KAR
+**ระยะเวลา**: 03-August-2020 ถึง 10-August-2020 (หนึ่งสัปดาห์)  
+**รางวัลรวม**: 5,000 ACA + 5,000 KAR
 
-- Top 10 qualified traders will share the reward pool
-- All rewards will be recorded and published
+- เทรดเดอร์ที่มีคุณสมบัติเหมาะสม 10 อันดับแรกจะแบ่งปันรางวัลรวม
+- รางวัลทั้งหมดจะถูกบันทึกและเผยแพร่
 
-**Participation Rules:**
+**กฎการเข้าร่วม:**
 
-- Use the balance of USD as the unit of account
-- Profit calculated as ending balance — beginning balance
+- ใช้ยอดเงิน USD เป็นหน่วยของบัญชี
+- กำไรที่คำนวณเป็นยอดดุลสิ้นสุด — ยอดเริ่มต้น
 
-**The rules for ranking of trading competition :**
+**กฎการจัดลำดับการแข่งขันทางการค้า :**
 
-- Snapshots will be taken for both Acala and Laminar networks at the beginning of the trading competition; the total net value of various assets (including debts) will be calculated based on the price feed at the time as the initial balance.
-- Another snapshot will be taken at the end of the competition, using the feed price at that time as the final balance. Cross-chain transfers (e.g. transfers between Acala and Laminar) are not counted, while transfers between addresses are counted as capital.
-- Profit margin = total value of final balance / (total value of initial balance + capital sum correction) — 100%, all accounts are ranked according to this function
+- สแนปชอตจะถูกกำหนดสำหรับทั้งเครือข่าย Acala และ Laminar ในช่วงเริ่มต้นของการแข่งขันการซื้อขาย มูลค่าสุทธิรวมของสินทรัพย์ต่างๆ (รวมถึงหนี้สิน) จะถูกคำนวณตามการป้อนราคา ณ เวลานั้นเป็นยอดคงเหลือเริ่มต้น
+- สแนปชอตอื่นจะถูกถ่ายเมื่อสิ้นสุดการแข่งขัน โดยใช้ราคาฟีดในขณะนั้นเป็นยอดคงเหลือสุดท้าย การโอนข้ามสายโซ่ (เช่น การโอนระหว่าง Acala และ Laminar) จะไม่ถูกนับ ในขณะที่การโอนระหว่างที่อยู่จะนับเป็นทุน
+- กำไรขั้นต้น = มูลค่ารวมของยอดคงเหลือสุดท้าย / (มูลค่ารวมของยอดคงเหลือเริ่มต้น + การแก้ไขผลรวมทุน) — 100% บัญชีทั้งหมดจะถูกจัดอันดับตามฟังก์ชันนี้
 
-**The following are included in the balance calculation:**
+**รายการดังต่อไปนี้รวมอยู่ในการคำนวณของยอดคงเหลือ:**
 
 **Balances of all assets:**  
 — Acala : aUSD, ACA, renBTC, XBTC, DOT, LDOT  
 — Laminar : aUSD, LAMI, synthetic assets
 
 **Balances of all DeFi positions:**  
-— Acala : CDP (net value of collateral value minus debt value), share value in Deposit & Earn  
-— Laminar : margin position value
+— Acala : CDP (มูลค่าสุทธิของมูลค่าหลักประกันลบมูลค่าหนี้) มูลค่าหุ้นในเงินฝาก & รับ  
+— Laminar : มูลค่าตำแหน่งมาร์จิ้น
 
-## Week 3 Black Thursday Simulation
+## สัปดาห์ที่ 3 การจำลอง Black Thursday
 
-**Duration**: 10-August-2020 to 17-August-2020 (one week)  
-**Award Pool**: 4,000 ACA + 4,000 KAR
+**ระยะเวลา**: 10-ส. ค. 2563 ถึง 17 ส. ค. 2563 (หนึ่งสัปดาห์)  
+**รางวัลรวม**: 4,000 ACA + 4,000 KAR
 
-- A draw of 200 qualified users will share the reward pool
-- All rewards will be recorded and published
+- การจับรางวัล 200 ผู้ใช้ที่ผ่านการรับรองจะแบ่งปันรางวัลรวม
+- รางวัลทั้งหมดจะถูกบันทึกและเผยแพร่
 
-**Participation Rules:**
+**กฎการเข้าร่วม:**
 
-- **Day 1 — Day 4liquidation events**: users participate by closing CDP or increasing collateral or participate in auctions
-- **Day 5**: emergency shutdown will be triggered, participants will use aUSD to buy back collaterals
-- Users who took part in the above activity will benefit from rewards
+- **วันที่ 1 — วันที่ 4 กิจกรรมการชำระบัญชี**: ผู้ใช้เข้าร่วมโดยการปิด CDP หรือเพิ่มหลักประกันหรือเข้าร่วมในการประมูล
+- **วันที่ 5**: การปิดฉุกเฉินจะเริ่มขึ้น ผู้เข้าร่วมจะใช้ Ausd เพื่อซื้อหลักประกันคืน
+- ผู้ใช้ที่เข้าร่วมในกิจกรรมข้างต้นจะได้รับประโยชน์จากรางวัล
 
 ## Blog Bounty (Throughout Festival)
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**ระยะเวลา**: 27-กรกฎาคม-2020 ถึง 17-สิงหาคม-2020 (สามสัปดาห์)  
+**รางวัลรวม**: 2,000 ACA + 2,000 KAR
 
-- 10 awards will be awarded in total
-- Awards will be published one week after the event ends
+- ทั้งหมด 10 รางวัล
+- รางวัลจะประกาศหลังจากสิ้นสุดกิจกรรมหนึ่งสัปดาห์
 
-**Participation Rules:**
+**กฎการเข้าร่วม:**
 
-- Submit a blog to either [Medium](https://medium.com/), [Bihu](https://bihu.com/), or [YouTube](https://www.youtube.com/) regarding the Acala Network.
-- The article must **include your Acala Mandala Address to receive prizes**.
-- Submit the link to your piece of content to Acala [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) or [Riot](https://riot.im/app/#/room/#acala:matrix.org) channel using the hashtag #MandalaFest3
-- The content must be original
-- We will judge both the **quality** (how appealing is the story, idea, perspective, insights, analysis, etc) and **social reactions** (number of comments, likes, twitter or other social sharing, etc).
+- ส่งบล็อกไปที่ [Medium](https://medium.com/), [Bihu](https://bihu.com/) หรือ [YouTube](https://www.youtube.com/) เกี่ยวกับ Acala Network
+- บทความนี้ต้อง **ระบุที่อยู่ Acala Mandala ของคุณเพื่อรับรางวัล**
+- ส่งลิงค์ไปยังช่อง Acala [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) หรือ [Riot](https://riot.im/app/#/room/#acala:matrix.org) โดยใช้แฮชแท็ก #MandalaFest3
+- เนื้อหาต้องเป็นต้นฉบับ
+- เราจะตัดสินทั้ง**คุณภาพ** (เรื่องราว ความคิด มุมมอง ข้อมูลเชิงลึก การวิเคราะห์ และอื่นๆ น่าสนใจเพียงใด) และ**ปฏิกิริยาทางสังคม** (จำนวนความคิดเห็น ไลค์ ทวิตเตอร์ หรืออื่นๆ การแบ่งปันทางสังคม ฯลฯ)
 
 ## Bug Bounty (Throughout Festival)
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 10,000 ACA + 10,000 KAR
+ระยะเวลา: 27 กรกฎาคม 2563 ถึง 17 สิงหาคม 2563 (สามสัปดาห์) เงินรางวัลรวม: 10,000 ACA + 10,000 KAR
 
-- Please allow one week from your submission for our review.
+- โปรดรอหนึ่งสัปดาห์จากการส่งของคุณสำหรับการตรวจสอบของเรา
 
-**Participation Rules:**
+**กฎการเข้าร่วม:**
 
-- Find bugs for the following two repos:  
+- ค้นหาจุดบกพร่องสำหรับ repos สองรายการต่อไปนี้:  
   [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
-  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team, and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
-- Please **include your Acala Mandala Address in the Github issue** for easy prize disbursal
+  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (ส่วน Acala)
+- ข้อบกพร่องถูกตัดสินตามความสำคัญและความรุนแรงโดยทีม Acala Engineering และได้รับรางวัลคร่าวๆ ตามระดับ [ที่นี่](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
+- โปรด **ใส่ที่อยู่ Acala Mandala ของคุณในฉบับ Github** เพื่อการแจกรางวัลอย่างง่าย
 
-## 🎉 **Let the festivities begin**
+## 🎉 **เริ่มเทศกาลได้เลย**
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+เรารู้สึกตื่นเต้นที่จะได้เฉลิมฉลอง Mandala Fest ร่วมกับพวกคุณทุกคน! เราหวังว่ารางวัลมากมาย การมีส่วนร่วมที่หลากหลาย และโอกาส DeFi ข้ามสายโซ่ที่สำคัญจะดึงดูดใจคุณหลายๆ คน **เกี่ยวกับการทดสอบการขับขี่ Polkadot Acala ให้ตำแหน่งโพลโพสิชั่นและเส้นทางที่เร็วที่สุดจากศูนย์ถึงฮีโร่** และเช่นเคย ทีมงานพร้อมตอบคำถามและช่วยให้คุณได้รับประโยชน์สูงสุดจาก งานเทศกาล. โปรดเข้าร่วมช่องทางของเราเพื่อรับสิทธิ์เข้าถึงวีไอพีเพื่อสนับสนุนและชุมชนของเรา 👇
 
-**Join us — Acala** [**Telegram**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **and** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org) **channels.**
+**ติดต่อเรา— Acala** [**Telegram**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **and** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org) **channels.**
 
-# **About Acala**
+# **เกี่ยวกับ Acala**
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) เป็นศูนย์รวมการเงินแบบกระจายศูนย์แห่งแรกที่มีวิสัยทัศน์ในการสร้างความมั่นคงทางการเงิน สภาพคล่อง และการเข้าถึงกระแสหลัก **เครือข่าย Acala เป็นศูนย์กลางการเงินข้ามเครือข่ายสำหรับระบบนิเวศ Polkadot** และอื่นๆ มันมีชุดของพื้นฐานทางการเงิน: เหรียญที่มีเสถียรภาพหลายหลักประกันซึ่งได้รับการสนับสนุนจากสินทรัพย์ข้ามสายเช่น Bitcoin อนุพันธ์การปักหลักที่น่าเชื่อถือและการแลกเปลี่ยนแบบกระจายอำนาจเพื่อปลดปล่อยสภาพคล่องและนวัตกรรมทางการเงินที่มีประสิทธิภาพ เป็นแพลตฟอร์มเปิดแบบเปิดสำหรับ dApps ที่เน้นด้านการเงินเพื่อปรับใช้กับสัญญาอัจฉริยะหรือโปรโตคอลในตัวที่มีความสามารถข้ามสายโซ่ที่พร้อมใช้งานทันที ความปลอดภัย และการเพิ่มประสิทธิภาพทางการเงิน
 
-Learn more about Acala on [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) and [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). You can join our community on [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) and [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Any inquiries, please [email](http://hello@acala.network/) or DM us.
+เรียนรู้เพิ่มเติมเกี่ยวกับ Acala บน [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) และ
 
-To keep up to date with progress on the Acala launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Acala Wiki</3> 4>. คุณสามารถเข้าร่วมชุมชนของเราได้ที่ [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) และ [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org) หากมีข้อสงสัยใดๆ โปรด [อีเมล](http://hello@acala.network/) หรือ DM หาเรา</p> 
+
+หากต้องการติดตามความคืบหน้าในการเปิดตัว Acala โปรดสมัครรับจดหมายข่าว [จดหมายข่าวของ Acala](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc)
