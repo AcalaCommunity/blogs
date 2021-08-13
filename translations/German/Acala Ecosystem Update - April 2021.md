@@ -38,38 +38,38 @@ Diese Integration wurde durch die kürzliche Einführung einer [Chainlink-Orakel
 
 **Gauntlet** ist eine Simulationsplattform für das Risikomanagement in der Handelskette. Gauntlet hat Marktrisikobewertungen für [Compound](https://gauntlet.network/reports/compound), [MakerDAO](https://maker-report.gauntlet.network/), [Liquity](https://liquity-report.gauntlet.network/), [Notional](https://notional-report.gauntlet.network/), [Aave](https://www.google.com/url?q=https://gauntlet.network/reports/aave&sa=D&source=editors&ust=1620757829310000&usg=AOvVaw3y5W7MBStjIx2EO6Nq44UL) und andere durchgeführt. Sie nehmen aktiv an zahlreichen Gemeinschaften und Governance-Prozessen teil - unter anderem an Uniswap und Compound, wo sie führende Delegierte sind. Die [Risikobewertungen](https://risk.gauntlet.network/) von Gauntlet sind auf DeFi Pulse zu finden, wo sie wirtschaftliche Sicherheitsbewertungen für Kreditprotokolle bereitstellen. Kürzlich ist Gauntlet eine Partnerschaft mit [Balancer](https://medium.com/gauntlet-networks/balancer-v2-pools-trading-fee-methodology-7a65df671b8c) eingegangen, um die Pool-Handelsgebühren dynamisch festzulegen und so die Erträge der Liquiditätsanbieter zu maximieren. Lesen Sie mehr im vollständigen Blogbeitrag:
 
-[Gauntlet to Provide Automated Financial Risk Management for Acala and Karura](https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)
+[Gauntlet bietet automatisiertes Finanzrisikomanagement für Acala und Karura](https://medium.com/acalanetwork/gauntlet-to-provide-automated-financial-risk-management-for-acala-and-karura-edd8b41bba9)
 
 ## **Karura Product Demos**
 
-In April, [Ruitao Su](https://twitter.com/ruitao_su) and Dan Reecer held a webinar to demonstrate Karura’s three core products: the Karura DEX, kUSD stablecoin loans, and Liquid KSM (LKSM) staking. Check out the clips of the product demos below!
+Im April hielten [Ruitao Su](https://twitter.com/ruitao_su) und Dan Reecer ein Webinar ab, um die drei Kernprodukte von Karura zu demonstrieren: Karura DEX, kUSD stablecoin loans und Liquid KSM (LKSM) staking. Sehen Sie sich die Clips der Produktdemonstrationen unten an!
 
-**_Stay liquid while staking KSM with LKSM:_**
+**_Bleiben Sie beim Einsatz von KSM mit LKSM flüssig:_**
 
-**_Perform swaps with the Karura DEX:_**
+**_Führe Tauschaktionen mit dem Karura DEX durch:_**
 
-**_Borrow kUSD on Karura:_**
+**_Leihen Sie sich kUSD auf Karura:_**
 
-## **Learn how Crowdloans and Parachain Auctions work**
+## **Erfahren Sie, wie Crowdloans und Parachain-Auktionen funktionieren**
 
-Kusama crowdloans and parachain auctions are rapidly approaching. Make sure you’re up to speed on how the process works, and stay tuned for more educational videos on the details of how to participate in the Karura crowdloan.
+Die Kusama Crowdloans und Parachain-Auktionen stehen kurz bevor. Vergewissern Sie sich, dass Sie auf dem Laufenden sind, wie das Verfahren funktioniert, und bleiben Sie dran für weitere Lehrvideos über die Einzelheiten der Teilnahme am Karura Crowdloan.
 
-Have a great month of May! Until next time,
+Einen schönen Monat Mai! Bis zum nächsten Mal,
 
 The Acala Team
 
 ![](https://miro.medium.com/max/2402/0\*kyqlUg4IuiRNKR4P.png)
 
-# **About Acala**
+# **Über Acala**
 
-[Acala](http://acala.network) is an all-in-one decentralized finance network offering a blockchain platform secured by Polkadot, as well as a suite of cross-chain financial applications that let users trade, issue self-serviced loans, become liquidity providers, access staking derivatives, and earn high-interest APY on their digital assets. The network is scalable, Ethereum-compatible, and optimized for DeFi.
+[Acala](http://acala.network) ist ein dezentralisiertes All-in-One-Finanznetzwerk, das eine durch Polkadot gesicherte Blockchain-Plattform sowie eine Reihe von kettenübergreifenden Finanzanwendungen bietet, mit denen Nutzer handeln, selbstverwaltete Kredite vergeben, Liquiditätsanbieter werden, Zugang zu Staking-Derivaten erhalten und hohe Zinserträge auf ihre digitalen Vermögenswerte erzielen können. Das Netzwerk ist skalierbar, Ethereum-kompatibel und für DeFi optimiert.
 
-Acala was founded in Oct 2019, and today has received five Web3 Foundation grants, has backing from Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere and other top firms, and has a distributed team in New Zealand, China, Europe, Brazil, and the United States.
+Acala wurde im Oktober 2019 gegründet und hat bis heute fünf Zuschüsse der Web3 Foundation erhalten, wird von Coinbase Ventures, Pantera Capital, Polychain Capital, Hypersphere und anderen führenden Unternehmen unterstützt und verfügt über ein verteiltes Team in Neuseeland, China, Europa, Brasilien und den Vereinigten Staaten.
 
 [Linktree](https://linktr.ee/acalanetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
 
-# About Karura
+# Über Karura
 
-[Karura](http://acala.network/karura) is the all-in-one DeFi hub of Kusama. Founded by the Acala Foundation, Karura is a scalable, EVM-compatible network optimized for DeFi. The platform offers a suite of financial applications including: a trustless staking derivative (liquid KSM), a multi-collateralized stablecoin backed by cross-chain assets (kUSD), and an AMM DEX — all with micro gas fees that can be paid in any token.
+[Karura](http://acala.network/karura) ist der all-in-one DeFi-Hub von Kusama. Karura wurde von der Acala Foundation gegründet und ist ein skalierbares, EVM-kompatibles Netzwerk, das für DeFi optimiert ist. Die Plattform bietet eine Reihe von Finanzanwendungen an, darunter ein vertrauensloses Staking-Derivat (liquide KSM), einen mehrfach besicherten Stablecoin, der durch kettenübergreifende Vermögenswerte (kUSD) gesichert ist, und einen AMM DEX - alles mit Mikrogasgebühren, die in jedem Token bezahlt werden können.
 
 [Linktree](http://linktr.ee/karuranetwork) | [Discord](https://discord.gg/vdbFVCH) | [Website](http://acala.network/karura) | [Twitter](https://twitter.com/KaruraNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) | [YouTube](http://youtube.com/c/acalanetwork)
