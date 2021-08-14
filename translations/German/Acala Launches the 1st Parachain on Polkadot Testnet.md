@@ -1,47 +1,47 @@
-# Acala Launches the 1st Parachain on Polkadot Testnet
+# Acala startet den 1. Parachain im Polkadot Testnet
 
-![Image for post](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
+![Bild für Beitrag](https://miro.medium.com/max/8000/1*IGXwgFXEA7viM8upZgcw2g.jpeg)
 
-We’ve reached a significant milestone towards launching Acala as parachain on Polkadot — we launched Acala Mandala PC1 (Parachain Candidate 1) testnet as the first parachain on [Rococo — Polkadot’s parachain testnet](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56).
+Wir haben einen wichtigen Meilenstein auf dem Weg zur Einführung von Acala als Parachain auf Polkadot erreicht - wir haben Acala Mandala PC1 (Parachain Candidate 1) als erste Parachain auf [Rococo - Polkadots Parachain-Testnetz](https://medium.com/polkadot-network/introducing-rococo-polkadots-parachain-testnet-e3e67fc40b56) gestartet.
 
-Rococo enables parachain consensus and shared security via [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus), as well as cross-chain communication via HRMP (Horizontal Relay-chain Message Passing). HRMP requires cross-chain messages being routed via Relay-chains, as a stepping stone towards direct parachain to parachain communication via [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-chain Message Passing) later on.
+Rococo ermöglicht den Parachain-Konsens und die gemeinsame Sicherheit über [Cumulus](https://wiki.polkadot.network/docs/en/build-cumulus) sowie die kettenübergreifende Kommunikation über HRMP (Horizontal Relay-chain Message Passing). HRMP setzt voraus, dass kettenübergreifende Nachrichten über Relaisketten weitergeleitet werden, als Vorstufe zur späteren direkten Kommunikation von Fallschirm zu Fall über [XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain) (Cross-Chain Message Passing).
 
-With Acala Mandala PC1, we can
+Mit Acala Mandala PC1 können wir
 
-- **Test Acala’s full DeFi suite** (stablecoin, staking derivative, and DeX) using cross-chain consensus and message passing.
-- Develop further the [Cross-Consensus Message (XCM) format](https://github.com/paritytech/xcm-format) implementation, and specifically flesh out the **cross-chain fungible token standard** that we had spearheaded. The draft standard [here](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) & PoC pallet implementation [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
-- **Test Acala Collator nodes** and implement reward schemes.
-- **Test cross-chain integrations** **with other parachains** such as Laminar, Plasm, Interlay, and others.
-- Implement Homa protocol’s **trustless staking bridge to Relay-chain**.
+- **Testen Sie Acalas vollständige DeFi-Suite** (Stablecoin, Staking-Derivat und DeX) unter Verwendung von kettenübergreifendem Konsens und Nachrichtenübermittlung.
+- Weiterentwicklung der Implementierung des [Cross-Consensus Message (XCM)-Formats](https://github.com/paritytech/xcm-format) und insbesondere Ausarbeitung des **Cross-Chain Fungible Token-Standards**, dessen Entwicklung wir vorangetrieben haben. Der Normentwurf [hier](https://github.com/w3f/PSPs/blob/master/PSPs/drafts/psp-3.md) & PoC-Palettenimplementierung [hier](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens).
+- **Test der Acala Collator-Knoten** und Einführung von Belohnungssystemen.
+- **Testen Sie kettenübergreifende Integrationen** **mit anderen Parachains** wie Laminar, Plasm, Interlay und anderen.
+- Implementierung der **vertrauenslosen Absteckbrücke des Homa-Protokolls in die Relaiskette**.
 
-# Parachain Developer Community
+# Parachain Entwicklergemeinschaft
 
-We have shared the following with the parachain developer community
+Wir haben die folgenden Informationen an die Parachain-Entwicklergemeinschaft weitergegeben
 
-- **Turn a Substrate-based chain into a parachain** including turning nodes into [Collators](https://wiki.polkadot.network/docs/en/maintain-collator) by integrating Cumulus [here](https://github.com/AcalaNetwork/Acala/pull/362)
-- **Cross-chain fungible multi-token transfer implementation** — the ‘xtoken’ pallet [here](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). This already enables transferring ROC (Rococo’s network token) between Rococo and Mandala PC1; other parachains who adopt this or use the same standards can transfer tokens to each other.
+- **Umwandlung einer substratbasierten Kette in eine Parakette** einschließlich der Umwandlung von Knoten in [Kollatoren](https://wiki.polkadot.network/docs/en/maintain-collator) durch Integration von Cumulus [hier](https://github.com/AcalaNetwork/Acala/pull/362)
+- **Kettenübergreifende fungible Multi-Token-Transfer-Implementierung** - die 'xtoken'-Palette [hier](https://github.com/open-web3-stack/open-runtime-module-library/tree/rococo/xtokens). Dies ermöglicht bereits die Übertragung von ROC (Rococos Netzwerk-Token) zwischen Rococo und Mandala PC1; andere Fallschirme, die dies übernehmen oder die gleichen Standards verwenden, können Token untereinander übertragen.
 
-# What’s Next
+# Was kommt als Nächstes
 
-For the Mandala PC1, it will reset inadvertently unannounced multiple times to keep up with the latest version of Rococo, roll out new functionalities and support integrations with other parachains. The key upcoming developments for the Mandala Parachain Candidate are:
+Der Mandala PC1 wird mehrmals unangekündigt zurückgesetzt, um mit der neuesten Version von Rococo Schritt zu halten, neue Funktionen einzuführen und Integrationen mit anderen Parachains zu unterstützen. Die wichtigsten bevorstehenden Entwicklungen für den Mandala Parachain-Kandidaten sind:
 
-- **Continue to develop the XCM pallet** along with Parity, the Web3 Foundation, and others in the community towards production-ready.
-- **Enable Acala staking** with rewards/slash on Acala Collator nodes.
-- **Extensive cross-chain communication testing** with other parachains, and make possible some of the use cases that were implemented in isolation, for example, and cross aUSD to Laminar as the base currency for margin trading, and cross aUSD to Plasm network as payment methods.
-- **Enable Homa staking derivative (LDOT) Relay-chain bridge** so that trustless liquid staking for Kusama and Polkadot is ready on launch.
+- **Weiterentwicklung der XCM-Palette** zusammen mit Parity, der Web3 Foundation und anderen in der Gemeinschaft bis zur Produktionsreife.
+- **Acala-Stacking** mit Belohnungen/Slash auf Acala Collator-Knoten aktivieren.
+- **Ausführliches Testen der kettenübergreifenden Kommunikation** mit anderen Parachains und Ermöglichung einiger Anwendungsfälle, die isoliert implementiert wurden, z. B. Kreuzung von aUSD mit Laminar als Basiswährung für den Margin-Handel und Kreuzung von aUSD mit dem Plasm-Netzwerk als Zahlungsmittel.
+- **Enable Homa Staking Derivative (LDOT) Relay-Chain Bridge**, so dass die vertrauenswürdige flüssige Absteckung für Kusama und Polkadot beim Start bereit ist.
 
 # Launch
 
-Beyond Rococo and Mandala, Acala will launch its canary network Karura as parachain firstly on Kusama when parachain function is enabled there, then launch mainnet on Polkadot. Acala will operate the two networks — Karura & Acala mainnet to provide DeFi infrastructure and liquidity for both Kusama and Polkadot ecosystem. From here on, we will be preparing for parachain auction to secure a slot and launch on the two networks. **Subscribe** [**here**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **to receive updates on the Acala parachain auction and launch.**
+Neben Rococo und Mandala wird Acala sein kanarisches Netzwerk Karura als Parachain zunächst auf Kusama starten, wenn die Parachain-Funktion dort aktiviert ist, und dann das Hauptnetz auf Polkadot. Acala wird die beiden Netzwerke - Karura & Acala mainnet - betreiben, um DeFi-Infrastruktur und Liquidität für das Kusama- und Polkadot-Ökosystem bereitzustellen. Von nun an werden wir uns auf die Parachain-Auktion vorbereiten, um uns einen Sendeplatz zu sichern und in den beiden Netzen zu starten. **Abonniere** [**hier**](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc) **um aktuelle Informationen über die Versteigerung und den Start von Acala parachain zu erhalten.**
 
-# About Acala
+# Über Acala
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. The Acala Network is a cross-chain finance hub for the Polkadot ecosystem and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) ist das erste dezentralisierte Finanzkonsortium seiner Art mit der Vision, finanzielle Stabilität, Liquidität und Zugänglichkeit in den Mainstream zu bringen. Das Acala-Netzwerk ist ein kettenübergreifendes Finanzzentrum für das Polkadot-Ökosystem und darüber hinaus. Es bietet eine Reihe von Finanzprimitiven: einen mehrfach besicherten Stablecoin, der durch kettenübergreifende Vermögenswerte wie Bitcoin abgesichert ist, ein vertrauensloses Staking-Derivat und eine dezentrale Börse, um Liquidität freizusetzen und finanzielle Innovationen voranzutreiben. Sie ist die erste offene Plattform für finanzorientierte dApps, die mit Smart Contracts oder integrierten Protokollen mit sofortigen Cross-Chain-Fähigkeiten, Sicherheit und finanziellen Optimierungen bereitgestellt werden.
 
-**Join Us**
+**Beitreten**
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-![Image for post](https://miro.medium.com/max/1500/0*YTeYSsHAVjOBCZu8.jpeg)
+![Bild für Beitrag](https://miro.medium.com/max/1500/0*YTeYSsHAVjOBCZu8.jpeg)
 
-Acala is a proud Web3 Foundation Grantee
+Acala ist ein stolzer Stipendiat der Web3 Foundation
