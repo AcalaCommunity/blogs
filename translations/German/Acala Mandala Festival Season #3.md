@@ -1,170 +1,170 @@
-# Acala Mandala Festival Season #3
+# Acala Mandala Festival Saison #3
 
-🎉 Get ready for three weeks of DeFi action starting July 27! 🎉
+🎉 Machen Sie sich bereit für drei Wochen DeFi-Action ab dem 27. Juli! 🎉
 
-![Image for post](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
+![Bild für Beitrag](https://miro.medium.com/max/8000/1*UXDe6ssrxawn7So8hDl5gw.jpeg)
 
-We can’t believe it’s already time for our third season of Mandala Festival, it seems like only yesterday we were announcing the inaugural edition back in March! We’ve been blown away by your support, enthusiasm and the wealth of activity we’ve had on the network ever since.
+Wir können nicht glauben, dass es bereits Zeit für unsere dritte Saison des Mandala Festivals ist. Es scheint, als wäre es erst gestern gewesen, als wir die erste Ausgabe im März angekündigt haben! Wir sind überwältigt von Ihrer Unterstützung, Ihrem Enthusiasmus und der Fülle von Aktivitäten, die wir seither im Netzwerk haben.
 
-The first two seasons attracted a lot of attention, with a considerable influx of participants and a flurry of meaningful activity:
+Die ersten beiden Saisons haben viel Aufmerksamkeit erregt, mit einem beträchtlichen Zustrom von Teilnehmern und einer Flut von sinnvollen Aktivitäten:
 
-📈 1300+ node runners  
-👥 600 + app users  
-✍️ 30+ bloggers  
-🐞 30+ bug hunters  
-✅ 4000+ new accounts  
-⛓️ 40,000 + meaningful transactions
+📈 1300+ Knoten-Läufer  
+👥 600+ App-Benutzer  
+✍️ 30+ Blogger  
+🐞 30+ Fehlerjäger  
+✅ 4000+ neue Konten  
+⛓️ 40.000+ sinnvolle Transaktionen
 
 ## Mandala TC4 Cross-Chain DeFi
 
-As **we launch this third season of the festival on Monday 27th of July**, it’s perhaps time to reiterate **Acala’s main mission: enable an interconnected, autonomous, efficient and sophisticated cross-blockchain finance ecosystem.** Because Acala is a finance hub on Polkadot, it provides a suite of financial primitives including multi-collateralized stablecoin, trustless staking derivative and a decentralized exchange. These primitives are offered via the Acala dApp, directly to end-users, and also as SDKs for other dApps to build on.
+Da **wir diese dritte Saison des Festivals am Montag, den 27. Juli** starten, ist es vielleicht an der Zeit, **Acalas Hauptaufgabe zu wiederholen: ein vernetztes, autonomes, effizientes und hochentwickeltes Cross-Blockchain-Finanz-Ökosystem zu ermöglichen.** Weil Acala ein Finanz-Hub auf Polkadot ist, bietet es eine Reihe von Finanz-Primitiven, einschließlich multi-collateralized Stablecoin, vertrauenslose Staking-Derivate und eine dezentrale Börse. Diese Primitive werden über die Acala dApp angeboten, direkt an Endanwender und auch als SDKs für andere dApps, die darauf aufbauen können.
 
-## The most recent updates in making cross chain DeFi a reality are as follows:
+## Die jüngsten Aktualisierungen bei der Umsetzung von Cross-Chain-DeFi sind wie folgt:
 
-- **_Acala’s full-fledged DeFi suite_** _is now open_: multi-collateralized stablecoin supporting DOT, LDOT, renBTC as collaterals, staking derivative and decentralized exchange
-- **_Laminar trading_**: aUSD can now be transferred to the Laminar Chain to create synthetic assets like synthetic fiat (e.g. EUR, USD), and for margin trading a variety of instruments e.g. forex, gold, stocks and synthetic crypto pairs
-- [**_Ren x Acala collaboration is live_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Reputable inter-blockchain asset bridge Ren [built with Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) by deploying its [RenVM bridge module](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) on the Acala Network. The BTC gateway is provided by RenVM, while the minting and burning renBTC on Acala is provided by the gateway module.
+- **_Acalas vollwertige DeFi-Suite_** _ist jetzt offen_: Multi-collateralized Stablecoin mit Unterstützung von DOT, LDOT, renBTC als Sicherheiten, Staking-Derivat und dezentralem Austausch
+- **_Laminarer Handel_**: aUSD kann jetzt in die Laminar Chain übertragen werden, um synthetische Assets wie synthetische Fiat (z.B. EUR, USD) und für den Margin-Handel eine Vielzahl von Instrumenten wie z.B. Forex, Gold, Aktien und synthetische Krypto-Paare zu erstellen
+- [**_Ren x Acala Zusammenarbeit ist live_**](https://medium.com/acalanetwork/bringing-btc-to-polkadot-acala-x-ren-e7959855d5aa): Seriöse Inter-Blockchain-Asset-Brücke Ren [gebaut mit Acala](https://github.com/AcalaNetwork/Acala/wiki/U.-Build-with-Acala) durch den Einsatz seines [RenVM-Brückenmoduls](https://github.com/AcalaNetwork/Acala/tree/master/ecosystem-modules/ren/renvm-bridge) auf dem Acala-Netzwerk. Das BTC-Gateway wird von RenVM bereitgestellt, während das Minting und Burning von renBTC auf Acala vom Gateway-Modul übernommen wird.
 
-**_Two upfront benefits that Ren users can instantly enjoy:_**
+**_Zwei Vorteile, die Ren-Anwender sofort genießen können:_**
 
-1.  A brand new account only holding freshly minted renBTC can perform any transaction on Acala without needing a fee token. Thanks to Acala’s FlexiFee feature, tokens like renBTC are integrated natively as one of the default fee tokens alongside with ACA, aUSD and DOT.
-2.  Fees for minting renBTC can be waived without compromising security. We see this as essential to boost the usage of renBTC on Acala and within the wider Polkadot ecosystem.
+1.  Ein brandneues Konto, das nur frisch geprägte renBTC enthält, kann jede Transaktion auf Acala durchführen, ohne dass ein Gebühren-Token benötigt wird. Dank der FlexiFee-Funktion von Acala sind Token wie renBTC neben ACA, aUSD und DOT als einer der Standard-Gebühren-Token nativ integriert.
+2.  Die Gebühren für die Prägung von renBTC können entfallen, ohne die Sicherheit zu beeinträchtigen. Wir sehen dies als essentiell an, um die Nutzung von renBTC auf Acala und innerhalb des weiteren Polkadot-Ökosystems zu steigern.
 
-Ren is a great example for DeFi projects entering the Polkadot multi-chain universe. Because Acala is a customizable and fully optimized finance platform, the upfront economic and technical costs involved in building a separate blockchain (aka parachain) are instantly removed.
+Ren ist ein großartiges Beispiel für DeFi-Projekte, die in das Polkadot Multi-Chain-Universum eintreten. Da Acala eine anpassbare und vollständig optimierte Finanzplattform ist, entfallen die wirtschaftlichen und technischen Vorlaufkosten, die mit dem Aufbau einer separaten Blockchain (aka Parachain) verbunden sind, sofort.
 
-Find out more on Acala cross-chain DeFi [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi).
+Erfahren Sie mehr über Acala Cross-Chain DeFi [hier](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi).
 
-## Mandala Fest #3: Something for Everyone
+## Mandala Fest #3: Für jeden etwas dabei
 
-As we continue to collaborate with projects across chains and reaching new audiences, we know that **building Acala is a community effort**. Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. We also believe that **web3 should be for everyone and we want Acala to be open to all builders: from crypto enthusiasts to node runners, developers, bloggers, economists, marketers, deep thinkers and the curious.**
+Während wir weiterhin mit Projekten über Ketten hinweg zusammenarbeiten und neue Zielgruppen erreichen, wissen wir, dass der **Aufbau von Acala eine Gemeinschaftsleistung** ist. Das Mandala Fest wird dann zu einer Feier dieser wachsenden Gemeinschaft und der Fülle an Möglichkeiten, die uns alle beim Aufbau von web3 erwarten. Wir glauben auch, dass **web3 für jeden sein sollte und wir wollen, dass Acala für alle Erbauer offen ist: von Krypto-Enthusiasten bis zu Node-Runnern, Entwicklern, Bloggern, Ökonomen, Vermarktern, Tiefdenkern und Neugierigen.**
 
-To celebrate this inclusivity and mark the third season, we’re going BIG. Acala is hosting the festival in collaboration with [Laminar](http://laminar.one/) (synthetic asset and margin trading), [Ren](https://renproject.io/) (permissionless inter-blockchain value transfer), [Polkawallet](https://polkawallet.io/) (leading mobile wallet for Polkadot) and Polkaworld (leading Polkadot community).
+Um diese Inklusivität zu feiern und die dritte Saison zu markieren, gehen wir in die Vollen. Acala veranstaltet das Festival in Zusammenarbeit mit [Laminar](http://laminar.one/) (synthetisches Asset und Margin Trading), [Ren](https://renproject.io/) (erlaubnisfreier Inter-Blockchain-Wertetransfer), [Polkawallet](https://polkawallet.io/) (führende mobile Wallet für Polkadot) und Polkaworld (führende Polkadot-Community).
 
-The event will consist of a trading competition, a [Black Thursday](https://decrypt.co/26299/black-thursday-reshaped-bitcoin-futures-market-report) Simulation as well as our standard blog and bug bounties scheduled to keep you busy throughout season 3!
+Das Event besteht aus einem Handelswettbewerb, einer [Schwarzer Donnerstag](https://decrypt.co/26299/black-thursday-reshaped-bitcoin-futures-market-report) Simulation sowie unserem Standard-Blog und Bug-Bounties, die Sie während der gesamten Saison 3 beschäftigen werden!
 
-**Here’s how we’ve mapped it out with all the details of reward pools and duration:**
+**Hier sehen Sie, wie wir es mit allen Details zu Reward-Pools und Dauer dargestellt haben:**
 
-![Image for post](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
+![Bild für Beitrag](https://miro.medium.com/max/2468/1*pjShJlGoojrAOLv3gRg5KA.png)
 
-# Get Started
+# Los geht's
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- Check out these guides on Laminar [synthetic asset](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [margin trading](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading)
-- Results are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- Starten Sie mit Acala, einschließlich der Erstellung einer Brieftasche und erhalten Sie Test-Token [hier](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
+- Schauen Sie sich diese Anleitungen an, um [Honzon-Stallmünze](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX) und [Homa Staking Derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT) zu verwenden.
+- Anleitungen zum kettenübergreifenden Handel mit Laminar und Ren finden Sie [hier](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
+- Schauen Sie sich diese Anleitungen zu Laminar [synthetische Anlagen](https://github.com/laminar-protocol/laminar-chain/wiki/2.-Synthetic-Asset) & [Margenhandel](https://github.com/laminar-protocol/laminar-chain/wiki/3.-Margin-Trading) an
+- Ergebnisse werden [hier](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards) veröffentlicht
 
-## Full Schedule and Rules
+## Vollständiger Zeitplan und Regeln
 
-## Week 1: User Participation
+## Woche 1: Beteiligung der Benutzer
 
-**Duration**: 27-July-2020 to 03-August-2020 (one week)  
-**Award Pool**: 20,000 ACA + 20,000 KAR
+**Dauer**: 27-Juli-2020 bis 03-August-2020 (eine Woche)  
+**Preispool**: 20.000 ACA + 20.000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
+- Alle qualifizierten Benutzer teilen sich den Reward-Pool
+- Alle Belohnungen werden aufgezeichnet und veröffentlicht
 
-![Image for post](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
+![Bild für Beitrag](https://miro.medium.com/max/2492/1*yVdIVTMQIPWp8FgCtrT9MQ.png)
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- Holen Sie sich Test-USD aus dem Wasserhahn, Gebühren sind in aUSD zu zahlen
+- Benutzer, die drei sinnvolle Transaktionen abschließen, werden belohnt
 
-**Meaningful transactions include:**
+**Zu den sinnvollen Transaktionen gehören:**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity
-- Use Honzon stablecoin to collateralize for aUSD
-- Use Homa protocol to get staking derivative LDOT
-- Transfer aUSD to Laminar Chain, and use it either for synthetic asset, or margin trading
-- Mint renBTC and use it in above activities
-- Participate in auctions of system
+- Verwenden Sie DeX zum Tauschen von Token
+- Verwenden Sie DeX zur Bereitstellung von Liquidität
+- Verwenden Sie Honzon Stablecoin zur Besicherung von aUSD
+- Verwenden Sie das Homa-Protokoll, um die Absteckung von LDOT zu erhalten
+- Übertragen Sie aUSD an Laminar Chain und verwenden Sie es entweder für synthetische Anlagen oder für den Margin-Handel
+- RenBTC Mint und in obigen Aktivitäten verwenden
+- Teilnahme an Auktionen des Systems
 
-## Week 2 Trading Competition
+## Woche 2 Handelswettbewerb
 
-**Duration**: 03-August-2020 to 10-August-2020 (one week)  
-**Award Pool**: 5,000 ACA + 5,000 KAR
+**Dauer**: 03-August-2020 bis 10-August-2020 (eine Woche)  
+**Preispool**: 5.000 ACA + 5.000 KAR
 
-- Top 10 qualified traders will share the reward pool
-- All rewards will be recorded and published
+- Die 10 besten qualifizierten Trader teilen sich den Prämienpool
+- Alle Belohnungen werden aufgezeichnet und veröffentlicht
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- Use the balance of USD as the unit of account
-- Profit calculated as ending balance — beginning balance
+- Verwenden Sie den Saldo von USD als Rechnungseinheit
+- Gewinn berechnet als Endsaldo - Anfangssaldo
 
-**The rules for ranking of trading competition :**
+**Die Regeln für die Rangliste des Handelswettbewerbs :**
 
-- Snapshots will be taken for both Acala and Laminar networks at the beginning of the trading competition; the total net value of various assets (including debts) will be calculated based on the price feed at the time as the initial balance.
-- Another snapshot will be taken at the end of the competition, using the feed price at that time as the final balance. Cross-chain transfers (e.g. transfers between Acala and Laminar) are not counted, while transfers between addresses are counted as capital.
-- Profit margin = total value of final balance / (total value of initial balance + capital sum correction) — 100%, all accounts are ranked according to this function
+- Sowohl für Acala- als auch für Laminar-Netzwerke werden zu Beginn des Handelswettbewerbs Schnappschüsse gemacht; der gesamte Nettowert der verschiedenen Vermögenswerte (einschließlich Schulden) wird auf der Grundlage des damaligen Preises als Anfangsbestand berechnet.
+- Ein weiterer Schnappschuss wird am Ende des Wettbewerbs gemacht, wobei der Futterpreis zu diesem Zeitpunkt als Endsaldo verwendet wird. Cross-Chain-Transfers (z.B. Transfers zwischen Acala und Laminar) werden nicht gezählt, während Transfers zwischen Adressen als Kapital gezählt werden.
+- Gewinnspanne = Gesamtwert des Endsaldos / (Gesamtwert des Anfangssaldos + Kapitalsummenkorrektur) - 100%, alle Konten werden nach dieser Funktion gereiht
 
-**The following are included in the balance calculation:**
+**Folgendes wird in die Berechnung des Saldos einbezogen:**
 
-**Balances of all assets:**  
-— Acala : aUSD, ACA, renBTC, XBTC, DOT, LDOT  
-— Laminar : aUSD, LAMI, synthetic assets
+**Salden aller Vermögenswerte:**  
+- Acala : aUSD, ACA, renBTC, XBTC, DOT, LDOT  
+- Laminar : aUSD, LAMI, synthetische Vermögenswerte
 
-**Balances of all DeFi positions:**  
-— Acala : CDP (net value of collateral value minus debt value), share value in Deposit & Earn  
-— Laminar : margin position value
+**Salden aller DeFi-Positionen:**  
+- Acala : CDP (Nettowert des Sicherheitenwerts minus Schuldenwert), Anteilswert in Deposit & Earn  
+- Laminar : Wert der Margin-Position
 
-## Week 3 Black Thursday Simulation
+## Woche 3 Schwarzer Donnerstag Simulation
 
-**Duration**: 10-August-2020 to 17-August-2020 (one week)  
-**Award Pool**: 4,000 ACA + 4,000 KAR
+**Dauer**: 10-August-2020 bis 17-August-2020 (eine Woche)  
+**Preispool**: 4.000 ACA + 4.000 KAR
 
-- A draw of 200 qualified users will share the reward pool
-- All rewards will be recorded and published
+- Eine Verlosung von 200 qualifizierten Anwendern wird den Prämienpool teilen
+- Alle Belohnungen werden aufgezeichnet und veröffentlicht
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- **Day 1 — Day 4liquidation events**: users participate by closing CDP or increasing collateral or participate in auctions
-- **Day 5**: emergency shutdown will be triggered, participants will use aUSD to buy back collaterals
-- Users who took part in the above activity will benefit from rewards
+- **Tag 1 - Tag 4Liquidationsereignisse**: Benutzer nehmen teil, indem sie CDP schließen oder Sicherheiten erhöhen oder an Auktionen teilnehmen
+- **Tag 5**: Notabschaltung wird ausgelöst, Teilnehmer verwenden aUSD, um Collaterals zurückzukaufen
+- Benutzer, die an der oben genannten Aktivität teilgenommen haben, profitieren von Belohnungen
 
-## Blog Bounty (Throughout Festival)
+## Blog-Bounty (während des Festival)
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**Dauer**: 27-Juli-2020 bis 17-August-2020 (drei Wochen)  
+**Preispool**: 2.000 ACA + 2.000 KAR
 
-- 10 awards will be awarded in total
-- Awards will be published one week after the event ends
+- Es werden insgesamt 10 Auszeichnungen vergeben
+- Die Auszeichnungen werden eine Woche nach Ende der Veranstaltung veröffentlicht
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- Submit a blog to either [Medium](https://medium.com/), [Bihu](https://bihu.com/), or [YouTube](https://www.youtube.com/) regarding the Acala Network.
-- The article must **include your Acala Mandala Address to receive prizes**.
-- Submit the link to your piece of content to Acala [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) or [Riot](https://riot.im/app/#/room/#acala:matrix.org) channel using the hashtag #MandalaFest3
-- The content must be original
-- We will judge both the **quality** (how appealing is the story, idea, perspective, insights, analysis, etc) and **social reactions** (number of comments, likes, twitter or other social sharing, etc).
+- Reichen Sie entweder bei [Medium](https://medium.com/), [Bihu](https://bihu.com/) oder [YouTube](https://www.youtube.com/) einen Blog über das Acala Netzwerk ein.
+- Der Artikel muss **Ihre Acala Mandala Adresse enthalten, um Preise zu erhalten**.
+- Senden Sie den Link zu Ihrem Beitrag an den Acala [Telegram](https://t.me/acalaofficial), [Discord](https://discord.com/invite/vdbFVCH) oder [Riot](https://riot.im/app/#/room/#acala:matrix.org) Kanal unter Verwendung des Hashtags #MandalaFest3
+- Der Inhalt muss original sein
+- Wir werden sowohl die **Qualität** (wie ansprechend ist die Geschichte, die Idee, die Perspektive, die Einsichten, die Analyse, etc.) als auch die **sozialen Reaktionen** (Anzahl der Kommentare, Likes, Twitter oder andere Social Sharing, etc.).
 
-## Bug Bounty (Throughout Festival)
+## Blog-Bounty (während des Festival)
 
-**Duration**: 27-July-2020 to 17-August-2020 (three weeks)  
-**Award Pool**: 10,000 ACA + 10,000 KAR
+**Dauer**: 27-Juli-2020 bis 17-August-2020 (drei Wochen)  
+**Preispool**: 10.000 ACA + 10.000 KAR
 
-- Please allow one week from your submission for our review.
+- Bitte geben Sie uns eine Woche Zeit für die Überprüfung Ihrer Eingabe.
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- Find bugs for the following two repos:  
+- Finden Sie Bugs für die folgenden zwei Repos:  
   [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
-  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team, and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
-- Please **include your Acala Mandala Address in the Github issue** for easy prize disbursal
+  [https://github.com/AcalaNetwork/acala-dapp](https://github.com/AcalaNetwork/acala-dapp) [https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala-Teil)
+- Bugs werden vom Acala Engineering Team nach Wichtigkeit und Schweregrad beurteilt und grob auf Basis der Stufen [hier](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty) vergeben
+- Bitte geben Sie **Ihre Acala Mandala-Adresse in der Github-Ausgabe an**, um die Preisauszahlung zu erleichtern
 
-## 🎉 **Let the festivities begin**
+## 🎉 **Lassen Sie die Feierlichkeiten beginnen**
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+Wir freuen uns darauf, mit Ihnen allen zusammen das Mandala Fest zu feiern! Wir hoffen, dass die großzügigen Belohnungen, die Bandbreite der Engagements und die bahnbrechenden kettenübergreifenden DeFi-Möglichkeiten viele von Ihnen ansprechen werden. **Wenn es darum geht, Polkadot zu testen, gibt Ihnen Acala die Pole Position und den schnellsten Weg von Null zum Helden.** Wie immer steht das Team bereit, um alle Fragen zu beantworten und Ihnen zu helfen, das Beste aus dem Festival zu machen. Bitte treten Sie unseren Kanälen bei, um VIP-Zugang zu Support und unserer Community zu erhalten 👇
 
-**Join us — Acala** [**Telegram**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **and** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org) **channels.**
+**Bei uns - Acala** [**Telegramm**](https://t.me/acalaofficial)**,** [**Discord**](https://discord.com/invite/vdbFVCH) **und** [**Riot**](https://riot.im/app/#/room/#acala:matrix.org) **Kanäle.**
 
-# **About Acala**
+# **Über Acala**
 
-[Acala](http://acala.network/) is a first-of-its-kind decentralized finance consortium with a vision to bring financial stability, liquidity and accessibility to the mainstream. **The Acala Network is a cross-chain finance hub for the Polkadot ecosystem** and beyond. It offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative and a decentralized exchange to unleash liquidity and power financial innovations. It is the go-to open platform for finance-oriented dApps to deploy to using smart contracts or built-in protocols with out-of-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) ist das erste dezentrale Finanzkonsortium seiner Art mit der Vision, finanzielle Stabilität, Liquidität und Zugänglichkeit in den Mainstream zu bringen. **Das Acala-Netzwerk ist ein kettenübergreifender Finanz-Hub für das Polkadot-Ökosystem** und darüber hinaus. Es bietet eine Reihe von Finanz-Primitiven: einen multi-collateralized Stablecoin, der durch Cross-Chain-Assets wie Bitcoin gesichert ist, ein vertrauensloses Staking-Derivat und eine dezentrale Börse, um Liquidität freizusetzen und finanzielle Innovationen voranzutreiben. Es ist die erste offene Plattform für finanzorientierte dApps, auf der Smart Contracts oder eingebaute Protokolle mit Out-of-Chain-Cross-Chain-Fähigkeiten, Sicherheit und Finanzoptimierungen eingesetzt werden können.
 
-Learn more about Acala on [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) and [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). You can join our community on [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) and [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org). Any inquiries, please [email](http://hello@acala.network/) or DM us.
+Erfahren Sie mehr über Acala auf [acala.network](https://acala.network/), [Medium](https://medium.com/acalanetwork), [Twitter](https://twitter.com/AcalaNetwork), [GitHub](https://github.com/AcalaNetwork/Acala) und [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki). Sie können unserer Community auf [Discord](https://discord.gg/vdbFVCH), [Telegram](https://t.me/acalaofficial) und [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org) beitreten. Bei Anfragen wenden Sie sich bitte per [E-Mail](http://hello@acala.network/) oder direkter Nachricht an uns.
 
-To keep up to date with progress on the Acala launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Um über die Fortschritte bei der Einführung von Acala auf dem Laufenden zu bleiben, abonnieren Sie den [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
