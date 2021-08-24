@@ -1,6 +1,6 @@
 # Acala Mandala Festival Saison #4 Halloween Give-Back
 
-![Image for post](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
+![Bild für Beitrag](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
 
 Seit unserer ersten Ausgabe im März ist das **Mandala Festival** unsere Art, neue Entwicklungen zu präsentieren, unseren Fortschritt zu feiern und viel Freude mit der Community zu teilen. Wir sind sehr dankbar für Ihre Unterstützung, Ihren Enthusiasmus, Ihr Engagement bei Netzwerkaktivitäten und Diskussionen.
 
@@ -53,7 +53,7 @@ Hier sehen Sie, wie das Festival aussieht und die Belohnungen
 - Alle Belohnungen werden aufgezeichnet und veröffentlicht
 - _Beachten Sie, dass diese Belohnungen Glücksverlosungen sind, nicht garantiert_
 
-![Image for post](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
+![Bild für Beitrag](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
 
 **Teilnahmebedingungen:**
 
@@ -95,25 +95,25 @@ Fehler-Kopfgelder**
   ](https://github.com/AcalaNetwork/Acala)[https://github.com/AcalaNetwork/acala-dapp  
   ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala-Teil)
 - Bugs werden vom Acala Engineering Team nach Wichtigkeit und Schweregrad beurteilt und grob auf Basis der Stufen [hier](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty) vergeben
-- Please **include your Acala Mandala Address in the Github issue** for easy prize distribution
+- Bitte **bitte fügen Sie Ihre Acala Mandala-Adresse in die Github-Ausgabe** ein, um den Preis einfach zu verteilen
 
-**Stickers & Emojis sets**
+**Sticker & Emojis Sets**
 
-- Rewards are not guaranteed for this category
-- Feel free to submit Acala/Karura themed Sticker & Emoji sets
-- Sticker & Emoji sets selected for our Discord channels will receive rewards
-- Please **include your Acala Mandala Address in the submission**
+- Belohnungen sind für diese Kategorie nicht garantiert
+- Fühlen Sie sich frei, Acala/Karura thematische Sticker & Emoji-Sets einzureichen
+- Sticker & Emoji-Sets, die für unsere Discord-Kanäle ausgewählt werden, erhalten Belohnungen
+- Bitte **Bitte geben Sie Ihre Acala Mandala Adresse bei der Einsendung an**
 
-# 🎉 Let the festivities begin
+# 🎉 Lassen Sie die Feierlichkeiten beginnen
 
-We’re excited to celebrate Mandala Fest together with you all! We hope the bountiful rewards, range of engagements and the landmark cross-chain DeFi opportunities will appeal to many of you. **As far as test driving Polkadot is concerned, Acala gives you pole position and the fastest route from zero to hero.** As always, the team is on standby to answer any questions and help you make the most of the Festival. Please join our channels to get VIP access to support and our community 👇
+Wir freuen uns darauf, mit Ihnen allen zusammen das Mandala Fest zu feiern! Wir hoffen, dass die großzügigen Belohnungen, die Bandbreite der Engagements und die bahnbrechenden kettenübergreifenden DeFi-Möglichkeiten viele von Ihnen ansprechen werden. **Wenn es darum geht, Polkadot zu testen, gibt Ihnen Acala die Pole Position und den schnellsten Weg von Null zum Helden.** Wie immer steht das Team bereit, um alle Fragen zu beantworten und Ihnen zu helfen, das Beste aus dem Festival zu machen. Bitte treten Sie unseren Kanälen bei, um VIP-Zugang zu Support und unserer Community zu erhalten 👇
 
-# Join Us
+# Beitreten
 
 [Website](https://acala.network/) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launches on Polkadot and Kusama, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Um über die Fortschritte bei der Einführung von Acala Parachain auf Polkadot und Kusama auf dem Laufenden zu bleiben, abonnieren Sie den [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
 
-# About Acala
+# Über Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot that makes it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de-facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) ist der dezentrale Finanz-Hub von Polkadot, der es schnell und einfach macht, Finanzanwendungen zu nutzen oder zu erstellen, die Effizienz des Handels zu verbessern und wertvolle Zeit zu sparen. Die Plattform bietet eine Reihe von Finanzprimitiven: einen mehrfach besicherten Stablecoin, der durch Cross-Chain-Assets wie Bitcoin gesichert ist, ein vertrauensloses Staking-Derivat und eine dezentrale Börse, um Liquidität freizusetzen und finanzielle Innovationen voranzutreiben. Acala ist die de-facto offene Plattform für Finanzanwendungen zur Nutzung von Smart Contracts oder integrierten Protokollen mit sofort einsetzbaren Cross-Chain-Fähigkeiten, Sicherheit und Finanzoptimierungen.
