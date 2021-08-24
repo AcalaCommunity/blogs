@@ -1,100 +1,100 @@
-# Acala Mandala Festival Season #4 Halloween Give-Back
+# Acala Mandala Festival Saison #4 Halloween Give-Back
 
 ![Image for post](https://miro.medium.com/max/1600/1*7K9WRrmw92edbRTDZESqZQ.jpeg)
 
-Ever since our inaugural edition back in March, **Mandala Festival** has been our way to showcase new developments, celebrate our progress, and share much joy with the community. We’ve been extremely grateful for your support, enthusiasm, engagement in network activities and discussions.
+Seit unserer ersten Ausgabe im März ist das **Mandala Festival** unsere Art, neue Entwicklungen zu präsentieren, unseren Fortschritt zu feiern und viel Freude mit der Community zu teilen. Wir sind sehr dankbar für Ihre Unterstützung, Ihren Enthusiasmus, Ihr Engagement bei Netzwerkaktivitäten und Diskussionen.
 
-Last season was the hottest ever, with Ren and Laminar joining the party, and a considerable influx of new participants and a swirl of meaningful activities:
+Die letzte Saison war die heißeste, die es je gab. Ren und Laminar waren mit von der Partie, und es gab einen beträchtlichen Zustrom an neuen Teilnehmern und einen Wirbel an sinnvollen Aktivitäten:
 
-👥 14,500 + new accounts  
-⛓️ 140,000 + meaningful transactions  
-💰 $52 million locked total value (testnet)  
-💲 $25 million aUSD issued (testnet)  
-🎉 Over 2,350 users received awards
+👥 14.500 + neue Konten  
+⛓️ 140.000 + sinnvolle Transaktionen  
+💰 $52 Millionen abgeschlossener Gesamtwert (testnet)  
+💲 $25 Mio. aUSD ausgegeben (testnet)  
+🎉 Über 2.350 Benutzer erhielten Auszeichnungen
 
-# Mandala TC5 Optimised for DeFi
+# Mandala TC5 optimiert für DeFi
 
-As we launch this fourth season of the festival on Halloween night Saturday 31st of October, it’s perhaps time to reiterate Acala’s mission, **as the decentralized financial (DeFi) hub of Polkadot**: to make it fast and easy to use or build financial applications, improving trading efficiency and saving valuable time. We have recently launched [Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a) network to extend our mission to serve the Kusama community as its primary DeFi hub. We have launched a new testnet candidate (TC5) alongside this festival with the following updates doubling down on our effort to accelerate DeFi innovations.
+Da wir diese vierte Saison des Festivals in der Halloween-Nacht am Samstag, den 31. Oktober, starten, ist es vielleicht an der Zeit, die Mission von Acala **als dezentraler Finanz (DeFi)-Hub von Polkadot** zu wiederholen: es schnell und einfach zu machen, Finanzanwendungen zu nutzen oder zu bauen, die Effizienz des Handels zu verbessern und wertvolle Zeit zu sparen. Wir haben vor kurzem das [Karura](https://medium.com/acalanetwork/introducing-karura-acalas-defi-parachain-on-kusama-af2f2695b07a) Netzwerk gestartet, um unsere Mission zu erweitern, der Kusama-Gemeinschaft als primärer DeFi-Hub zu dienen. Parallel zu diesem Festival haben wir einen neuen Testnet-Kandidaten (TC5) auf den Markt gebracht, der unsere Bemühungen, DeFi-Innovationen zu beschleunigen, mit den folgenden Updates untermauert.
 
-## The most recent updates in optimizing for DeFi a reality are as follows:
+## Die letzten Aktualisierungen bei der Optimierung für DeFi a reality sind wie folgt:
 
-- **Oracle Gateway:** this is an open, more decentralized, and DeFi optimized oracle infrastructure available to all DApps built on Acala. It allows multiple oracle service providers to provide price feeds, and DApps will enjoy Quality of Service regardless of how congested the network is and whichever provider they choose. See [orml-oracle](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
-- **Generic NFT support:** we deployed [orml-nft](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) to enable any NFT publishers to build and leverage Acala’s DeFi ecosystem (Kusama also adopted this module to support NFT natively). We’ve eaten our own dog food and deployed Acala’s [publisher NFT module](https://github.com/AcalaNetwork/Acala/blob/master/modules/nft/src/lib.rs) to **_issue collectibles for Mandala Festival participants_**.
-- **Tokenized DeX LP share:** Acala Swap is an automatic market maker type decentralized exchange. We have tokenized LP shares to support liquidity bootstrap.
-- **LDOT sub-staking accounts:** via Acala’s trustless staking facility, you can nominate more than the default 16 validators, and enjoy optimized returns and liquidity, while also have differentiated delegated voting rights on Polkadot. LDOT will be one of the base financial instruments powering new economic innovations based on PoS.
+- **Oracle Gateway:** Dies ist eine offene, dezentralere und DeFi optimierte Orakel-Infrastruktur, die allen DApps zur Verfügung steht, die auf Acala aufbauen. Es ermöglicht mehreren Orakel-Dienstanbietern, Preisfeeds zu liefern, und DApps werden unabhängig davon, wie überlastet das Netzwerk ist und welchen Anbieter sie wählen, Quality of Service genießen. Siehe [Orml-Orakel](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/oracle).
+- **Generische NFT-Unterstützung:** Wir haben [orml-nft](https://github.com/open-web3-stack/open-runtime-module-library/tree/master/nft) implementiert, um allen NFT-Publishern die Möglichkeit zu geben, das DeFi-Ecosystem von Acala aufzubauen und zu nutzen (Kusama hat dieses Modul ebenfalls übernommen, um NFT nativ zu unterstützen). Wir haben unser eigenes Hundefutter gegessen und Acalas [publisher NFT-Modul](https://github.com/AcalaNetwork/Acala/blob/master/modules/nft/src/lib.rs) eingesetzt, um **_Sammelstücke für Mandala-Festival-Teilnehmer auszugeben_**.
+- **Tokenized DeX LP share:** Acala Swap ist eine automatische dezentrale Börse vom Typ Market Maker. Wir haben LP-Anteile tokenisiert, um den Liquiditäts-Bootstrap zu unterstützen.
+- **LDOT-Sub-Staking-Konten:** Über die vertrauenslose Staking-Funktion von Acala können Sie mehr als die standardmäßigen 16 Validierer nominieren und von optimierten Renditen und Liquidität profitieren, während Sie gleichzeitig differenzierte delegierte Stimmrechte auf Polkadot haben. LDOT wird eines der Basis-Finanzinstrumente sein, das neue wirtschaftliche Innovationen auf Basis von PoS antreibt.
 
 # Mandala Fest #4: Halloween Give-Back
 
-Building Acala is a community effort, and Mandala Fest then becomes a celebration of this growing community and the wealth of possibility that awaits us all in building web3. **All past festival-goers would have a chance to claim Acala & Karura Halloween themed NFT badges.**
+Der Aufbau von Acala ist eine Gemeinschaftsleistung, und das Mandala Fest wird dann zu einer Feier dieser wachsenden Gemeinschaft und der Fülle von Möglichkeiten, die uns alle beim Aufbau von web3 erwarten. **Alle bisherigen Festival-Besucher hatten die Chance, Acala & Karura Halloween-motivierte NFT-Abzeichen zu erhalten.**
 
-These collectibles don’t have a monetary value nor a market, they are our mere way of honoring our shared experience and saying THANK YOU. Newcomers to the community who complete required tasks would also have a chance to claim these collectibles.
+Diese Sammlerstücke haben weder einen monetären Wert noch einen Markt, sie sind lediglich unsere Art, unsere gemeinsame Erfahrung zu ehren und DANKE zu sagen. Neuankömmlinge in der Community, die die erforderlichen Aufgaben erfüllen, haben ebenfalls die Chance, diese Sammlerstücke zu erhalten.
 
-Here’s what the festival looks like and the rewards
+Hier sehen Sie, wie das Festival aussieht und die Belohnungen
 
-- **Part I** (31-October-2020 to 06-November-2020 | **Award Pool**: 2,000 ACA + 2,000 KAR): **Welcome Newcomers** — complete required transactions to qualify.
-- **Part II** (31-October-2020 to 13-November-2020 | **Award Pool ≈** 30,000 ACA + 30,000 KAR): **Thank You** — reward claim by qualified past festival participants
-- **Part III** (31-October-2020 to 13-November-2020 | **Award Pool**: 3,000 ACA + 3,000 KAR): **Bounties** — bugs, stickers, emojis or else
+- **Teil I** (31-Oktober-2020 bis 06-November-2020 | **Award Pool**: 2.000 ACA + 2.000 KAR): **Neueinsteiger begrüßen** - Schließen Sie die erforderlichen Transaktionen ab, um sich zu qualifizieren.
+- **Teil II** (31-Oktober-2020 bis 13-November-2020 | **Prämienpool ≈** 30.000 ACA + 30.000 KAR): **Dankeschön** - Prämienanspruch von qualifizierten ehemaligen Festivalteilnehmern
+- **Teil III** (31-Oktober-2020 bis 13-November-2020 | **Award Pool**: 3.000 ACA + 3.000 KAR): **Bounties** - Bugs, Sticker, Emojis oder sonstiges
 
-# Get Started
+# Los geht's
 
-- Get started with Acala including creating a wallet and obtain test tokens [here](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
-- Check out these guides to use [Honzon stablecoin](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX), and [Homa staking derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT).
-- Check out guides on cross-chain trading with Laminar and Ren [here](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
-- All rewards are published [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards)
+- Starten Sie mit Acala, einschließlich der Erstellung einer Brieftasche und erhalten Sie Test-Token [hier](https://github.com/AcalaNetwork/Acala/wiki/1.-Get-Started)
+- Schauen Sie sich diese Anleitungen an, um [Honzon-Stallmünze](https://github.com/AcalaNetwork/Acala/wiki/2.-Honzon-Stablecoin), [Acala Dex](https://github.com/AcalaNetwork/Acala/wiki/3.-DeX) und [Homa Staking Derivative](https://github.com/AcalaNetwork/Acala/wiki/7.-Homa-Liquid-DOT) zu verwenden.
+- Anleitungen zum kettenübergreifenden Handel mit Laminar und Ren finden Sie [hier](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)
+- Alle Belohnungen werden [hier](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards) veröffentlicht
 
-# Full Schedule and Rules
+# Vollständiger Zeitplan und Regeln
 
-## **Part 1: Welcome Newcomers**
+## **Teil 1: Willkommen Neuankömmlinge**
 
-**Duration**: 31-October-2020 to 06-November-2020 (week one)  
-**Award Pool**: 2,000 ACA + 2,000 KAR
+**Dauer**: 31-Oktober-2020 bis 06-November-2020 (erste Woche)  
+**Preispool**: 2.000 ACA + 2.000 KAR
 
-- All qualified users will share the reward pool
-- All rewards will be recorded and published
-- _Note these rewards are lucky draws, not guaranteed_
+- Alle qualifizierten Benutzer teilen sich den Reward-Pool
+- Alle Belohnungen werden aufgezeichnet und veröffentlicht
+- _Beachten Sie, dass diese Belohnungen Glücksverlosungen sind, nicht garantiert_
 
 ![Image for post](https://miro.medium.com/max/3084/1*8ct_OSgiUPPcIMHlGZgfAQ.png)
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- Get test aUSD from the faucet, fees are payable in aUSD
-- Users completing three meaningful transactions will be rewarded
+- Holen Sie sich Test-USD aus dem Wasserhahn, Gebühren sind in aUSD zu zahlen
+- Benutzer, die drei sinnvolle Transaktionen abschließen, werden belohnt
 
-**Meaningful transactions include:**
+**Zu den sinnvollen Transaktionen gehören:**
 
-- Use DeX to swap tokens
-- Use DeX to provide liquidity and transfer LP Tokens to another account
-- Use the Self Service Loan service to collateralize for Acala Dollar (aUSD)
-- Use Homa protocol to get staking derivative LDOT
-- Mint renBTC and use it in the above activities
+- Verwenden Sie DeX zum Tauschen von Token
+- Verwenden Sie DeX, um Liquidität bereitzustellen und LP-Token auf ein anderes Konto zu übertragen
+- Verwenden Sie den Self Service Loan Service zur Besicherung von Acala Dollar (aUSD)
+- Verwenden Sie das Homa-Protokoll, um die Absteckung von LDOT zu erhalten
+- RenBTC Mint und in obigen Aktivitäten verwenden
 
-## **Part 2: Thank You**
+## **Teil 2: Vielen Dank**
 
-**Duration**: 31-October-2020 to 13-November-2020 (week one & two)  
-**Award Pool ≈** 30,000 ACA + 30,000 KAR
+**Dauer**: 31-Oktober-2020 bis 13-November-2020 (Woche eins & zwei)  
+**Preispool ≈** 30.000 ACA + 30.000 KAR
 
-**Participation Rules:**
+**Teilnahmebedingungen:**
 
-- Each account which participated Mandala TC2/TC3/TC4 can get 1 ACA + 1 KAR（If all testnet you participated, you will get 3 ACA + 3 KAR ）
-- The nonce of each Mandala TC2/TC3/TC4 account must greater than or equal to two
-- All rewards need be claimed in Acala Dapp
-- You can see the rewards in your wallet Airdrop account
+- Jedes Konto, das an Mandala TC2/TC3/TC4 teilgenommen hat, kann 1 ACA + 1 KAR（Wenn Sie an allen Testnetzen teilgenommen haben, erhalten Sie 3 ACA + 3 KAR ）
+- Die Nonce eines jeden Mandala TC2/TC3/TC4-Kontos muss größer oder gleich zwei sein
+- Alle Belohnungen müssen in Acala Dapp beansprucht werden
+- Sie können die Belohnungen in Ihrem Airdrop-Brieftaschenkonto sehen
 
-## **Part 3: Bounties for Bugs, Sticker & Emojis sets** (**Throughout the Festival**)
+## **Teil 3: Kopfgelder für Bugs, Sticker & Emojis-Sets** (**Während des Festivals**)
 
-**Duration**: 31-October-2020 to 13-November-2020 (two weeks)  
-**Award Pool**: 3,000 ACA + 3,000 KAR
+**Dauer**: 31-Oktober-2020 bis 13-November-2020 (zwei Wochen)  
+**Preispool**: 3.000 ACA + 3.000 KAR
 
-- Please allow one week from your submission for our review.
+- Bitte geben Sie uns eine Woche Zeit für die Überprüfung Ihrer Eingabe.
 
-**Participation Rules:  
-Bug Bounties**
+**Teilnahme-Regeln:  
+Fehler-Kopfgelder**
 
-- Find bugs for the following repos:  
+- Finden Sie Bugs für die folgenden Repos:  
   [https://github.com/AcalaNetwork/Acala  
   ](https://github.com/AcalaNetwork/Acala)[https://github.com/AcalaNetwork/acala-dapp  
-  ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala part)
-- Bugs are judged on significance and severity by the Acala Engineering team and are awarded roughly based on the levels [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty)
+  ](https://github.com/AcalaNetwork/acala-dapp)[https://github.com/polkawallet-io/polkawallet-flutter](https://github.com/polkawallet-io/polkawallet-flutter) (Acala-Teil)
+- Bugs werden vom Acala Engineering Team nach Wichtigkeit und Schweregrad beurteilt und grob auf Basis der Stufen [hier](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty) vergeben
 - Please **include your Acala Mandala Address in the Github issue** for easy prize distribution
 
 **Stickers & Emojis sets**
