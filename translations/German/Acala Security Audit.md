@@ -1,37 +1,37 @@
-# Acala Security Audit
+# Acala Sicherheitsaudit
 
-![Image for post](https://miro.medium.com/max/8000/1*yhydywHe1k2421hd6xqhFQ.jpeg)
+![Bild für Beitrag](https://miro.medium.com/max/8000/1*yhydywHe1k2421hd6xqhFQ.jpeg)
 
-At Acala we believe individual users, not corporations, should be in control of their own finance. Our mission is to support and nurture financial applications of Web 3.0 — the truly decentralized and “trustless” web. A more open and fair financial future is what we hope to enable through our DeFi-optimized Smart Contract platform and our protocols — decentralized stablecoin, trustless liquid staking and decentralized exchange.
+Wir bei Acala sind der Meinung, dass jeder einzelne Nutzer, nicht Unternehmen, die Kontrolle über seine Finanzen haben sollte. Unsere Aufgabe ist es, finanzielle Anwendungen des Web 3.0 zu unterstützen und zu fördern - das wirklich dezentralisierte und "vertrauenslose" Web. Eine offenere und gerechtere finanzielle Zukunft ist das, was wir mit unserer DeFi optimierten Smart Contract Plattform und unseren Protokollen - dezentraler Stablecoin, vertrauenswürdiges Liquid Staking und dezentraler Austausch - zu ermöglichen hoffen.
 
-That said, the security of Acala’s blockchain and protocols is our highest priority. We have invested considerable efforts to develop a platform and associated protocols that we believe are safe and reliable; we have also engaged the best in the business to help audit our codebase — amongst them are [SRLabs](https://srlabs.de/), [Trail of Bits](https://www.trailofbits.com/) and [Slow Mist](https://www.slowmist.com/en/).
+Die Sicherheit der Acala-Blockchain und -Protokolle hat für uns jedoch höchste Priorität. Wir haben beträchtliche Anstrengungen unternommen, um eine Plattform und die dazugehörigen Protokolle zu entwickeln, die wir für sicher und zuverlässig halten. Außerdem haben wir die Besten der Branche damit beauftragt, unsere Codebasis zu prüfen - darunter [SRLabs](https://srlabs.de/), [Trail of Bits](https://www.trailofbits.com/) und [Slow Mist](https://www.slowmist.com/en/).
 
-![Image for post](https://miro.medium.com/max/1730/1*hKvzkJVXDmSA9OU7NhFLuA.jpeg)
+![Bild für Beitrag](https://miro.medium.com/max/1730/1*hKvzkJVXDmSA9OU7NhFLuA.jpeg)
 
-The scope of the audit included all runtime implementations of Acala including ecosystem module RenVM, the community maintained ORML modules that Acala depends on, as well as the front-end interface for Acala’s DApp. So far SRLabs and Slow Mist have completed their audits, and the Trail of Bits audit is scheduled to commence in Jan 2021.
+Der Umfang der Prüfung umfasste alle Laufzeitimplementierungen von Acala, einschließlich des Ökosystemmoduls RenVM, der von der Gemeinschaft gepflegten ORML-Module, von denen Acala abhängt, sowie der Front-End-Schnittstelle für die DApp von Acala. Bislang haben SRLabs und Slow Mist ihre Prüfungen abgeschlossen, und die Prüfung von Trail of Bits soll im Januar 2021 beginnen.
 
-# The Report & Fixes
+# Der Bericht & Fixes
 
-The SRLabs audit found 0 Critical, 1 High, 7 Medium and 2 Low-level issues.
+Bei der Prüfung durch SRLabs wurden 0 kritische, 1 hochgradige, 7 mittlere und 2 geringgradige Probleme festgestellt.
 
-The SlowMist audit found 0 Critical, 0 High, 1 Medium and 1 Low-level issue.
+Bei der SlowMist-Überprüfung wurden 0 kritische, 0 hohe, 1 mittleres und 1 geringfügiges Problem festgestellt.
 
-The one high-level issue regarding weight assignment was a planned task yet to be implemented at the time of the audit. We have now completed benchmarking and finalized appropriate weights for all [extrinsic](https://substrate.dev/docs/en/knowledgebase/learn-substrate/extrinsics) (aka signed/unsigned transactions, and inherits — info included in a block but not gossiped).
+Das eine wichtige Problem im Zusammenhang mit der Gewichtszuweisung war eine geplante Aufgabe, die zum Zeitpunkt der Prüfung noch nicht umgesetzt war. Wir haben nun das Benchmarking abgeschlossen und eine angemessene Gewichtung für alle [extrinsischen](https://substrate.dev/docs/en/knowledgebase/learn-substrate/extrinsics) (d.h. signierte/unsignierte Transaktionen und Vererbungen - Informationen, die in einem Block enthalten sind, aber nicht geklatscht werden) festgelegt.
 
-All other network security related issues have been addressed and reviewed by the auditors. There are two application-related issues (#5 and #8 in SRLabs report) are general DeFi issues such as DeX front-running, which yet to have a satisfactory solution. We are addressing it from a risk management perspective by setting safe parameters. Beyond that, we are seeking further economic audits that use simulation-based market stress testing so that we can evaluate vulnerabilities and market risks at a scaled volume and value.
+Alle anderen Fragen der Netzsicherheit wurden von den Prüfern behandelt und überprüft. Zwei anwendungsbezogene Probleme (Nr. 5 und Nr. 8 im SRLabs-Bericht) sind allgemeine DeFi-Probleme, wie z. B. das DeX-Front-Running, für die es noch keine zufriedenstellende Lösung gibt. Wir gehen das Problem unter dem Gesichtspunkt des Risikomanagements an, indem wir sichere Parameter festlegen. Darüber hinaus streben wir weitere Wirtschaftsprüfungen an, bei denen simulationsbasierte Marktstresstests zum Einsatz kommen, damit wir Schwachstellen und Marktrisiken in einem skalierten Umfang und Wert bewerten können.
 
-The full report from SRLabs and SlowMist are [here](https://github.com/AcalaNetwork/Acala/tree/master/audit)
+Den vollständigen Bericht von SRLabs und SlowMist finden Sie [hier](https://github.com/AcalaNetwork/Acala/tree/master/audit)
 
-# Moving Forward
+# Vorwärts bewegen
 
-Audits are only one part of our effort in ensuring security and managing risks. All of Acala’s runtime codebases are audited, and upon genesis, all balances and governance decisions will be publicly verifiable. Our [Bug Bounty Program](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty) is also an important part to keep our codebase secure, and we encourage developers to dig into our code and report vulnerabilities. We believe transparency, time, and value are the true tests for the security of a network and protocols; so please be vigilant and help us make Acala safer and more secure for everyone.
+Audits sind nur ein Teil unserer Bemühungen zur Gewährleistung der Sicherheit und zum Risikomanagement. Alle Laufzeit-Codebasen von Acala werden geprüft, und bei der Entstehung werden alle Bilanzen und Governance-Entscheidungen öffentlich überprüfbar sein. Unser [Bug Bounty Programm](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards#runtime-bug-bounty) ist ebenfalls ein wichtiger Bestandteil, um unsere Codebasis sicher zu halten, und wir ermutigen Entwickler, sich mit unserem Code zu beschäftigen und Schwachstellen zu melden. Wir glauben, dass Transparenz, Zeit und Wert die wahren Tests für die Sicherheit eines Netzwerks und von Protokollen sind; seien Sie also bitte wachsam und helfen Sie uns, Acala für alle sicherer zu machen.
 
-# Join Us
+# Beitreten
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
-To keep up to date with progress on the Acala parachain launch, subscribe to the [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
+Um über die Fortschritte bei der Einführung von Acala parachain auf dem Laufenden zu bleiben, abonnieren Sie den [Acala Newsletter](https://share.hsforms.com/1X9RxkXk-R62I0VNbATaDXw4h8qc).
 
-# About Acala
+# Über Acala
 
-[Acala](http://acala.network/) is the decentralized financial hub of Polkadot, making fast and easy to use financial applications available to everyone. The platform offers a suite of financial primitives: a multi-collateralized stablecoin backed by cross-chain assets like Bitcoin, a trustless staking derivative, and a decentralized exchange to unleash liquidity and power financial innovations. Acala is the de facto open platform for finance applications to use smart contracts or built-in protocols with out-of-the-box cross-chain capabilities, security and financial optimizations.
+[Acala](http://acala.network/) ist das dezentrale Finanzzentrum von Polkadot, das schnelle und einfach zu bedienende Finanzanwendungen für jedermann zugänglich macht. Die Plattform bietet eine Reihe von Finanzprimitiven: einen mehrfach besicherten Stablecoin, der durch kettenübergreifende Vermögenswerte wie Bitcoin abgesichert ist, ein vertrauensloses Staking-Derivat und eine dezentrale Börse, um Liquidität freizusetzen und Finanzinnovationen zu fördern. Acala ist die de facto offene Plattform für Finanzanwendungen zur Nutzung von Smart Contracts oder integrierten Protokollen mit sofort einsetzbaren Cross-Chain-Funktionen, Sicherheit und finanziellen Optimierungen.
