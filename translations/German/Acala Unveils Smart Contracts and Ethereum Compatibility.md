@@ -1,10 +1,10 @@
-# Acala Unveils Smart Contracts and Ethereum Compatibility for Polkadot DeFi
+# Acala stellt Smart Contracts und Ethereum-Kompatibilität für Polkadot DeFi vor
 
-## Acala now supports the EVM and ink! pallets on Substrate, enabling Solidity and Wasm-based Smart Contracts for developers
+## Acala unterstützt jetzt das EVM und Tinte! Paletten auf Substrate, die Solidity- und Wasm-basierte Smart Contracts für Entwickler ermöglichen
 
 ![Image for post](https://miro.medium.com/max/1600/0*-4rCl6SjqDKz7eBh)
 
-By: [Bryan Chen](https://medium.com/u/241f963260c9?source=post_page-----588b3891e53d--------------------------------)
+Von [Acala Network](https://medium.com/u/241f963260c9?source=post_page-----588b3891e53d--------------------------------)
 
 Polkadot is designed both to easily integrate with other blockchains such as Bitcoin and Ethereum (via bridges like Interlay and RenVM), and to host a number of heterogeneous (aka independent and customizable) but interconnected chains, called parachains. Polkadot is more like a layer-0 infrastructure chain, providing the underlying trust layer that comes with shared Proof of Stake (PoS) security and cross-chain communication. The parachain chains are more likely to be domain-specific chains optimized for their use cases and solving specific domain problems, where Acala occupies the domain of decentralized finance. We offer a suite of out-of-the-box DeFi primitives such as a stablecoin (aUSD), staking derivatives (e.g. allowing you to redeem tokens (LDOT) on staked/locked DOT) and a decentralized exchange to power more DeFi innovation. We’ve also open-sourced common utility modules such as an oracle, multi-currency, generic monitoring framework for teams to use.
 
