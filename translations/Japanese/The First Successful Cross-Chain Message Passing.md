@@ -1,10 +1,10 @@
-# Polkadotテストネットで初めて成功したクロスチェイン・メッセージ・パッシング（XCMP）トランザクション
+# Polkadotテストネットで初めて成功したクロスチェーン・メッセージ・パッシング（XCMP）トランザクション
 
 ## Plasm NetworkとAcalaが、PolkadotのテストネットRococo上で初のXCMPトランザクションを完了
 
 ![投稿画像](https://miro.medium.com/max/2204/0*Bwnnq0OSWIc9dikX)
 
-Polkadot.jsを介した暗号分野の歴史的な瞬間は、Plasm NetworkとAcalaの開発者によるTlegramチャットの中に訪れました。 近い将来、PolkadotとKusamaのパラチェーンになる予定である両チームは、Polkadotのパラチェーン・テストネットを介して接続し[XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)（クロスチェインメッセージパッシング）機能を使ってPlasmのトークン（PLM）をクロスチェインで転送することに成功したのです。
+Polkadot.jsを介した暗号分野の歴史的な瞬間は、Plasm NetworkとAcalaの開発者によるTelegramチャットの中に訪れました。 近い将来、PolkadotとKusamaのパラチェーンになる予定である両チームは、Polkadotのパラチェーン・テストネットを介して接続し[XCMP](https://wiki.polkadot.network/docs/en/learn-crosschain)（クロスチェインメッセージパッシング）機能を使ってPlasmのトークン（PLM）をクロスチェーンで転送することに成功したのです。
 
 ![投稿画像](https://miro.medium.com/max/1880/0*_PHpXfxScO1sDNs_)
 
