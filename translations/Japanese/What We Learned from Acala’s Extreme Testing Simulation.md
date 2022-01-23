@@ -73,9 +73,9 @@ Acalaは、Polkadotのマルチチェーンユニバースのファイナンス�
 
 🌈 430万ドル相当のaUSDがLaminarの合成資産（FX、金、合成BTC、ETH）の証拠金取引に利用
 
-AcalaのクロスチェーンDeFiのユースケースについては[こちら](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)をご覧ください。また、私たちのフレームワークやDeFiプリミティブ、SDKを使って、次のキラーDeFiプロジェクトを作りましょう！ 私たちが提供するのはプロダクショングレードであり、プロダクションレディです。 また、最近行われたKusamaのHackusamaイベントに私たちは教育的パートナーとして参加しました。
+AcalaのクロスチェーンDeFiのユースケースについては[こちら](https://github.com/AcalaNetwork/Acala/wiki/T.-Cross-chain-DeFi)をご覧ください。また、私たちのフレームワークやDeFiプリミティブ、SDKを使って、次のキラーDeFiプロジェクトを作りましょう！ 私たちが提供するのはプロダクショングレードであり、プロダクションレディです。 また、最近行われたKusamaのHackusamaイベントに私たちは教育的パートナーとして参加しました。もっと知りたい方は[こちらへ](https://medium.com/acalanetwork/hackusama-ea1ddf3e945a)。
 
-# Join Us
+# 参加する
 
 [Website](https://acala.network/) | [Medium](https://medium.com/acalanetwork) | [Twitter](https://twitter.com/AcalaNetwork) | [GitHub](https://github.com/AcalaNetwork/Acala) | [Acala Wiki](https://github.com/AcalaNetwork/Acala/wiki) | [Discord](https://discord.gg/vdbFVCH) | [Telegram](https://t.me/acalaofficial) | [Riot Chat](https://riot.im/app/#/room/#acala:matrix.org)
 
