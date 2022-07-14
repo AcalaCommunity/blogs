@@ -4,13 +4,13 @@ By [Acala Network](https://medium.com/u/43f74518f3f4?source=post_page-----e81a34
 
 ![Image for post](https://miro.medium.com/max/1690/0*ffsizR7cemoNYcIC.gif)
 
-# New Partners
+# Nuevos socios
 
 Acala Foundation is pleased to announce new partners joining the effort in building a cross-blockchain decentralized stablecoin and staking liquidity platform to power open finance applications on the Polkadot network. We believe these partners — [Polychain](https://polychain.capital/), [Hashkey](https://www.hashkey.com/), [P2P Capital](https://www.p2pcap.com/), [KR1](https://www.kryptonite1.co/), [SNZ](https://snzholding.com/), [Polkadot Ecosystem Fund](https://polkadot.network/announcing-the-polkadot-ecosystem-fund/), [Hypersphere Ventures](https://www.hypersphere.ventures/), [Web3.Capital](https://web3.capital/), [Stake.Zone](http://stake.zone/), [Goodmore Capital](http://goodmore.capital/), and [Digital Renaissance](https://drf.ee/) — are our long term allies in our quest in building a sustainable, resilient and solid open finance infrastructure.
 
 # Updates
 
-## Roadmap & Website Revamped
+## Mapa de ruta (roadmap) & Sitio web renovado
 
 We work closely with engineers from Parity and Polkadot, and constantly updating our roadmap to better align with parachain readiness and Polkadot mainnet launch, some highlights as follows:
 
@@ -52,7 +52,7 @@ We hosted [a Mandala Festival](https://medium.com/acalanetwork/mandala-festival-
 
 Check out the prize board [here](https://github.com/AcalaNetwork/Acala/wiki/W.-Contribution-&-Rewards). Coding challenge and bug bounties will go on🚀, what are you waiting for?!
 
-# Stay Updated with Acala
+# Mantente actualizado con Acala
 
 Website: [https://acala.network](https://acala.network/)  
 Twitter: [https://twitter.com/AcalaNetwork](https://twitter.com/AcalaNetwork)  
@@ -60,7 +60,7 @@ Medium: [https://medium.com/acalanetwork](https://medium.com/acalanetwork)
 GitHub: [https://github.com/AcalaNetwork/Acala](https://github.com/AcalaNetwork/Acala)  
 Riot: [https://riot.im/app/#/room/#acala:matrix.org](https://riot.im/app/#/room/#acala:matrix.org)
 
-# About Acala
+# Acerca de Acala
 
 [Acala — a first-of-its-kind decentralized finance consortium](https://medium.com/acalanetwork/acala-powering-cross-blockchain-open-finance-applications-on-polkadot-abb6075a6edf), with a vision to create cross-chain open finance infrastructure for the [Polkadot](https://polkadot.network/) ecosystem. The Acala Network is a dual-protocol network, with a decentralized cross-chain capable multi-collateralized stablecoin protocol — Honzon, and a trust-less tokenized staking liquidity protocol — Homa. Acala aims to bring stability and liquidity to the crypto world and beyond.
 
